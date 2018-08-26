@@ -1,0 +1,170 @@
+Loading libraries, please wait...
+WARNING: An illegal reflective access operation has occurred
+WARNING: Illegal reflective access by net.minecraft.util.io.netty.util.internal.PlatformDependent0 (file:/home/mc/mc/yold-bukkit/craftbukkit.jar) to field java.nio.DirectByteBuffer.cleaner
+WARNING: Please consider reporting this to the maintainers of net.minecraft.util.io.netty.util.internal.PlatformDependent0
+WARNING: Use --illegal-access=warn to enable warnings of further illegal reflective access operations
+WARNING: All illegal access operations will be denied in a future release
+Aug 25, 2018 9:55:42 PM net.minecraft.util.io.netty.util.internal.PlatformDependent <clinit>
+INFO: Your platform does not provide complete low-level API for accessing direct buffers reliably. Unless explicitly requested, heap buffer will always be preferred to avoid potential system unstability.
+[21:55:42 INFO]: Starting minecraft server version 1.7.9
+[21:55:42 INFO]: Loading properties
+[21:55:42 ERROR]: Exception handling console input
+java.io.IOException: Bad file descriptor
+	at java.base/java.io.FileInputStream.readBytes(Native Method) ~[?:?]
+	at java.base/java.io.FileInputStream.read(FileInputStream.java:280) ~[?:?]
+	at java.base/java.io.BufferedInputStream.fill(BufferedInputStream.java:252) ~[?:?]
+	at java.base/java.io.BufferedInputStream.read(BufferedInputStream.java:271) ~[?:?]
+	at java.base/java.io.FilterInputStream.read(FilterInputStream.java:83) ~[?:?]
+	at org.bukkit.craftbukkit.libs.jline.console.ConsoleReader$1.read(ConsoleReader.java:167) ~[craftbukkit.jar:git-Bukkit-1.7.9-R0.1-10-g8688bd4-b3092jnks]
+	at org.bukkit.craftbukkit.libs.jline.internal.InputStreamReader.read(InputStreamReader.java:267) ~[craftbukkit.jar:git-Bukkit-1.7.9-R0.1-10-g8688bd4-b3092jnks]
+	at org.bukkit.craftbukkit.libs.jline.internal.InputStreamReader.read(InputStreamReader.java:204) ~[craftbukkit.jar:git-Bukkit-1.7.9-R0.1-10-g8688bd4-b3092jnks]
+	at org.bukkit.craftbukkit.libs.jline.console.ConsoleReader.readCharacter(ConsoleReader.java:995) ~[craftbukkit.jar:git-Bukkit-1.7.9-R0.1-10-g8688bd4-b3092jnks]
+	at org.bukkit.craftbukkit.libs.jline.console.ConsoleReader.readLineSimple(ConsoleReader.java:1506) ~[craftbukkit.jar:git-Bukkit-1.7.9-R0.1-10-g8688bd4-b3092jnks]
+	at org.bukkit.craftbukkit.libs.jline.console.ConsoleReader.readLine(ConsoleReader.java:1153) ~[craftbukkit.jar:git-Bukkit-1.7.9-R0.1-10-g8688bd4-b3092jnks]
+	at org.bukkit.craftbukkit.libs.jline.console.ConsoleReader.readLine(ConsoleReader.java:1117) ~[craftbukkit.jar:git-Bukkit-1.7.9-R0.1-10-g8688bd4-b3092jnks]
+	at org.bukkit.craftbukkit.libs.jline.console.ConsoleReader.readLine(ConsoleReader.java:1105) ~[craftbukkit.jar:git-Bukkit-1.7.9-R0.1-10-g8688bd4-b3092jnks]
+	at net.minecraft.server.v1_7_R3.ThreadCommandReader.run(ThreadCommandReader.java:34) [craftbukkit.jar:git-Bukkit-1.7.9-R0.1-10-g8688bd4-b3092jnks]
+[21:55:42 INFO]: Default game type: SURVIVAL
+[21:55:42 INFO]: Generating keypair
+[21:55:42 INFO]: Starting Minecraft server on *:25565
+[21:55:42 INFO]: This server is running CraftBukkit version git-Bukkit-1.7.9-R0.1-10-g8688bd4-b3092jnks (MC: 1.7.9) (Implementing API version 1.7.9-R0.2)
+[21:55:42 INFO]: [WorldEdit] Loading WorldEdit v5.6.2
+[21:55:42 INFO]: [SignEdit] Loading SignEdit v3.3.9
+[21:55:42 INFO]: [RunAs] Loading RunAs v1.0.1
+[21:55:42 INFO]: [AntiCreeper] Loading AntiCreeper v4.18.1
+[21:55:42 INFO]: [Essentials] Loading Essentials v2.13.1
+[21:55:42 INFO]: [Speedcarts] Loading Speedcarts v1.3.5
+[21:55:42 INFO]: [GroupManager] Loading GroupManager v2.1.11 (Phoenix)
+[21:55:42 INFO]: [EssentialsChat] Loading EssentialsChat v2.13.1
+[21:55:42 INFO]: [EssentialsProtect] Loading EssentialsProtect v2.13.1
+[21:55:42 WARN]: Failed to load operators list: 
+java.io.FileNotFoundException: ops.json (No such file or directory)
+	at java.base/java.io.FileInputStream.open0(Native Method) ~[?:?]
+	at java.base/java.io.FileInputStream.open(FileInputStream.java:220) ~[?:?]
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:158) ~[?:?]
+	at net.minecraft.util.com.google.common.io.Files.newReader(Files.java:86) ~[craftbukkit.jar:git-Bukkit-1.7.9-R0.1-10-g8688bd4-b3092jnks]
+	at net.minecraft.server.v1_7_R3.JsonList.load(JsonList.java:147) ~[craftbukkit.jar:git-Bukkit-1.7.9-R0.1-10-g8688bd4-b3092jnks]
+	at net.minecraft.server.v1_7_R3.DedicatedPlayerList.z(SourceFile:107) [craftbukkit.jar:git-Bukkit-1.7.9-R0.1-10-g8688bd4-b3092jnks]
+	at net.minecraft.server.v1_7_R3.DedicatedPlayerList.<init>(SourceFile:29) [craftbukkit.jar:git-Bukkit-1.7.9-R0.1-10-g8688bd4-b3092jnks]
+	at net.minecraft.server.v1_7_R3.DedicatedServer.init(DedicatedServer.java:126) [craftbukkit.jar:git-Bukkit-1.7.9-R0.1-10-g8688bd4-b3092jnks]
+	at net.minecraft.server.v1_7_R3.MinecraftServer.run(MinecraftServer.java:436) [craftbukkit.jar:git-Bukkit-1.7.9-R0.1-10-g8688bd4-b3092jnks]
+	at net.minecraft.server.v1_7_R3.ThreadServerApplication.run(SourceFile:628) [craftbukkit.jar:git-Bukkit-1.7.9-R0.1-10-g8688bd4-b3092jnks]
+[21:55:42 WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[21:55:42 WARN]: The server will make no attempt to authenticate usernames. Beware.
+[21:55:42 WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[21:55:42 WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[21:55:42 INFO]: Preparing level "kevlar"
+[21:55:42 INFO]: Preparing start region for level 0 (Seed: -6429030645283485143)
+[21:55:43 INFO]: Preparing spawn area: 94%
+[21:55:43 INFO]: Preparing start region for level 1 (Seed: -5412670237699833762)
+[21:55:44 INFO]: Preparing start region for level 2 (Seed: -5412670237699833762)
+[21:55:44 INFO]: [WorldEdit] Enabling WorldEdit v5.6.2
+[21:55:44 INFO]: WEPIF: Using the Bukkit Permissions API.
+[21:55:44 INFO]: [SignEdit] Enabling SignEdit v3.3.9
+[21:55:44 INFO]: [RunAs] Enabling RunAs v1.0.1
+[21:55:44 INFO]: [AntiCreeper] Enabling AntiCreeper v4.18.1
+[21:55:44 INFO]: [AntiCreeper] brought to you by Filbert66
+[21:55:44 INFO]: [Essentials] Enabling Essentials v2.13.1
+[21:55:45 INFO]: Essentials: Using config file enhanced permissions.
+[21:55:45 INFO]: Permissions listed in as player-commands will be given to all users.
+[21:55:45 INFO]: [Speedcarts] Enabling Speedcarts v1.3.5
+[21:55:45 INFO]: [Speedcarts] Checking for updates...
+[21:55:45 WARN]: [Speedcarts] [33mSpeedcarts could not check for updates [java.net.UnknownHostException: version.znt.se].[m
+[21:55:45 INFO]: [Speedcarts] Speedcarts enabled!
+[21:55:45 INFO]: [GroupManager] Enabling GroupManager v2.1.11 (Phoenix)
+[21:55:45 INFO]: GroupManager - INFO - World Found: kevlar
+[21:55:45 INFO]: GroupManager - INFO - World Found: world
+[21:55:45 INFO]: GroupManager - INFO - Superperms support enabled.
+[21:55:45 INFO]: GroupManager - INFO - Scheduled Data Saving is set for every 10 minutes!
+[21:55:45 INFO]: GroupManager - INFO - Backups will be retained for 24 hours!
+[21:55:45 INFO]: GroupManager version 2.1.11 (Phoenix) is enabled!
+[21:55:45 INFO]: WEPIF: GroupManager detected! Using GroupManager for permissions.
+[21:55:45 INFO]: Essentials: Using GroupManager based permissions.
+[21:55:45 INFO]: [EssentialsChat] Enabling EssentialsChat v2.13.1
+[21:55:45 INFO]: [EssentialsProtect] Enabling EssentialsProtect v2.13.1
+[21:55:45 INFO]: Server permissions file permissions.yml is empty, ignoring it
+[21:55:45 INFO]: Done (2.780s)! For help, type "help" or "?"
+[21:55:45 INFO]: GroupManager - INFO - Bukkit Permissions Updated!
+[22:36:52 INFO]: Kevlar[/192.168.1.156:50416] logged in with entity id 218 at ([kevlar] 73.73240893316766, 95.89946310215379, 520.01924421213)
+[22:37:59 INFO]: Kevlar lost connection: Internal Exception: java.io.IOException: Connection reset by peer
+[22:37:59 INFO]: Kevlar left the game.
+[02:10:14 INFO]: MickeyAndPluto[/192.168.1.39:57143] logged in with entity id 1259 at ([kevlar] -51.612135532432106, 64.0, 283.06723977783497)
+[02:11:16 INFO]: [WorldEdit] Using external NmsBlock for this version: CBXNmsBlock_175_5xcompat
+[02:11:17 INFO]: Stopping server
+Loading libraries, please wait...
+WARNING: An illegal reflective access operation has occurred
+WARNING: Illegal reflective access by net.minecraft.util.io.netty.util.internal.PlatformDependent0 (file:/home/mc/mc/yold-bukkit/craftbukkit.jar) to field java.nio.DirectByteBuffer.cleaner
+WARNING: Please consider reporting this to the maintainers of net.minecraft.util.io.netty.util.internal.PlatformDependent0
+WARNING: Use --illegal-access=warn to enable warnings of further illegal reflective access operations
+WARNING: All illegal access operations will be denied in a future release
+Aug 26, 2018 2:12:13 AM net.minecraft.util.io.netty.util.internal.PlatformDependent <clinit>
+INFO: Your platform does not provide complete low-level API for accessing direct buffers reliably. Unless explicitly requested, heap buffer will always be preferred to avoid potential system unstability.
+[02:12:13 INFO]: Starting minecraft server version 1.7.9
+[02:12:13 INFO]: Loading properties
+[02:12:13 ERROR]: Exception handling console input
+java.io.IOException: Bad file descriptor
+	at java.base/java.io.FileInputStream.readBytes(Native Method) ~[?:?]
+	at java.base/java.io.FileInputStream.read(FileInputStream.java:280) ~[?:?]
+	at java.base/java.io.BufferedInputStream.fill(BufferedInputStream.java:252) ~[?:?]
+	at java.base/java.io.BufferedInputStream.read(BufferedInputStream.java:271) ~[?:?]
+	at java.base/java.io.FilterInputStream.read(FilterInputStream.java:83) ~[?:?]
+	at org.bukkit.craftbukkit.libs.jline.console.ConsoleReader$1.read(ConsoleReader.java:167) ~[craftbukkit.jar:git-Bukkit-1.7.9-R0.1-10-g8688bd4-b3092jnks]
+	at org.bukkit.craftbukkit.libs.jline.internal.InputStreamReader.read(InputStreamReader.java:267) ~[craftbukkit.jar:git-Bukkit-1.7.9-R0.1-10-g8688bd4-b3092jnks]
+	at org.bukkit.craftbukkit.libs.jline.internal.InputStreamReader.read(InputStreamReader.java:204) ~[craftbukkit.jar:git-Bukkit-1.7.9-R0.1-10-g8688bd4-b3092jnks]
+	at org.bukkit.craftbukkit.libs.jline.console.ConsoleReader.readCharacter(ConsoleReader.java:995) ~[craftbukkit.jar:git-Bukkit-1.7.9-R0.1-10-g8688bd4-b3092jnks]
+	at org.bukkit.craftbukkit.libs.jline.console.ConsoleReader.readLineSimple(ConsoleReader.java:1506) ~[craftbukkit.jar:git-Bukkit-1.7.9-R0.1-10-g8688bd4-b3092jnks]
+	at org.bukkit.craftbukkit.libs.jline.console.ConsoleReader.readLine(ConsoleReader.java:1153) ~[craftbukkit.jar:git-Bukkit-1.7.9-R0.1-10-g8688bd4-b3092jnks]
+	at org.bukkit.craftbukkit.libs.jline.console.ConsoleReader.readLine(ConsoleReader.java:1117) ~[craftbukkit.jar:git-Bukkit-1.7.9-R0.1-10-g8688bd4-b3092jnks]
+	at org.bukkit.craftbukkit.libs.jline.console.ConsoleReader.readLine(ConsoleReader.java:1105) ~[craftbukkit.jar:git-Bukkit-1.7.9-R0.1-10-g8688bd4-b3092jnks]
+	at net.minecraft.server.v1_7_R3.ThreadCommandReader.run(ThreadCommandReader.java:34) [craftbukkit.jar:git-Bukkit-1.7.9-R0.1-10-g8688bd4-b3092jnks]
+[02:12:13 INFO]: Default game type: ADVENTURE
+[02:12:13 INFO]: Generating keypair
+[02:12:13 INFO]: Starting Minecraft server on *:25565
+[02:12:14 INFO]: This server is running CraftBukkit version git-Bukkit-1.7.9-R0.1-10-g8688bd4-b3092jnks (MC: 1.7.9) (Implementing API version 1.7.9-R0.2)
+[02:12:14 INFO]: [WorldEdit] Loading WorldEdit v5.6.2
+[02:12:14 INFO]: [SignEdit] Loading SignEdit v3.3.9
+[02:12:14 INFO]: [RunAs] Loading RunAs v1.0.1
+[02:12:14 INFO]: [AntiCreeper] Loading AntiCreeper v4.18.1
+[02:12:14 INFO]: [Essentials] Loading Essentials v2.13.1
+[02:12:14 INFO]: [Speedcarts] Loading Speedcarts v1.3.5
+[02:12:14 INFO]: [GroupManager] Loading GroupManager v2.1.11 (Phoenix)
+[02:12:14 INFO]: [EssentialsChat] Loading EssentialsChat v2.13.1
+[02:12:14 INFO]: [EssentialsProtect] Loading EssentialsProtect v2.13.1
+[02:12:14 WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[02:12:14 WARN]: The server will make no attempt to authenticate usernames. Beware.
+[02:12:14 WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[02:12:14 WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[02:12:14 INFO]: Preparing level "kevlar"
+[02:12:14 INFO]: Preparing start region for level 0 (Seed: -6429030645283485143)
+[02:12:15 INFO]: Preparing start region for level 1 (Seed: -5412670237699833762)
+[02:12:15 INFO]: Preparing start region for level 2 (Seed: -5412670237699833762)
+[02:12:15 INFO]: [WorldEdit] Enabling WorldEdit v5.6.2
+[02:12:15 INFO]: WEPIF: Using the Bukkit Permissions API.
+[02:12:15 INFO]: [SignEdit] Enabling SignEdit v3.3.9
+[02:12:15 INFO]: [RunAs] Enabling RunAs v1.0.1
+[02:12:15 INFO]: [AntiCreeper] Enabling AntiCreeper v4.18.1
+[02:12:15 INFO]: [AntiCreeper] brought to you by Filbert66
+[02:12:16 INFO]: [Essentials] Enabling Essentials v2.13.1
+[02:12:16 INFO]: Essentials: Using config file enhanced permissions.
+[02:12:16 INFO]: Permissions listed in as player-commands will be given to all users.
+[02:12:16 INFO]: [Speedcarts] Enabling Speedcarts v1.3.5
+[02:12:16 INFO]: [Speedcarts] Checking for updates...
+[02:12:16 WARN]: [Speedcarts] [33mSpeedcarts could not check for updates [java.net.UnknownHostException: version.znt.se].[m
+[02:12:16 INFO]: [Speedcarts] Speedcarts enabled!
+[02:12:16 INFO]: [GroupManager] Enabling GroupManager v2.1.11 (Phoenix)
+[02:12:16 INFO]: GroupManager - INFO - World Found: kevlar
+[02:12:16 INFO]: GroupManager - INFO - World Found: world
+[02:12:16 INFO]: GroupManager - INFO - Superperms support enabled.
+[02:12:16 INFO]: GroupManager - INFO - Scheduled Data Saving is set for every 10 minutes!
+[02:12:16 INFO]: GroupManager - INFO - Backups will be retained for 24 hours!
+[02:12:16 INFO]: GroupManager version 2.1.11 (Phoenix) is enabled!
+[02:12:16 INFO]: WEPIF: GroupManager detected! Using GroupManager for permissions.
+[02:12:16 INFO]: Essentials: Using GroupManager based permissions.
+[02:12:16 INFO]: [EssentialsChat] Enabling EssentialsChat v2.13.1
+[02:12:16 INFO]: [EssentialsProtect] Enabling EssentialsProtect v2.13.1
+[02:12:16 INFO]: Server permissions file permissions.yml is empty, ignoring it
+[02:12:16 INFO]: Done (2.320s)! For help, type "help" or "?"
+[02:12:16 INFO]: GroupManager - INFO - Bukkit Permissions Updated!
+[02:12:24 INFO]: MickeyAndPluto[/192.168.1.39:57155] logged in with entity id 214 at ([kevlar] -112.5467921976829, 66.0, 315.30000001192093)
+[02:12:24 INFO]: [WorldEdit] Using external NmsBlock for this version: CBXNmsBlock_175_5xcompat
+[02:12:37 INFO]: Stopping server
