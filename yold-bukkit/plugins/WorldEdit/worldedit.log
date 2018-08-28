@@ -5044,3 +5044,733 @@
 [INFO] WorldEdit: korvallis (in "kevlar"): restore - Region: (5.0, 62.0, 756.0) - (22.0, 105.0, 765.0)
 [INFO] WorldEdit: korvallis (in "kevlar"): /regen - Region: (5.0, 62.0, 756.0) - (22.0, 105.0, 765.0)
 [INFO] WorldEdit: korvallis (in "kevlar"): /replace 17 0 - Region: (-105.0, 67.0, 731.0) - (-83.0, 76.0, 762.0)
+[INFO] WorldEdit: Kevlar (in "kevlar"): /
+[INFO] WorldEdit: Kevlar (in "kevlar"): /
+[INFO] WorldEdit: korvallis (in "kevlar"): /copy
+[INFO] WorldEdit: korvallis (in "kevlar"): /paste - Position: (-72.0, 68.0, 543.0)
+[INFO] WorldEdit: korvallis (in "kevlar"): /undo
+[INFO] WorldEdit: korvallis (in "kevlar"): /redo
+[INFO] WorldEdit: korvallis (in "kevlar"): /set 0 - Region: (-73.0, 65.0, 542.0) - (-68.0, 73.0, 553.0)
+[INFO] WorldEdit: korvallis (in "kevlar"): /regen - Region: (-74.0, 67.0, 543.0) - (-67.0, 69.0, 553.0)
+[INFO] WorldEdit: korvallis (in "kevlar"): /regen - Region: (-73.0, 65.0, 542.0) - (-67.0, 66.0, 554.0)
+[INFO] WorldEdit: korvallis (in "kevlar"): /set 95 - Region: (-40.0, 33.0, 507.0) - (-10.0, 33.0, 523.0)
+[INFO] WorldEdit: korvallis (in "kevlar"): /set 0 - Region: (-40.0, 33.0, 507.0) - (-10.0, 35.0, 523.0)
+[INFO] WorldEdit: korvallis (in "kevlar"): /wand
+[INFO] WorldEdit: Kevlar (in "kevlar"): jumpto
+[INFO] WorldEdit: Kevlar (in "kevlar"): jumpto
+[INFO] WorldEdit: Kevlar (in "kevlar"): jumpto
+[INFO] WorldEdit: Kevlar (in "kevlar"): jumpto
+[INFO] WorldEdit: Kevlar (in "kevlar"): jumpto
+[INFO] WorldEdit: Kevlar (in "kevlar"): jumpto
+[INFO] WorldEdit: Maximum4 (in "kevlar"): /set spawnpoint
+[INFO] WorldEdit: Kevlar (in "kevlar"): thru
+[INFO] WorldEdit: s_mitty (in "kevlar"): /rotate 90
+[INFO] WorldEdit: s_mitty (in "kevlar"): /copy
+[INFO] WorldEdit: s_mitty (in "kevlar"): /rotate 90
+[INFO] WorldEdit: s_mitty (in "kevlar"): /paste - Position: (-191.0, 81.0, 705.0)
+[INFO] WorldEdit: s_mitty (in "kevlar"): /paste - Position: (-191.0, 81.0, 705.0)
+[INFO] WorldEdit: s_mitty (in "kevlar"): /copy
+[INFO] WorldEdit: s_mitty (in "kevlar"): /paste - Position: (-199.0, 81.0, 706.0)
+[INFO] WorldEdit: s_mitty (in "kevlar"): /rotate 90
+[INFO] WorldEdit: s_mitty (in "kevlar"): /paste - Position: (-199.0, 85.0, 708.0)
+[INFO] WorldEdit: s_mitty (in "kevlar"): /undo
+[INFO] WorldEdit: s_mitty (in "kevlar"): /undo
+[INFO] WorldEdit: s_mitty (in "kevlar"): /rotate -90
+[INFO] WorldEdit: s_mitty (in "kevlar"): /rotate y
+[INFO] WorldEdit: s_mitty (in "kevlar"): /help
+[INFO] WorldEdit: s_mitty (in "kevlar"): /copy
+[INFO] WorldEdit: s_mitty (in "kevlar"): /paste - Position: (398.0, 89.0, 593.0)
+[INFO] WorldEdit: s_mitty (in "kevlar"): /undo
+[INFO] WorldEdit: s_mitty (in "kevlar"): /paste - Position: (398.0, 69.0, 593.0)
+[INFO] WorldEdit: s_mitty (in "kevlar"): /undo
+[INFO] WorldEdit: s_mitty (in "kevlar"): /rotate 90
+[INFO] WorldEdit: s_mitty (in "kevlar"): /paste - Position: (398.0, 69.0, 593.0)
+[INFO] WorldEdit: s_mitty (in "kevlar"): /undo
+[INFO] WorldEdit: s_mitty (in "kevlar"): /rotate 90
+[INFO] WorldEdit: s_mitty (in "kevlar"): /rotate 90
+[INFO] WorldEdit: s_mitty (in "kevlar"): /paste - Position: (398.0, 69.0, 593.0)
+[INFO] WorldEdit: s_mitty (in "kevlar"): /undo
+[INFO] WorldEdit: s_mitty (in "kevlar"): /copy
+[INFO] WorldEdit: s_mitty (in "kevlar"): /paste - Position: (398.0, 69.0, 593.0)
+[INFO] WorldEdit: s_mitty (in "kevlar"): /rotate -90
+[INFO] WorldEdit: s_mitty (in "kevlar"): /paste - Position: (398.0, 69.0, 593.0)
+[INFO] WorldEdit: s_mitty (in "kevlar"): /undo
+[INFO] WorldEdit: s_mitty (in "kevlar"): /rotate -90
+[INFO] WorldEdit: s_mitty (in "kevlar"): /rotate -90
+[INFO] WorldEdit: s_mitty (in "kevlar"): /paste - Position: (398.0, 69.0, 593.0)
+[INFO] WorldEdit: s_mitty (in "kevlar"): /fill air 1 1 - Position: (420.0, 69.0, 589.0)
+[INFO] WorldEdit: s_mitty (in "kevlar"): /cut - Region: (399.0, 69.0, 592.0) - (422.0, 88.0, 592.0)
+[INFO] WorldEdit: s_mitty (in "kevlar"): /copy
+[INFO] WorldEdit: s_mitty (in "kevlar"): /paste - Position: (410.0, 69.0, 593.0)
+[INFO] WorldEdit: s_mitty (in "kevlar"): /undo
+[INFO] WorldEdit: s_mitty (in "kevlar"): /copy
+[INFO] WorldEdit: s_mitty (in "kevlar"): /paste - Position: (423.0, 69.0, 593.0)
+[INFO] WorldEdit: s_mitty (in "kevlar"): we help
+[INFO] WorldEdit: s_mitty (in "kevlar"): /copy
+[INFO] WorldEdit: s_mitty (in "kevlar"): /paste - Position: (412.0, 70.0, 594.0)
+[INFO] WorldEdit: s_mitty (in "kevlar"): /paste - Position: (412.0, 70.0, 595.0)
+[INFO] WorldEdit: s_mitty (in "kevlar"): /set quartz - Region: (399.0, 71.0, 549.0) - (422.0, 72.0, 561.0)
+[INFO] WorldEdit: s_mitty (in "kevlar"): /set air - Region: (399.0, 71.0, 549.0) - (421.0, 71.0, 561.0)
+[INFO] WorldEdit: s_mitty (in "kevlar"): /set air - Region: (422.0, 71.0, 549.0) - (422.0, 71.0, 561.0)
+[INFO] WorldEdit: s_mitty (in "kevlar"): /set quartz - Region: (398.0, 75.0, 562.0) - (422.0, 76.0, 579.0)
+[INFO] WorldEdit: s_mitty (in "kevlar"): /undo
+[INFO] WorldEdit: s_mitty (in "kevlar"): /set quartz - Region: (398.0, 76.0, 562.0) - (422.0, 76.0, 579.0)
+[INFO] WorldEdit: s_mitty (in "kevlar"): /set air - Region: (417.0, 68.0, 579.0) - (423.0, 91.0, 579.0)
+[INFO] WorldEdit: s_mitty (in "kevlar"): /set brick - Region: (417.0, 68.0, 579.0) - (423.0, 91.0, 579.0)
+[INFO] WorldEdit: s_mitty (in "kevlar"): /set brick - Region: (417.0, 68.0, 562.0) - (417.0, 88.0, 579.0)
+[INFO] WorldEdit: s_mitty (in "kevlar"): /set air - Region: (423.0, 68.0, 562.0) - (423.0, 89.0, 578.0)
+[INFO] WorldEdit: s_mitty (in "kevlar"): /set brick - Region: (417.0, 69.0, 562.0) - (423.0, 88.0, 562.0)
+[INFO] WorldEdit: s_mitty (in "kevlar"): /set air - Region: (418.0, 68.0, 563.0) - (422.0, 76.0, 578.0)
+[INFO] WorldEdit: s_mitty (in "kevlar"): /set grassydirt - Region: (418.0, 67.0, 563.0) - (423.0, 67.0, 578.0)
+[INFO] WorldEdit: s_mitty (in "kevlar"): /set grass - Region: (418.0, 67.0, 563.0) - (423.0, 67.0, 578.0)
+[INFO] WorldEdit: s_mitty (in "kevlar"): /set stoneslab - Region: (418.0, 68.0, 562.0) - (422.0, 68.0, 562.0)
+[INFO] WorldEdit: s_mitty (in "kevlar"): /set stoneslab - Region: (417.0, 68.0, 563.0) - (417.0, 68.0, 578.0)
+[INFO] WorldEdit: s_mitty (in "kevlar"): /set doublestoneslab - Region: (417.0, 68.0, 563.0) - (417.0, 68.0, 578.0)
+[INFO] WorldEdit: s_mitty (in "kevlar"): /set doublestoneslab - Region: (418.0, 68.0, 579.0) - (422.0, 68.0, 579.0)
+[INFO] WorldEdit: s_mitty (in "kevlar"): /set brick - Region: (417.0, 68.0, 569.0) - (418.0, 88.0, 572.0)
+[INFO] WorldEdit: s_mitty (in "kevlar"): /set brick - Region: (416.0, 77.0, 569.0) - (416.0, 88.0, 572.0)
+[INFO] WorldEdit: s_mitty (in "kevlar"): /set netherbrickstairs - Region: (398.0, 90.0, 580.0) - (398.0, 90.0, 591.0)
+[INFO] WorldEdit: s_mitty (in "kevlar"): /set netherbrickstairs - Region: (399.0, 91.0, 581.0) - (399.0, 91.0, 591.0)
+[INFO] WorldEdit: s_mitty (in "kevlar"): /set netherbrickstairs - Region: (400.0, 92.0, 581.0) - (400.0, 92.0, 590.0)
+[INFO] WorldEdit: s_mitty (in "kevlar"): /set netherbrickstairs - Region: (401.0, 93.0, 576.0) - (401.0, 93.0, 589.0)
+[INFO] WorldEdit: s_mitty (in "kevlar"): /set netherbrickstairs - Region: (403.0, 95.0, 575.0) - (403.0, 95.0, 587.0)
+[INFO] WorldEdit: s_mitty (in "kevlar"): /set netherbrickstairs - Region: (402.0, 94.0, 575.0) - (402.0, 94.0, 588.0)
+[INFO] WorldEdit: s_mitty (in "kevlar"): /set netherbrickstairs - Region: (404.0, 96.0, 575.0) - (404.0, 96.0, 586.0)
+[INFO] WorldEdit: s_mitty (in "kevlar"): /set netherbrickstairs - Region: (398.0, 90.0, 592.0) - (422.0, 90.0, 592.0)
+[INFO] WorldEdit: s_mitty (in "kevlar"): /undo
+[INFO] WorldEdit: s_mitty (in "kevlar"): /set netherbrickstairs - Region: (402.0, 90.0, 592.0) - (422.0, 90.0, 592.0)
+[INFO] WorldEdit: s_mitty (in "kevlar"): /undo
+[INFO] WorldEdit: s_mitty (in "kevlar"): /set netherbrickstairs - Region: (402.0, 90.0, 592.0) - (422.0, 90.0, 592.0)
+[INFO] WorldEdit: s_mitty (in "kevlar"): /undo
+[INFO] WorldEdit: s_mitty (in "kevlar"): /set netherbrickstairs - Region: (402.0, 90.0, 592.0) - (422.0, 90.0, 592.0)
+[INFO] WorldEdit: s_mitty (in "kevlar"): /undo
+[INFO] WorldEdit: s_mitty (in "kevlar"): /undo
+[INFO] WorldEdit: s_mitty (in "kevlar"): /set netherbrickstairs - Region: (402.0, 90.0, 592.0) - (422.0, 90.0, 592.0)
+[INFO] WorldEdit: s_mitty (in "kevlar"): /undo
+[INFO] WorldEdit: s_mitty (in "kevlar"): /set netherbrickstairs - Region: (422.0, 90.0, 580.0) - (422.0, 90.0, 591.0)
+[INFO] WorldEdit: s_mitty (in "kevlar"): /undo
+[INFO] WorldEdit: s_mitty (in "kevlar"): /set netherbrickstairs - Region: (422.0, 90.0, 580.0) - (422.0, 90.0, 591.0)
+[INFO] WorldEdit: s_mitty (in "kevlar"): /undo
+[INFO] WorldEdit: Faytkneas (in "kevlar"): /
+[INFO] WorldEdit: Faytkneas (in "kevlar"): /
+[INFO] WorldEdit: Faytkneas (in "kevlar"): /
+[INFO] WorldEdit: Faytkneas (in "kevlar"): /
+[INFO] WorldEdit: Faytkneas (in "kevlar"): /
+[INFO] WorldEdit: HurskyMurster (in "kevlar"): /help
+[INFO] WorldEdit: HeroicKiwi1 (in "kevlar"): /fill -621 110 910 - Position: (-621.0, 110.0, 910.0)
+[INFO] WorldEdit: HurskyMurster (in "kevlar"): /fill HurskyMurster 10 1 - Position: (-621.0, 75.0, 678.0)
+[INFO] WorldEdit: HurskyMurster (in "kevlar"): /fill quarts 10 1 - Position: (-621.0, 75.0, 678.0)
+[INFO] WorldEdit: HurskyMurster (in "kevlar"): /fill Block_of_quarts 10 1 - Position: (-621.0, 75.0, 678.0)
+[INFO] WorldEdit: HurskyMurster (in "kevlar"): /fill Block_of_quarts 10 1 - Position: (-621.0, 75.0, 678.0)
+[INFO] WorldEdit: HurskyMurster (in "kevlar"): /fill quartz_block 10 1 - Position: (-621.0, 75.0, 678.0)
+[INFO] WorldEdit: HurskyMurster (in "kevlar"): /fill quartz_block 10 1 - Position: (-603.0, 75.0, 676.0)
+[INFO] WorldEdit: HurskyMurster (in "kevlar"): /fill quartz_block 10 1 - Position: (-602.0, 75.0, 668.0)
+[INFO] WorldEdit: HurskyMurster (in "kevlar"): /fill quartz_block 10 1 - Position: (-587.0, 75.0, 676.0)
+[INFO] WorldEdit: HurskyMurster (in "kevlar"): /fill quartz_block 25 1 - Position: (-595.0, 75.0, 680.0)
+[INFO] WorldEdit: HurskyMurster (in "kevlar"): /fill quartz_block 25 1 - Position: (-595.0, 75.0, 680.0)
+[INFO] WorldEdit: HurskyMurster (in "kevlar"): /fill quartz_block 25 1 - Position: (-595.0, 75.0, 683.0)
+[INFO] WorldEdit: HurskyMurster (in "kevlar"): /fill quartz_block 25 1 - Position: (-609.0, 75.0, 689.0)
+[INFO] WorldEdit: HurskyMurster (in "kevlar"): /fill quartz_block 5 1 - Position: (-631.0, 75.0, 708.0)
+[INFO] WorldEdit: HurskyMurster (in "kevlar"): /fill quartz_block 5 1 - Position: (-636.0, 75.0, 709.0)
+[INFO] WorldEdit: HurskyMurster (in "kevlar"): /fill quartz_block 5 1 - Position: (-637.0, 75.0, 713.0)
+[INFO] WorldEdit: HurskyMurster (in "kevlar"): /fill quartz_block 30 1 - Position: (-576.0, 74.0, 700.0)
+[INFO] WorldEdit: HurskyMurster (in "kevlar"): /fill quartz_block 30 1 - Position: (-547.0, 74.0, 657.0)
+[INFO] WorldEdit: HurskyMurster (in "kevlar"): remove quartz_block 30 - Position: (-590.0, 75.0, 683.0)
+[INFO] WorldEdit: HurskyMurster (in "kevlar"): /fill air 30 1 - Position: (-590.0, 75.0, 683.0)
+[INFO] WorldEdit: HurskyMurster (in "kevlar"): /fill quartz_block 30 1 - Position: (-547.0, 74.0, 715.0)
+[INFO] WorldEdit: HurskyMurster (in "kevlar"): /fill quartz_block 30 1 - Position: (-606.0, 74.0, 717.0)
+[INFO] WorldEdit: HurskyMurster (in "kevlar"): /fill quartz_block 50 1 - Position: (-641.0, 74.0, 703.0)
+[INFO] WorldEdit: HurskyMurster (in "kevlar"): /fill quartz_block 50 1 - Position: (-615.0, 74.0, 658.0)
+[INFO] WorldEdit: HurskyMurster (in "kevlar"): /help
+[INFO] WorldEdit: HurskyMurster (in "kevlar"): /
+[INFO] WorldEdit: HurskyMurster (in "kevlar"): /fill quartz_block 50 1 - Position: (-605.0, 74.0, 675.0)
+[INFO] WorldEdit: HeroicKiwi1 (in "kevlar"): /set spawn
+[INFO] WorldEdit: HeroicKiwi1 (in "kevlar"): /help
+[INFO] WorldEdit: HeroicKiwi1 (in "kevlar"): /copy
+[INFO] WorldEdit: HeroicKiwi1 (in "kevlar"): /help
+[INFO] WorldEdit: HeroicKiwi1 (in "kevlar"): /copy
+[INFO] WorldEdit: HeroicKiwi1 (in "kevlar"): /copy
+[INFO] WorldEdit: HeroicKiwi1 (in "kevlar"): /copy
+[INFO] WorldEdit: HeroicKiwi1 (in "kevlar"): /copy
+[INFO] WorldEdit: HeroicKiwi1 (in "kevlar"): /copy
+[INFO] WorldEdit: HeroicKiwi1 (in "kevlar"): /copy -e
+[INFO] WorldEdit: HurskyMurster (in "kevlar"): /fill quartz_block 100 1 - Position: (-613.0, 75.0, 691.0)
+[INFO] WorldEdit: HurskyMurster (in "kevlar"): /fill quartz_block 100 1 - Position: (-589.0, 76.0, 696.0)
+[INFO] WorldEdit: HeroicKiwi1 (in "kevlar"): /paste - Position: (-657.0, 122.0, 923.0)
+[INFO] WorldEdit: HeroicKiwi1 (in "kevlar"): /paste - Position: (-657.0, 122.0, 923.0)
+[INFO] WorldEdit: HurskyMurster (in "kevlar"): /fill quartz_block:2 2 1 - Position: (-633.0, 79.0, 666.0)
+[INFO] WorldEdit: HurskyMurster (in "kevlar"): /fill quartz_block:2 1 1 - Position: (-633.0, 80.0, 666.0)
+[INFO] WorldEdit: HurskyMurster (in "kevlar"): /fill quartz_block:2 1 1 - Position: (-633.0, 81.0, 666.0)
+[INFO] WorldEdit: HurskyMurster (in "kevlar"): /fill quartz_block:2 1 1 - Position: (-633.0, 82.0, 666.0)
+[INFO] WorldEdit: HurskyMurster (in "kevlar"): /fill quartz_block:2 1 1 - Position: (-633.0, 83.0, 666.0)
+[INFO] WorldEdit: HurskyMurster (in "kevlar"): /fill quartz_block:2 1 1 - Position: (-633.0, 84.0, 666.0)
+[INFO] WorldEdit: HurskyMurster (in "kevlar"): /fill quartz_block:2 1 1 - Position: (-633.0, 85.0, 666.0)
+[INFO] WorldEdit: HurskyMurster (in "kevlar"): /fill quartz_block:2 1 1 - Position: (-633.0, 86.0, 666.0)
+[INFO] WorldEdit: HurskyMurster (in "kevlar"): /fill quartz_block:2 1 1 - Position: (-633.0, 87.0, 666.0)
+[INFO] WorldEdit: HurskyMurster (in "kevlar"): /fill quartz_block:2 1 1 - Position: (-633.0, 88.0, 666.0)
+[INFO] WorldEdit: HurskyMurster (in "kevlar"): /fill quartz_block:2 1 1 - Position: (-633.0, 89.0, 666.0)
+[INFO] WorldEdit: HurskyMurster (in "kevlar"): /fill quartz_block:2 1 1 - Position: (-633.0, 90.0, 666.0)
+[INFO] WorldEdit: HurskyMurster (in "kevlar"): /fill quartz_block:2 1 1 - Position: (-633.0, 91.0, 666.0)
+[INFO] WorldEdit: HurskyMurster (in "kevlar"): /fill quartz_block:2 1 1 - Position: (-633.0, 92.0, 666.0)
+[INFO] WorldEdit: HurskyMurster (in "kevlar"): /fill quartz_block:2 1 1 - Position: (-633.0, 93.0, 666.0)
+[INFO] WorldEdit: HurskyMurster (in "kevlar"): /fill quartz_block:2 1 1 - Position: (-633.0, 94.0, 666.0)
+[INFO] WorldEdit: HurskyMurster (in "kevlar"): /fill quartz_block:2 1 1 - Position: (-633.0, 95.0, 666.0)
+[INFO] WorldEdit: HurskyMurster (in "kevlar"): /fill quartz_block:2 1 1 - Position: (-633.0, 96.0, 666.0)
+[INFO] WorldEdit: HurskyMurster (in "kevlar"): /fill quartz_block:2 1 1 - Position: (-633.0, 97.0, 666.0)
+[INFO] WorldEdit: HurskyMurster (in "kevlar"): /fill quartz_block:2 1 1 - Position: (-633.0, 98.0, 666.0)
+[INFO] WorldEdit: HurskyMurster (in "kevlar"): /fill quartz_block:2 1 1 - Position: (-633.0, 99.0, 666.0)
+[INFO] WorldEdit: HurskyMurster (in "kevlar"): /fill quartz_block:2 1 1 - Position: (-633.0, 100.0, 666.0)
+[INFO] WorldEdit: HurskyMurster (in "kevlar"): /fill quartz_block:2 1 1 - Position: (-633.0, 101.0, 666.0)
+[INFO] WorldEdit: HurskyMurster (in "kevlar"): /fill quartz_block:2 1 1 - Position: (-633.0, 102.0, 666.0)
+[INFO] WorldEdit: HurskyMurster (in "kevlar"): /fill quartz_block:2 2 1 - Position: (-633.0, 78.0, 672.0)
+[INFO] WorldEdit: HurskyMurster (in "kevlar"): /fill quartz_block:2 2 1 - Position: (-633.0, 79.0, 672.0)
+[INFO] WorldEdit: HurskyMurster (in "kevlar"): /fill quartz_block:2 2 1 - Position: (-633.0, 80.0, 672.0)
+[INFO] WorldEdit: HurskyMurster (in "kevlar"): /fill quartz_block:2 2 1 - Position: (-633.0, 81.0, 672.0)
+[INFO] WorldEdit: HurskyMurster (in "kevlar"): /fill quartz_block:2 2 1 - Position: (-633.0, 82.0, 672.0)
+[INFO] WorldEdit: HurskyMurster (in "kevlar"): /fill quartz_block:2 2 1 - Position: (-633.0, 83.0, 672.0)
+[INFO] WorldEdit: HurskyMurster (in "kevlar"): /fill quartz_block:2 2 1 - Position: (-633.0, 84.0, 672.0)
+[INFO] WorldEdit: HurskyMurster (in "kevlar"): /fill quartz_block:2 2 1 - Position: (-633.0, 85.0, 672.0)
+[INFO] WorldEdit: HurskyMurster (in "kevlar"): /fill quartz_block:2 2 1 - Position: (-633.0, 86.0, 672.0)
+[INFO] WorldEdit: HurskyMurster (in "kevlar"): /fill quartz_block:2 2 1 - Position: (-633.0, 87.0, 672.0)
+[INFO] WorldEdit: HurskyMurster (in "kevlar"): /fill quartz_block:2 2 1 - Position: (-633.0, 88.0, 672.0)
+[INFO] WorldEdit: HurskyMurster (in "kevlar"): /fill quartz_block:2 2 1 - Position: (-633.0, 89.0, 672.0)
+[INFO] WorldEdit: HurskyMurster (in "kevlar"): /fill quartz_block:2 2 1 - Position: (-633.0, 90.0, 672.0)
+[INFO] WorldEdit: HurskyMurster (in "kevlar"): /fill quartz_block:2 2 1 - Position: (-633.0, 91.0, 672.0)
+[INFO] WorldEdit: HurskyMurster (in "kevlar"): /fill quartz_block:2 2 1 - Position: (-633.0, 92.0, 672.0)
+[INFO] WorldEdit: HurskyMurster (in "kevlar"): /fill quartz_block:2 2 1 - Position: (-633.0, 93.0, 672.0)
+[INFO] WorldEdit: HurskyMurster (in "kevlar"): /fill quartz_block:2 2 1 - Position: (-633.0, 94.0, 672.0)
+[INFO] WorldEdit: HurskyMurster (in "kevlar"): /fill quartz_block:2 2 1 - Position: (-633.0, 95.0, 672.0)
+[INFO] WorldEdit: HurskyMurster (in "kevlar"): /fill quartz_block:2 2 1 - Position: (-633.0, 96.0, 672.0)
+[INFO] WorldEdit: HurskyMurster (in "kevlar"): /fill quartz_block:2 2 1 - Position: (-633.0, 97.0, 672.0)
+[INFO] WorldEdit: HurskyMurster (in "kevlar"): /fill quartz_block:2 2 1 - Position: (-633.0, 98.0, 672.0)
+[INFO] WorldEdit: HurskyMurster (in "kevlar"): /fill quartz_block:2 2 1 - Position: (-633.0, 99.0, 672.0)
+[INFO] WorldEdit: HurskyMurster (in "kevlar"): /fill quartz_block:2 2 1 - Position: (-633.0, 100.0, 672.0)
+[INFO] WorldEdit: HurskyMurster (in "kevlar"): /fill quartz_block:2 2 1 - Position: (-633.0, 101.0, 672.0)
+[INFO] WorldEdit: HurskyMurster (in "kevlar"): /fill quartz_block:2 2 1 - Position: (-633.0, 102.0, 671.0)
+[INFO] WorldEdit: HurskyMurster (in "kevlar"): /fill quartz_block:2 2 1 - Position: (-633.0, 102.0, 672.0)
+[INFO] WorldEdit: HurskyMurster (in "kevlar"): /fill quartz_block:2 2 1 - Position: (-633.0, 78.0, 708.0)
+[INFO] WorldEdit: HurskyMurster (in "kevlar"): /fill quartz_block:2 2 1 - Position: (-633.0, 79.0, 708.0)
+[INFO] WorldEdit: HurskyMurster (in "kevlar"): /fill quartz_block:2 2 1 - Position: (-633.0, 80.0, 708.0)
+[INFO] WorldEdit: HurskyMurster (in "kevlar"): /fill quartz_block:2 2 1 - Position: (-633.0, 81.0, 708.0)
+[INFO] WorldEdit: HurskyMurster (in "kevlar"): /fill quartz_block:2 2 1 - Position: (-633.0, 82.0, 708.0)
+[INFO] WorldEdit: HurskyMurster (in "kevlar"): /fill quartz_block:2 2 1 - Position: (-633.0, 83.0, 708.0)
+[INFO] WorldEdit: HurskyMurster (in "kevlar"): /fill quartz_block:2 2 1 - Position: (-633.0, 84.0, 708.0)
+[INFO] WorldEdit: HurskyMurster (in "kevlar"): /fill quartz_block:2 2 1 - Position: (-633.0, 85.0, 708.0)
+[INFO] WorldEdit: HurskyMurster (in "kevlar"): /fill quartz_block:2 2 1 - Position: (-633.0, 86.0, 708.0)
+[INFO] WorldEdit: HurskyMurster (in "kevlar"): /fill quartz_block:2 2 1 - Position: (-633.0, 87.0, 708.0)
+[INFO] WorldEdit: HurskyMurster (in "kevlar"): /fill quartz_block:2 2 1 - Position: (-633.0, 88.0, 708.0)
+[INFO] WorldEdit: HurskyMurster (in "kevlar"): /fill quartz_block:2 2 1 - Position: (-633.0, 89.0, 708.0)
+[INFO] WorldEdit: HurskyMurster (in "kevlar"): /fill quartz_block:2 2 1 - Position: (-633.0, 90.0, 708.0)
+[INFO] WorldEdit: HurskyMurster (in "kevlar"): /fill quartz_block:2 2 1 - Position: (-633.0, 91.0, 708.0)
+[INFO] WorldEdit: HurskyMurster (in "kevlar"): /fill quartz_block:2 2 1 - Position: (-633.0, 92.0, 708.0)
+[INFO] WorldEdit: HurskyMurster (in "kevlar"): /fill quartz_block:2 2 1 - Position: (-633.0, 93.0, 708.0)
+[INFO] WorldEdit: HurskyMurster (in "kevlar"): /fill quartz_block:2 2 1 - Position: (-633.0, 94.0, 708.0)
+[INFO] WorldEdit: HurskyMurster (in "kevlar"): /fill quartz_block:2 2 1 - Position: (-633.0, 95.0, 708.0)
+[INFO] WorldEdit: HurskyMurster (in "kevlar"): /fill quartz_block:2 2 1 - Position: (-633.0, 96.0, 708.0)
+[INFO] WorldEdit: HurskyMurster (in "kevlar"): /fill quartz_block:2 2 1 - Position: (-633.0, 97.0, 708.0)
+[INFO] WorldEdit: HurskyMurster (in "kevlar"): /fill quartz_block:2 2 1 - Position: (-633.0, 98.0, 708.0)
+[INFO] WorldEdit: HurskyMurster (in "kevlar"): /fill quartz_block:2 2 1 - Position: (-633.0, 99.0, 708.0)
+[INFO] WorldEdit: HurskyMurster (in "kevlar"): /fill quartz_block:2 2 1 - Position: (-633.0, 100.0, 708.0)
+[INFO] WorldEdit: HurskyMurster (in "kevlar"): /fill quartz_block:2 2 1 - Position: (-633.0, 101.0, 708.0)
+[INFO] WorldEdit: HurskyMurster (in "kevlar"): /fill quartz_block:2 2 1 - Position: (-633.0, 102.0, 708.0)
+[INFO] WorldEdit: HurskyMurster (in "kevlar"): /fill quartz_block:2 2 1 - Position: (-633.0, 103.0, 708.0)
+[INFO] WorldEdit: HurskyMurster (in "kevlar"): /fill quartz_block:2 2 4 - Position: (-633.0, 83.0, 678.0)
+[INFO] WorldEdit: HurskyMurster (in "kevlar"): /fill quartz_block:2 2 6 - Position: (-633.0, 84.0, 678.0)
+[INFO] WorldEdit: HurskyMurster (in "kevlar"): /fill quartz_block:2 2 20 - Position: (-633.0, 99.0, 678.0)
+[INFO] WorldEdit: HurskyMurster (in "kevlar"): /fill quartz_block:2 2 30 - Position: (-633.0, 98.0, 684.0)
+[INFO] WorldEdit: HurskyMurster (in "kevlar"): /fill quartz_block:2 2 30 - Position: (-633.0, 99.0, 684.0)
+[INFO] WorldEdit: HurskyMurster (in "kevlar"): /fill quartz_block:2 2 30 - Position: (-633.0, 99.0, 690.0)
+[INFO] WorldEdit: HurskyMurster (in "kevlar"): /fill quartz_block:2 2 30 - Position: (-633.0, 99.0, 696.0)
+[INFO] WorldEdit: HurskyMurster (in "kevlar"): /fill quartz_block:2 2 30 - Position: (-633.0, 99.0, 702.0)
+[INFO] WorldEdit: SavageMcDabbage (in "kevlar"): /
+[INFO] WorldEdit: SavageMcDabbage (in "kevlar"): /help
+[INFO] WorldEdit: SavageMcDabbage (in "kevlar"): thru
+[INFO] WorldEdit: SavageMcDabbage (in "kevlar"): thru
+[INFO] WorldEdit: SavageMcDabbage (in "kevlar"): /wand
+[INFO] WorldEdit: SavageMcDabbage (in "kevlar"): /set tnt - Region: (-799.0, 67.0, 1030.0) - (-791.0, 74.0, 1037.0)
+[INFO] WorldEdit: SavageMcDabbage (in "kevlar"): /set air - Region: (-799.0, 67.0, 1030.0) - (-791.0, 74.0, 1037.0)
+[INFO] WorldEdit: HeroicKiwi1 (in "kevlar"): /wand
+[INFO] WorldEdit: HurskyMurster (in "kevlar"): /wand
+[INFO] WorldEdit: SavageMcDabbage (in "kevlar"): /set tnt - Region: (-799.0, 67.0, 1030.0) - (-791.0, 74.0, 1037.0)
+[INFO] WorldEdit: SavageMcDabbage (in "kevlar"): /set air - Region: (-799.0, 67.0, 1030.0) - (-791.0, 74.0, 1037.0)
+[INFO] WorldEdit: SavageMcDabbage (in "kevlar"): /help
+[INFO] WorldEdit: HeroicKiwi1 (in "kevlar"): /copy
+[INFO] WorldEdit: HeroicKiwi1 (in "kevlar"): /paste - Position: (-637.0, 110.0, 903.0)
+[INFO] WorldEdit: HeroicKiwi1 (in "kevlar"): /undo
+[INFO] WorldEdit: HeroicKiwi1 (in "kevlar"): /paste - Position: (-638.0, 110.0, 901.0)
+[INFO] WorldEdit: HeroicKiwi1 (in "kevlar"): /undo
+[INFO] WorldEdit: SavageMcDabbage (in "kevlar"): /set air - Region: (-693.0, 71.0, 1010.0) - (-680.0, 72.0, 1017.0)
+[INFO] WorldEdit: SavageMcDabbage (in "kevlar"): /undo
+[INFO] WorldEdit: HeroicKiwi1 (in "kevlar"): /paste - Position: (-621.0, 144.0, 919.0)
+[INFO] WorldEdit: HeroicKiwi1 (in "kevlar"): /undo
+[INFO] WorldEdit: SavageMcDabbage (in "kevlar"): /hsphere glass 10 raised - Position: (-792.0, 69.0, 1101.0)
+[INFO] WorldEdit: SavageMcDabbage (in "kevlar"): /copy
+[INFO] WorldEdit: SavageMcDabbage (in "kevlar"): /paste - Position: (-789.0, 74.0, 1104.0)
+[INFO] WorldEdit: SavageMcDabbage (in "kevlar"): /undo
+[INFO] WorldEdit: SavageMcDabbage (in "kevlar"): /undo
+[INFO] WorldEdit: HeroicKiwi1 (in "kevlar"): /paste -s - Position: (-637.0, 110.0, 903.0)
+[INFO] WorldEdit: HeroicKiwi1 (in "kevlar"): /undo
+[INFO] WorldEdit: SavageMcDabbage (in "kevlar"): superpickaxe single
+[INFO] WorldEdit: SavageMcDabbage (in "kevlar"): /
+[INFO] WorldEdit: SavageMcDabbage (in "kevlar"): superpickaxe area 10
+[INFO] WorldEdit: SavageMcDabbage (in "kevlar"): superpickaxe area 5
+[INFO] WorldEdit: HurskyMurster (in "kevlar"): /help
+[INFO] WorldEdit: SavageMcDabbage (in "kevlar"): /
+[INFO] WorldEdit: SavageMcDabbage (in "kevlar"): /copy
+[INFO] WorldEdit: SavageMcDabbage (in "kevlar"): /paste - Position: (-637.0, 94.0, 875.0)
+[INFO] WorldEdit: HurskyMurster (in "kevlar"): /cut - Region: (-553.0, 74.0, 664.0) - (-546.0, 75.0, 706.0)
+[INFO] WorldEdit: SavageMcDabbage (in "kevlar"): /undo
+[INFO] WorldEdit: SavageMcDabbage (in "kevlar"): /copy
+[INFO] WorldEdit: SavageMcDabbage (in "kevlar"): /paste - Position: (-657.0, 78.0, 831.0)
+[INFO] WorldEdit: SavageMcDabbage (in "kevlar"): /paste - Position: (-655.0, 85.0, 821.0)
+[INFO] WorldEdit: SavageMcDabbage (in "kevlar"): /undo
+[INFO] WorldEdit: SavageMcDabbage (in "kevlar"): /undo
+[INFO] WorldEdit: HurskyMurster (in "kevlar"): /paste - Position: (-543.0, 74.0, 706.0)
+[INFO] WorldEdit: HurskyMurster (in "kevlar"): /undo
+[INFO] WorldEdit: HurskyMurster (in "kevlar"): /paste - Position: (-543.0, 75.0, 686.0)
+[INFO] WorldEdit: HurskyMurster (in "kevlar"): /paste - Position: (-543.0, 80.0, 686.0)
+[INFO] WorldEdit: HurskyMurster (in "kevlar"): /undo
+[INFO] WorldEdit: HurskyMurster (in "kevlar"): /undo
+[INFO] WorldEdit: HurskyMurster (in "kevlar"): /copy
+[INFO] WorldEdit: HurskyMurster (in "kevlar"): /paste - Position: (-554.0, 77.0, 687.0)
+[INFO] WorldEdit: SavageMcDabbage (in "kevlar"): /hsphere glass 20 raised - Position: (-682.0, 112.0, 885.0)
+[INFO] WorldEdit: HurskyMurster (in "kevlar"): /undo
+[INFO] WorldEdit: HurskyMurster (in "kevlar"): /paste - Position: (-553.0, 81.0, 690.0)
+[INFO] WorldEdit: SavageMcDabbage (in "kevlar"): /undo
+[INFO] WorldEdit: HurskyMurster (in "kevlar"): /undo
+[INFO] WorldEdit: HurskyMurster (in "kevlar"): /paste - Position: (-542.0, 83.0, 670.0)
+[INFO] WorldEdit: HurskyMurster (in "kevlar"): /paste - Position: (-545.0, 82.0, 668.0)
+[INFO] WorldEdit: HurskyMurster (in "kevlar"): /undo
+[INFO] WorldEdit: HurskyMurster (in "kevlar"): /paste - Position: (-547.0, 83.0, 671.0)
+[INFO] WorldEdit: HeroicKiwi1 (in "kevlar"): /copy
+[INFO] WorldEdit: HeroicKiwi1 (in "kevlar"): /paste - Position: (-637.0, 110.0, 903.0)
+[INFO] WorldEdit: HeroicKiwi1 (in "kevlar"): /undo
+[INFO] WorldEdit: SavageMcDabbage (in "kevlar"): /copy
+[INFO] WorldEdit: SavageMcDabbage (in "kevlar"): /paste - Position: (-700.0, 87.0, 1046.0)
+[INFO] WorldEdit: HeroicKiwi1 (in "kevlar"): /rotate 90
+[INFO] WorldEdit: HurskyMurster (in "kevlar"): /paste - Position: (-539.0, 81.0, 667.0)
+[INFO] WorldEdit: HurskyMurster (in "kevlar"): /undo
+[INFO] WorldEdit: HeroicKiwi1 (in "kevlar"): /paste - Position: (-637.0, 110.0, 903.0)
+[INFO] WorldEdit: HurskyMurster (in "kevlar"): /paste - Position: (-538.0, 83.0, 670.0)
+[INFO] WorldEdit: HeroicKiwi1 (in "kevlar"): /undo
+[INFO] WorldEdit: SavageMcDabbage (in "kevlar"): /undo
+[INFO] WorldEdit: SavageMcDabbage (in "kevlar"): /paste - Position: (-699.0, 87.0, 1035.0)
+[INFO] WorldEdit: SavageMcDabbage (in "kevlar"): /undo
+[INFO] WorldEdit: SavageMcDabbage (in "kevlar"): /paste - Position: (-699.0, 82.0, 1036.0)
+[INFO] WorldEdit: HeroicKiwi1 (in "kevlar"): /paste - Position: (-621.0, 110.0, 903.0)
+[INFO] WorldEdit: SavageMcDabbage (in "kevlar"): /paste - Position: (-699.0, 82.0, 1059.0)
+[INFO] WorldEdit: HeroicKiwi1 (in "kevlar"): /undo
+[INFO] WorldEdit: HurskyMurster (in "kevlar"): /copy
+[INFO] WorldEdit: HeroicKiwi1 (in "kevlar"): /rotate -90
+[INFO] WorldEdit: HeroicKiwi1 (in "kevlar"): /rotate 180
+[INFO] WorldEdit: HeroicKiwi1 (in "kevlar"): /paste - Position: (-621.0, 110.0, 903.0)
+[INFO] WorldEdit: HeroicKiwi1 (in "kevlar"): /undo
+[INFO] WorldEdit: HeroicKiwi1 (in "kevlar"): /paste - Position: (-621.0, 110.0, 919.0)
+[INFO] WorldEdit: HurskyMurster (in "kevlar"): /paste - Position: (-529.0, 75.0, 658.0)
+[INFO] WorldEdit: HurskyMurster (in "kevlar"): /undo
+[INFO] WorldEdit: HurskyMurster (in "kevlar"): /paste - Position: (-528.0, 75.0, 657.0)
+[INFO] WorldEdit: HurskyMurster (in "kevlar"): /rotate 180
+[INFO] WorldEdit: SavageMcDabbage (in "kevlar"): /paste - Position: (-704.0, 118.0, 1047.0)
+[INFO] WorldEdit: HurskyMurster (in "kevlar"): /paste - Position: (-528.0, 75.0, 657.0)
+[INFO] WorldEdit: SavageMcDabbage (in "kevlar"): /undo
+[INFO] WorldEdit: HurskyMurster (in "kevlar"): /cut - Region: (-528.0, 74.0, 596.0) - (-515.0, 100.0, 658.0)
+[INFO] WorldEdit: SavageMcDabbage (in "kevlar"): /paste - Position: (-700.0, 108.0, 1042.0)
+[INFO] WorldEdit: SavageMcDabbage (in "kevlar"): /set air - Region: (-699.0, 95.0, 1040.0) - (-698.0, 98.0, 1060.0)
+[INFO] WorldEdit: SavageMcDabbage (in "kevlar"): /set air - Region: (-705.0, 95.0, 1041.0) - (-698.0, 98.0, 1060.0)
+[INFO] WorldEdit: SavageMcDabbage (in "kevlar"): /copy
+[INFO] WorldEdit: SavageMcDabbage (in "kevlar"): /copy
+[INFO] WorldEdit: SavageMcDabbage (in "kevlar"): /paste - Position: (-699.0, 101.0, 1075.0)
+[INFO] WorldEdit: HurskyMurster (in "kevlar"): /copy
+[INFO] WorldEdit: HurskyMurster (in "kevlar"): /paste - Position: (-536.0, 101.0, 710.0)
+[INFO] WorldEdit: SavageMcDabbage (in "kevlar"): /undo
+[INFO] WorldEdit: HurskyMurster (in "kevlar"): /undo
+[INFO] WorldEdit: HurskyMurster (in "kevlar"): /copy
+[INFO] WorldEdit: HurskyMurster (in "kevlar"): /rotate 180
+[INFO] WorldEdit: HurskyMurster (in "kevlar"): /paste - Position: (-536.0, 101.0, 710.0)
+[INFO] WorldEdit: SavageMcDabbage (in "kevlar"): /paste - Position: (-702.0, 102.0, 1052.0)
+[INFO] WorldEdit: HeroicKiwi1 (in "kevlar"): /copy
+[INFO] WorldEdit: SavageMcDabbage (in "kevlar"): /paste - Position: (-718.0, 74.0, 1052.0)
+[INFO] WorldEdit: HeroicKiwi1 (in "kevlar"): /paste - Position: (-767.0, 98.0, 1007.0)
+[INFO] WorldEdit: HeroicKiwi1 (in "kevlar"): /undo
+[INFO] WorldEdit: SavageMcDabbage (in "kevlar"): /set air - Region: (-714.0, 77.0, 1014.0) - (-699.0, 107.0, 1080.0)
+[INFO] WorldEdit: SavageMcDabbage (in "kevlar"): /set air - Region: (-730.0, 73.0, 1040.0) - (-698.0, 78.0, 1078.0)
+[INFO] WorldEdit: SavageMcDabbage (in "kevlar"): /set air - Region: (-730.0, 71.0, 1041.0) - (-720.0, 79.0, 1059.0)
+[INFO] WorldEdit: SavageMcDabbage (in "kevlar"): /paste - Position: (-704.0, 80.0, 1047.0)
+[INFO] WorldEdit: HeroicKiwi1 (in "kevlar"): /help
+[INFO] WorldEdit: SavageMcDabbage (in "kevlar"): /help
+[INFO] WorldEdit: SavageMcDabbage (in "kevlar"): thru
+[INFO] WorldEdit: SavageMcDabbage (in "kevlar"): thru
+[INFO] WorldEdit: HurskyMurster (in "kevlar"): /copy
+[INFO] WorldEdit: SavageMcDabbage (in "kevlar"): thru
+[INFO] WorldEdit: SavageMcDabbage (in "kevlar"): thru
+[INFO] WorldEdit: SavageMcDabbage (in "kevlar"): thru
+[INFO] WorldEdit: HurskyMurster (in "kevlar"): /paste - Position: (-546.0, 78.0, 706.0)
+[INFO] WorldEdit: HurskyMurster (in "kevlar"): /copy
+[INFO] WorldEdit: HurskyMurster (in "kevlar"): /rotate 90
+[INFO] WorldEdit: HurskyMurster (in "kevlar"): /paste - Position: (-535.0, 101.0, 710.0)
+[INFO] WorldEdit: HurskyMurster (in "kevlar"): /paste - Position: (-577.0, 101.0, 710.0)
+[INFO] WorldEdit: HurskyMurster (in "kevlar"): /paste - Position: (-595.0, 101.0, 710.0)
+[INFO] WorldEdit: HurskyMurster (in "kevlar"): /undo
+[INFO] WorldEdit: SavageMcDabbage (in "kevlar"): /sphere glass 10 - Position: (-705.0, 124.0, 1039.0)
+[INFO] WorldEdit: SavageMcDabbage (in "kevlar"): thru
+[INFO] WorldEdit: SavageMcDabbage (in "kevlar"): thru
+[INFO] WorldEdit: SavageMcDabbage (in "kevlar"): thru
+[INFO] WorldEdit: HurskyMurster (in "kevlar"): /paste - Position: (-589.0, 101.0, 710.0)
+[INFO] WorldEdit: SavageMcDabbage (in "kevlar"): ascend
+[INFO] WorldEdit: SavageMcDabbage (in "kevlar"): ascend
+[INFO] WorldEdit: SavageMcDabbage (in "kevlar"): ascend
+[INFO] WorldEdit: HurskyMurster (in "kevlar"): /paste - Position: (-635.0, 101.0, 664.0)
+[INFO] WorldEdit: HurskyMurster (in "kevlar"): /undo
+[INFO] WorldEdit: SavageMcDabbage (in "kevlar"): /undo
+[INFO] WorldEdit: HurskyMurster (in "kevlar"): /rotate 180
+[INFO] WorldEdit: HurskyMurster (in "kevlar"): /paste - Position: (-635.0, 101.0, 664.0)
+[INFO] WorldEdit: SavageMcDabbage (in "kevlar"): /sphere bedrock 15 - Position: (-710.0, 81.0, 1046.0)
+[INFO] WorldEdit: SavageMcDabbage (in "kevlar"): /undo
+[INFO] WorldEdit: HurskyMurster (in "kevlar"): /paste - Position: (-594.0, 101.0, 664.0)
+[INFO] WorldEdit: HurskyMurster (in "kevlar"): /paste - Position: (-582.0, 101.0, 664.0)
+[INFO] WorldEdit: SavageMcDabbage (in "kevlar"): /help
+[INFO] WorldEdit: SavageMcDabbage (in "kevlar"): /hsphere bedrock 15 - Position: (-709.0, 81.0, 1046.0)
+[INFO] WorldEdit: SavageMcDabbage (in "kevlar"): /undo
+[INFO] WorldEdit: HurskyMurster (in "kevlar"): /copy
+[INFO] WorldEdit: HurskyMurster (in "kevlar"): /paste - Position: (-635.0, 101.0, 688.0)
+[INFO] WorldEdit: HurskyMurster (in "kevlar"): /rotate 90
+[INFO] WorldEdit: HurskyMurster (in "kevlar"): /paste - Position: (-635.0, 101.0, 710.0)
+[INFO] WorldEdit: HurskyMurster (in "kevlar"): /undo
+[INFO] WorldEdit: HurskyMurster (in "kevlar"): /rotate 180
+[INFO] WorldEdit: HurskyMurster (in "kevlar"): /paste - Position: (-635.0, 101.0, 710.0)
+[INFO] WorldEdit: SavageMcDabbage (in "kevlar"): /set air - Region: (-690.0, 69.0, 1022.0) - (-680.0, 76.0, 1034.0)
+[INFO] WorldEdit: HurskyMurster (in "kevlar"): /paste - Position: (-611.0, 101.0, 710.0)
+[INFO] WorldEdit: HurskyMurster (in "kevlar"): /paste - Position: (-587.0, 101.0, 710.0)
+[INFO] WorldEdit: HurskyMurster (in "kevlar"): /paste - Position: (-563.0, 101.0, 710.0)
+[INFO] WorldEdit: HurskyMurster (in "kevlar"): /rotate 90
+[INFO] WorldEdit: HurskyMurster (in "kevlar"): /wand
+[INFO] WorldEdit: HurskyMurster (in "kevlar"): /paste - Position: (-536.0, 101.0, 710.0)
+[INFO] WorldEdit: HurskyMurster (in "kevlar"): /undo
+[INFO] WorldEdit: HurskyMurster (in "kevlar"): /rotate 180
+[INFO] WorldEdit: HurskyMurster (in "kevlar"): /paste - Position: (-536.0, 101.0, 710.0)
+[INFO] WorldEdit: HurskyMurster (in "kevlar"): /paste - Position: (-536.0, 101.0, 686.0)
+[INFO] WorldEdit: HurskyMurster (in "kevlar"): /rotate 270
+[INFO] WorldEdit: HurskyMurster (in "kevlar"): /paste - Position: (-542.0, 101.0, 664.0)
+[INFO] WorldEdit: HurskyMurster (in "kevlar"): /paste - Position: (-566.0, 101.0, 664.0)
+[INFO] WorldEdit: HurskyMurster (in "kevlar"): /paste - Position: (-590.0, 101.0, 664.0)
+[INFO] WorldEdit: HurskyMurster (in "kevlar"): /copy
+[INFO] WorldEdit: HurskyMurster (in "kevlar"): /cut - Region: (-643.0, 74.0, 656.0) - (-613.0, 128.0, 718.0)
+[INFO] WorldEdit: HurskyMurster (in "kevlar"): /paste - Position: (-644.0, 127.0, 718.0)
+[INFO] WorldEdit: HurskyMurster (in "kevlar"): /undo
+[INFO] WorldEdit: HurskyMurster (in "kevlar"): /undo
+[INFO] WorldEdit: HurskyMurster (in "kevlar"): /cut - Region: (-643.0, 74.0, 656.0) - (-613.0, 126.0, 718.0)
+[INFO] WorldEdit: HurskyMurster (in "kevlar"): /paste - Position: (-646.0, 126.0, 718.0)
+[INFO] WorldEdit: HurskyMurster (in "kevlar"): /undo
+[INFO] WorldEdit: HurskyMurster (in "kevlar"): /paste - Position: (-644.0, 127.0, 718.0)
+[INFO] WorldEdit: HurskyMurster (in "kevlar"): /undo
+[INFO] WorldEdit: HurskyMurster (in "kevlar"): /undo
+[INFO] WorldEdit: Maximum4 (in "kevlar"): /wand
+[INFO] WorldEdit: HurskyMurster (in "kevlar"): /cut - Region: (-540.0, 74.0, 656.0) - (-528.0, 122.0, 718.0)
+[INFO] WorldEdit: HurskyMurster (in "kevlar"): /paste - Position: (-526.0, 122.0, 656.0)
+[INFO] WorldEdit: HurskyMurster (in "kevlar"): /undo
+[INFO] WorldEdit: HurskyMurster (in "kevlar"): /paste - Position: (-527.0, 124.0, 656.0)
+[INFO] WorldEdit: HurskyMurster (in "kevlar"): /paste - Position: (-527.0, 123.0, 656.0)
+[INFO] WorldEdit: HurskyMurster (in "kevlar"): /copy
+[INFO] WorldEdit: HurskyMurster (in "kevlar"): /rotate 09
+[INFO] WorldEdit: HurskyMurster (in "kevlar"): /rotate 90
+[INFO] WorldEdit: HurskyMurster (in "kevlar"): /paste - Position: (-539.0, 101.0, 664.0)
+[INFO] WorldEdit: HurskyMurster (in "kevlar"): /undo
+[INFO] WorldEdit: HurskyMurster (in "kevlar"): /paste - Position: (-541.0, 101.0, 664.0)
+[INFO] WorldEdit: HurskyMurster (in "kevlar"): /paste - Position: (-583.0, 101.0, 664.0)
+[INFO] WorldEdit: HurskyMurster (in "kevlar"): /copy
+[INFO] WorldEdit: Maximum4 (in "kevlar"): /replace air quartz_block - Region: (1.0, 80.0, 1.0) - (113.0, 80.0, 33.0)
+[INFO] WorldEdit: HurskyMurster (in "kevlar"): /paste - Position: (-540.0, 76.0, 711.0)
+[INFO] WorldEdit: HurskyMurster (in "kevlar"): /copy
+[INFO] WorldEdit: HurskyMurster (in "kevlar"): /paste - Position: (-539.0, 111.0, 710.0)
+[INFO] WorldEdit: HurskyMurster (in "kevlar"): /paste - Position: (-543.0, 111.0, 710.0)
+[INFO] WorldEdit: HurskyMurster (in "kevlar"): /paste - Position: (-547.0, 111.0, 710.0)
+[INFO] WorldEdit: HurskyMurster (in "kevlar"): /copy
+[INFO] WorldEdit: HurskyMurster (in "kevlar"): /paste - Position: (-551.0, 114.0, 710.0)
+[INFO] WorldEdit: HurskyMurster (in "kevlar"): /paste - Position: (-560.0, 114.0, 710.0)
+[INFO] WorldEdit: HurskyMurster (in "kevlar"): /paste - Position: (-570.0, 114.0, 710.0)
+[INFO] WorldEdit: HurskyMurster (in "kevlar"): /paste - Position: (-580.0, 114.0, 710.0)
+[INFO] WorldEdit: HurskyMurster (in "kevlar"): /paste - Position: (-590.0, 114.0, 710.0)
+[INFO] WorldEdit: HurskyMurster (in "kevlar"): /paste - Position: (-600.0, 114.0, 710.0)
+[INFO] WorldEdit: HurskyMurster (in "kevlar"): /paste - Position: (-610.0, 114.0, 710.0)
+[INFO] WorldEdit: HurskyMurster (in "kevlar"): /paste - Position: (-620.0, 114.0, 710.0)
+[INFO] WorldEdit: HurskyMurster (in "kevlar"): /paste - Position: (-622.0, 114.0, 710.0)
+[INFO] WorldEdit: Maximum4 (in "kevlar"): /wand
+[INFO] WorldEdit: Maximum4 (in "kevlar"): /replace air quartz_block - Region: (1.0, 80.0, 33.0) - (113.0, 80.0, 66.0)
+[INFO] WorldEdit: Maximum4 (in "kevlar"): /replace dirt quartz_block - Region: (1.0, 80.0, 33.0) - (113.0, 80.0, 66.0)
+[INFO] WorldEdit: HurskyMurster (in "kevlar"): /copy
+[INFO] WorldEdit: HurskyMurster (in "kevlar"): /rotate 270
+[INFO] WorldEdit: HurskyMurster (in "kevlar"): /paste - Position: (-535.0, 101.0, 664.0)
+[INFO] WorldEdit: HurskyMurster (in "kevlar"): /undo
+[INFO] WorldEdit: HurskyMurster (in "kevlar"): /rotate 180
+[INFO] WorldEdit: HurskyMurster (in "kevlar"): /paste - Position: (-535.0, 101.0, 664.0)
+[INFO] WorldEdit: HurskyMurster (in "kevlar"): /undo
+[INFO] WorldEdit: HurskyMurster (in "kevlar"): /paste - Position: (-535.0, 101.0, 666.0)
+[INFO] WorldEdit: HurskyMurster (in "kevlar"): /paste - Position: (-579.0, 101.0, 667.0)
+[INFO] WorldEdit: HurskyMurster (in "kevlar"): /undo
+[INFO] WorldEdit: HurskyMurster (in "kevlar"): /paste - Position: (-579.0, 101.0, 666.0)
+[INFO] WorldEdit: HurskyMurster (in "kevlar"): /paste - Position: (-595.0, 101.0, 666.0)
+[INFO] WorldEdit: HurskyMurster (in "kevlar"): /rotate 180
+[INFO] WorldEdit: HurskyMurster (in "kevlar"): /paste - Position: (-635.0, 101.0, 708.0)
+[INFO] WorldEdit: HurskyMurster (in "kevlar"): /paste - Position: (-593.0, 101.0, 708.0)
+[INFO] WorldEdit: HurskyMurster (in "kevlar"): /paste - Position: (-583.0, 101.0, 708.0)
+[INFO] WorldEdit: Maximum4 (in "kevlar"): /replace air quartz_block - Region: (0.0, 80.0, 0.0) - (128.0, 80.0, 128.0)
+[INFO] WorldEdit: Maximum4 (in "kevlar"): /replace quartz_block air - Region: (0.0, 80.0, 0.0) - (128.0, 80.0, 128.0)
+[INFO] WorldEdit: HurskyMurster (in "kevlar"): /fill quartz_block:2 0 30 - Position: (-623.0, 100.0, 696.0)
+[INFO] WorldEdit: HurskyMurster (in "kevlar"): /fill quartz_block:2 0 30\ - Position: (-624.0, 101.0, 696.0)
+[INFO] WorldEdit: HurskyMurster (in "kevlar"): /fill quartz_block:2 0 30\ - Position: (-624.0, 101.0, 696.0)
+[INFO] WorldEdit: HurskyMurster (in "kevlar"): /fill quartz_block:2 0 30 - Position: (-624.0, 101.0, 696.0)
+[INFO] WorldEdit: HurskyMurster (in "kevlar"): /fill quartz_block:2 0 30 - Position: (-624.0, 100.0, 702.0)
+[INFO] WorldEdit: HurskyMurster (in "kevlar"): /fill quartz_block:2 0 30 - Position: (-625.0, 100.0, 702.0)
+[INFO] WorldEdit: HurskyMurster (in "kevlar"): /copy
+[INFO] WorldEdit: HurskyMurster (in "kevlar"): /paste - Position: (-626.0, 77.0, 699.0)
+[INFO] WorldEdit: HurskyMurster (in "kevlar"): /paste - Position: (-626.0, 77.0, 694.0)
+[INFO] WorldEdit: HurskyMurster (in "kevlar"): /paste - Position: (-626.0, 77.0, 685.0)
+[INFO] WorldEdit: HurskyMurster (in "kevlar"): /paste - Position: (-626.0, 77.0, 680.0)
+[INFO] WorldEdit: HurskyMurster (in "kevlar"): /paste - Position: (-626.0, 77.0, 675.0)
+[INFO] WorldEdit: HurskyMurster (in "kevlar"): /copy
+[INFO] WorldEdit: HurskyMurster (in "kevlar"): /paste - Position: (-626.0, 101.0, 668.0)
+[INFO] WorldEdit: HurskyMurster (in "kevlar"): /paste - Position: (-624.0, 101.0, 668.0)
+[INFO] WorldEdit: HurskyMurster (in "kevlar"): /paste - Position: (-621.0, 101.0, 668.0)
+[INFO] WorldEdit: HurskyMurster (in "kevlar"): /paste - Position: (-618.0, 101.0, 668.0)
+[INFO] WorldEdit: HurskyMurster (in "kevlar"): /paste - Position: (-614.0, 101.0, 667.0)
+[INFO] WorldEdit: HurskyMurster (in "kevlar"): /paste - Position: (-610.0, 101.0, 668.0)
+[INFO] WorldEdit: HurskyMurster (in "kevlar"): /paste - Position: (-606.0, 101.0, 668.0)
+[INFO] WorldEdit: HurskyMurster (in "kevlar"): /paste - Position: (-603.0, 101.0, 668.0)
+[INFO] WorldEdit: HurskyMurster (in "kevlar"): /paste - Position: (-598.0, 101.0, 668.0)
+[INFO] WorldEdit: HurskyMurster (in "kevlar"): /paste - Position: (-594.0, 101.0, 668.0)
+[INFO] WorldEdit: HurskyMurster (in "kevlar"): /paste - Position: (-589.0, 101.0, 668.0)
+[INFO] WorldEdit: HurskyMurster (in "kevlar"): /paste - Position: (-584.0, 101.0, 668.0)
+[INFO] WorldEdit: HurskyMurster (in "kevlar"): /paste - Position: (-580.0, 101.0, 668.0)
+[INFO] WorldEdit: HurskyMurster (in "kevlar"): /paste - Position: (-575.0, 101.0, 668.0)
+[INFO] WorldEdit: HurskyMurster (in "kevlar"): /paste - Position: (-571.0, 101.0, 668.0)
+[INFO] WorldEdit: HurskyMurster (in "kevlar"): /paste - Position: (-566.0, 101.0, 668.0)
+[INFO] WorldEdit: HurskyMurster (in "kevlar"): /paste - Position: (-561.0, 101.0, 668.0)
+[INFO] WorldEdit: HurskyMurster (in "kevlar"): /paste - Position: (-557.0, 101.0, 668.0)
+[INFO] WorldEdit: HurskyMurster (in "kevlar"): /paste - Position: (-553.0, 101.0, 668.0)
+[INFO] WorldEdit: HurskyMurster (in "kevlar"): /paste - Position: (-548.0, 101.0, 668.0)
+[INFO] WorldEdit: HurskyMurster (in "kevlar"): /paste - Position: (-545.0, 101.0, 668.0)
+[INFO] WorldEdit: HurskyMurster (in "kevlar"): /paste - Position: (-542.0, 101.0, 668.0)
+[INFO] WorldEdit: HurskyMurster (in "kevlar"): /paste - Position: (-539.0, 101.0, 669.0)
+[INFO] WorldEdit: HurskyMurster (in "kevlar"): /copy
+[INFO] WorldEdit: HurskyMurster (in "kevlar"): /paste - Position: (-544.0, 77.0, 703.0)
+[INFO] WorldEdit: HurskyMurster (in "kevlar"): /undo
+[INFO] WorldEdit: HurskyMurster (in "kevlar"): /paste - Position: (-544.0, 77.0, 704.0)
+[INFO] WorldEdit: HurskyMurster (in "kevlar"): /copy
+[INFO] WorldEdit: HurskyMurster (in "kevlar"): /paste - Position: (-619.0, 77.0, 700.0)
+[INFO] WorldEdit: HurskyMurster (in "kevlar"): /paste - Position: (-618.0, 77.0, 700.0)
+[INFO] WorldEdit: HurskyMurster (in "kevlar"): /paste - Position: (-617.0, 77.0, 700.0)
+[INFO] WorldEdit: HurskyMurster (in "kevlar"): /paste - Position: (-616.0, 77.0, 700.0)
+[INFO] WorldEdit: HurskyMurster (in "kevlar"): /paste - Position: (-615.0, 77.0, 700.0)
+[INFO] WorldEdit: HurskyMurster (in "kevlar"): /paste - Position: (-614.0, 77.0, 700.0)
+[INFO] WorldEdit: HurskyMurster (in "kevlar"): /paste - Position: (-613.0, 77.0, 700.0)
+[INFO] WorldEdit: HurskyMurster (in "kevlar"): /paste - Position: (-612.0, 77.0, 700.0)
+[INFO] WorldEdit: HurskyMurster (in "kevlar"): /paste - Position: (-611.0, 77.0, 700.0)
+[INFO] WorldEdit: HurskyMurster (in "kevlar"): /paste - Position: (-610.0, 77.0, 700.0)
+[INFO] WorldEdit: HurskyMurster (in "kevlar"): /paste - Position: (-609.0, 77.0, 700.0)
+[INFO] WorldEdit: HurskyMurster (in "kevlar"): /copy
+[INFO] WorldEdit: HurskyMurster (in "kevlar"): /paste - Position: (-608.0, 77.0, 700.0)
+[INFO] WorldEdit: HurskyMurster (in "kevlar"): /paste - Position: (-596.0, 77.0, 700.0)
+[INFO] WorldEdit: HurskyMurster (in "kevlar"): /paste - Position: (-584.0, 77.0, 700.0)
+[INFO] WorldEdit: HurskyMurster (in "kevlar"): /paste - Position: (-572.0, 77.0, 700.0)
+[INFO] WorldEdit: HurskyMurster (in "kevlar"): /paste - Position: (-560.0, 77.0, 700.0)
+[INFO] WorldEdit: HurskyMurster (in "kevlar"): /undo
+[INFO] WorldEdit: HurskyMurster (in "kevlar"): /paste - Position: (-561.0, 77.0, 700.0)
+[INFO] WorldEdit: HurskyMurster (in "kevlar"): /copy
+[INFO] WorldEdit: HurskyMurster (in "kevlar"): /paste - Position: (-620.0, 77.0, 671.0)
+[INFO] WorldEdit: HurskyMurster (in "kevlar"): /copy
+[INFO] WorldEdit: HurskyMurster (in "kevlar"): /rotate 90
+[INFO] WorldEdit: HurskyMurster (in "kevlar"): /paste - Position: (-554.0, 77.0, 674.0)
+[INFO] WorldEdit: HurskyMurster (in "kevlar"): /undo
+[INFO] WorldEdit: HurskyMurster (in "kevlar"): /paste - Position: (-554.0, 77.0, 700.0)
+[INFO] WorldEdit: HurskyMurster (in "kevlar"): /undo
+[INFO] WorldEdit: HurskyMurster (in "kevlar"): /paste - Position: (-557.0, 77.0, 700.0)
+[INFO] WorldEdit: HurskyMurster (in "kevlar"): /paste - Position: (-557.0, 77.0, 685.0)
+[INFO] WorldEdit: HurskyMurster (in "kevlar"): /paste - Position: (-557.0, 77.0, 683.0)
+[INFO] WorldEdit: HurskyMurster (in "kevlar"): /undo
+[INFO] WorldEdit: HurskyMurster (in "kevlar"): /undo
+[INFO] WorldEdit: HurskyMurster (in "kevlar"): /paste - Position: (-558.0, 77.0, 685.0)
+[INFO] WorldEdit: HurskyMurster (in "kevlar"): /undo
+[INFO] WorldEdit: HurskyMurster (in "kevlar"): /paste - Position: (-557.0, 77.0, 685.0)
+[INFO] WorldEdit: HurskyMurster (in "kevlar"): /paste - Position: (-557.0, 77.0, 691.0)
+[INFO] WorldEdit: HurskyMurster (in "kevlar"): /paste - Position: (-575.0, 77.0, 700.0)
+[INFO] WorldEdit: HurskyMurster (in "kevlar"): /paste - Position: (-575.0, 77.0, 691.0)
+[INFO] WorldEdit: HurskyMurster (in "kevlar"): /paste - Position: (-575.0, 77.0, 688.0)
+[INFO] WorldEdit: HurskyMurster (in "kevlar"): /paste - Position: (-575.0, 77.0, 685.0)
+[INFO] WorldEdit: HurskyMurster (in "kevlar"): /copy
+[INFO] WorldEdit: HurskyMurster (in "kevlar"): /paste - Position: (-558.0, 77.0, 681.0)
+[INFO] WorldEdit: HurskyMurster (in "kevlar"): /paste - Position: (-558.0, 77.0, 699.0)
+[INFO] WorldEdit: HurskyMurster (in "kevlar"): /paste - Position: (-565.0, 77.0, 699.0)
+[INFO] WorldEdit: HurskyMurster (in "kevlar"): /copy
+[INFO] WorldEdit: HurskyMurster (in "kevlar"): /paste - Position: (-621.0, 77.0, 682.0)
+[INFO] WorldEdit: HurskyMurster (in "kevlar"): /undo
+[INFO] WorldEdit: Maximum4 (in "kevlar"): /wand
+[INFO] WorldEdit: HurskyMurster (in "kevlar"): /paste - Position: (-616.0, 77.0, 691.0)
+[INFO] WorldEdit: HurskyMurster (in "kevlar"): /undo
+[INFO] WorldEdit: Maximum4 (in "kevlar"): /replace air obsidian - Region: (70.0, 100.0, 70.0) - (100.0, 100.0, 100.0)
+[INFO] WorldEdit: HurskyMurster (in "kevlar"): /copy
+[INFO] WorldEdit: HurskyMurster (in "kevlar"): /paste - Position: (-613.0, 77.0, 674.0)
+[INFO] WorldEdit: Maximum4 (in "kevlar"): /replace air obsidian - Region: (70.0, 100.0, 56.0) - (100.0, 100.0, 73.0)
+[INFO] WorldEdit: Maximum4 (in "kevlar"): /replace obsidian air - Region: (70.0, 100.0, 94.0) - (100.0, 100.0, 100.0)
+[INFO] WorldEdit: Faytkneas (in "kevlar"): thru
+[INFO] WorldEdit: Maximum4 (in "kevlar"): /replace air sand - Region: (83.0, 101.0, 57.0) - (89.0, 111.0, 62.0)
+[INFO] WorldEdit: Maximum4 (in "kevlar"): /replace sand air - Region: (83.0, 101.0, 57.0) - (89.0, 111.0, 62.0)
+[INFO] WorldEdit: Faytkneas (in "kevlar"): /wand
+[INFO] WorldEdit: Faytkneas (in "kevlar"): /set torch - Region: (-613.0, 76.0, 674.0) - (-575.0, 76.0, 700.0)
+[INFO] WorldEdit: Faytkneas (in "kevlar"): /undo
+[INFO] WorldEdit: HurskyMurster (in "kevlar"): /copy
+[INFO] WorldEdit: HurskyMurster (in "kevlar"): /paste - Position: (-609.0, 77.0, 693.0)
+[INFO] WorldEdit: Faytkneas (in "kevlar"): /set glowstone - Region: (-613.0, 76.0, 674.0) - (-575.0, 76.0, 700.0)
+[INFO] WorldEdit: Faytkneas (in "kevlar"): /undo
+[INFO] WorldEdit: HurskyMurster (in "kevlar"): /copy
+[INFO] WorldEdit: HurskyMurster (in "kevlar"): /paste - Position: (-609.0, 77.0, 693.0)
+[INFO] WorldEdit: HurskyMurster (in "kevlar"): /paste - Position: (-605.0, 77.0, 693.0)
+[INFO] WorldEdit: Faytkneas (in "kevlar"): /set podzol - Region: (-613.0, 76.0, 674.0) - (-575.0, 76.0, 700.0)
+[INFO] WorldEdit: HurskyMurster (in "kevlar"): /paste - Position: (-601.0, 77.0, 693.0)
+[INFO] WorldEdit: HurskyMurster (in "kevlar"): /paste - Position: (-597.0, 77.0, 693.0)
+[INFO] WorldEdit: Faytkneas (in "kevlar"): /set podzl - Region: (-613.0, 76.0, 674.0) - (-575.0, 76.0, 700.0)
+[INFO] WorldEdit: HurskyMurster (in "kevlar"): /paste - Position: (-593.0, 77.0, 693.0)
+[INFO] WorldEdit: HurskyMurster (in "kevlar"): /paste - Position: (-589.0, 77.0, 693.0)
+[INFO] WorldEdit: HurskyMurster (in "kevlar"): /paste - Position: (-585.0, 77.0, 693.0)
+[INFO] WorldEdit: HurskyMurster (in "kevlar"): /paste - Position: (-581.0, 77.0, 693.0)
+[INFO] WorldEdit: Faytkneas (in "kevlar"): /set diamond_block - Region: (-613.0, 76.0, 674.0) - (-575.0, 76.0, 700.0)
+[INFO] WorldEdit: Faytkneas (in "kevlar"): /undo
+[INFO] WorldEdit: Faytkneas (in "kevlar"): /set fire - Region: (-613.0, 76.0, 674.0) - (-575.0, 76.0, 700.0)
+[INFO] WorldEdit: Faytkneas (in "kevlar"): /undo
+[INFO] WorldEdit: HurskyMurster (in "kevlar"): /paste - Position: (-613.0, 77.0, 676.0)
+[INFO] WorldEdit: HurskyMurster (in "kevlar"): /paste - Position: (-609.0, 77.0, 676.0)
+[INFO] WorldEdit: HurskyMurster (in "kevlar"): /paste - Position: (-605.0, 77.0, 676.0)
+[INFO] WorldEdit: Faytkneas (in "kevlar"): /set quartz_pillar - Region: (-613.0, 76.0, 674.0) - (-575.0, 76.0, 700.0)
+[INFO] WorldEdit: HurskyMurster (in "kevlar"): /paste - Position: (-601.0, 77.0, 676.0)
+[INFO] WorldEdit: Maximum4 (in "kevlar"): /replace air sand - Region: (95.0, 101.0, 87.0) - (100.0, 109.0, 87.0)
+[INFO] WorldEdit: HurskyMurster (in "kevlar"): /paste - Position: (-597.0, 77.0, 676.0)
+[INFO] WorldEdit: Faytkneas (in "kevlar"): /set quartz_pillar_block - Region: (-613.0, 76.0, 674.0) - (-575.0, 76.0, 700.0)
+[INFO] WorldEdit: HurskyMurster (in "kevlar"): /paste - Position: (-593.0, 77.0, 676.0)
+[INFO] WorldEdit: Maximum4 (in "kevlar"): /replace air sand - Region: (95.0, 101.0, 87.0) - (95.0, 109.0, 93.0)
+[INFO] WorldEdit: HurskyMurster (in "kevlar"): /paste - Position: (-589.0, 77.0, 676.0)
+[INFO] WorldEdit: HurskyMurster (in "kevlar"): /paste - Position: (-585.0, 77.0, 676.0)
+[INFO] WorldEdit: HurskyMurster (in "kevlar"): /paste - Position: (-581.0, 77.0, 676.0)
+[INFO] WorldEdit: Faytkneas (in "kevlar"): /set quartzpillarblock - Region: (-613.0, 76.0, 674.0) - (-575.0, 76.0, 700.0)
+[INFO] WorldEdit: Faytkneas (in "kevlar"): /set white_wool - Region: (-613.0, 76.0, 674.0) - (-575.0, 76.0, 700.0)
+[INFO] WorldEdit: Faytkneas (in "kevlar"): /set wool - Region: (-613.0, 76.0, 674.0) - (-575.0, 76.0, 700.0)
+[INFO] WorldEdit: Faytkneas (in "kevlar"): /undo
+[INFO] WorldEdit: Faytkneas (in "kevlar"): /set white_clay - Region: (-613.0, 76.0, 674.0) - (-575.0, 76.0, 700.0)
+[INFO] WorldEdit: Faytkneas (in "kevlar"): /set white - Region: (-613.0, 76.0, 674.0) - (-575.0, 76.0, 700.0)
+[INFO] WorldEdit: Faytkneas (in "kevlar"): /undo
+[INFO] WorldEdit: Faytkneas (in "kevlar"): /set sponge - Region: (-613.0, 76.0, 674.0) - (-575.0, 76.0, 700.0)
+[INFO] WorldEdit: Faytkneas (in "kevlar"): /undo
+[INFO] WorldEdit: Faytkneas (in "kevlar"): /set Quartz_stair - Region: (-613.0, 76.0, 674.0) - (-575.0, 76.0, 700.0)
+[INFO] WorldEdit: Faytkneas (in "kevlar"): /set Quartz_stairs - Region: (-613.0, 76.0, 674.0) - (-575.0, 76.0, 700.0)
+[INFO] WorldEdit: Faytkneas (in "kevlar"): /undo
+[INFO] WorldEdit: Faytkneas (in "kevlar"): /wand
+[INFO] WorldEdit: Faytkneas (in "kevlar"): /set torch - Region: (-612.0, 77.0, 677.0) - (-609.0, 99.0, 680.0)
+[INFO] WorldEdit: Faytkneas (in "kevlar"): /undo
+[INFO] WorldEdit: Faytkneas (in "kevlar"): /set lava - Region: (-612.0, 77.0, 677.0) - (-609.0, 99.0, 680.0)
+[INFO] WorldEdit: Faytkneas (in "kevlar"): /undo
+[INFO] WorldEdit: Faytkneas (in "kevlar"): /wand
+[INFO] WorldEdit: Faytkneas (in "kevlar"): /set glass - Region: (-614.0, 87.0, 684.0) - (-614.0, 97.0, 691.0)
+[INFO] WorldEdit: Faytkneas (in "kevlar"): /undo
+[INFO] WorldEdit: Maximum4 (in "kevlar"): /wand
+[INFO] WorldEdit: Maximum4 (in "kevlar"): /copy
+[INFO] WorldEdit: Faytkneas (in "kevlar"): /set sponge - Region: (-643.0, 74.0, 656.0) - (-527.0, 108.0, 718.0)
+[INFO] WorldEdit: Faytkneas (in "kevlar"): /undo
+[INFO] WorldEdit: Faytkneas (in "kevlar"): /set monster_spawner - Region: (-613.0, 76.0, 674.0) - (-575.0, 100.0, 700.0)
+[INFO] WorldEdit: Maximum4 (in "kevlar"): /paste - Position: (104.0, 101.0, 55.0)
+[INFO] WorldEdit: Faytkneas (in "kevlar"): /set mob_spawner - Region: (-613.0, 76.0, 674.0) - (-575.0, 100.0, 700.0)
+[INFO] WorldEdit: Faytkneas (in "kevlar"): /undo
+[INFO] WorldEdit: Maximum4 (in "kevlar"): /undo
+[INFO] WorldEdit: Maximum4 (in "kevlar"): /paste - Position: (98.0, 101.0, 53.0)
+[INFO] WorldEdit: Maximum4 (in "kevlar"): /undo
+[INFO] WorldEdit: Maximum4 (in "kevlar"): /paste - Position: (98.0, 105.0, 51.0)
+[INFO] WorldEdit: Maximum4 (in "kevlar"): /undo
+[INFO] WorldEdit: Maximum4 (in "kevlar"): /paste - Position: (98.0, 108.0, 45.0)
+[INFO] WorldEdit: Maximum4 (in "kevlar"): /undo
+[INFO] WorldEdit: Maximum4 (in "kevlar"): /paste - Position: (97.0, 106.0, 56.0)
+[INFO] WorldEdit: Maximum4 (in "kevlar"): /undo
+[INFO] WorldEdit: Faytkneas (in "kevlar"): /set sponge - Region: (-613.0, 76.0, 674.0) - (-575.0, 100.0, 700.0)
+[INFO] WorldEdit: Maximum4 (in "kevlar"): /paste - Position: (95.0, 108.0, 50.0)
+[INFO] WorldEdit: Faytkneas (in "kevlar"): /undo
+[INFO] WorldEdit: Maximum4 (in "kevlar"): /undo
+[INFO] WorldEdit: Maximum4 (in "kevlar"): /paste - Position: (97.0, 104.0, 49.0)
+[INFO] WorldEdit: Faytkneas (in "kevlar"): /set glowstone - Region: (-613.0, 76.0, 674.0) - (-575.0, 100.0, 700.0)
+[INFO] WorldEdit: Maximum4 (in "kevlar"): /undo
+[INFO] WorldEdit: Faytkneas (in "kevlar"): /undo
+[INFO] WorldEdit: Maximum4 (in "kevlar"): /paste - Position: (98.0, 112.0, 48.0)
+[INFO] WorldEdit: Maximum4 (in "kevlar"): /undo
+[INFO] WorldEdit: Maximum4 (in "kevlar"): /paste - Position: (95.0, 112.0, 43.0)
+[INFO] WorldEdit: Faytkneas (in "kevlar"): /set mob_spawner - Region: (-613.0, 76.0, 674.0) - (-575.0, 76.0, 700.0)
+[INFO] WorldEdit: Faytkneas (in "kevlar"): /undo
+[INFO] WorldEdit: Faytkneas (in "kevlar"): /set mob_spawner - Region: (78.0, 100.0, 66.0) - (96.0, 100.0, 84.0)
+[INFO] WorldEdit: Faytkneas (in "kevlar"): /undo
+[INFO] WorldEdit: Faytkneas (in "kevlar"): /set mob_spawner - Region: (70.0, 100.0, 56.0) - (100.0, 100.0, 93.0)
+[INFO] WorldEdit: Faytkneas (in "kevlar"): /undo
+[INFO] WorldEdit: Maximum4 (in "kevlar"): /wand
+[INFO] WorldEdit: Maximum4 (in "kevlar"): /replace all air - Region: (70.0, 100.0, 56.0) - (100.0, 109.0, 87.0)
+[INFO] WorldEdit: Maximum4 (in "kevlar"): /wand
+[INFO] WorldEdit: Maximum4 (in "kevlar"): /replace air sand_stone_slab - Region: (43.0, 75.0, 708.0) - (56.0, 75.0, 721.0)
+[INFO] WorldEdit: Maximum4 (in "kevlar"): /replace air sandstone_slab - Region: (43.0, 75.0, 708.0) - (56.0, 75.0, 721.0)
+[INFO] WorldEdit: Maximum4 (in "kevlar"): /replace air sandstone_slabs - Region: (43.0, 75.0, 708.0) - (56.0, 75.0, 721.0)
+[INFO] WorldEdit: Maximum4 (in "kevlar"): /replace air sand_stone_slabs - Region: (43.0, 75.0, 708.0) - (56.0, 75.0, 721.0)
+[INFO] WorldEdit: Maximum4 (in "kevlar"): /replace air sand_stone - Region: (43.0, 75.0, 708.0) - (56.0, 75.0, 721.0)
+[INFO] WorldEdit: Maximum4 (in "kevlar"): /undo
+[INFO] WorldEdit: Maximum4 (in "kevlar"): /copy
+[INFO] WorldEdit: Maximum4 (in "kevlar"): /paste - Position: (43.0, 77.0, 687.0)
+[INFO] WorldEdit: Maximum4 (in "kevlar"): /undo
+[INFO] WorldEdit: Maximum4 (in "kevlar"): /flip right
+[INFO] WorldEdit: Maximum4 (in "kevlar"): /flip
+[INFO] WorldEdit: Maximum4 (in "kevlar"): /flip south
+[INFO] WorldEdit: Maximum4 (in "kevlar"): /paste - Position: (39.0, 88.0, 689.0)
+[INFO] WorldEdit: Maximum4 (in "kevlar"): /undo
+[INFO] WorldEdit: Maximum4 (in "kevlar"): /paste - Position: (38.0, 76.0, 763.0)
+[INFO] WorldEdit: Maximum4 (in "kevlar"): /undo
+[INFO] WorldEdit: Maximum4 (in "kevlar"): /paste - Position: (37.0, 76.0, 763.0)
+[INFO] WorldEdit: Maximum4 (in "kevlar"): /undo
+[INFO] WorldEdit: Maximum4 (in "kevlar"): /paste - Position: (38.0, 76.0, 763.0)
+[INFO] WorldEdit: Maximum4 (in "kevlar"): /replace air 44:1 - Region: (41.0, 75.0, 722.0) - (56.0, 75.0, 739.0)
+[INFO] WorldEdit: Maximum4 (in "kevlar"): /undo
+[INFO] WorldEdit: Maximum4 (in "kevlar"): /replace air 44:1 - Region: (41.0, 76.0, 722.0) - (56.0, 76.0, 739.0)
+[INFO] WorldEdit: Maximum4 (in "kevlar"): /undo
+[INFO] WorldEdit: Maximum4 (in "kevlar"): /replace air 44:1 - Region: (41.0, 75.0, 722.0) - (56.0, 75.0, 739.0)
+[INFO] WorldEdit: Maximum4 (in "kevlar"): /undo
+[INFO] WorldEdit: Maximum4 (in "kevlar"): /replace air 44:9 - Region: (41.0, 75.0, 722.0) - (56.0, 75.0, 739.0)
+[INFO] WorldEdit: Maximum4 (in "kevlar"): /replace dark_oak_planks air - Region: (43.0, 76.0, 721.0) - (43.0, 83.0, 721.0)
+[INFO] WorldEdit: Maximum4 (in "kevlar"): /copy
+[INFO] WorldEdit: Maximum4 (in "kevlar"): /copy
+[INFO] WorldEdit: Maximum4 (in "kevlar"): /paste - Position: (41.0, 89.0, 721.0)
+[INFO] WorldEdit: Maximum4 (in "kevlar"): /paste - Position: (42.0, 89.0, 721.0)
+[INFO] WorldEdit: Maximum4 (in "kevlar"): /copy
+[INFO] WorldEdit: Maximum4 (in "kevlar"): /paste - Position: (43.0, 89.0, 721.0)
+[INFO] WorldEdit: Maximum4 (in "kevlar"): /paste - Position: (44.0, 89.0, 721.0)
+[INFO] WorldEdit: Maximum4 (in "kevlar"): /paste - Position: (45.0, 89.0, 721.0)
+[INFO] WorldEdit: Maximum4 (in "kevlar"): /paste - Position: (46.0, 89.0, 721.0)
+[INFO] WorldEdit: Maximum4 (in "kevlar"): /paste - Position: (47.0, 89.0, 721.0)
+[INFO] WorldEdit: Maximum4 (in "kevlar"): /copy
+[INFO] WorldEdit: Maximum4 (in "kevlar"): /paste - Position: (53.0, 86.0, 721.0)
+[INFO] WorldEdit: Maximum4 (in "kevlar"): /paste - Position: (56.0, 86.0, 721.0)
+[INFO] WorldEdit: Maximum4 (in "kevlar"): /paste - Position: (57.0, 86.0, 721.0)
+[INFO] WorldEdit: Maximum4 (in "kevlar"): /replace 44:9 glass - Region: (42.0, 91.0, 730.0) - (53.0, 91.0, 736.0)
+[INFO] WorldEdit: Maximum4 (in "kevlar"): /replace 44:3 glass - Region: (42.0, 91.0, 730.0) - (53.0, 91.0, 736.0)
+[INFO] WorldEdit: Maximum4 (in "kevlar"): /replace 44:7 glass - Region: (42.0, 91.0, 730.0) - (53.0, 91.0, 736.0)
+[INFO] WorldEdit: Maximum4 (in "kevlar"): /replace air quartz_block - Region: (56.0, 76.0, 708.0) - (56.0, 84.0, 720.0)
+[INFO] WorldEdit: Maximum4 (in "kevlar"): /copy
+[INFO] WorldEdit: Maximum4 (in "kevlar"): /paste - Position: (43.0, 87.0, 720.0)
+[INFO] WorldEdit: Maximum4 (in "kevlar"): /paste - Position: (42.0, 87.0, 720.0)
+[INFO] WorldEdit: Maximum4 (in "kevlar"): /paste - Position: (42.0, 87.0, 720.0)
+[INFO] WorldEdit: Maximum4 (in "kevlar"): /paste - Position: (44.0, 87.0, 720.0)
+[INFO] WorldEdit: Maximum4 (in "kevlar"): /paste - Position: (45.0, 87.0, 720.0)
+[INFO] WorldEdit: Maximum4 (in "kevlar"): /copy
+[INFO] WorldEdit: Maximum4 (in "kevlar"): /paste - Position: (45.0, 85.0, 708.0)
+[INFO] WorldEdit: Maximum4 (in "kevlar"): /paste - Position: (50.0, 85.0, 708.0)
+[INFO] WorldEdit: Maximum4 (in "kevlar"): /replace air 44:9 - Region: (56.0, 75.0, 708.0) - (56.0, 81.0, 758.0)
+[INFO] WorldEdit: Maximum4 (in "kevlar"): /undo
+[INFO] WorldEdit: Maximum4 (in "kevlar"): /replace air 44:9 - Region: (56.0, 75.0, 708.0) - (70.0, 75.0, 758.0)
+[INFO] WorldEdit: Maximum4 (in "kevlar"): /replace air quartz_block - Region: (57.0, 76.0, 707.0) - (57.0, 83.0, 721.0)
+[INFO] WorldEdit: Maximum4 (in "kevlar"): /undo
+[INFO] WorldEdit: Kevlar (in "kevlar"): thru
+[INFO] WorldEdit: Kevlar (in "kevlar"): thru
+[INFO] WorldEdit: Kevlar (in "kevlar"): thru
+[INFO] WorldEdit: Kevlar (in "kevlar"): thru
+[INFO] WorldEdit: Kevlar (in "kevlar"): jumpto
+[INFO] WorldEdit: Kevlar (in "kevlar"): jumpto
+[INFO] WorldEdit: Kevlar (in "kevlar"): /
+[INFO] WorldEdit: Kevlar (in "kevlar"): /
+[INFO] WorldEdit: Kevlar (in "kevlar"): /

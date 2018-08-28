@@ -1,0 +1,20 @@
+uuid: ffda8ccb-1844-3533-a893-000b562e3fe8
+timestamps:
+  login: 1535396350997
+  lastteleport: 1535403739385
+  logout: 1535403750675
+ipAddress: 24.21.68.237
+lastlocation:
+  world: kevlar
+  x: 106.9926434677905
+  y: 89.61555660223249
+  z: -0.9171665113410419
+  yaw: -310.9769
+  pitch: 32.50595
+logoutlocation:
+  world: kevlar
+  x: -539.3902274608407
+  y: 80.61555660223249
+  z: 718.3961999071914
+  yaw: 43.97595
+  pitch: -39.109543

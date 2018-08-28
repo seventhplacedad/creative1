@@ -1,394 +1,51 @@
-[05:46:49] [Server console handler/ERROR]: Exception handling console input
-java.io.IOException: Bad file descriptor
-	at java.base/java.io.FileInputStream.readBytes(Native Method) ~[?:?]
-	at java.base/java.io.FileInputStream.read(FileInputStream.java:280) ~[?:?]
-	at java.base/java.io.BufferedInputStream.fill(BufferedInputStream.java:252) ~[?:?]
-	at java.base/java.io.BufferedInputStream.read(BufferedInputStream.java:271) ~[?:?]
-	at java.base/java.io.FilterInputStream.read(FilterInputStream.java:83) ~[?:?]
-	at org.bukkit.craftbukkit.libs.jline.console.ConsoleReader$1.read(ConsoleReader.java:167) ~[craftbukkit.jar:git-Bukkit-1.7.9-R0.1-10-g8688bd4-b3092jnks]
-	at org.bukkit.craftbukkit.libs.jline.internal.InputStreamReader.read(InputStreamReader.java:267) ~[craftbukkit.jar:git-Bukkit-1.7.9-R0.1-10-g8688bd4-b3092jnks]
-	at org.bukkit.craftbukkit.libs.jline.internal.InputStreamReader.read(InputStreamReader.java:204) ~[craftbukkit.jar:git-Bukkit-1.7.9-R0.1-10-g8688bd4-b3092jnks]
-	at org.bukkit.craftbukkit.libs.jline.console.ConsoleReader.readCharacter(ConsoleReader.java:995) ~[craftbukkit.jar:git-Bukkit-1.7.9-R0.1-10-g8688bd4-b3092jnks]
-	at org.bukkit.craftbukkit.libs.jline.console.ConsoleReader.readLineSimple(ConsoleReader.java:1506) ~[craftbukkit.jar:git-Bukkit-1.7.9-R0.1-10-g8688bd4-b3092jnks]
-	at org.bukkit.craftbukkit.libs.jline.console.ConsoleReader.readLine(ConsoleReader.java:1153) ~[craftbukkit.jar:git-Bukkit-1.7.9-R0.1-10-g8688bd4-b3092jnks]
-	at org.bukkit.craftbukkit.libs.jline.console.ConsoleReader.readLine(ConsoleReader.java:1117) ~[craftbukkit.jar:git-Bukkit-1.7.9-R0.1-10-g8688bd4-b3092jnks]
-	at org.bukkit.craftbukkit.libs.jline.console.ConsoleReader.readLine(ConsoleReader.java:1105) ~[craftbukkit.jar:git-Bukkit-1.7.9-R0.1-10-g8688bd4-b3092jnks]
-	at net.minecraft.server.v1_7_R3.ThreadCommandReader.run(ThreadCommandReader.java:34) [craftbukkit.jar:git-Bukkit-1.7.9-R0.1-10-g8688bd4-b3092jnks]
-[05:46:49] [Server thread/INFO]: Starting minecraft server version 1.7.9
-[05:46:49] [Server thread/INFO]: Loading properties
-[05:46:49] [Server thread/INFO]: Default game type: ADVENTURE
-[05:46:49] [Server thread/INFO]: Generating keypair
-[05:46:49] [Server thread/INFO]: Starting Minecraft server on *:25565
-[05:46:49] [Server thread/INFO]: This server is running CraftBukkit version git-Bukkit-1.7.9-R0.1-10-g8688bd4-b3092jnks (MC: 1.7.9) (Implementing API version 1.7.9-R0.2)
-[05:46:49] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v5.6.2
-[05:46:49] [Server thread/INFO]: [SignEdit] Loading SignEdit v3.3.9
-[05:46:49] [Server thread/INFO]: [RunAs] Loading RunAs v1.0.1
-[05:46:49] [Server thread/INFO]: [AntiCreeper] Loading AntiCreeper v4.18.1
-[05:46:49] [Server thread/INFO]: [Essentials] Loading Essentials v2.13.1
-[05:46:49] [Server thread/INFO]: [Speedcarts] Loading Speedcarts v1.3.5
-[05:46:49] [Server thread/INFO]: [GroupManager] Loading GroupManager v2.1.11 (Phoenix)
-[05:46:49] [Server thread/INFO]: [EssentialsChat] Loading EssentialsChat v2.13.1
-[05:46:49] [Server thread/INFO]: [EssentialsProtect] Loading EssentialsProtect v2.13.1
-[05:46:49] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[05:46:49] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[05:46:49] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[05:46:49] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[05:46:49] [Server thread/INFO]: Preparing level "kevlar"
-[05:46:49] [Server thread/INFO]: Preparing start region for level 0 (Seed: -6429030645283485143)
-[05:46:50] [Server thread/INFO]: Preparing start region for level 1 (Seed: -5412670237699833762)
-[05:46:51] [Server thread/INFO]: Preparing start region for level 2 (Seed: -5412670237699833762)
-[05:46:51] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v5.6.2
-[05:46:51] [Server thread/INFO]: WEPIF: Using the Bukkit Permissions API.
-[05:46:51] [Server thread/INFO]: [SignEdit] Enabling SignEdit v3.3.9
-[05:46:51] [Server thread/INFO]: [RunAs] Enabling RunAs v1.0.1
-[05:46:51] [Server thread/INFO]: [AntiCreeper] Enabling AntiCreeper v4.18.1
-[05:46:51] [Server thread/INFO]: [AntiCreeper] brought to you by Filbert66
-[05:46:51] [Server thread/INFO]: [Essentials] Enabling Essentials v2.13.1
-[05:46:51] [Server thread/INFO]: Essentials: Using config file enhanced permissions.
-[05:46:51] [Server thread/INFO]: Permissions listed in as player-commands will be given to all users.
-[05:46:51] [Server thread/INFO]: [Speedcarts] Enabling Speedcarts v1.3.5
-[05:46:51] [Server thread/INFO]: [Speedcarts] Checking for updates...
-[05:46:51] [Server thread/WARN]: [Speedcarts] [33mSpeedcarts could not check for updates [java.net.UnknownHostException: version.znt.se].[m
-[05:46:51] [Server thread/INFO]: [Speedcarts] Speedcarts enabled!
-[05:46:51] [Server thread/INFO]: [GroupManager] Enabling GroupManager v2.1.11 (Phoenix)
-[05:46:51] [Server thread/INFO]: GroupManager - INFO - World Found: kevlar
-[05:46:51] [Server thread/INFO]: GroupManager - INFO - World Found: world
-[05:46:51] [Server thread/INFO]: GroupManager - INFO - Superperms support enabled.
-[05:46:51] [Server thread/INFO]: GroupManager - INFO - Scheduled Data Saving is set for every 10 minutes!
-[05:46:51] [Server thread/INFO]: GroupManager - INFO - Backups will be retained for 24 hours!
-[05:46:51] [Server thread/INFO]: GroupManager version 2.1.11 (Phoenix) is enabled!
-[05:46:51] [Server thread/INFO]: WEPIF: GroupManager detected! Using GroupManager for permissions.
-[05:46:51] [Server thread/INFO]: Essentials: Using GroupManager based permissions.
-[05:46:51] [Server thread/INFO]: [EssentialsChat] Enabling EssentialsChat v2.13.1
-[05:46:51] [Server thread/INFO]: [EssentialsProtect] Enabling EssentialsProtect v2.13.1
-[05:46:51] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[05:46:51] [Server thread/INFO]: Done (1.744s)! For help, type "help" or "?"
-[05:46:51] [Server thread/INFO]: GroupManager - INFO - Bukkit Permissions Updated!
-[07:17:53] [Server thread/INFO]: korvallis[/98.246.222.7:42094] logged in with entity id 217 at ([kevlar] 1.5044253754624726, 127.66103997699854, 669.3149092423401)
-[07:18:25] [Server thread/INFO]: korvallis issued server command: /weather set sunny
-[07:18:35] [Server thread/INFO]: korvallis issued server command: /toggledownfall
-[07:18:35] [Server thread/INFO]: korvallis: Toggling downfall on for world 'kevlar'
-[07:18:40] [Server thread/INFO]: korvallis issued server command: /toggledownfall
-[07:18:40] [Server thread/INFO]: korvallis: Toggling downfall off for world 'kevlar'
-[07:19:04] [Server thread/INFO]: korvallis issued server command: /gamemode c
-[07:19:04] [Server thread/INFO]: [WorldEdit] Using external NmsBlock for this version: CBXNmsBlock_175_5xcompat
-[07:19:24] [Server thread/INFO]: korvallis issued server command: /set 0
-[07:19:24] [Server thread/INFO]: WorldEdit: korvallis (in "kevlar"): /set 0 - Region: (-94.0, 64.0, 708.0) - (-82.0, 66.0, 709.0)
-[07:20:29] [Server thread/INFO]: korvallis issued server command: /set 0
-[07:20:29] [Server thread/INFO]: WorldEdit: korvallis (in "kevlar"): /set 0 - Region: (-89.0, 67.0, 708.0) - (-74.0, 67.0, 709.0)
-[07:20:36] [Server thread/INFO]: korvallis issued server command: /set 0
-[07:20:36] [Server thread/INFO]: WorldEdit: korvallis (in "kevlar"): /set 0 - Region: (-81.0, 64.0, 708.0) - (-74.0, 66.0, 709.0)
-[07:22:07] [Server thread/INFO]: korvallis issued server command: /set 0
-[07:22:07] [Server thread/INFO]: WorldEdit: korvallis (in "kevlar"): /set 0 - Region: (-93.0, 64.0, 699.0) - (-86.0, 66.0, 707.0)
-[07:23:40] [Server thread/INFO]: korvallis issued server command: /set 0
-[07:23:40] [Server thread/INFO]: WorldEdit: korvallis (in "kevlar"): /set 0 - Region: (-93.0, 64.0, 707.0) - (-74.0, 67.0, 710.0)
-[07:24:17] [Server thread/INFO]: korvallis issued server command: /set 0
-[07:24:17] [Server thread/INFO]: WorldEdit: korvallis (in "kevlar"): /set 0 - Region: (-91.0, 64.0, 707.0) - (-63.0, 69.0, 710.0)
-[07:24:45] [Server thread/INFO]: korvallis issued server command: /set c0bble
-[07:24:45] [Server thread/INFO]: WorldEdit: korvallis (in "kevlar"): /set c0bble - Region: (-78.0, 64.0, 708.0) - (-69.0, 64.0, 709.0)
-[07:24:49] [Server thread/INFO]: korvallis issued server command: /set cobble
-[07:24:49] [Server thread/INFO]: WorldEdit: korvallis (in "kevlar"): /set cobble - Region: (-78.0, 64.0, 708.0) - (-69.0, 64.0, 709.0)
-[07:27:10] [Server thread/INFO]: korvallis issued server command: /set 0
-[07:27:10] [Server thread/INFO]: WorldEdit: korvallis (in "kevlar"): /set 0 - Region: (-76.0, 70.0, 707.0) - (-63.0, 70.0, 710.0)
-[07:30:51] [Server thread/INFO]: korvallis issued server command: /set 0
-[07:30:51] [Server thread/INFO]: WorldEdit: korvallis (in "kevlar"): /set 0 - Region: (-64.0, 67.0, 680.0) - (-63.0, 70.0, 711.0)
-[07:31:03] [Server thread/INFO]: korvallis issued server command: /set 0
-[07:31:03] [Server thread/INFO]: WorldEdit: korvallis (in "kevlar"): /set 0 - Region: (-66.0, 66.0, 680.0) - (-65.0, 70.0, 706.0)
-[07:31:32] [Server thread/INFO]: korvallis issued server command: /set 0
-[07:31:32] [Server thread/INFO]: WorldEdit: korvallis (in "kevlar"): /set 0 - Region: (-76.0, 71.0, 707.0) - (-63.0, 78.0, 710.0)
-[07:35:36] [Server thread/INFO]: korvallis issued server command: /set 0
-[07:35:36] [Server thread/INFO]: WorldEdit: korvallis (in "kevlar"): /set 0 - Region: (-81.0, 64.0, 699.0) - (-76.0, 69.0, 705.0)
-[07:35:45] [Server thread/INFO]: korvallis issued server command: /set 0
-[07:35:45] [Server thread/INFO]: WorldEdit: korvallis (in "kevlar"): /set 0 - Region: (-81.0, 64.0, 699.0) - (-75.0, 69.0, 705.0)
-[08:04:26] [Server thread/INFO]: korvallis issued server command: /set 0
-[08:04:26] [Server thread/INFO]: WorldEdit: korvallis (in "kevlar"): /set 0 - Region: (-66.0, 71.0, 688.0) - (-63.0, 74.0, 706.0)
-[08:08:32] [Server thread/INFO]: korvallis issued server command: /set 0
-[08:08:32] [Server thread/INFO]: WorldEdit: korvallis (in "kevlar"): /set 0 - Region: (-65.0, 68.0, 711.0) - (-63.0, 71.0, 720.0)
-[08:08:46] [Server thread/INFO]: korvallis issued server command: /set 0
-[08:08:46] [Server thread/INFO]: WorldEdit: korvallis (in "kevlar"): /set 0 - Region: (-65.0, 72.0, 711.0) - (-63.0, 74.0, 719.0)
-[08:12:40] [Server thread/INFO]: korvallis issued server command: /set 0
-[08:12:40] [Server thread/INFO]: WorldEdit: korvallis (in "kevlar"): /set 0 - Region: (-73.0, 65.0, 698.0) - (-67.0, 74.0, 705.0)
-[08:26:38] [Server thread/INFO]: korvallis issued server command: /set 0
-[08:26:38] [Server thread/INFO]: WorldEdit: korvallis (in "kevlar"): /set 0 - Region: (-73.0, 67.0, 711.0) - (-66.0, 76.0, 717.0)
-[08:26:44] [Server thread/INFO]: korvallis issued server command: /undo
-[08:26:44] [Server thread/INFO]: WorldEdit: korvallis (in "kevlar"): /undo
-[08:26:53] [Server thread/INFO]: korvallis issued server command: /set 0
-[08:26:53] [Server thread/INFO]: WorldEdit: korvallis (in "kevlar"): /set 0 - Region: (-73.0, 67.0, 712.0) - (-66.0, 76.0, 717.0)
-[08:35:21] [Server thread/INFO]: korvallis issued server command: /set 0
-[08:35:21] [Server thread/INFO]: WorldEdit: korvallis (in "kevlar"): /set 0 - Region: (-65.0, 66.0, 720.0) - (-63.0, 74.0, 727.0)
-[08:39:02] [Server thread/INFO]: korvallis issued server command: /regen
-[08:39:02] [Server thread/INFO]: WorldEdit: korvallis (in "kevlar"): /regen - Region: (-66.0, 66.0, 723.0) - (-62.0, 74.0, 727.0)
-[08:44:43] [Server thread/INFO]: korvallis issued server command: /killall mobs
-[09:02:45] [Server thread/INFO]: korvallis issued server command: /set 0
-[09:02:45] [Server thread/INFO]: WorldEdit: korvallis (in "kevlar"): /set 0 - Region: (-82.0, 64.0, 712.0) - (-74.0, 68.0, 716.0)
-[09:05:28] [Server thread/INFO]: korvallis issued server command: /killallmobs
-[09:05:33] [Server thread/INFO]: korvallis issued server command: /killall mobs
-[09:07:23] [Server thread/INFO]: korvallis issued server command: /set 0
-[09:07:23] [Server thread/INFO]: WorldEdit: korvallis (in "kevlar"): /set 0 - Region: (-82.0, 64.0, 717.0) - (-74.0, 68.0, 721.0)
-[09:31:18] [Server thread/INFO]: korvallis lost connection: Disconnected
-[09:31:18] [Server thread/INFO]: korvallis left the game.
-[17:03:35] [Server thread/INFO]: Maximum4[/24.22.82.26:56572] logged in with entity id 107203 at ([kevlar] -265.80082919886934, 64.0, 987.8149418285722)
-[17:03:40] [Server thread/INFO]: Maximum4 issued server command: /gamemode c
-[17:05:43] [Server thread/INFO]: Maximum4 issued server command: /give maximum4 command_block
-[17:05:56] [Server thread/INFO]: Maximum4 issued server command: /give maximum4 command_block
-[17:06:26] [Server thread/INFO]: CommandBlock at -269,59,988 issued server command: /gamemode s Maximum4
-[17:06:29] [Server thread/INFO]: Maximum4 issued server command: /gamemode c
-[17:06:36] [Server thread/INFO]: Maximum4 issued server command: /clear
-[17:06:51] [pool-5-thread-1/INFO]: GroupManager - INFO -  Data files refreshed.
-[17:07:39] [Server thread/INFO]: Maximum4 issued server command: /time set 0
-[17:08:51] [Server thread/INFO]: CommandBlock at -269,59,988 issued server command: /gamemode s Maximum4
-[17:09:05] [Server thread/INFO]: CommandBlock at -269,59,988 issued server command: /gamemode s Maximum4
-[17:09:11] [Server thread/INFO]: Maximum4 issued server command: /gamemode c
-[17:18:10] [Server thread/INFO]: Maximum4 issued server command: /time set 0
-[17:28:19] [Server thread/INFO]: Maximum4 issued server command: /time set 0
-[17:38:29] [Server thread/INFO]: Maximum4 issued server command: /time set 0
-[17:44:18] [Server thread/INFO]: Maximum4 lost connection: Disconnected
-[17:44:18] [Server thread/INFO]: Maximum4 left the game.
-[17:53:56] [Server thread/INFO]: korvallis[/98.246.222.7:39293] logged in with entity id 156493 at ([kevlar] -74.98729159751238, 70.90382684863792, 709.0832608608767)
-[17:54:03] [Server thread/INFO]: korvallis issued server command: /gamemode c
-[17:54:06] [Server thread/INFO]: korvallis issued server command: /time set day
-[18:03:50] [Server thread/INFO]: korvallis issued server command: /set 0
-[18:03:50] [Server thread/INFO]: WorldEdit: korvallis (in "kevlar"): /set 0 - Region: (-62.0, 66.0, 690.0) - (-57.0, 74.0, 696.0)
-[18:06:42] [Server thread/INFO]: korvallis issued server command: /undo
-[18:06:42] [Server thread/INFO]: WorldEdit: korvallis (in "kevlar"): /undo
-[18:06:57] [Server thread/INFO]: korvallis issued server command: /set 0
-[18:06:57] [Server thread/INFO]: WorldEdit: korvallis (in "kevlar"): /set 0 - Region: (-62.0, 66.0, 690.0) - (-57.0, 73.0, 696.0)
-[18:11:59] [Server thread/INFO]: korvallis issued server command: /set 0
-[18:11:59] [Server thread/INFO]: WorldEdit: korvallis (in "kevlar"): /set 0 - Region: (-61.0, 67.0, 682.0) - (-57.0, 69.0, 688.0)
-[18:17:36] [Server thread/INFO]: Kevlar[/192.168.1.156:65117] logged in with entity id 180070 at ([kevlar] -118.37842308793492, 73.54278669770211, 736.0982086260489)
-[18:17:44] [Server thread/INFO]: Kevlar issued server command: /tp korvallis
-[18:18:02] [Netty IO #1/INFO]: <Kevlar> ching chong
-[18:18:06] [Netty IO #0/INFO]: <korvallis> yep
-[18:18:17] [Netty IO #0/INFO]: <korvallis> look down the hallway
-[18:18:23] [Netty IO #1/INFO]: <Kevlar> so narrow??
-[18:18:28] [Netty IO #0/INFO]: <korvallis> yes
-[18:18:36] [Server thread/INFO]: Kevlar issued server command: /gm c
-[18:18:45] [Server thread/INFO]: korvallis issued server command: /suposed to be narrow
-[18:18:51] [Netty IO #0/INFO]: <korvallis> supposed to be narrow
-[18:19:17] [Netty IO #0/INFO]: <korvallis> still woking on down here
-[18:19:36] [Server thread/INFO]: Kevlar lost connection: Disconnected
-[18:19:36] [Server thread/INFO]: Kevlar left the game.
-[18:20:47] [Server thread/INFO]: korvallis issued server command: /killall mobs
-[18:29:51] [Server thread/INFO]: Maximum4[/24.22.82.26:56876] logged in with entity id 190911 at ([kevlar] -255.9108649632691, 78.74172709945104, 982.4436806327886)
-[18:29:54] [Server thread/INFO]: korvallis issued server command: /toggledownfall
-[18:29:54] [Server thread/INFO]: korvallis: Toggling downfall off for world 'kevlar'
-[18:29:59] [Server thread/INFO]: korvallis issued server command: /time set day
-[18:30:00] [Server thread/INFO]: Maximum4 issued server command: /gamemode c
-[18:40:25] [Server thread/INFO]: Maximum4 issued server command: /time set 0
-[18:47:47] [Server thread/INFO]: korvallis issued server command: /set 0
-[18:47:47] [Server thread/INFO]: WorldEdit: korvallis (in "kevlar"): /set 0 - Region: (-90.0, 64.0, 712.0) - (-85.0, 68.0, 718.0)
-[18:49:14] [Server thread/INFO]: Maximum4 issued server command: /give maximum4 command_block
-[18:49:22] [Server thread/INFO]: Maximum4 issued server command: /give maximum4 command_block
-[18:49:34] [Server thread/INFO]: Maximum4 issued server command: /give maximum4 command_block
-[18:49:46] [Server thread/INFO]: Maximum4 issued server command: /give maximum4 command_block
-[18:51:18] [Server thread/INFO]: Maximum4 issued server command: /time set 0
-[18:55:26] [Server thread/INFO]: [@: Block placed]
-[18:56:20] [Server thread/INFO]: korvallis issued server command: /tp Maximum4
-[18:56:33] [Server thread/INFO]: korvallis issued server command: /thru
-[18:56:33] [Server thread/INFO]: WorldEdit: korvallis (in "kevlar"): thru
-[18:56:36] [Server thread/INFO]: korvallis issued server command: /thru
-[18:56:36] [Server thread/INFO]: WorldEdit: korvallis (in "kevlar"): thru
-[18:56:40] [Server thread/INFO]: korvallis issued server command: /thru
-[18:56:40] [Server thread/INFO]: WorldEdit: korvallis (in "kevlar"): thru
-[18:56:43] [Server thread/INFO]: korvallis issued server command: /thru
-[18:56:43] [Server thread/INFO]: WorldEdit: korvallis (in "kevlar"): thru
-[18:56:46] [Server thread/INFO]: korvallis issued server command: /thru
-[18:56:46] [Server thread/INFO]: WorldEdit: korvallis (in "kevlar"): thru
-[18:58:11] [Server thread/INFO]: [@: Block placed]
-[18:58:41] [Server thread/INFO]: Faytkneas[/71.63.248.232:51709] logged in with entity id 249916 at ([kevlar] 198.06712152678625, 71.90382143613951, 566.558747839378)
-[18:58:59] [Server thread/INFO]: Maximum4 issued server command: /tphere faytkneas
-[18:59:39] [Server thread/INFO]: Maximum4 issued server command: /gamemode c faytkneas
-[19:00:25] [Server thread/INFO]: [@: Block placed]
-[19:00:27] [Server thread/INFO]: Maximum4 issued server command: /toggledownfall
-[19:00:27] [Server thread/INFO]: Maximum4: Toggling downfall off for world 'kevlar'
-[19:00:49] [Server thread/INFO]: Maximum4 issued server command: /tphere faytkneas
-[19:01:25] [Server thread/INFO]: Maximum4 issued server command: /time set 0
-[19:02:25] [Server thread/INFO]: Maximum4 issued server command: /give maximum4 barrier
-[19:02:29] [Server thread/INFO]: Maximum4 issued server command: /give maximum4 barrier_block
-[19:02:44] [Server thread/INFO]: [@: Block placed]
-[19:04:44] [Server thread/INFO]: [@: Block placed]
-[19:04:44] [Server thread/INFO]: [@: Block placed]
-[19:04:44] [Server thread/INFO]: [@: Block placed]
-[19:05:48] [Server thread/INFO]: [@: Block placed]
-[19:05:48] [Server thread/INFO]: [@: Block placed]
-[19:05:48] [Server thread/INFO]: [@: Block placed]
-[19:05:52] [Server thread/INFO]: [@: Block placed]
-[19:06:00] [Server thread/INFO]: [@: Block placed]
-[19:06:14] [Server thread/INFO]: [@: Block placed]
-[19:06:14] [Server thread/INFO]: [@: Block placed]
-[19:06:42] [Server thread/INFO]: [@: Block placed]
-[19:06:51] [pool-5-thread-1/INFO]: GroupManager - INFO -  Data files refreshed.
-[19:07:52] [Server thread/INFO]: [@: Block placed]
-[19:09:10] [Server thread/INFO]: Maximum4 issued server command: /op faytkneas
-[19:09:10] [Server thread/INFO]: Maximum4: Opped faytkneas
-[19:10:17] [Server thread/INFO]: Kevlar[/192.168.1.156:65191] logged in with entity id 281208 at ([kevlar] -100.94774475007559, 64.0, 707.6542723556406)
-[19:10:22] [Server thread/INFO]: Kevlar issued server command: /
-[19:10:22] [Server thread/INFO]: WorldEdit: Kevlar (in "kevlar"): /
-[19:10:23] [Server thread/INFO]: Kevlar issued server command: /
-[19:10:23] [Server thread/INFO]: WorldEdit: Kevlar (in "kevlar"): /
-[19:10:25] [Netty IO #6/INFO]: <Kevlar> yoooo
-[19:10:27] [Netty IO #5/INFO]: <Faytkneas> hi keviinnn
-[19:10:32] [Netty IO #6/INFO]: <Kevlar> ppl who are oping each other
-[19:10:32] [Netty IO #3/INFO]: <Maximum4> hi
-[19:10:36] [Netty IO #6/INFO]: <Kevlar> be careful pls
-[19:10:43] [Netty IO #6/INFO]: <Kevlar> no world edit i can see the command logs
-[19:10:48] [Netty IO #3/INFO]: <Maximum4> i opped aaron
-[19:10:53] [Netty IO #6/INFO]: <Kevlar> that all good
-[19:11:00] [Netty IO #6/INFO]: <Kevlar> no world edit commands
-[19:11:00] [Server thread/INFO]: HurskyMurster[/73.96.87.228:59507] logged in with entity id 282499 at ([kevlar] 131.5, 66.0, 256.5)
-[19:11:00] [pool-4-thread-1/INFO]: Creating empty config: /home/mc/mc/yold-bukkit/plugins/Essentials/userdata/hurskymurster.yml
-[19:11:02] [Netty IO #3/INFO]: <Maximum4> so we cant use /setblock? even if its just a few blocks?
-[19:11:08] [Netty IO #3/INFO]: <Maximum4> im using it for a parkour
-[19:11:11] [Server thread/INFO]: HurskyMurster issued server command: /gamemode 2
-[19:11:11] [Server thread/INFO]: §cHurskyMurster §4was denied access to command.
-[19:11:20] [Server thread/INFO]: CommandBlock at 128,63,257 issued server command: /gm c HurskyMurster
-[19:11:20] [Server thread/INFO]: CommandBlock at 133,63,257 issued server command: /warp citycenter HurskyMurster
-[19:11:31] [Netty IO #6/INFO]: <Kevlar> boi if i have to reset this world to a previous save imma be pissed thats all im saying
-[19:11:39] [Netty IO #6/INFO]: <Kevlar> just especially no copy paste
-[19:11:43] [Server thread/INFO]: Kevlar issued server command: /tp Maximum4
-[19:11:49] [Server thread/INFO]: Faytkneas issued server command: /tp HurskyMurster Faytkneas
-[19:11:57] [Netty IO #3/INFO]: <Maximum4> ok so i can still do it but just don't do a ton of blocks or copy and paste
-[19:11:58] [Netty IO #6/INFO]: <Kevlar> yo wtf is htis
-[19:12:05] [Netty IO #6/INFO]: <Kevlar> yeah be real careful
-[19:12:13] [Server thread/INFO]: Kevlar issued server command: /gm c
-[19:12:14] [Netty IO #3/INFO]: <Maximum4> it spawns anvils that you run across
-[19:12:32] [Netty IO #6/INFO]: <Kevlar> lmao where is this in the city
-[19:12:39] [Netty IO #3/INFO]: <Maximum4> in a lake
-[19:12:42] [Netty IO #0/INFO]: <korvallis> its past watchtower
-[19:12:44] [Server thread/INFO]: Kevlar issued server command: /time set day
-[19:12:49] [Netty IO #6/INFO]: <Kevlar> ok good place
-[19:12:50] [Server thread/INFO]: [@: Block placed]
-[19:12:59] [Netty IO #6/INFO]: <Kevlar> thanks ttyl
-[19:13:01] [Server thread/INFO]: Kevlar lost connection: Disconnected
-[19:13:01] [Server thread/INFO]: Kevlar left the game.
-[19:13:14] [Server thread/INFO]: [@: Block placed]
-[19:13:15] [Server thread/INFO]: [@: Block placed]
-[19:13:15] [Server thread/INFO]: [@: Block placed]
-[19:13:16] [Server thread/INFO]: [@: Block placed]
-[19:13:16] [Server thread/INFO]: [@: Block placed]
-[19:13:17] [Server thread/INFO]: [@: Block placed]
-[19:13:17] [Server thread/INFO]: [@: Block placed]
-[19:13:46] [Server thread/INFO]: [@: Block placed]
-[19:14:30] [Server thread/INFO]: HurskyMurster lost connection: Disconnected
-[19:14:30] [Server thread/INFO]: HurskyMurster left the game.
-[19:15:02] [Netty IO #5/INFO]: <Faytkneas> can we give ouselves barriers
-[19:15:52] [Server thread/INFO]: HeroicKiwi1[/73.240.14.81:61508] logged in with entity id 292891 at ([kevlar] -212.65686629465128, 75.0, 943.2453546096909)
-[19:15:54] [Server thread/INFO]: HeroicKiwi1 lost connection: Internal Exception: java.io.IOException: Connection reset by peer
-[19:15:54] [Server thread/INFO]: HeroicKiwi1 left the game.
-[19:16:32] [Server thread/INFO]: korvallis issued server command: /thru
-[19:16:32] [Server thread/INFO]: WorldEdit: korvallis (in "kevlar"): thru
-[19:16:51] [pool-5-thread-1/INFO]: GroupManager - INFO -  Data files refreshed.
-[19:17:11] [Server thread/INFO]: [@: Block placed]
-[19:17:11] [Server thread/INFO]: [@: Block placed]
-[19:17:11] [Server thread/INFO]: [@: Block placed]
-[19:17:11] [Server thread/INFO]: [@: Block placed]
-[19:17:12] [Server thread/INFO]: [@: Block placed]
-[19:17:12] [Server thread/INFO]: [@: Block placed]
-[19:17:12] [Server thread/INFO]: [@: Block placed]
-[19:17:13] [Server thread/INFO]: [@: Block placed]
-[19:17:13] [Server thread/INFO]: [@: Block placed]
-[19:17:14] [Server thread/INFO]: [@: Block placed]
-[19:17:14] [Server thread/INFO]: [@: Block placed]
-[19:17:14] [Server thread/INFO]: [@: Block placed]
-[19:17:15] [Server thread/INFO]: HeroicKiwi1[/73.240.14.81:50385] logged in with entity id 296321 at ([kevlar] -212.65686629465128, 75.0, 943.2453546096909)
-[19:17:17] [Server thread/INFO]: HeroicKiwi1 lost connection: Internal Exception: java.io.IOException: Connection reset by peer
-[19:17:17] [Server thread/INFO]: HeroicKiwi1 left the game.
-[19:17:20] [Server thread/INFO]: [@: Block placed]
-[19:17:20] [Server thread/INFO]: [@: Block placed]
-[19:17:20] [Server thread/INFO]: [@: Block placed]
-[19:17:20] [Server thread/INFO]: [@: Block placed]
-[19:17:21] [Server thread/INFO]: [@: Block placed]
-[19:17:21] [Server thread/INFO]: [@: Block placed]
-[19:17:21] [Server thread/INFO]: [@: Block placed]
-[19:17:22] [Server thread/INFO]: [@: Block placed]
-[19:17:22] [Server thread/INFO]: [@: Block placed]
-[19:17:22] [Server thread/INFO]: [@: Block placed]
-[19:17:23] [Server thread/INFO]: [@: Block placed]
-[19:17:23] [Server thread/INFO]: [@: Block placed]
-[19:17:36] [Server thread/INFO]: [@: Block placed]
-[19:17:36] [Server thread/INFO]: [@: Block placed]
-[19:17:36] [Server thread/INFO]: [@: Block placed]
-[19:17:37] [Server thread/INFO]: [@: Block placed]
-[19:17:37] [Server thread/INFO]: [@: Block placed]
-[19:17:37] [Server thread/INFO]: [@: Block placed]
-[19:17:38] [Server thread/INFO]: [@: Block placed]
-[19:17:38] [Server thread/INFO]: [@: Block placed]
-[19:17:39] [Server thread/INFO]: [@: Block placed]
-[19:17:39] [Server thread/INFO]: korvallis issued server command: /
-[19:17:39] [Server thread/INFO]: WorldEdit: korvallis (in "kevlar"): /
-[19:17:39] [Server thread/INFO]: [@: Block placed]
-[19:17:39] [Server thread/INFO]: [@: Block placed]
-[19:17:39] [Server thread/INFO]: [@: Block placed]
-[19:17:40] [Server thread/INFO]: korvallis issued server command: /
-[19:17:40] [Server thread/INFO]: WorldEdit: korvallis (in "kevlar"): /
-[19:17:45] [Server thread/INFO]: [@: Block placed]
-[19:17:45] [Server thread/INFO]: [@: Block placed]
-[19:17:45] [Server thread/INFO]: [@: Block placed]
-[19:17:46] [Server thread/INFO]: [@: Block placed]
-[19:17:46] [Server thread/INFO]: [@: Block placed]
-[19:17:46] [Server thread/INFO]: [@: Block placed]
-[19:17:47] [Server thread/INFO]: [@: Block placed]
-[19:17:47] [Server thread/INFO]: [@: Block placed]
-[19:17:47] [Server thread/INFO]: [@: Block placed]
-[19:17:48] [Server thread/INFO]: [@: Block placed]
-[19:17:48] [Server thread/INFO]: [@: Block placed]
-[19:17:48] [Server thread/INFO]: [@: Block placed]
-[19:17:56] [Server thread/INFO]: [@: Block placed]
-[19:17:56] [Server thread/INFO]: [@: Block placed]
-[19:17:56] [Server thread/INFO]: [@: Block placed]
-[19:17:56] [Server thread/INFO]: [@: Block placed]
-[19:17:57] [Server thread/INFO]: [@: Block placed]
-[19:17:57] [Server thread/INFO]: [@: Block placed]
-[19:17:57] [Server thread/INFO]: [@: Block placed]
-[19:17:58] [Server thread/INFO]: [@: Block placed]
-[19:17:58] [Server thread/INFO]: [@: Block placed]
-[19:17:59] [Server thread/INFO]: [@: Block placed]
-[19:17:59] [Server thread/INFO]: [@: Block placed]
-[19:17:59] [Server thread/INFO]: [@: Block placed]
-[19:18:01] [Server thread/INFO]: korvallis issued server command: /say soo much spam
-[19:18:01] [Server thread/INFO]: [korvallis] soo much spam
-[19:18:24] [Server thread/INFO]: [@: Block placed]
-[19:18:24] [Server thread/INFO]: [@: Block placed]
-[19:18:24] [Server thread/INFO]: [@: Block placed]
-[19:18:24] [Server thread/INFO]: [@: Block placed]
-[19:18:25] [Server thread/INFO]: [@: Block placed]
-[19:18:25] [Server thread/INFO]: [@: Block placed]
-[19:18:25] [Server thread/INFO]: [@: Block placed]
-[19:18:26] [Server thread/INFO]: [@: Block placed]
-[19:18:26] [Server thread/INFO]: [@: Block placed]
-[19:18:26] [Server thread/INFO]: [@: Block placed]
-[19:18:27] [Server thread/INFO]: [@: Block placed]
-[19:18:27] [Server thread/INFO]: [@: Block placed]
-[19:18:30] [Server thread/INFO]: korvallis issued server command: /thru
-[19:18:30] [Server thread/INFO]: WorldEdit: korvallis (in "kevlar"): thru
-[19:18:46] [Server thread/INFO]: Faytkneas lost connection: Disconnected
-[19:18:46] [Server thread/INFO]: Faytkneas left the game.
-[19:19:04] [Server thread/INFO]: Maximum4 lost connection: Disconnected
-[19:19:04] [Server thread/INFO]: Maximum4 left the game.
-[19:27:14] [Server thread/INFO]: CommandBlock at -86,66,756 issued server command: /warp dildo korvallis
-[19:27:25] [Server thread/INFO]: CommandBlock at -348,82,654 issued server command: /give korvallis stick 1 lore:sword_of_champions name:dildo
-[19:27:31] [Server thread/INFO]: CommandBlock at -348,82,654 issued server command: /give korvallis stick 1 lore:sword_of_champions name:dildo
-[19:27:37] [Server thread/INFO]: korvallis issued server command: /back
-[19:28:03] [Server thread/INFO]: korvallis issued server command: /timesetday
-[19:28:06] [Server thread/INFO]: korvallis issued server command: /time set day
-[19:30:19] [Server thread/INFO]: korvallis issued server command: /restore
-[19:30:19] [Server thread/INFO]: WorldEdit: korvallis (in "kevlar"): restore - Region: (5.0, 62.0, 756.0) - (22.0, 105.0, 765.0)
-[19:30:25] [Server thread/INFO]: korvallis issued server command: /regen
-[19:30:25] [Server thread/INFO]: WorldEdit: korvallis (in "kevlar"): /regen - Region: (5.0, 62.0, 756.0) - (22.0, 105.0, 765.0)
-[19:32:27] [Server thread/INFO]: korvallis issued server command: /set 17 0
-[19:32:35] [Server thread/INFO]: korvallis issued server command: /replace 17 0
-[19:32:35] [Server thread/INFO]: WorldEdit: korvallis (in "kevlar"): /replace 17 0 - Region: (-105.0, 67.0, 731.0) - (-83.0, 76.0, 762.0)
-[19:39:46] [Server thread/INFO]: korvallis issued server command: /time set day
-[19:41:17] [Server thread/INFO]: Kevlar[/192.168.1.156:65374] logged in with entity id 330258 at ([kevlar] -251.20997844181065, 112.70730305936603, 980.9426022344987)
-[19:41:22] [Server thread/INFO]: Kevlar issued server command: /list
-[19:41:30] [Netty IO #5/INFO]: <Kevlar> hiya
-[19:41:33] [Netty IO #5/INFO]: <Kevlar> r u afk
-[19:41:41] [Netty IO #0/INFO]: <korvallis> nope
-[19:41:43] [Netty IO #5/INFO]: <Kevlar> server is reboot in a few secs
-[19:41:47] [Server thread/INFO]: korvallis issued server command: /kk
-[19:41:48] [Netty IO #5/INFO]: <Kevlar> to save state is ok
-[19:41:50] [Netty IO #0/INFO]: <korvallis> kkk
-[19:41:54] [Netty IO #0/INFO]: <korvallis> yes save
-[19:41:56] [Server thread/INFO]: korvallis lost connection: Disconnected
-[19:41:56] [Server thread/INFO]: korvallis left the game.
-[19:42:26] [Thread-3/INFO]: Stopping server
+[00:18:50] [Server thread/INFO]: Maximum4[/24.22.82.26:55964] logged in with entity id 3160337 at ([kevlar] 70.68791063189984, 91.64386883508992, 744.7940522311522)
+[00:19:11] [Server thread/INFO]: Maximum4 issued server command: /warp pool
+[00:22:33] [Server thread/INFO]: Maximum4 issued server command: /warp mansion
+[00:23:44] [Server thread/INFO]: Maximum4 lost connection: Disconnected
+[00:23:44] [Server thread/INFO]: Maximum4 left the game.
+[02:24:37] [Server thread/INFO]: Maximum4[/24.22.82.26:56392] logged in with entity id 3169396 at ([kevlar] 199.32702649380113, 73.02882136364914, 568.972293912852)
+[02:24:54] [Server thread/INFO]: Maximum4 issued server command: /warp citycenter
+[02:27:08] [Server thread/INFO]: Maximum4 issued server command: /warp pool
+[02:28:04] [Server thread/INFO]: Maximum4 issued server command: /toggledownfall
+[02:28:04] [Server thread/INFO]: Maximum4: Toggling downfall off for world 'kevlar'
+[02:28:59] [Server thread/INFO]: Maximum4 issued server command: /home
+[02:29:08] [Server thread/INFO]: Maximum4 issued server command: /warp citycenter
+[02:29:33] [Server thread/INFO]: Maximum4 issued server command: /time set 0
+[02:41:05] [Server thread/INFO]: Maximum4 issued server command: /time set 0
+[02:44:14] [Server thread/INFO]: Maximum4 lost connection: Disconnected
+[02:44:14] [Server thread/INFO]: Maximum4 left the game.
+[02:44:21] [Server thread/INFO]: Maximum4[/24.22.82.26:56428] logged in with entity id 3200585 at ([kevlar] 58.978456567629706, 78.49875446132847, 719.8411827861808)
+[02:44:36] [Server thread/INFO]: Maximum4 lost connection: Disconnected
+[02:44:36] [Server thread/INFO]: Maximum4 left the game.
+[03:32:09] [Server thread/INFO]: Maximum4[/24.22.82.26:57614] logged in with entity id 3201296 at ([kevlar] 53.94997911572016, 76.0, 719.4711571467851)
+[03:32:14] [Server thread/INFO]: Maximum4 issued server command: /time set 0
+[03:32:47] [Server thread/INFO]: Maximum4 issued server command: /clear
+[03:42:46] [Server thread/INFO]: Maximum4 lost connection: Disconnected
+[03:42:46] [Server thread/INFO]: Maximum4 left the game.
+[04:37:40] [Server thread/INFO]: Kevlar[/192.168.1.156:50944] logged in with entity id 3216761 at ([kevlar] 63.6071709519664, 93.49057272589123, 749.2085561571218)
+[04:37:45] [Netty IO #4/INFO]: <Kevlar> tf im the only one in
+[04:38:34] [Server thread/INFO]: Kevlar issued server command: /thru
+[04:38:34] [Server thread/INFO]: WorldEdit: Kevlar (in "kevlar"): thru
+[04:38:36] [Server thread/INFO]: Kevlar issued server command: /thru
+[04:38:36] [Server thread/INFO]: WorldEdit: Kevlar (in "kevlar"): thru
+[04:38:39] [Server thread/INFO]: Kevlar issued server command: /thru
+[04:38:39] [Server thread/INFO]: WorldEdit: Kevlar (in "kevlar"): thru
+[04:38:49] [Server thread/INFO]: Kevlar issued server command: /thru
+[04:38:49] [Server thread/INFO]: WorldEdit: Kevlar (in "kevlar"): thru
+[04:38:57] [Server thread/INFO]: Kevlar issued server command: /j
+[04:38:57] [Server thread/INFO]: WorldEdit: Kevlar (in "kevlar"): jumpto
+[04:39:14] [Server thread/INFO]: Kevlar issued server command: /j
+[04:39:14] [Server thread/INFO]: WorldEdit: Kevlar (in "kevlar"): jumpto
+[04:40:26] [Server thread/INFO]: Kevlar issued server command: /
+[04:40:26] [Server thread/INFO]: WorldEdit: Kevlar (in "kevlar"): /
+[04:40:28] [Server thread/INFO]: Kevlar issued server command: /www
+[04:40:40] [Server thread/INFO]: Kevlar lost connection: Disconnected
+[04:40:40] [Server thread/INFO]: Kevlar left the game.
+[05:09:43] [Server thread/INFO]: Kevlar[/192.168.1.156:51290] logged in with entity id 3225306 at ([kevlar] -94.5263271538555, 111.11860471311005, 596.7127190569605)
+[05:10:04] [Server thread/INFO]: Kevlar issued server command: /
+[05:10:04] [Server thread/INFO]: WorldEdit: Kevlar (in "kevlar"): /
+[05:10:04] [Server thread/INFO]: Kevlar issued server command: /
+[05:10:04] [Server thread/INFO]: WorldEdit: Kevlar (in "kevlar"): /
+[05:10:09] [Server thread/INFO]: Kevlar lost connection: Internal Exception: java.io.IOException: Connection reset by peer
+[05:10:09] [Server thread/INFO]: Kevlar left the game.
+[05:11:11] [Thread-3/INFO]: Stopping server
