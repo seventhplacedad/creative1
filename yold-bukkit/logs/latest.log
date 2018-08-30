@@ -1,51 +1,83 @@
-[00:18:50] [Server thread/INFO]: Maximum4[/24.22.82.26:55964] logged in with entity id 3160337 at ([kevlar] 70.68791063189984, 91.64386883508992, 744.7940522311522)
-[00:19:11] [Server thread/INFO]: Maximum4 issued server command: /warp pool
-[00:22:33] [Server thread/INFO]: Maximum4 issued server command: /warp mansion
-[00:23:44] [Server thread/INFO]: Maximum4 lost connection: Disconnected
-[00:23:44] [Server thread/INFO]: Maximum4 left the game.
-[02:24:37] [Server thread/INFO]: Maximum4[/24.22.82.26:56392] logged in with entity id 3169396 at ([kevlar] 199.32702649380113, 73.02882136364914, 568.972293912852)
-[02:24:54] [Server thread/INFO]: Maximum4 issued server command: /warp citycenter
-[02:27:08] [Server thread/INFO]: Maximum4 issued server command: /warp pool
-[02:28:04] [Server thread/INFO]: Maximum4 issued server command: /toggledownfall
-[02:28:04] [Server thread/INFO]: Maximum4: Toggling downfall off for world 'kevlar'
-[02:28:59] [Server thread/INFO]: Maximum4 issued server command: /home
-[02:29:08] [Server thread/INFO]: Maximum4 issued server command: /warp citycenter
-[02:29:33] [Server thread/INFO]: Maximum4 issued server command: /time set 0
-[02:41:05] [Server thread/INFO]: Maximum4 issued server command: /time set 0
-[02:44:14] [Server thread/INFO]: Maximum4 lost connection: Disconnected
-[02:44:14] [Server thread/INFO]: Maximum4 left the game.
-[02:44:21] [Server thread/INFO]: Maximum4[/24.22.82.26:56428] logged in with entity id 3200585 at ([kevlar] 58.978456567629706, 78.49875446132847, 719.8411827861808)
-[02:44:36] [Server thread/INFO]: Maximum4 lost connection: Disconnected
-[02:44:36] [Server thread/INFO]: Maximum4 left the game.
-[03:32:09] [Server thread/INFO]: Maximum4[/24.22.82.26:57614] logged in with entity id 3201296 at ([kevlar] 53.94997911572016, 76.0, 719.4711571467851)
-[03:32:14] [Server thread/INFO]: Maximum4 issued server command: /time set 0
-[03:32:47] [Server thread/INFO]: Maximum4 issued server command: /clear
-[03:42:46] [Server thread/INFO]: Maximum4 lost connection: Disconnected
-[03:42:46] [Server thread/INFO]: Maximum4 left the game.
-[04:37:40] [Server thread/INFO]: Kevlar[/192.168.1.156:50944] logged in with entity id 3216761 at ([kevlar] 63.6071709519664, 93.49057272589123, 749.2085561571218)
-[04:37:45] [Netty IO #4/INFO]: <Kevlar> tf im the only one in
-[04:38:34] [Server thread/INFO]: Kevlar issued server command: /thru
-[04:38:34] [Server thread/INFO]: WorldEdit: Kevlar (in "kevlar"): thru
-[04:38:36] [Server thread/INFO]: Kevlar issued server command: /thru
-[04:38:36] [Server thread/INFO]: WorldEdit: Kevlar (in "kevlar"): thru
-[04:38:39] [Server thread/INFO]: Kevlar issued server command: /thru
-[04:38:39] [Server thread/INFO]: WorldEdit: Kevlar (in "kevlar"): thru
-[04:38:49] [Server thread/INFO]: Kevlar issued server command: /thru
-[04:38:49] [Server thread/INFO]: WorldEdit: Kevlar (in "kevlar"): thru
-[04:38:57] [Server thread/INFO]: Kevlar issued server command: /j
-[04:38:57] [Server thread/INFO]: WorldEdit: Kevlar (in "kevlar"): jumpto
-[04:39:14] [Server thread/INFO]: Kevlar issued server command: /j
-[04:39:14] [Server thread/INFO]: WorldEdit: Kevlar (in "kevlar"): jumpto
-[04:40:26] [Server thread/INFO]: Kevlar issued server command: /
-[04:40:26] [Server thread/INFO]: WorldEdit: Kevlar (in "kevlar"): /
-[04:40:28] [Server thread/INFO]: Kevlar issued server command: /www
-[04:40:40] [Server thread/INFO]: Kevlar lost connection: Disconnected
-[04:40:40] [Server thread/INFO]: Kevlar left the game.
-[05:09:43] [Server thread/INFO]: Kevlar[/192.168.1.156:51290] logged in with entity id 3225306 at ([kevlar] -94.5263271538555, 111.11860471311005, 596.7127190569605)
-[05:10:04] [Server thread/INFO]: Kevlar issued server command: /
-[05:10:04] [Server thread/INFO]: WorldEdit: Kevlar (in "kevlar"): /
-[05:10:04] [Server thread/INFO]: Kevlar issued server command: /
-[05:10:04] [Server thread/INFO]: WorldEdit: Kevlar (in "kevlar"): /
-[05:10:09] [Server thread/INFO]: Kevlar lost connection: Internal Exception: java.io.IOException: Connection reset by peer
-[05:10:09] [Server thread/INFO]: Kevlar left the game.
-[05:11:11] [Thread-3/INFO]: Stopping server
+[00:41:11] [Server thread/INFO]: s_mitty[/69.166.47.136:59073] logged in with entity id 891120 at ([kevlar] 412.49301296846556, 97.52936759557846, 562.7194417490033)
+[00:41:57] [pool-6-thread-1/INFO]: GroupManager - INFO -  Data files refreshed.
+[00:48:20] [Server thread/INFO]: s_mitty issued server command: /time day
+[00:59:37] [Server thread/INFO]: s_mitty issued server command: /time day
+[01:16:48] [Server thread/INFO]: s_mitty issued server command: /weather clear
+[01:16:55] [Server thread/INFO]: s_mitty issued server command: /time day
+[01:19:20] [Server thread/INFO]: s_mitty issued server command: //set quartz
+[01:19:20] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /set quartz - Region: (356.0, 62.0, 496.0) - (385.0, 62.0, 509.0)
+[01:19:52] [Server thread/INFO]: s_mitty issued server command: //fill air
+[01:19:59] [Server thread/INFO]: s_mitty issued server command: // set air
+[01:20:06] [Server thread/INFO]: s_mitty issued server command: //set air
+[01:20:06] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /set air - Region: (356.0, 54.0, 496.0) - (385.0, 62.0, 509.0)
+[01:20:28] [Server thread/INFO]: s_mitty issued server command: //set quartz'
+[01:20:28] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /set quartz' - Region: (355.0, 60.0, 495.0) - (385.0, 60.0, 509.0)
+[01:20:35] [Server thread/INFO]: s_mitty issued server command: //set quartz
+[01:20:35] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /set quartz - Region: (355.0, 60.0, 495.0) - (385.0, 60.0, 509.0)
+[01:24:33] [Server thread/INFO]: s_mitty issued server command: /warp citycenter
+[01:25:00] [Server thread/INFO]: s_mitty issued server command: /warp stadium
+[01:25:17] [Server thread/INFO]: CommandBlock at 58,80,589 issued server command: /warp poo s_mitty
+[01:25:22] [Server thread/INFO]: CommandBlock at 81,80,623 issued server command: /warp mushpeen s_mitty
+[01:28:16] [Server thread/INFO]: s_mitty issued server command: /time day
+[01:41:54] [Server thread/INFO]: s_mitty issued server command: /time day
+[01:43:14] [Server thread/INFO]: s_mitty issued server command: /warp aidan
+[01:43:19] [Server thread/INFO]: s_mitty issued server command: /warp smit
+[01:43:28] [Server thread/INFO]: s_mitty issued server command: /war
+[01:43:31] [Server thread/INFO]: s_mitty issued server command: /warp
+[01:43:37] [Server thread/INFO]: s_mitty issued server command: /warp aidansmit
+[01:47:32] [Server thread/INFO]: s_mitty issued server command: /warp airport
+[01:47:38] [Server thread/INFO]: s_mitty issued server command: /warp station
+[01:47:45] [Server thread/INFO]: s_mitty issued server command: /warp centralstation
+[01:47:50] [Server thread/INFO]: s_mitty issued server command: /warp s_mitty
+[01:47:59] [Server thread/INFO]: s_mitty issued server command: /warp citycenter
+[01:50:02] [Server thread/INFO]: s_mitty issued server command: /warp citycenter
+[01:51:19] [Server thread/INFO]: CommandBlock at -68,65,322 issued server command: /warp dropper s_mitty
+[01:51:22] [Server thread/INFO]: CommandBlock at -71,251,327 issued server command: /gamemode survival s_mitty
+[01:51:24] [Server thread/INFO]: @: Set s_mitty's spawnpoint to -70.67875068547225, 250.0, 323.35198861515664
+[01:51:43] [Server thread/INFO]: s_mitty fell from a high place
+[01:51:53] [Server thread/INFO]: s_mitty fell from a high place
+[01:52:04] [Server thread/INFO]: s_mitty fell from a high place
+[01:52:15] [Server thread/INFO]: s_mitty fell from a high place
+[01:53:10] [Server thread/INFO]: s_mitty fell from a high place
+[01:53:49] [Server thread/INFO]: s_mitty fell from a high place
+[01:53:53] [Server thread/INFO]: CommandBlock at -73,251,320 issued server command: /warp park s_mitty
+[01:54:18] [Server thread/INFO]: s_mitty issued server command: /warp themepark
+[01:54:23] [Server thread/INFO]: s_mitty issued server command: /gamemode
+[01:54:30] [Server thread/INFO]: s_mitty issued server command: /gamemode creative
+[01:55:06] [Server thread/INFO]: CommandBlock at -68,65,322 issued server command: /warp dropper s_mitty
+[01:56:33] [Server thread/INFO]: s_mitty issued server command: /warp citycenter
+[01:56:39] [Server thread/INFO]: s_mitty issued server command: /time day
+[01:56:44] [Server thread/INFO]: s_mitty issued server command: /weather clear'
+[01:56:56] [Server thread/INFO]: s_mitty issued server command: /warp boat
+[01:57:00] [Server thread/INFO]: s_mitty issued server command: /warp pirate
+[01:57:05] [Server thread/INFO]: s_mitty issued server command: /warp ship
+[02:00:20] [Server thread/INFO]: CommandBlock at 144,66,128 issued server command: /warp lighttower s_mitty
+[02:01:35] [Server thread/INFO]: @: Given SPEED (ID 1) * 1 to s_mitty for 45 seconds
+[02:01:36] [Server thread/INFO]: @: Given SPEED (ID 1) * 1 to s_mitty for 45 seconds
+[02:01:37] [Server thread/INFO]: @: Given SPEED (ID 1) * 1 to s_mitty for 45 seconds
+[02:01:57] [pool-6-thread-1/INFO]: GroupManager - INFO -  Data files refreshed.
+[02:02:47] [Server thread/INFO]: s_mitty issued server command: /warp ski
+[02:02:51] [Server thread/INFO]: s_mitty issued server command: /warp skiresort
+[02:02:55] [Server thread/INFO]: s_mitty issued server command: /warp skiresort
+[02:03:02] [Server thread/INFO]: s_mitty issued server command: /warp resort
+[02:03:06] [Server thread/INFO]: s_mitty issued server command: /warp
+[02:03:18] [Server thread/INFO]: s_mitty issued server command: /warp 2
+[02:03:25] [Server thread/INFO]: s_mitty issued server command: /warp drewski
+[02:03:49] [Server thread/INFO]: s_mitty issued server command: /warp erikthemepark
+[02:04:04] [Server thread/INFO]: s_mitty issued server command: /warp citycenter
+[02:06:28] [Server thread/INFO]: s_mitty issued server command: /warp ocean
+[02:06:50] [Server thread/INFO]: s_mitty issued server command: /time day
+[02:08:27] [Server thread/INFO]: s_mitty issued server command: /warp citycenter
+[02:10:39] [Server thread/INFO]: s_mitty issued server command: /warp set
+[02:10:46] [Server thread/INFO]: s_mitty issued server command: /warpset airport
+[02:10:57] [Server thread/INFO]: s_mitty issued server command: /warpset
+[02:11:06] [Server thread/INFO]: s_mitty issued server command: /newwarp
+[02:11:12] [Server thread/INFO]: s_mitty issued server command: /setwarp
+[02:11:16] [Server thread/INFO]: s_mitty issued server command: /setwarp airport
+[02:11:16] [pool-4-thread-1/INFO]: Creating empty config: /home/mc/mc/yold-bukkit/plugins/Essentials/warps/airport.yml
+[02:14:28] [Server thread/INFO]: s_mitty lost connection: Disconnected
+[02:14:28] [Server thread/INFO]: s_mitty left the game.
+[04:00:46] [Server thread/INFO]: Kevlar[/192.168.1.1:52551] logged in with entity id 1196150 at ([kevlar] -184.31393432180278, 59.54999998211861, 942.4900000095367)
+[04:00:49] [Server thread/INFO]: Kevlar lost connection: Disconnected
+[04:00:49] [Server thread/INFO]: Kevlar left the game.
+[04:00:53] [Thread-3/INFO]: Stopping server

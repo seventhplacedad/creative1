@@ -1,7 +1,7 @@
 uuid: 62738b54-f1dd-3357-976f-6f4c3053b306
 timestamps:
-  login: 1535345648268
-  logout: 1535348574308
+  login: 1535514930338
+  logout: 1535514939730
   lastteleport: 1535347026518
 ipAddress: 192.168.1.70
 lastlocation:
@@ -13,11 +13,11 @@ lastlocation:
   pitch: 29.972485
 logoutlocation:
   world: kevlar
-  x: -103.49751875702263
-  y: 93.09243603831189
-  z: 336.33692774020335
-  yaw: -97.496826
-  pitch: 16.949953
+  x: -85.44349537094551
+  y: 73.617562640463
+  z: 313.22550738948513
+  yaw: 166.3531
+  pitch: 50.550003
 money: '3'
 godmode: false
 afk: false

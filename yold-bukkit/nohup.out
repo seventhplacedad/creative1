@@ -3640,3 +3640,1403 @@ java.io.IOException: Bad file descriptor
 [05:10:09 INFO]: Kevlar lost connection: Internal Exception: java.io.IOException: Connection reset by peer
 [05:10:09 INFO]: Kevlar left the game.
 [05:11:11 INFO]: Stopping server
+Loading libraries, please wait...
+WARNING: An illegal reflective access operation has occurred
+WARNING: Illegal reflective access by net.minecraft.util.io.netty.util.internal.PlatformDependent0 (file:/home/mc/mc/yold-bukkit/craftbukkit.jar) to field java.nio.DirectByteBuffer.cleaner
+WARNING: Please consider reporting this to the maintainers of net.minecraft.util.io.netty.util.internal.PlatformDependent0
+WARNING: Use --illegal-access=warn to enable warnings of further illegal reflective access operations
+WARNING: All illegal access operations will be denied in a future release
+Aug 28, 2018 6:31:55 AM net.minecraft.util.io.netty.util.internal.PlatformDependent <clinit>
+INFO: Your platform does not provide complete low-level API for accessing direct buffers reliably. Unless explicitly requested, heap buffer will always be preferred to avoid potential system unstability.
+[06:31:55 INFO]: Starting minecraft server version 1.7.9
+[06:31:55 INFO]: Loading properties
+[06:31:55 ERROR]: Exception handling console input
+java.io.IOException: Bad file descriptor
+	at java.base/java.io.FileInputStream.readBytes(Native Method) ~[?:?]
+	at java.base/java.io.FileInputStream.read(FileInputStream.java:280) ~[?:?]
+	at java.base/java.io.BufferedInputStream.fill(BufferedInputStream.java:252) ~[?:?]
+	at java.base/java.io.BufferedInputStream.read(BufferedInputStream.java:271) ~[?:?]
+	at java.base/java.io.FilterInputStream.read(FilterInputStream.java:83) ~[?:?]
+	at org.bukkit.craftbukkit.libs.jline.console.ConsoleReader$1.read(ConsoleReader.java:167) ~[craftbukkit.jar:git-Bukkit-1.7.9-R0.1-10-g8688bd4-b3092jnks]
+	at org.bukkit.craftbukkit.libs.jline.internal.InputStreamReader.read(InputStreamReader.java:267) ~[craftbukkit.jar:git-Bukkit-1.7.9-R0.1-10-g8688bd4-b3092jnks]
+	at org.bukkit.craftbukkit.libs.jline.internal.InputStreamReader.read(InputStreamReader.java:204) ~[craftbukkit.jar:git-Bukkit-1.7.9-R0.1-10-g8688bd4-b3092jnks]
+	at org.bukkit.craftbukkit.libs.jline.console.ConsoleReader.readCharacter(ConsoleReader.java:995) ~[craftbukkit.jar:git-Bukkit-1.7.9-R0.1-10-g8688bd4-b3092jnks]
+	at org.bukkit.craftbukkit.libs.jline.console.ConsoleReader.readLineSimple(ConsoleReader.java:1506) ~[craftbukkit.jar:git-Bukkit-1.7.9-R0.1-10-g8688bd4-b3092jnks]
+	at org.bukkit.craftbukkit.libs.jline.console.ConsoleReader.readLine(ConsoleReader.java:1153) ~[craftbukkit.jar:git-Bukkit-1.7.9-R0.1-10-g8688bd4-b3092jnks]
+	at org.bukkit.craftbukkit.libs.jline.console.ConsoleReader.readLine(ConsoleReader.java:1117) ~[craftbukkit.jar:git-Bukkit-1.7.9-R0.1-10-g8688bd4-b3092jnks]
+	at org.bukkit.craftbukkit.libs.jline.console.ConsoleReader.readLine(ConsoleReader.java:1105) ~[craftbukkit.jar:git-Bukkit-1.7.9-R0.1-10-g8688bd4-b3092jnks]
+	at net.minecraft.server.v1_7_R3.ThreadCommandReader.run(ThreadCommandReader.java:34) [craftbukkit.jar:git-Bukkit-1.7.9-R0.1-10-g8688bd4-b3092jnks]
+[06:31:55 INFO]: Default game type: CREATIVE
+[06:31:55 INFO]: Generating keypair
+[06:31:55 INFO]: Starting Minecraft server on *:25565
+[06:31:55 INFO]: This server is running CraftBukkit version git-Bukkit-1.7.9-R0.1-10-g8688bd4-b3092jnks (MC: 1.7.9) (Implementing API version 1.7.9-R0.2)
+[06:31:56 INFO]: [WorldEdit] Loading WorldEdit v5.6.2
+[06:31:56 INFO]: [SignEdit] Loading SignEdit v3.3.9
+[06:31:56 INFO]: [RunAs] Loading RunAs v1.0.1
+[06:31:56 INFO]: [AntiCreeper] Loading AntiCreeper v4.18.1
+[06:31:56 INFO]: [Essentials] Loading Essentials v2.13.1
+[06:31:56 INFO]: [Speedcarts] Loading Speedcarts v1.3.5
+[06:31:56 INFO]: [GroupManager] Loading GroupManager v2.1.11 (Phoenix)
+[06:31:56 INFO]: [EssentialsChat] Loading EssentialsChat v2.13.1
+[06:31:56 INFO]: [EssentialsProtect] Loading EssentialsProtect v2.13.1
+[06:31:56 WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[06:31:56 WARN]: The server will make no attempt to authenticate usernames. Beware.
+[06:31:56 WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[06:31:56 WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[06:31:56 INFO]: Preparing level "kevlar"
+[06:31:56 INFO]: Preparing start region for level 0 (Seed: -6429030645283485143)
+[06:31:56 INFO]: Preparing start region for level 1 (Seed: -5412670237699833762)
+[06:31:57 INFO]: Preparing start region for level 2 (Seed: -5412670237699833762)
+[06:31:57 INFO]: [WorldEdit] Enabling WorldEdit v5.6.2
+[06:31:57 INFO]: WEPIF: Using the Bukkit Permissions API.
+[06:31:57 INFO]: [SignEdit] Enabling SignEdit v3.3.9
+[06:31:57 INFO]: [RunAs] Enabling RunAs v1.0.1
+[06:31:57 INFO]: [AntiCreeper] Enabling AntiCreeper v4.18.1
+[06:31:57 INFO]: [AntiCreeper] brought to you by Filbert66
+[06:31:57 INFO]: [Essentials] Enabling Essentials v2.13.1
+[06:31:57 INFO]: Essentials: Using config file enhanced permissions.
+[06:31:57 INFO]: Permissions listed in as player-commands will be given to all users.
+[06:31:57 INFO]: [Speedcarts] Enabling Speedcarts v1.3.5
+[06:31:57 INFO]: [Speedcarts] Checking for updates...
+[06:31:57 WARN]: [Speedcarts] [33mSpeedcarts could not check for updates [java.net.UnknownHostException: version.znt.se].[m
+[06:31:57 INFO]: [Speedcarts] Speedcarts enabled!
+[06:31:57 INFO]: [GroupManager] Enabling GroupManager v2.1.11 (Phoenix)
+[06:31:57 INFO]: GroupManager - INFO - World Found: kevlar
+[06:31:57 INFO]: GroupManager - INFO - World Found: world
+[06:31:57 INFO]: GroupManager - INFO - Superperms support enabled.
+[06:31:57 INFO]: GroupManager - INFO - Scheduled Data Saving is set for every 10 minutes!
+[06:31:57 INFO]: GroupManager - INFO - Backups will be retained for 24 hours!
+[06:31:57 INFO]: GroupManager version 2.1.11 (Phoenix) is enabled!
+[06:31:57 INFO]: WEPIF: GroupManager detected! Using GroupManager for permissions.
+[06:31:57 INFO]: Essentials: Using GroupManager based permissions.
+[06:31:57 INFO]: [EssentialsChat] Enabling EssentialsChat v2.13.1
+[06:31:57 INFO]: [EssentialsProtect] Enabling EssentialsProtect v2.13.1
+[06:31:57 INFO]: Server permissions file permissions.yml is empty, ignoring it
+[06:31:57 INFO]: Done (1.933s)! For help, type "help" or "?"
+[06:31:58 INFO]: GroupManager - INFO - Bukkit Permissions Updated!
+[06:31:58 INFO]: Kevlar[/192.168.1.1:51527] logged in with entity id 216 at ([kevlar] -96.50116729683455, 112.23125953551003, 602.2935093810621)
+[06:32:04 INFO]: MASHTHEKEYBOARD[/192.168.1.112:52078] logged in with entity id 1253 at ([kevlar] -116.00636763026033, 67.0, 752.7001897420032)
+[06:32:14 INFO]: MASHTHEKEYBOARD issued server command: /time set day
+[06:32:31 INFO]: [WorldEdit] Using external NmsBlock for this version: CBXNmsBlock_175_5xcompat
+[06:32:49 INFO]: Maximum4[/24.22.82.26:58820] logged in with entity id 2246 at ([kevlar] 61.96446205476358, 92.79055212721693, 720.9807630836658)
+[06:33:00 INFO]: Maximum4 issued server command: /tp mashthekeyboard
+[06:33:06 INFO]: Maximum4 lost connection: Disconnected
+[06:33:06 INFO]: Maximum4 left the game.
+[06:33:12 INFO]: Maximum4[/24.22.82.26:58836] logged in with entity id 3008 at ([kevlar] -122.81192221989143, 81.02697843301002, 749.7191863771184)
+[06:33:26 INFO]: <Maximum4> what are you making
+[06:33:38 INFO]: <MASHTHEKEYBOARD> version of our sunriver house
+[06:33:42 INFO]: <Maximum4> sick
+[06:33:55 INFO]: Maximum4 issued server command: /warp citycenter
+[06:34:48 INFO]: Kevlar issued server command: /warp watchtower
+[06:34:52 INFO]: <Maximum4> erik i need your opinion on something
+[06:34:55 INFO]: <MASHTHEKEYBOARD> what
+[06:34:58 INFO]: Kevlar issued server command: /warp wachtower
+[06:34:59 INFO]: Maximum4 issued server command: /tphere mashthekeyboard
+[06:35:06 INFO]: Kevlar issued server command: /warp watchtowerstation
+[06:35:09 INFO]: <Maximum4> do you think this is too much glass
+[06:35:15 INFO]: <MASHTHEKEYBOARD> yes
+[06:35:19 INFO]: <Maximum4> ok
+[06:35:24 INFO]: <Maximum4> what should i replace it with
+[06:35:39 INFO]: <MASHTHEKEYBOARD> uhhhhh
+[06:35:49 INFO]: Kevlar issued server command: /r MASHTHEKEYBOARD t hi this is houw u can dm
+[06:35:55 INFO]: Kevlar issued server command: /r MASHTHEKEYBOARD t hi this is houw u can dm
+[06:36:03 INFO]: Kevlar issued server command: /run MASHTHEKEYBOARD t hi this is houw u can dm
+[06:36:03 INFO]: <Maximum4> i will probs leave the top but change the bottom with the doors and stuff
+[06:36:09 INFO]: <MASHTHEKEYBOARD> just in fill between the doors
+[06:36:15 INFO]: <Maximum4> ok thanks
+[06:36:18 INFO]: <MASHTHEKEYBOARD> np
+[06:36:20 INFO]: Kevlar issued server command: /run MASHTHEKEYBOARD t Maxim4 hi this is houw u can dm
+[06:36:29 INFO]: Kevlar issued server command: /run MASHTHEKEYBOARD t Maximum4 hi this is houw u can dm
+[06:36:40 INFO]: Maximum4 issued server command: /msg mashthekeyboard i know
+[06:36:53 INFO]: Maximum4 issued server command: /msg mashthekeyboard what chemistry class r u in
+[06:37:16 INFO]: Kevlar issued server command: /killall hostile
+[06:37:17 INFO]: MASHTHEKEYBOARD issued server command: /r Maximum4 they don't have an honors
+[06:37:26 INFO]: Maximum4 issued server command: /msg mashthekeyboard i mean what period
+[06:37:51 INFO]: MASHTHEKEYBOARD issued server command: /r Maximum4 3
+[06:37:59 INFO]: Kevlar issued server command: /wand
+[06:37:59 INFO]: WorldEdit: Kevlar (in "kevlar"): /wand
+[06:37:59 INFO]: Maximum4 issued server command: /msg mashthekeyboard same bro
+[06:38:02 INFO]: <MASHTHEKEYBOARD> neat
+[06:38:08 INFO]: Kevlar issued server command: /j
+[06:38:08 INFO]: WorldEdit: Kevlar (in "kevlar"): jumpto
+[06:38:08 INFO]: Maximum4 issued server command: /msg mashthekeyboard what about study period
+[06:38:12 INFO]: Kevlar issued server command: /j
+[06:38:12 INFO]: WorldEdit: Kevlar (in "kevlar"): jumpto
+[06:38:13 INFO]: Maximum4 issued server command: /msg mashthekeyboard and alg
+[06:38:15 INFO]: Kevlar issued server command: /j
+[06:38:15 INFO]: WorldEdit: Kevlar (in "kevlar"): jumpto
+[06:38:19 INFO]: Maximum4 issued server command: /msg mashthekeyboard and everything else
+[06:38:25 INFO]: Kevlar issued server command: /set poweredrail
+[06:38:25 INFO]: WorldEdit: Kevlar (in "kevlar"): /set poweredrail - Region: (-190.0, 56.0, 957.0) - (-190.0, 56.0, 1224.0)
+[06:38:32 INFO]: Kevlar issued server command: /k
+[06:38:33 INFO]: MASHTHEKEYBOARD issued server command: /r Maximum4 6 for study
+[06:38:33 INFO]: Kevlar issued server command: /j
+[06:38:33 INFO]: WorldEdit: Kevlar (in "kevlar"): jumpto
+[06:38:41 INFO]: Kevlar issued server command: /set poweredrail
+[06:38:41 INFO]: WorldEdit: Kevlar (in "kevlar"): /set poweredrail - Region: (-188.0, 56.0, 957.0) - (-188.0, 56.0, 1224.0)
+[06:38:43 INFO]: Maximum4 issued server command: /msg mashthekeyboard nope
+[06:38:48 INFO]: MASHTHEKEYBOARD issued server command: /r Maximum4 i'll post it in a bit ok?
+[06:38:53 INFO]: Maximum4 issued server command: /msg mashthekeyboard kk
+[06:39:28 INFO]: Kevlar issued server command: /
+[06:39:28 INFO]: WorldEdit: Kevlar (in "kevlar"): /
+[06:41:50 INFO]: Maximum4 issued server command: /msg mashthekeyboard oh i have another thing i need u to see
+[06:41:57 INFO]: GroupManager - INFO -  Data files refreshed.
+[06:42:08 INFO]: MASHTHEKEYBOARD issued server command: /r Maximum4
+[06:42:14 INFO]: MASHTHEKEYBOARD issued server command: /tp Maximum4
+[06:42:22 INFO]: Maximum4 issued server command: /tphere mashthekeyboard
+[06:42:27 INFO]: MASHTHEKEYBOARD issued server command: /r Maximum4 lockers?
+[06:42:32 INFO]: <Maximum4> do these look like lockers?
+[06:42:46 INFO]: MASHTHEKEYBOARD issued server command: /r Maximum4 yeah
+[06:42:50 INFO]: <Maximum4> thanks
+[06:42:52 INFO]: Kevlar issued server command: /expand 2 d
+[06:42:52 INFO]: WorldEdit: Kevlar (in "kevlar"): /expand 2 d - Region: (-191.0, 56.0, 967.0) - (-187.0, 58.0, 967.0)
+[06:42:53 INFO]: MASHTHEKEYBOARD issued server command: /warp citycenter
+[06:42:54 INFO]: Kevlar issued server command: /expand 1 u
+[06:42:54 INFO]: WorldEdit: Kevlar (in "kevlar"): /expand 1 u - Region: (-191.0, 54.0, 967.0) - (-187.0, 58.0, 967.0)
+[06:43:00 INFO]: Maximum4 issued server command: /time set 0
+[06:43:03 INFO]: Kevlar issued server command: /copy
+[06:43:03 INFO]: WorldEdit: Kevlar (in "kevlar"): /copy
+[06:43:06 INFO]: Maximum4 issued server command: /createwarp
+[06:43:19 INFO]: Kevlar issued server command: /schematic save yelpassage
+[06:43:19 INFO]: WorldEdit: Kevlar (in "kevlar"): /schematic save yelpassage
+[06:43:19 INFO]: Kevlar saved /home/mc/mc/yold-bukkit/plugins/WorldEdit/schematics/yelpassage.schematic
+[06:43:20 INFO]: Maximum4 issued server command: /createwarp school
+[06:43:20 INFO]: Creating empty config: /home/mc/mc/yold-bukkit/plugins/Essentials/warps/school.yml
+[06:43:31 INFO]: Kevlar issued server command: /paste
+[06:43:31 INFO]: WorldEdit: Kevlar (in "kevlar"): /paste - Position: (-189.0, 56.0, 982.0)
+[06:43:43 INFO]: Kevlar issued server command: /paste
+[06:43:43 INFO]: WorldEdit: Kevlar (in "kevlar"): /paste - Position: (-189.0, 56.0, 1002.0)
+[06:43:46 INFO]: Kevlar issued server command: /paste
+[06:43:46 INFO]: WorldEdit: Kevlar (in "kevlar"): /paste - Position: (-189.0, 56.0, 1019.0)
+[06:43:53 INFO]: Kevlar issued server command: /paste
+[06:43:53 INFO]: WorldEdit: Kevlar (in "kevlar"): /paste - Position: (-189.0, 56.0, 1030.0)
+[06:43:57 INFO]: Kevlar issued server command: /paste
+[06:43:57 INFO]: WorldEdit: Kevlar (in "kevlar"): /paste - Position: (-189.0, 56.0, 1045.0)
+[06:44:05 INFO]: Kevlar issued server command: /paste
+[06:44:05 INFO]: WorldEdit: Kevlar (in "kevlar"): /paste - Position: (-189.0, 56.0, 1057.0)
+[06:44:10 INFO]: Kevlar issued server command: /paste
+[06:44:10 INFO]: WorldEdit: Kevlar (in "kevlar"): /paste - Position: (-189.0, 56.0, 1070.0)
+[06:44:20 INFO]: Kevlar issued server command: /paste
+[06:44:20 INFO]: WorldEdit: Kevlar (in "kevlar"): /paste - Position: (-189.0, 56.0, 1086.0)
+[06:44:26 INFO]: Kevlar issued server command: /paste
+[06:44:26 INFO]: WorldEdit: Kevlar (in "kevlar"): /paste - Position: (-189.0, 56.0, 1102.0)
+[06:44:31 INFO]: Kevlar issued server command: /paste
+[06:44:31 INFO]: WorldEdit: Kevlar (in "kevlar"): /paste - Position: (-189.0, 56.0, 1116.0)
+[06:44:35 INFO]: Kevlar issued server command: /paste
+[06:44:35 INFO]: WorldEdit: Kevlar (in "kevlar"): /paste - Position: (-189.0, 56.0, 1129.0)
+[06:44:38 INFO]: Kevlar issued server command: /paste
+[06:44:38 INFO]: WorldEdit: Kevlar (in "kevlar"): /paste - Position: (-189.0, 56.0, 1140.0)
+[06:44:44 INFO]: Kevlar issued server command: /paste
+[06:44:44 INFO]: WorldEdit: Kevlar (in "kevlar"): /paste - Position: (-189.0, 56.0, 1153.0)
+[06:44:50 INFO]: Kevlar issued server command: /paste
+[06:44:50 INFO]: WorldEdit: Kevlar (in "kevlar"): /paste - Position: (-189.0, 56.0, 1166.0)
+[06:44:53 INFO]: Kevlar issued server command: /paste
+[06:44:53 INFO]: WorldEdit: Kevlar (in "kevlar"): /paste - Position: (-189.0, 56.0, 1178.0)
+[06:44:56 INFO]: Kevlar issued server command: /paste
+[06:44:56 INFO]: WorldEdit: Kevlar (in "kevlar"): /paste - Position: (-189.0, 56.0, 1191.0)
+[06:45:01 INFO]: Kevlar issued server command: /paste
+[06:45:01 INFO]: WorldEdit: Kevlar (in "kevlar"): /paste - Position: (-189.0, 56.0, 1204.0)
+[06:45:04 INFO]: Kevlar issued server command: /paste
+[06:45:04 INFO]: WorldEdit: Kevlar (in "kevlar"): /paste - Position: (-189.0, 56.0, 1219.0)
+[06:45:26 INFO]: Kevlar issued server command: /rotate 90
+[06:45:26 INFO]: WorldEdit: Kevlar (in "kevlar"): /rotate 90
+[06:45:29 INFO]: Kevlar issued server command: /paste
+[06:45:29 INFO]: WorldEdit: Kevlar (in "kevlar"): /paste - Position: (-174.0, 57.0, 1230.0)
+[06:45:41 INFO]: Kevlar issued server command: /j
+[06:45:41 INFO]: WorldEdit: Kevlar (in "kevlar"): jumpto
+[06:45:42 INFO]: Maximum4 issued server command: //wand
+[06:45:42 INFO]: WorldEdit: Maximum4 (in "kevlar"): /wand
+[06:46:26 INFO]: Kevlar issued server command: /set poweredrail
+[06:46:26 INFO]: WorldEdit: Kevlar (in "kevlar"): /set poweredrail - Region: (-178.0, 57.0, 1231.0) - (103.0, 57.0, 1231.0)
+[06:46:44 INFO]: Kevlar issued server command: /j
+[06:46:44 INFO]: WorldEdit: Kevlar (in "kevlar"): jumpto
+[06:46:46 INFO]: Kevlar issued server command: /j
+[06:46:46 INFO]: WorldEdit: Kevlar (in "kevlar"): jumpto
+[06:46:48 INFO]: Kevlar issued server command: /j
+[06:46:48 INFO]: WorldEdit: Kevlar (in "kevlar"): jumpto
+[06:46:51 INFO]: Kevlar issued server command: /j
+[06:46:51 INFO]: WorldEdit: Kevlar (in "kevlar"): jumpto
+[06:46:58 INFO]: Kevlar issued server command: /set poweredrail
+[06:46:58 INFO]: WorldEdit: Kevlar (in "kevlar"): /set poweredrail - Region: (-178.0, 57.0, 1229.0) - (-178.0, 57.0, 1231.0)
+[06:47:02 INFO]: Kevlar issued server command: /undo
+[06:47:02 INFO]: WorldEdit: Kevlar (in "kevlar"): /undo
+[06:47:04 INFO]: Maximum4 issued server command: //copy
+[06:47:04 INFO]: WorldEdit: Maximum4 (in "kevlar"): /copy
+[06:47:06 INFO]: Maximum4 issued server command: //flip
+[06:47:06 INFO]: WorldEdit: Maximum4 (in "kevlar"): /flip
+[06:47:06 INFO]: Kevlar issued server command: /j
+[06:47:06 INFO]: WorldEdit: Kevlar (in "kevlar"): jumpto
+[06:47:07 INFO]: Kevlar issued server command: /j
+[06:47:07 INFO]: WorldEdit: Kevlar (in "kevlar"): jumpto
+[06:47:07 INFO]: Kevlar issued server command: /j
+[06:47:07 INFO]: WorldEdit: Kevlar (in "kevlar"): jumpto
+[06:47:08 INFO]: Kevlar issued server command: /j
+[06:47:08 INFO]: WorldEdit: Kevlar (in "kevlar"): jumpto
+[06:47:09 INFO]: Kevlar issued server command: /j
+[06:47:09 INFO]: WorldEdit: Kevlar (in "kevlar"): jumpto
+[06:47:13 INFO]: Kevlar issued server command: /set poweredrail
+[06:47:13 INFO]: WorldEdit: Kevlar (in "kevlar"): /set poweredrail - Region: (-178.0, 57.0, 1229.0) - (103.0, 57.0, 1229.0)
+[06:47:15 INFO]: Maximum4 issued server command: //paste
+[06:47:15 INFO]: WorldEdit: Maximum4 (in "kevlar"): /paste - Position: (42.0, 87.0, 746.0)
+[06:47:20 INFO]: Kevlar issued server command: /j
+[06:47:20 INFO]: WorldEdit: Kevlar (in "kevlar"): jumpto
+[06:47:24 INFO]: Maximum4 issued server command: //undo
+[06:47:24 INFO]: WorldEdit: Maximum4 (in "kevlar"): /undo
+[06:47:26 INFO]: Kevlar issued server command: /b
+[06:47:27 INFO]: Kevlar issued server command: /back
+[06:47:33 INFO]: Kevlar issued server command: /warp watchtowerstation
+[06:47:38 INFO]: Maximum4 issued server command: //paste
+[06:47:38 INFO]: WorldEdit: Maximum4 (in "kevlar"): /paste - Position: (56.0, 85.0, 758.0)
+[06:47:41 INFO]: Maximum4 issued server command: //undo
+[06:47:41 INFO]: WorldEdit: Maximum4 (in "kevlar"): /undo
+[06:47:47 INFO]: Maximum4 issued server command: //paste
+[06:47:47 INFO]: WorldEdit: Maximum4 (in "kevlar"): /paste - Position: (43.0, 85.0, 758.0)
+[06:47:51 INFO]: Maximum4 issued server command: //undo
+[06:47:51 INFO]: WorldEdit: Maximum4 (in "kevlar"): /undo
+[06:48:47 INFO]: Kevlar issued server command: /speedcart
+[06:48:49 INFO]: Kevlar issued server command: /speed
+[06:48:59 INFO]: Kevlar issued server command: /sc
+[06:49:09 INFO]: Kevlar issued server command: /j
+[06:49:09 INFO]: WorldEdit: Kevlar (in "kevlar"): jumpto
+[06:49:10 INFO]: Kevlar issued server command: /j
+[06:49:10 INFO]: WorldEdit: Kevlar (in "kevlar"): jumpto
+[06:49:17 INFO]: Kevlar issued server command: /warp watchtowerstation
+[06:49:57 INFO]: Kevlar issued server command: /sc set 4
+[06:50:02 INFO]: Kevlar issued server command: /sc set 16
+[06:50:39 INFO]: Maximum4 issued server command: //copy
+[06:50:39 INFO]: WorldEdit: Maximum4 (in "kevlar"): /copy
+[06:50:39 INFO]: Kevlar issued server command: /sc set 1
+[06:50:42 INFO]: Maximum4 issued server command: //paste
+[06:50:42 INFO]: WorldEdit: Maximum4 (in "kevlar"): /paste - Position: (44.0, 85.0, 759.0)
+[06:50:43 INFO]: Kevlar issued server command: /sc set 1
+[06:50:45 INFO]: Maximum4 issued server command: //paste
+[06:50:45 INFO]: WorldEdit: Maximum4 (in "kevlar"): /paste - Position: (43.0, 85.0, 759.0)
+[06:50:52 INFO]: Maximum4 issued server command: //paste
+[06:50:52 INFO]: WorldEdit: Maximum4 (in "kevlar"): /paste - Position: (49.0, 85.0, 759.0)
+[06:50:56 INFO]: Maximum4 issued server command: //paste
+[06:50:56 INFO]: WorldEdit: Maximum4 (in "kevlar"): /paste - Position: (54.0, 85.0, 759.0)
+[06:51:06 INFO]: Kevlar issued server command: /sc set 1
+[06:51:09 INFO]: Kevlar issued server command: /sc set 1
+[06:51:29 INFO]: Maximum4 issued server command: /tp mashthekeyboard
+[06:51:37 INFO]: Kevlar issued server command: /sc set 1
+[06:51:48 INFO]: <Maximum4> whats this water doing
+[06:51:52 INFO]: MASHTHEKEYBOARD issued server command: /r Maximum4 hot tub
+[06:52:08 INFO]: Kevlar issued server command: /sc set 1
+[06:52:08 INFO]: <Maximum4> u had a hot tub in your house?
+[06:52:19 INFO]: MASHTHEKEYBOARD issued server command: /r Maximum4 yeah
+[06:52:32 INFO]: Kevlar issued server command: /sc
+[06:52:39 INFO]: Maximum4 issued server command: /msg mashthekeyboard wow
+[06:52:48 INFO]: Kevlar issued server command: /sc clean
+[06:52:51 INFO]: Maximum4 issued server command: /msg mashthekeyboard fancy
+[06:53:01 INFO]: Maximum4 issued server command: /warp school
+[06:53:05 INFO]: Maximum4 issued server command: /time set 0
+[06:54:41 INFO]: Kevlar lost connection: Internal Exception: java.io.IOException: Connection reset by peer
+[06:54:41 INFO]: Kevlar left the game.
+[07:00:11 INFO]: Maximum4 issued server command: /time set 0
+[07:00:56 INFO]: Maximum4 issued server command: /tp mashthekeyboard
+[07:01:15 INFO]: Maximum4 issued server command: /warp school
+[07:02:12 INFO]: Maximum4 issued server command: //wand
+[07:02:12 INFO]: WorldEdit: Maximum4 (in "kevlar"): /wand
+[07:03:14 INFO]: Maximum4 issued server command: //replace air 44:9
+[07:03:14 INFO]: WorldEdit: Maximum4 (in "kevlar"): /replace air 44:9 - Region: (70.0, 75.0, 708.0) - (89.0, 75.0, 758.0)
+[07:03:34 INFO]: Maximum4 issued server command: /clear
+[07:04:47 INFO]: Maximum4 issued server command: /toggledownfall
+[07:04:47 INFO]: Maximum4: Toggling downfall off for world 'kevlar'
+[07:08:08 INFO]: Maximum4 lost connection: Disconnected
+[07:08:08 INFO]: Maximum4 left the game.
+[07:08:46 INFO]: MASHTHEKEYBOARD lost connection: Internal Exception: java.io.IOException: Connection reset by peer
+[07:08:46 INFO]: MASHTHEKEYBOARD left the game.
+[07:11:56 INFO]: Maximum4[/24.22.82.26:58896] logged in with entity id 78196 at ([kevlar] 69.06409628323831, 88.0635357291601, 721.127313976634)
+[07:12:08 INFO]: Maximum4 lost connection: Disconnected
+[07:12:08 INFO]: Maximum4 left the game.
+[17:12:47 INFO]: Maximum4[/24.22.82.26:59197] logged in with entity id 78843 at ([kevlar] 72.03271796144966, 78.49064318920136, 738.8708440627245)
+[17:12:58 INFO]: Maximum4 lost connection: Disconnected
+[17:12:58 INFO]: Maximum4 left the game.
+[17:29:19 INFO]: MickeyAndPluto[/192.168.1.70:63532] logged in with entity id 79224 at ([kevlar] -103.49751875702263, 93.09243603831189, 336.33692774020335)
+[17:30:56 INFO]: MickeyAndPluto lost connection: Disconnected
+[17:30:56 INFO]: MickeyAndPluto left the game.
+[17:42:35 INFO]: Maximum4[/24.22.82.26:59310] logged in with entity id 91476 at ([kevlar] 76.57783963575079, 88.60619535887113, 731.2882588582811)
+[17:45:23 INFO]: Maximum4 issued server command: /toggledownfall
+[17:45:23 INFO]: Maximum4: Toggling downfall off for world 'kevlar'
+[17:46:12 INFO]: Maximum4 issued server command: /enchant sharpness 5
+[17:46:41 INFO]: Maximum4 issued server command: /enchant sharpness 10
+[17:46:47 INFO]: Maximum4 issued server command: /enchant sharpness 100
+[17:50:39 INFO]: Maximum4 issued server command: /warp school
+[17:51:10 INFO]: Maximum4 issued server command: /time set 0
+[17:54:15 INFO]: Maximum4 lost connection: Disconnected
+[17:54:15 INFO]: Maximum4 left the game.
+[18:24:32 INFO]: Maximum4[/24.22.82.26:59456] logged in with entity id 102835 at ([kevlar] 70.71840079733661, 76.0, 711.8924299113781)
+[18:24:50 INFO]: Maximum4 lost connection: Disconnected
+[18:24:50 INFO]: Maximum4 left the game.
+[18:52:36 INFO]: Maximum4[/24.22.82.26:59515] logged in with entity id 103305 at ([kevlar] 5.774217842745145, 90.50123140664365, 727.0612339098468)
+[19:01:18 INFO]: Maximum4 issued server command: //wand
+[19:01:18 INFO]: WorldEdit: Maximum4 (in "kevlar"): /wand
+[19:01:28 INFO]: Maximum4 issued server command: //replace iron_block air
+[19:01:28 INFO]: WorldEdit: Maximum4 (in "kevlar"): /replace iron_block air - Region: (74.0, 76.0, 708.0) - (84.0, 82.0, 721.0)
+[19:01:39 INFO]: Maximum4 issued server command: /time set 0
+[19:09:29 INFO]: MickeyAndPluto[/192.168.1.70:64706] logged in with entity id 118266 at ([kevlar] -76.02904871115636, 65.0, 316.13638095112697)
+[19:09:33 INFO]: MickeyAndPluto lost connection: Disconnected
+[19:09:33 INFO]: MickeyAndPluto left the game.
+[19:13:29 INFO]: Maximum4 issued server command: /time set 0
+[19:14:48 INFO]: Maximum4 issued server command: //wand
+[19:14:48 INFO]: WorldEdit: Maximum4 (in "kevlar"): /wand
+[19:15:07 INFO]: Maximum4 issued server command: //replace 44:9 44:7
+[19:15:07 INFO]: WorldEdit: Maximum4 (in "kevlar"): /replace 44:9 44:7 - Region: (74.0, 75.0, 717.0) - (79.0, 75.0, 720.0)
+[19:15:14 INFO]: Maximum4 issued server command: //undo
+[19:15:14 INFO]: WorldEdit: Maximum4 (in "kevlar"): /undo
+[19:15:18 INFO]: Maximum4 issued server command: //replace 44:9 44:10
+[19:15:18 INFO]: WorldEdit: Maximum4 (in "kevlar"): /replace 44:9 44:10 - Region: (74.0, 75.0, 717.0) - (79.0, 75.0, 720.0)
+[19:15:22 INFO]: Maximum4 issued server command: //undo
+[19:15:22 INFO]: WorldEdit: Maximum4 (in "kevlar"): /undo
+[19:15:24 INFO]: Maximum4 issued server command: //replace 44:9 44:11
+[19:15:24 INFO]: WorldEdit: Maximum4 (in "kevlar"): /replace 44:9 44:11 - Region: (74.0, 75.0, 717.0) - (79.0, 75.0, 720.0)
+[19:15:27 INFO]: Maximum4 issued server command: //undo
+[19:15:27 INFO]: WorldEdit: Maximum4 (in "kevlar"): /undo
+[19:15:30 INFO]: Maximum4 issued server command: //replace 44:9 44:12
+[19:15:30 INFO]: WorldEdit: Maximum4 (in "kevlar"): /replace 44:9 44:12 - Region: (74.0, 75.0, 717.0) - (79.0, 75.0, 720.0)
+[19:15:36 INFO]: Maximum4 issued server command: //undo
+[19:15:36 INFO]: WorldEdit: Maximum4 (in "kevlar"): /undo
+[19:15:39 INFO]: Maximum4 issued server command: //replace 44:9 44:13
+[19:15:39 INFO]: WorldEdit: Maximum4 (in "kevlar"): /replace 44:9 44:13 - Region: (74.0, 75.0, 717.0) - (79.0, 75.0, 720.0)
+[19:15:43 INFO]: Maximum4 issued server command: //undo
+[19:15:43 INFO]: WorldEdit: Maximum4 (in "kevlar"): /undo
+[19:15:50 INFO]: Maximum4 issued server command: //replace 44:9 44:14
+[19:15:50 INFO]: WorldEdit: Maximum4 (in "kevlar"): /replace 44:9 44:14 - Region: (74.0, 75.0, 717.0) - (79.0, 75.0, 720.0)
+[19:15:54 INFO]: Maximum4 issued server command: //undo
+[19:15:54 INFO]: WorldEdit: Maximum4 (in "kevlar"): /undo
+[19:15:57 INFO]: Maximum4 issued server command: //replace 44:9 44:15
+[19:15:57 INFO]: WorldEdit: Maximum4 (in "kevlar"): /replace 44:9 44:15 - Region: (74.0, 75.0, 717.0) - (79.0, 75.0, 720.0)
+[19:16:23 INFO]: Maximum4 issued server command: //replace 44:9 44:15
+[19:16:23 INFO]: WorldEdit: Maximum4 (in "kevlar"): /replace 44:9 44:15 - Region: (81.0, 75.0, 709.0) - (86.0, 75.0, 720.0)
+[19:18:52 INFO]: Maximum4 issued server command: /clear
+[19:26:08 INFO]: Maximum4 issued server command: /time set 0
+[19:37:30 INFO]: Maximum4 issued server command: /time set 0
+[19:39:07 INFO]: Maximum4 issued server command: //replace 44:9 44:15
+[19:39:07 INFO]: WorldEdit: Maximum4 (in "kevlar"): /replace 44:9 44:15 - Region: (81.0, 75.0, 709.0) - (86.0, 75.0, 720.0)
+[19:39:12 INFO]: Maximum4 issued server command: //wand
+[19:39:12 INFO]: WorldEdit: Maximum4 (in "kevlar"): /wand
+[19:40:30 INFO]: Maximum4 issued server command: //replace 155:1 44:15
+[19:40:30 INFO]: WorldEdit: Maximum4 (in "kevlar"): /replace 155:1 44:15 - Region: (74.0, 75.0, 709.0) - (79.0, 75.0, 722.0)
+[19:40:41 INFO]: Maximum4 issued server command: /clear
+[20:04:54 INFO]: Maximum4 issued server command: //wand
+[20:04:54 INFO]: WorldEdit: Maximum4 (in "kevlar"): /wand
+[20:05:20 INFO]: Maximum4 issued server command: //copy
+[20:05:20 INFO]: WorldEdit: Maximum4 (in "kevlar"): /copy
+[20:05:28 INFO]: Maximum4 issued server command: //flip
+[20:05:28 INFO]: WorldEdit: Maximum4 (in "kevlar"): /flip
+[20:05:33 INFO]: Maximum4 issued server command: //paste
+[20:05:33 INFO]: WorldEdit: Maximum4 (in "kevlar"): /paste - Position: (85.0, 76.0, 721.0)
+[20:05:38 INFO]: Maximum4 issued server command: //undo
+[20:05:38 INFO]: WorldEdit: Maximum4 (in "kevlar"): /undo
+[20:05:51 INFO]: Maximum4 issued server command: //paste
+[20:05:51 INFO]: WorldEdit: Maximum4 (in "kevlar"): /paste - Position: (86.0, 82.0, 709.0)
+[20:05:57 INFO]: Maximum4 issued server command: //undo
+[20:05:57 INFO]: WorldEdit: Maximum4 (in "kevlar"): /undo
+[20:06:19 INFO]: Maximum4 issued server command: //paste
+[20:06:19 INFO]: WorldEdit: Maximum4 (in "kevlar"): /paste - Position: (86.0, 76.0, 709.0)
+[20:06:23 INFO]: Maximum4 issued server command: //undo
+[20:06:23 INFO]: WorldEdit: Maximum4 (in "kevlar"): /undo
+[20:06:35 INFO]: Maximum4 issued server command: //paste
+[20:06:35 INFO]: WorldEdit: Maximum4 (in "kevlar"): /paste - Position: (84.0, 76.0, 721.0)
+[20:06:43 INFO]: Maximum4 issued server command: //undo
+[20:06:43 INFO]: WorldEdit: Maximum4 (in "kevlar"): /undo
+[20:06:48 INFO]: Maximum4 issued server command: //paste
+[20:06:48 INFO]: WorldEdit: Maximum4 (in "kevlar"): /paste - Position: (81.0, 76.0, 709.0)
+[20:06:51 INFO]: Maximum4 issued server command: //undo
+[20:06:51 INFO]: WorldEdit: Maximum4 (in "kevlar"): /undo
+[20:06:57 INFO]: Maximum4 issued server command: //paste
+[20:06:57 INFO]: WorldEdit: Maximum4 (in "kevlar"): /paste - Position: (81.0, 76.0, 721.0)
+[20:07:02 INFO]: Maximum4 issued server command: //undo
+[20:07:02 INFO]: WorldEdit: Maximum4 (in "kevlar"): /undo
+[20:07:30 INFO]: Maximum4 issued server command: //flip
+[20:07:30 INFO]: WorldEdit: Maximum4 (in "kevlar"): /flip
+[20:07:36 INFO]: Maximum4 issued server command: //paste
+[20:07:36 INFO]: WorldEdit: Maximum4 (in "kevlar"): /paste - Position: (84.0, 76.0, 721.0)
+[20:07:42 INFO]: Maximum4 issued server command: //undo
+[20:07:42 INFO]: WorldEdit: Maximum4 (in "kevlar"): /undo
+[20:08:10 INFO]: Maximum4 issued server command: //copy
+[20:08:10 INFO]: WorldEdit: Maximum4 (in "kevlar"): /copy
+[20:08:17 INFO]: Maximum4 issued server command: //paste
+[20:08:17 INFO]: WorldEdit: Maximum4 (in "kevlar"): /paste - Position: (81.0, 76.0, 720.0)
+[20:09:51 INFO]: Maximum4 issued server command: /time set 0
+[20:15:57 INFO]: Maximum4 issued server command: //replace air quartz_block
+[20:15:57 INFO]: WorldEdit: Maximum4 (in "kevlar"): /replace air quartz_block - Region: (73.0, 83.0, 708.0) - (87.0, 84.0, 721.0)
+[20:17:02 INFO]: Maximum4 issued server command: //copy
+[20:17:02 INFO]: WorldEdit: Maximum4 (in "kevlar"): /copy
+[20:17:05 INFO]: Maximum4 issued server command: //paste
+[20:17:05 INFO]: WorldEdit: Maximum4 (in "kevlar"): /paste - Position: (75.0, 85.0, 721.0)
+[20:17:09 INFO]: Maximum4 issued server command: //paste
+[20:17:09 INFO]: WorldEdit: Maximum4 (in "kevlar"): /paste - Position: (76.0, 85.0, 721.0)
+[20:17:11 INFO]: Maximum4 issued server command: //paste
+[20:17:11 INFO]: WorldEdit: Maximum4 (in "kevlar"): /paste - Position: (77.0, 85.0, 721.0)
+[20:17:22 INFO]: Maximum4 issued server command: //copy
+[20:17:22 INFO]: WorldEdit: Maximum4 (in "kevlar"): /copy
+[20:17:27 INFO]: Maximum4 issued server command: //paste
+[20:17:27 INFO]: WorldEdit: Maximum4 (in "kevlar"): /paste - Position: (81.0, 85.0, 721.0)
+[20:17:32 INFO]: Maximum4 issued server command: //paste
+[20:17:32 INFO]: WorldEdit: Maximum4 (in "kevlar"): /paste - Position: (84.0, 85.0, 721.0)
+[20:17:39 INFO]: Maximum4 issued server command: //paste
+[20:17:39 INFO]: WorldEdit: Maximum4 (in "kevlar"): /paste - Position: (88.0, 85.0, 721.0)
+[20:20:17 INFO]: Maximum4 issued server command: //time set 0
+[20:20:20 INFO]: Maximum4 issued server command: /time set 0
+[20:21:53 INFO]: Ripleey[/24.21.224.17:50550] logged in with entity id 166021 at ([kevlar] 131.5, 70.0, 253.5)
+[20:21:53 INFO]: Creating empty config: /home/mc/mc/yold-bukkit/plugins/Essentials/userdata/ripleey.yml
+[20:21:57 INFO]: GroupManager - INFO -  Data files refreshed.
+[20:22:11 INFO]: <Ripleey> ay yo sup b
+[20:22:15 INFO]: <Maximum4> hey
+[20:22:20 INFO]: Maximum4 issued server command: /tp ripleey
+[20:22:29 INFO]: CommandBlock at 128,63,257 issued server command: /gm c Ripleey
+[20:22:29 INFO]: CommandBlock at 133,63,257 issued server command: /warp citycenter Ripleey
+[20:22:32 INFO]: Maximum4 issued server command: /tp ripleey
+[20:23:16 INFO]: Maximum4 issued server command: /warp school
+[20:23:42 INFO]: <Maximum4> im making a school
+[20:23:45 INFO]: <Ripleey> ok
+[20:24:23 INFO]: Ripleey issued server command: /afk
+[20:24:23 INFO]: §cRipleey §4was denied access to command.
+[20:25:28 INFO]: Maximum4 issued server command: //copy
+[20:25:28 INFO]: WorldEdit: Maximum4 (in "kevlar"): /copy
+[20:25:30 INFO]: Maximum4 issued server command: //flip
+[20:25:30 INFO]: WorldEdit: Maximum4 (in "kevlar"): /flip
+[20:25:36 INFO]: Maximum4 issued server command: //paste
+[20:25:36 INFO]: WorldEdit: Maximum4 (in "kevlar"): /paste - Position: (73.0, 87.0, 721.0)
+[20:25:42 INFO]: Maximum4 issued server command: //undo
+[20:25:42 INFO]: WorldEdit: Maximum4 (in "kevlar"): /undo
+[20:29:05 INFO]: <Ripleey> will maybe come back later
+[20:29:07 INFO]: Ripleey lost connection: Disconnected
+[20:29:07 INFO]: Ripleey left the game.
+[20:30:57 INFO]: Maximum4 issued server command: /toggledownfall
+[20:30:57 INFO]: Maximum4: Toggling downfall off for world 'kevlar'
+[20:31:23 INFO]: Maximum4 issued server command: /time set 0
+[21:05:38 INFO]: Maximum4 issued server command: /time set 0
+[21:08:25 INFO]: CommandBlock at 58,80,589 issued server command: /warp poo Maximum4
+[21:09:00 INFO]: Maximum4 lost connection: Disconnected
+[21:09:00 INFO]: Maximum4 left the game.
+[21:23:04 INFO]: Maximum4[/24.22.82.26:61385] logged in with entity id 229804 at ([kevlar] 93.06763858842749, 83.36512829970259, 551.2261280205855)
+[21:23:12 INFO]: Maximum4 issued server command: /warp school
+[21:23:15 INFO]: Maximum4 issued server command: /time set 0
+[21:25:23 INFO]: Ripleey[/24.21.224.17:51527] logged in with entity id 233458 at ([kevlar] -82.14049109591548, 98.0, 673.3137337854281)
+[21:27:28 INFO]: Maximum4 issued server command: //copy
+[21:27:28 INFO]: WorldEdit: Maximum4 (in "kevlar"): /copy
+[21:27:39 INFO]: Maximum4 issued server command: //paste
+[21:27:39 INFO]: WorldEdit: Maximum4 (in "kevlar"): /paste - Position: (73.0, 89.0, 721.0)
+[21:27:51 INFO]: Maximum4 issued server command: //undo
+[21:27:51 INFO]: WorldEdit: Maximum4 (in "kevlar"): /undo
+[21:28:22 INFO]: Maximum4 issued server command: //copy
+[21:28:22 INFO]: WorldEdit: Maximum4 (in "kevlar"): /copy
+[21:28:34 INFO]: Maximum4 issued server command: //paste
+[21:28:34 INFO]: WorldEdit: Maximum4 (in "kevlar"): /paste - Position: (73.0, 89.0, 721.0)
+[21:30:18 INFO]: Ripleey issued server command: /warp
+[21:30:18 INFO]: §cRipleey §4was denied access to command.
+[21:30:18 INFO]: Ripleey fell out of the world
+[21:30:22 INFO]: CommandBlock at 128,63,257 issued server command: /gm c Ripleey
+[21:30:22 INFO]: CommandBlock at 133,63,257 issued server command: /warp citycenter Ripleey
+[21:33:01 INFO]: Maximum4 issued server command: /warp pool
+[21:33:27 INFO]: Maximum4 issued server command: /warp school
+[21:33:36 INFO]: Maximum4 issued server command: /time set 0
+[21:33:53 INFO]: Maximum4 issued server command: /tp ripleey
+[21:34:08 INFO]: <Ripleey> the underground is very cool
+[21:34:13 INFO]: <Ripleey> nostagialic
+[21:34:36 INFO]: Maximum4 issued server command: /tp ripleey
+[21:36:49 INFO]: Maximum4 issued server command: /tp ripleey
+[21:37:42 INFO]: Maximum4 issued server command: /tp ripleey
+[21:37:52 INFO]: Maximum4 issued server command: /tp ripleey
+[21:38:02 INFO]: <Maximum4> hi
+[21:38:06 INFO]: <Ripleey> hello
+[21:38:24 INFO]: Maximum4 issued server command: /warp school
+[21:38:37 INFO]: Maximum4 issued server command: /toggledownfall
+[21:38:37 INFO]: Maximum4: Toggling downfall off for world 'kevlar'
+[21:38:46 INFO]: Ripleey lost connection: Disconnected
+[21:38:46 INFO]: Ripleey left the game.
+[21:43:30 INFO]: Maximum4 issued server command: //replace air quartz_block
+[21:43:30 INFO]: WorldEdit: Maximum4 (in "kevlar"): /replace air quartz_block - Region: (63.0, 76.0, 759.0) - (89.0, 84.0, 759.0)
+[21:44:13 INFO]: Maximum4 issued server command: /time set 0
+[21:51:29 INFO]: Maximum4 issued server command: //copy
+[21:51:29 INFO]: WorldEdit: Maximum4 (in "kevlar"): /copy
+[21:51:36 INFO]: Maximum4 issued server command: //paste
+[21:51:36 INFO]: WorldEdit: Maximum4 (in "kevlar"): /paste - Position: (74.0, 85.0, 759.0)
+[21:51:46 INFO]: Maximum4 issued server command: //paste
+[21:51:46 INFO]: WorldEdit: Maximum4 (in "kevlar"): /paste - Position: (90.0, 85.0, 759.0)
+[21:52:09 INFO]: Maximum4 issued server command: /time set 0
+[22:00:56 INFO]: Maximum4 lost connection: Disconnected
+[22:00:56 INFO]: Maximum4 left the game.
+[22:52:50 INFO]: MickeyAndPluto[/192.168.1.70:65469] logged in with entity id 297023 at ([kevlar] -76.02904871115636, 65.0, 316.13638095112697)
+[22:56:31 INFO]: MickeyAndPluto lost connection: Internal Exception: java.io.IOException: Connection reset by peer
+[22:56:31 INFO]: MickeyAndPluto left the game.
+[22:56:52 INFO]: MickeyAndPluto[/192.168.1.70:65511] logged in with entity id 299213 at ([kevlar] -84.88017533556035, 64.0, 320.94883222736587)
+[23:02:09 INFO]: MickeyAndPluto lost connection: Disconnected
+[23:02:09 INFO]: MickeyAndPluto left the game.
+[23:02:13 INFO]: MickeyAndPluto[/192.168.1.70:49217] logged in with entity id 302329 at ([kevlar] -81.65654973769561, 66.52936759557846, 321.25067779649703)
+[23:05:15 INFO]: MickeyAndPluto lost connection: Disconnected
+[23:05:15 INFO]: MickeyAndPluto left the game.
+[23:05:19 INFO]: MickeyAndPluto[/192.168.1.70:49236] logged in with entity id 303566 at ([kevlar] -74.03678109960441, 68.77036055400153, 334.46402725635)
+[23:06:22 INFO]: MickeyAndPluto lost connection: Disconnected
+[23:06:22 INFO]: MickeyAndPluto left the game.
+[23:06:26 INFO]: MickeyAndPluto[/192.168.1.70:49242] logged in with entity id 304278 at ([kevlar] -49.72966353993816, 68.77036055400153, 343.69999998807907)
+[23:06:56 INFO]: MickeyAndPluto lost connection: Disconnected
+[23:06:56 INFO]: MickeyAndPluto left the game.
+[23:06:59 INFO]: MickeyAndPluto[/192.168.1.70:49247] logged in with entity id 304726 at ([kevlar] -52.545241119267544, 70.63664737803994, 364.33213551599795)
+[23:07:29 INFO]: MickeyAndPluto lost connection: Disconnected
+[23:07:29 INFO]: MickeyAndPluto left the game.
+[23:29:13 INFO]: MASHTHEKEYBOARD[/192.168.1.112:52627] logged in with entity id 305321 at ([kevlar] -122.55380765081391, 69.0, 766.0782594846619)
+[23:29:27 INFO]: MASHTHEKEYBOARD issued server command: /timeset day
+[23:29:31 INFO]: MASHTHEKEYBOARD issued server command: /time set day
+[23:39:22 INFO]: MASHTHEKEYBOARD issued server command: /time set day
+[23:39:34 INFO]: MASHTHEKEYBOARD issued server command: /time set night
+[23:42:05 INFO]: MASHTHEKEYBOARD issued server command: /time set day
+[23:52:53 INFO]: MASHTHEKEYBOARD issued server command: /time set day
+[23:57:28 INFO]: MASHTHEKEYBOARD issued server command: /back
+[23:57:30 INFO]: MASHTHEKEYBOARD issued server command: /back
+[23:57:32 INFO]: MASHTHEKEYBOARD issued server command: /back
+[00:16:59 INFO]: Faytkneas[/24.21.68.237:60701] logged in with entity id 338841 at ([kevlar] 101.02550026726, 107.6251380535016, 66.8015704409439)
+[00:17:06 INFO]: <MASHTHEKEYBOARD> hey
+[00:17:12 INFO]: Faytkneas issued server command: /tp MASHTHEKEYBOARD
+[00:17:21 INFO]: <Faytkneas> O HEK
+[00:17:27 INFO]: <MASHTHEKEYBOARD> ?
+[00:17:31 INFO]: <Faytkneas> lag
+[00:17:35 INFO]: <MASHTHEKEYBOARD> rip
+[00:19:52 INFO]: Faytkneas lost connection: Disconnected
+[00:19:52 INFO]: Faytkneas left the game.
+[00:21:57 INFO]: GroupManager - INFO -  Data files refreshed.
+[00:24:07 INFO]: Maximum4[/24.22.82.26:61839] logged in with entity id 345677 at ([kevlar] 77.93853852200562, 83.34920891894322, 738.536485169496)
+[00:24:15 INFO]: Maximum4 issued server command: /tp mashthekeyboard
+[00:24:25 INFO]: HurskyMurster[/73.96.87.228:50162] logged in with entity id 346192 at ([kevlar] 90.67251223070676, 101.0, 89.28263229004757)
+[00:24:37 INFO]: <Maximum4> hi cade
+[00:24:43 INFO]: Maximum4 issued server command: /tphere hurskymurster
+[00:24:45 INFO]: <HurskyMurster> hello there
+[00:25:20 INFO]: HurskyMurster issued server command: /back
+[00:25:29 INFO]: Maximum4 issued server command: /tp hurskymurster
+[00:25:40 INFO]: Maximum4 issued server command: /warp school
+[00:25:59 INFO]: Maximum4 issued server command: /time set 0
+[00:31:57 INFO]: GroupManager - INFO -  Data files refreshed.
+[00:32:34 INFO]: HurskyMurster issued server command: /spawn
+[00:32:47 INFO]: HurskyMurster issued server command: /warp spawn
+[00:32:49 INFO]: CommandBlock at 128,63,257 issued server command: /gm c HurskyMurster
+[00:32:49 INFO]: CommandBlock at 133,63,257 issued server command: /warp citycenter HurskyMurster
+[00:32:53 INFO]: Maximum4 issued server command: /tp hurskymurster
+[00:33:11 INFO]: Maximum4 issued server command: /msg hurskymurster watcha doin
+[00:33:24 INFO]: <HurskyMurster> exploring
+[00:33:33 INFO]: Maximum4 issued server command: /msg hurskymurster can u help me with something
+[00:33:39 INFO]: <HurskyMurster> wat
+[00:33:49 INFO]: Maximum4 issued server command: /warp school
+[00:34:01 INFO]: HurskyMurster issued server command: /tp Maximum4
+[00:34:15 INFO]: Maximum4 issued server command: /msg hurskymurster how should i add light
+[00:34:33 INFO]: Maximum4 issued server command: /msg hurskymurster there isn't room in the ceiling cuz its too thin
+[00:34:52 INFO]: <HurskyMurster> lamps in the floor?
+[00:35:00 INFO]: Maximum4 issued server command: /msg hurskymurster just randomly?
+[00:35:11 INFO]: Maximum4 issued server command: /msg hurskymurster like should i just place them in random spots
+[00:35:20 INFO]: <HurskyMurster> in like a pattern, or things coming down from the celing
+[00:35:28 INFO]: Maximum4 issued server command: /msg hurskymurster ok thx
+[00:37:55 INFO]: HurskyMurster issued server command: /give HurskyMurster speed 1
+[00:39:27 INFO]: Maximum4 issued server command: /time set 0
+[00:46:25 INFO]: HurskyMurster issued server command: /warp span
+[00:46:29 INFO]: HurskyMurster issued server command: /warp spawn
+[00:46:34 INFO]: CommandBlock at 128,63,257 issued server command: /gm c HurskyMurster
+[00:46:34 INFO]: CommandBlock at 133,63,257 issued server command: /warp citycenter HurskyMurster
+[00:47:25 INFO]: Maximum4 issued server command: /time set 0
+[00:48:59 INFO]: Maximum4 lost connection: Disconnected
+[00:48:59 INFO]: Maximum4 left the game.
+[00:50:31 INFO]: HurskyMurster issued server command: /warp spawn'
+[00:50:34 INFO]: HurskyMurster issued server command: /warp spawn
+[00:50:37 INFO]: CommandBlock at 128,63,257 issued server command: /gm c HurskyMurster
+[00:50:37 INFO]: CommandBlock at 133,63,257 issued server command: /warp citycenter HurskyMurster
+[00:53:49 INFO]: HeroicKiwi1[/73.240.14.81:54008] logged in with entity id 434187 at ([kevlar] -639.8503028587494, 148.58729454167394, 929.4511066111395)
+[00:53:53 INFO]: HurskyMurster issued server command: /tp HeroicKiwi1
+[01:01:57 INFO]: GroupManager - INFO -  Data files refreshed.
+[01:03:09 INFO]: HeroicKiwi1 issued server command: /weather clear
+[01:03:13 INFO]: HeroicKiwi1 issued server command: /time set day
+[01:05:27 INFO]: HurskyMurster issued server command: //cut
+[01:05:27 INFO]: WorldEdit: HurskyMurster (in "kevlar"): /cut - Region: (-583.0, 77.0, 683.0) - (-580.0, 88.0, 691.0)
+[01:07:56 INFO]: HurskyMurster issued server command: //cut
+[01:07:56 INFO]: WorldEdit: HurskyMurster (in "kevlar"): /cut - Region: (-643.0, 74.0, 656.0) - (-527.0, 109.0, 718.0)
+[01:07:58 WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2101ms behind, skipping 42 tick(s)
+[01:08:59 INFO]: HurskyMurster issued server command: /warp spawn
+[01:09:01 INFO]: CommandBlock at 128,63,257 issued server command: /gm c HurskyMurster
+[01:09:01 INFO]: CommandBlock at 133,63,257 issued server command: /warp citycenter HurskyMurster
+[01:09:58 INFO]: HeroicKiwi1 issued server command: //copy
+[01:09:58 INFO]: WorldEdit: HeroicKiwi1 (in "kevlar"): /copy
+[01:10:05 INFO]: HeroicKiwi1 issued server command: /rotate 180
+[01:10:05 INFO]: WorldEdit: HeroicKiwi1 (in "kevlar"): /rotate 180
+[01:10:21 INFO]: HeroicKiwi1 issued server command: //paste
+[01:10:21 INFO]: WorldEdit: HeroicKiwi1 (in "kevlar"): /paste - Position: (-621.0, 145.0, 919.0)
+[01:11:13 INFO]: HurskyMurster issued server command: //paste
+[01:11:13 INFO]: WorldEdit: HurskyMurster (in "kevlar"): /paste - Position: (-141.0, 68.0, 974.0)
+[01:11:18 INFO]: HeroicKiwi1 issued server command: /tp husrkymurster
+[01:11:18 WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4984ms behind, skipping 99 tick(s)
+[01:11:22 INFO]: HeroicKiwi1 issued server command: /tp HurskyMurster
+[01:12:08 INFO]: HurskyMurster issued server command: //undo
+[01:12:08 INFO]: WorldEdit: HurskyMurster (in "kevlar"): /undo
+[01:12:10 WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2327ms behind, skipping 46 tick(s)
+[01:12:27 INFO]: HurskyMurster issued server command: //rotate 90
+[01:12:27 INFO]: WorldEdit: HurskyMurster (in "kevlar"): /rotate 90
+[01:12:47 INFO]: HurskyMurster issued server command: //paste
+[01:12:47 INFO]: WorldEdit: HurskyMurster (in "kevlar"): /paste - Position: (-12.0, 70.0, 995.0)
+[01:12:53 WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 5531ms behind, skipping 110 tick(s)
+[01:12:57 INFO]: HurskyMurster issued server command: //undo
+[01:12:57 INFO]: WorldEdit: HurskyMurster (in "kevlar"): /undo
+[01:13:00 INFO]: HeroicKiwi1 issued server command: /tp HurskyMurster
+[01:13:52 INFO]: HeroicKiwi1 issued server command: /time set day
+[01:14:00 INFO]: HurskyMurster issued server command: //pate
+[01:14:03 INFO]: HurskyMurster issued server command: //undo
+[01:14:03 INFO]: WorldEdit: HurskyMurster (in "kevlar"): /undo
+[01:14:06 WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3577ms behind, skipping 71 tick(s)
+[01:15:07 INFO]: HurskyMurster issued server command: //paste
+[01:15:07 INFO]: WorldEdit: HurskyMurster (in "kevlar"): /paste - Position: (-95.0, 65.0, 834.0)
+[01:15:12 WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4769ms behind, skipping 95 tick(s)
+[01:16:33 INFO]: HurskyMurster issued server command: /tp HeroicKiwi1
+[01:16:51 INFO]: HurskyMurster issued server command: /back
+[01:17:00 INFO]: HurskyMurster issued server command: /tp HeroicKiwi1
+[01:17:52 INFO]: HeroicKiwi1 issued server command: /home
+[01:20:19 INFO]: Faytkneas[/24.21.68.237:50295] logged in with entity id 512970 at ([kevlar] -135.00347557140202, 81.1452573817313, 739.4640032428932)
+[01:20:49 INFO]: Faytkneas issued server command: /tp HurskyMurster
+[01:21:15 INFO]: Faytkneas issued server command: /tp HeroicKiwi1
+[01:21:21 INFO]: SavageMcDabbage[/24.21.68.237:53536] logged in with entity id 516196 at ([kevlar] -539.3902274608407, 80.61555660223249, 718.3961999071914)
+[01:21:54 INFO]: <MASHTHEKEYBOARD> hey
+[01:21:57 INFO]: GroupManager - INFO -  Data files refreshed.
+[01:22:00 INFO]: <SavageMcDabbage> hi
+[01:22:03 INFO]: <HeroicKiwi1> we r in chayt
+[01:22:10 INFO]: HeroicKiwi1 issued server command: /tp MASHTHEKEYBOARD HurskyMurster
+[01:23:44 INFO]: Faytkneas issued server command: /effect Faytkneas 5 100000000 255
+[01:23:44 INFO]: Faytkneas: Given INCREASE_DAMAGE (ID 5) * 255 to Faytkneas for 1000000 seconds
+[01:23:47 INFO]: MASHTHEKEYBOARD issued server command: /tp HeroicKiwi1
+[01:24:21 INFO]: Ripleey[/24.21.224.17:52997] logged in with entity id 529749 at ([kevlar] -39.27515317631506, 68.17364631297094, 769.4187972246375)
+[01:24:26 INFO]: SavageMcDabbage issued server command: /tp Faytkneas
+[01:24:51 INFO]: MASHTHEKEYBOARD issued server command: /time set day
+[01:25:57 INFO]: HurskyMurster issued server command: /tp MASHTHEKEYBOARD
+[01:26:07 INFO]: SavageMcDabbage issued server command: /tp MASHTHEKEYBOARD
+[01:26:10 INFO]: Faytkneas issued server command: /tp her
+[01:26:14 INFO]: Faytkneas issued server command: /tp HeroicKiwi1
+[01:26:16 INFO]: HurskyMurster issued server command: /back
+[01:27:00 INFO]: HurskyMurster issued server command: //cut
+[01:27:00 INFO]: WorldEdit: HurskyMurster (in "kevlar"): /cut - Region: (-31.0, 66.0, 832.0) - (-31.0, 69.0, 862.0)
+[01:27:33 INFO]: HurskyMurster issued server command: //cut
+[01:27:33 INFO]: WorldEdit: HurskyMurster (in "kevlar"): /cut - Region: (-30.0, 67.0, 832.0) - (-30.0, 69.0, 859.0)
+[01:27:39 INFO]: HurskyMurster issued server command: //cut
+[01:27:39 INFO]: WorldEdit: HurskyMurster (in "kevlar"): /cut - Region: (-30.0, 70.0, 847.0) - (-30.0, 70.0, 857.0)
+[01:27:47 INFO]: SavageMcDabbage issued server command: /tp Faytkneas
+[01:27:49 INFO]: HurskyMurster issued server command: //cut
+[01:27:49 INFO]: WorldEdit: HurskyMurster (in "kevlar"): /cut - Region: (-29.0, 67.0, 832.0) - (-29.0, 69.0, 862.0)
+[01:27:55 INFO]: HurskyMurster issued server command: //cut
+[01:27:55 INFO]: WorldEdit: HurskyMurster (in "kevlar"): /cut - Region: (-32.0, 69.0, 832.0) - (-29.0, 76.0, 849.0)
+[01:27:57 INFO]: HeroicKiwi1 issued server command: /tp MASHTHEKEYBOARD
+[01:28:32 INFO]: HurskyMurster issued server command: //cut
+[01:28:32 INFO]: WorldEdit: HurskyMurster (in "kevlar"): /cut - Region: (-30.0, 66.0, 845.0) - (-29.0, 66.0, 862.0)
+[01:29:00 INFO]: HurskyMurster issued server command: //cut
+[01:29:00 INFO]: WorldEdit: HurskyMurster (in "kevlar"): /cut - Region: (-28.0, 68.0, 832.0) - (-28.0, 69.0, 862.0)
+[01:29:21 INFO]: <Ripleey> @MASH where are you erik
+[01:29:28 INFO]: HeroicKiwi1 issued server command: /tp Ripleey MASHTHEKEYBOARD
+[01:29:38 INFO]: <MASHTHEKEYBOARD> i'm in the suburb area
+[01:29:38 INFO]: HurskyMurster issued server command: //cut
+[01:29:38 INFO]: WorldEdit: HurskyMurster (in "kevlar"): /cut - Region: (-27.0, 69.0, 832.0) - (-27.0, 69.0, 861.0)
+[01:29:39 INFO]: <Ripleey> e
+[01:29:47 INFO]: <MASHTHEKEYBOARD> oh hello
+[01:29:49 INFO]: HurskyMurster issued server command: //cut
+[01:29:49 INFO]: WorldEdit: HurskyMurster (in "kevlar"): /cut - Region: (-27.0, 70.0, 842.0) - (-27.0, 70.0, 860.0)
+[01:29:58 INFO]: HurskyMurster issued server command: //cut
+[01:29:58 INFO]: WorldEdit: HurskyMurster (in "kevlar"): /cut - Region: (-26.0, 70.0, 833.0) - (-26.0, 70.0, 861.0)
+[01:31:28 INFO]: HurskyMurster issued server command: //cut
+[01:31:28 INFO]: WorldEdit: HurskyMurster (in "kevlar"): /cut - Region: (-96.0, 65.0, 851.0) - (-96.0, 71.0, 932.0)
+[01:31:45 INFO]: HeroicKiwi1 issued server command: /home
+[01:31:49 INFO]: HurskyMurster issued server command: //cuit
+[01:31:51 INFO]: HurskyMurster issued server command: //cut
+[01:31:51 INFO]: WorldEdit: HurskyMurster (in "kevlar"): /cut - Region: (-97.0, 66.0, 857.0) - (-97.0, 71.0, 931.0)
+[01:32:03 INFO]: HurskyMurster issued server command: //cut
+[01:32:03 INFO]: WorldEdit: HurskyMurster (in "kevlar"): /cut - Region: (-98.0, 66.0, 856.0) - (-98.0, 71.0, 929.0)
+[01:32:18 INFO]: HurskyMurster issued server command: //cut
+[01:32:18 INFO]: WorldEdit: HurskyMurster (in "kevlar"): /cut - Region: (-98.0, 65.0, 874.0) - (-97.0, 65.0, 929.0)
+[01:33:12 INFO]: HurskyMurster issued server command: //cut
+[01:33:12 INFO]: WorldEdit: HurskyMurster (in "kevlar"): /cut - Region: (-96.0, 64.0, 877.0) - (-96.0, 64.0, 932.0)
+[01:33:44 INFO]: <Ripleey> mm. idea
+[01:33:50 INFO]: <MASHTHEKEYBOARD> ?
+[01:33:57 INFO]: HurskyMurster issued server command: //cut
+[01:33:57 INFO]: WorldEdit: HurskyMurster (in "kevlar"): /cut - Region: (-98.0, 65.0, 933.0) - (-96.0, 69.0, 951.0)
+[01:34:08 INFO]: <Ripleey> do you guys have any serverside world edit?
+[01:34:13 INFO]: <MASHTHEKEYBOARD> yes
+[01:34:41 INFO]: <Ripleey> can you give me a mountain of dirt over in the distance? real tall and wide
+[01:34:44 INFO]: <MASHTHEKEYBOARD> no copy past though
+[01:34:55 INFO]: HurskyMurster issued server command: //cut
+[01:34:55 INFO]: WorldEdit: HurskyMurster (in "kevlar"): /cut - Region: (-96.0, 64.0, 933.0) - (-96.0, 64.0, 951.0)
+[01:35:00 INFO]: <MASHTHEKEYBOARD> uhh you should be able to do it
+[01:35:05 INFO]: <Ripleey> ok
+[01:35:09 INFO]: Ripleey issued server command: /help
+[01:35:14 INFO]: Faytkneas issued server command: /tp HeroicKiwi1
+[01:35:14 INFO]: <MASHTHEKEYBOARD> plus i don't know that commands
+[01:35:18 INFO]: <Ripleey> i cant "/help"
+[01:35:24 INFO]: Faytkneas issued server command: /help
+[01:35:24 INFO]: WorldEdit: Faytkneas (in "kevlar"): /help
+[01:35:36 INFO]: <MASHTHEKEYBOARD> i think you need to be opped
+[01:35:41 INFO]: <Ripleey> k
+[01:35:42 INFO]: HurskyMurster issued server command: //cut
+[01:35:42 INFO]: WorldEdit: HurskyMurster (in "kevlar"): /cut - Region: (-99.0, 67.0, 870.0) - (-99.0, 71.0, 924.0)
+[01:35:45 INFO]: Faytkneas issued server command: /op Ripleey
+[01:35:45 INFO]: Faytkneas: Opped Ripleey
+[01:35:51 INFO]: <Ripleey> thank sir
+[01:35:56 INFO]: MASHTHEKEYBOARD issued server command: /time set day
+[01:35:56 INFO]: <Faytkneas> np
+[01:35:58 INFO]: Ripleey issued server command: /help
+[01:35:58 INFO]: WorldEdit: Ripleey (in "kevlar"): /help
+[01:36:02 INFO]: Faytkneas issued server command: /tp SavageMcDabbage
+[01:36:14 INFO]: HurskyMurster issued server command: //cut
+[01:36:14 INFO]: WorldEdit: HurskyMurster (in "kevlar"): /cut - Region: (-99.0, 66.0, 925.0) - (-99.0, 69.0, 951.0)
+[01:36:47 INFO]: Ripleey issued server command: //wand
+[01:36:47 INFO]: WorldEdit: Ripleey (in "kevlar"): /wand
+[01:37:58 INFO]: HurskyMurster issued server command: //cut
+[01:37:58 INFO]: WorldEdit: HurskyMurster (in "kevlar"): /cut - Region: (-95.0, 65.0, 951.0) - (-63.0, 69.0, 951.0)
+[01:37:59 INFO]: Faytkneas issued server command: /tp HurskyMurster
+[01:38:36 INFO]: HurskyMurster issued server command: //cut
+[01:38:36 INFO]: WorldEdit: HurskyMurster (in "kevlar"): /cut - Region: (-97.0, 66.0, 952.0) - (-67.0, 70.0, 953.0)
+[01:38:49 INFO]: HurskyMurster issued server command: //cut
+[01:38:49 INFO]: WorldEdit: HurskyMurster (in "kevlar"): /cut - Region: (-97.0, 65.0, 952.0) - (-93.0, 65.0, 953.0)
+[01:39:13 INFO]: HurskyMurster issued server command: //cut
+[01:39:13 INFO]: WorldEdit: HurskyMurster (in "kevlar"): /cut - Region: (-98.0, 67.0, 954.0) - (-75.0, 69.0, 954.0)
+[01:39:34 INFO]: HurskyMurster issued server command: //cut
+[01:39:34 INFO]: WorldEdit: HurskyMurster (in "kevlar"): /cut - Region: (-99.0, 69.0, 954.0) - (-98.0, 69.0, 956.0)
+[01:39:47 INFO]: SavageMcDabbage issued server command: /clear
+[01:41:01 INFO]: Ripleey issued server command: //hpyramid
+[01:41:12 INFO]: HurskyMurster issued server command: //cut
+[01:41:12 INFO]: WorldEdit: HurskyMurster (in "kevlar"): /cut - Region: (-100.0, 68.0, 873.0) - (-100.0, 70.0, 937.0)
+[01:41:24 INFO]: Ripleey issued server command: // fill dirt
+[01:41:31 INFO]: Ripleey issued server command: // fill
+[01:41:31 INFO]: WorldEdit: Ripleey (in "kevlar"): / fill
+[01:42:08 INFO]: HurskyMurster issued server command: //cut
+[01:42:08 INFO]: WorldEdit: HurskyMurster (in "kevlar"): /cut - Region: (-101.0, 69.0, 876.0) - (-101.0, 70.0, 938.0)
+[01:42:27 INFO]: Ripleey issued server command: //generate
+[01:42:37 INFO]: SavageMcDabbage issued server command: /tp Faytkneas
+[01:42:55 INFO]: Ripleey issued server command: //fill
+[01:43:06 INFO]: Ripleey issued server command: // fill
+[01:43:06 INFO]: WorldEdit: Ripleey (in "kevlar"): / fill
+[01:44:22 INFO]: Ripleey issued server command: //fill stone
+[01:44:28 INFO]: Ripleey issued server command: //fill stone 3 3
+[01:44:28 INFO]: WorldEdit: Ripleey (in "kevlar"): /fill stone 3 3 - Position: (-486.0, 170.0, 793.0)
+[01:44:45 INFO]: Ripleey issued server command: //undo
+[01:44:45 INFO]: WorldEdit: Ripleey (in "kevlar"): /undo
+[01:45:31 INFO]: SavageMcDabbage issued server command: /tp Faytkneas
+[01:45:43 INFO]: SavageMcDabbage issued server command: /tp Faytkneas
+[01:45:49 INFO]: HurskyMurster issued server command: /tp Faytkneas
+[01:46:39 INFO]: Ripleey issued server command: //fill dirt 50 30
+[01:46:39 INFO]: WorldEdit: Ripleey (in "kevlar"): /fill dirt 50 30 - Position: (-431.0, 88.0, 810.0)
+[01:46:59 INFO]: Faytkneas issued server command: /tp SavageMcDabbage
+[01:47:11 INFO]: MASHTHEKEYBOARD issued server command: /tp HeroicKiwi1
+[01:47:29 INFO]: Faytkneas issued server command: /tp MASHTHEKEYBOARD
+[01:47:33 INFO]: HurskyMurster issued server command: /tp HeroicKiwi1
+[01:47:33 INFO]: Faytkneas issued server command: /tp HurskyMurster
+[01:47:38 INFO]: Ripleey issued server command: //undo
+[01:47:38 INFO]: WorldEdit: Ripleey (in "kevlar"): /undo
+[01:47:42 INFO]: Faytkneas issued server command: /tp Ripleey
+[01:47:46 INFO]: MASHTHEKEYBOARD issued server command: /back
+[01:48:05 INFO]: Faytkneas issued server command: /tp HurskyMurster
+[01:48:09 INFO]: Ripleey issued server command: //fill dirt 40 5
+[01:48:09 INFO]: WorldEdit: Ripleey (in "kevlar"): /fill dirt 40 5 - Position: (-427.0, 77.0, 800.0)
+[01:48:40 INFO]: Ripleey issued server command: //undo
+[01:48:40 INFO]: WorldEdit: Ripleey (in "kevlar"): /undo
+[01:48:56 INFO]: HurskyMurster issued server command: //copy
+[01:48:56 INFO]: WorldEdit: HurskyMurster (in "kevlar"): /copy
+[01:49:11 INFO]: HurskyMurster issued server command: //cut
+[01:49:11 INFO]: WorldEdit: HurskyMurster (in "kevlar"): /cut - Region: (-658.0, 107.0, 901.0) - (-619.0, 153.0, 940.0)
+[01:49:17 INFO]: HurskyMurster issued server command: //undo
+[01:49:17 INFO]: WorldEdit: HurskyMurster (in "kevlar"): /undo
+[01:49:20 WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2522ms behind, skipping 50 tick(s)
+[01:49:49 INFO]: HeroicKiwi1 lost connection: Disconnected
+[01:49:49 INFO]: HeroicKiwi1 left the game.
+[01:49:50 INFO]: Ripleey issued server command: /brush
+[01:50:07 INFO]: Faytkneas issued server command: /tp SavageMcDabbage
+[01:50:09 INFO]: Ripleey issued server command: /brush smooth
+[01:50:09 INFO]: WorldEdit: Ripleey (in "kevlar"): brush smooth
+[01:50:16 INFO]: @: Given SPEED (ID 1) * 1 to Faytkneas for 45 seconds
+[01:50:16 INFO]: @: Given SPEED (ID 1) * 1 to Faytkneas for 45 seconds
+[01:50:34 INFO]: Faytkneas issued server command: /effect Faytkneas 1 100000000 255
+[01:50:34 INFO]: Faytkneas: Given SPEED (ID 1) * 255 to Faytkneas for 1000000 seconds
+[01:50:37 WARN]: Faytkneas moved too quickly! 10.51766352455354,0.41999998688697815,-3.4518138808728622 (10.51766352455354, 0.41999998688697815, 3.4518138808728622)
+[01:50:38 WARN]: Faytkneas moved too quickly! 8.168066010215568,-0.07840000152587834,-6.272586801724515 (8.168066010215568, 0.1552320045166016, 6.272586801724515)
+[01:50:44 INFO]: Faytkneas issued server command: /tp her
+[01:50:45 INFO]: Ripleey issued server command: // brush
+[01:50:45 INFO]: WorldEdit: Ripleey (in "kevlar"): / brush
+[01:50:48 INFO]: Faytkneas issued server command: /tp HurskyMurster
+[01:50:55 INFO]: Ripleey issued server command: //
+[01:50:55 INFO]: WorldEdit: Ripleey (in "kevlar"): /
+[01:51:05 INFO]: MASHTHEKEYBOARD issued server command: /time set day
+[01:51:10 INFO]: Ripleey issued server command: /brush help
+[01:51:25 INFO]: Ripleey issued server command: /brush smooth dirt
+[01:51:25 INFO]: WorldEdit: Ripleey (in "kevlar"): brush smooth dirt
+[01:51:31 INFO]: Ripleey issued server command: /brush smooth 3
+[01:51:31 INFO]: WorldEdit: Ripleey (in "kevlar"): brush smooth 3
+[01:51:44 INFO]: Ripleey issued server command: /brush smooth 3
+[01:51:44 INFO]: WorldEdit: Ripleey (in "kevlar"): brush smooth 3
+[01:51:54 INFO]: Ripleey issued server command: /brush smooth
+[01:51:54 INFO]: WorldEdit: Ripleey (in "kevlar"): brush smooth
+[01:51:56 INFO]: SavageMcDabbage issued server command: /gamemode 0 Faytkneas
+[01:52:04 INFO]: Ripleey issued server command: /brush
+[01:52:11 INFO]: Ripleey issued server command: /wand
+[01:52:11 INFO]: WorldEdit: Ripleey (in "kevlar"): /wand
+[01:52:14 INFO]: Faytkneas issued server command: /effect Faytkneas 11 100000000 255
+[01:52:14 INFO]: Faytkneas: Given DAMAGE_RESISTANCE (ID 11) * 255 to Faytkneas for 1000000 seconds
+[01:52:20 WARN]: Faytkneas moved too quickly! 6.90741187418439,0.41999998688697815,7.968819896940204 (6.90741187418439, 0.41999998688697815, 7.968819896940204)
+[01:52:20 INFO]: HurskyMurster issued server command: /back
+[01:52:24 WARN]: Faytkneas moved too quickly! -8.638376766941974,0.41999998688697815,6.049204718258466 (8.638376766941974, 0.41999998688697815, 6.049204718258466)
+[01:52:24 WARN]: Faytkneas moved too quickly! -8.441529897733062,-0.07840000152587834,5.911358563453518 (8.441529897733062, 0.1552320045166016, 5.911358563453518)
+[01:52:24 INFO]: <Ripleey> how do i use the /brush?
+[01:52:26 WARN]: Faytkneas moved too quickly! -4.263782299181912,0.41999998688697815,9.645429099497278 (4.263782299181912, 0.41999998688697815, 9.645429099497278)
+[01:52:27 WARN]: Faytkneas moved too quickly! -4.149144396332417,0.0,9.433355125459457 (4.149144396332417, 0.0784000015258789, 9.433355125459457)
+[01:52:39 INFO]: Faytkneas issued server command: /tp HurskyMurster
+[01:52:41 INFO]: <MASHTHEKEYBOARD> i dunno any commands actually
+[01:52:42 INFO]: Faytkneas issued server command: /tp HurskyMurster
+[01:52:44 INFO]: Faytkneas issued server command: /tp HurskyMurster
+[01:52:46 INFO]: Faytkneas issued server command: /tp HurskyMurster
+[01:52:49 INFO]: Faytkneas issued server command: /tp HurskyMurster
+[01:53:14 WARN]: Faytkneas moved wrongly!
+[01:53:15 WARN]: Faytkneas moved wrongly!
+[01:53:49 INFO]: Faytkneas issued server command: /gamemode 1
+[01:54:22 INFO]: Ripleey issued server command: //br sphere dirt
+[01:54:22 INFO]: WorldEdit: Ripleey (in "kevlar"): brush sphere dirt
+[01:54:34 INFO]: Ripleey issued server command: //br sphere dirt
+[01:54:34 INFO]: WorldEdit: Ripleey (in "kevlar"): brush sphere dirt
+[01:55:04 INFO]: Ripleey issued server command: /undo
+[01:55:04 INFO]: WorldEdit: Ripleey (in "kevlar"): /undo
+[01:55:09 INFO]: Ripleey issued server command: /undo
+[01:55:09 INFO]: WorldEdit: Ripleey (in "kevlar"): /undo
+[01:55:11 INFO]: Ripleey issued server command: /undo
+[01:55:11 INFO]: WorldEdit: Ripleey (in "kevlar"): /undo
+[01:55:12 INFO]: Ripleey issued server command: /undo
+[01:55:12 INFO]: WorldEdit: Ripleey (in "kevlar"): /undo
+[01:55:13 INFO]: Ripleey issued server command: /undo
+[01:55:13 INFO]: WorldEdit: Ripleey (in "kevlar"): /undo
+[01:55:14 INFO]: Ripleey issued server command: /undo
+[01:55:14 INFO]: WorldEdit: Ripleey (in "kevlar"): /undo
+[01:55:15 INFO]: Ripleey issued server command: /undo
+[01:55:15 INFO]: WorldEdit: Ripleey (in "kevlar"): /undo
+[01:55:16 INFO]: Ripleey issued server command: /undo
+[01:55:16 INFO]: WorldEdit: Ripleey (in "kevlar"): /undo
+[01:55:17 INFO]: Ripleey issued server command: /undo
+[01:55:17 INFO]: WorldEdit: Ripleey (in "kevlar"): /undo
+[01:55:18 INFO]: Ripleey issued server command: /undo
+[01:55:18 INFO]: WorldEdit: Ripleey (in "kevlar"): /undo
+[01:55:19 INFO]: Ripleey issued server command: /undo
+[01:55:19 INFO]: WorldEdit: Ripleey (in "kevlar"): /undo
+[01:55:19 INFO]: Ripleey issued server command: /undo
+[01:55:19 INFO]: WorldEdit: Ripleey (in "kevlar"): /undo
+[01:55:21 INFO]: Ripleey issued server command: /undo
+[01:55:21 INFO]: WorldEdit: Ripleey (in "kevlar"): /undo
+[01:55:52 INFO]: Ripleey issued server command: //br sphere dirt
+[01:55:52 INFO]: WorldEdit: Ripleey (in "kevlar"): brush sphere dirt
+[01:55:59 INFO]: HurskyMurster lost connection: Disconnected
+[01:55:59 INFO]: HurskyMurster left the game.
+[01:56:01 INFO]: Ripleey issued server command: /undo
+[01:56:01 INFO]: WorldEdit: Ripleey (in "kevlar"): /undo
+[01:56:02 INFO]: Ripleey issued server command: /undo
+[01:56:02 INFO]: WorldEdit: Ripleey (in "kevlar"): /undo
+[01:56:03 INFO]: Ripleey issued server command: /undo
+[01:56:03 INFO]: WorldEdit: Ripleey (in "kevlar"): /undo
+[01:56:04 INFO]: Ripleey issued server command: /undo
+[01:56:04 INFO]: WorldEdit: Ripleey (in "kevlar"): /undo
+[01:56:05 INFO]: Ripleey issued server command: /undo
+[01:56:05 INFO]: WorldEdit: Ripleey (in "kevlar"): /undo
+[01:56:06 INFO]: Ripleey issued server command: /undo
+[01:56:06 INFO]: WorldEdit: Ripleey (in "kevlar"): /undo
+[01:56:07 INFO]: Ripleey issued server command: /undo
+[01:56:07 INFO]: WorldEdit: Ripleey (in "kevlar"): /undo
+[01:56:07 INFO]: Ripleey issued server command: /undo
+[01:56:07 INFO]: WorldEdit: Ripleey (in "kevlar"): /undo
+[01:56:08 INFO]: Ripleey issued server command: /undo
+[01:56:08 INFO]: WorldEdit: Ripleey (in "kevlar"): /undo
+[01:56:09 INFO]: Ripleey issued server command: /undo
+[01:56:09 INFO]: WorldEdit: Ripleey (in "kevlar"): /undo
+[01:56:10 INFO]: Ripleey issued server command: /undo
+[01:56:10 INFO]: WorldEdit: Ripleey (in "kevlar"): /undo
+[01:56:12 INFO]: Ripleey issued server command: /undo
+[01:56:12 INFO]: WorldEdit: Ripleey (in "kevlar"): /undo
+[01:56:32 INFO]: Ripleey issued server command: /brush smooth 30 30
+[01:56:32 INFO]: WorldEdit: Ripleey (in "kevlar"): brush smooth 30 30
+[01:57:18 WARN]: Faytkneas moved too quickly! 0.06953447916673383,0.0,-10.389655265399824 (0.06953447916673383, 0.0784000015258789, 10.389655265399824)
+[01:57:20 WARN]: Faytkneas moved too quickly! 0.08071028735507468,0.0,-10.459566170070957 (0.08071028735507468, 0.0784000015258789, 10.459566170070957)
+[01:57:21 WARN]: Faytkneas moved too quickly! -0.0836617035545828,0.0,-13.076715042609862 (0.0836617035545828, 0.0784000015258789, 13.076715042609862)
+[01:57:21 WARN]: Faytkneas moved too quickly! 0.025417753684621402,0.0,-10.196778346459723 (0.025417753684621402, 0.0784000015258789, 10.196778346459723)
+[01:57:21 WARN]: Faytkneas moved too quickly! 0.025417753684621402,0.0,-10.196778346459723 (0.025417753684621402, 0.0784000015258789, 10.196778346459723)
+[01:57:21 WARN]: Faytkneas moved too quickly! 0.025417753684621402,0.0,-10.196778346459723 (0.025417753684621402, 0.0784000015258789, 10.196778346459723)
+[01:57:22 WARN]: Faytkneas moved too quickly! -0.02274713193432376,0.0,-10.19677409065207 (0.02274713193432376, 0.0784000015258789, 10.19677409065207)
+[01:57:38 WARN]: Faytkneas moved too quickly! 0.19705305353123492,0.0,-10.565016166322494 (0.19705305353123492, 0.0784000015258789, 10.565016166322494)
+[01:57:39 WARN]: Faytkneas moved too quickly! 0.01619279701594678,0.0,-10.196583086861096 (0.01619279701594678, 0.0784000015258789, 10.196583086861096)
+[01:57:39 WARN]: Faytkneas moved too quickly! -0.02932816604688071,0.0,-10.196767891701938 (0.02932816604688071, 0.0784000015258789, 10.196767891701938)
+[01:57:39 WARN]: Faytkneas moved too quickly! -0.02000959823443793,0.0,-10.19678601151395 (0.02000959823443793, 0.0784000015258789, 10.19678601151395)
+[01:57:41 INFO]: Ripleey issued server command: /undo 100
+[01:57:41 INFO]: WorldEdit: Ripleey (in "kevlar"): /undo 100
+[01:57:58 INFO]: Ripleey issued server command: /help
+[01:57:58 INFO]: WorldEdit: Ripleey (in "kevlar"): /help
+[01:57:59 WARN]: Faytkneas moved too quickly! -10.481128134716101,0.41999998688697815,0.0647320733523884 (10.481128134716101, 0.41999998688697815, 0.0647320733523884)
+[01:58:17 INFO]: Ripleey issued server command: //clearhistory
+[01:58:17 INFO]: WorldEdit: Ripleey (in "kevlar"): /clearhistory
+[01:58:33 WARN]: Faytkneas moved too quickly! -0.6639065139245304,0.0,10.259874428101114 (0.6639065139245304, 0.0784000015258789, 10.259874428101114)
+[01:58:42 WARN]: Faytkneas moved too quickly! 0.8025367580847842,0.0,10.249962167639012 (0.8025367580847842, 0.0784000015258789, 10.249962167639012)
+[01:58:42 WARN]: Faytkneas moved too quickly! 0.7661717146218052,-0.07840000152587834,10.276851133948526 (0.7661717146218052, 0.1552320045166016, 10.276851133948526)
+[01:58:57 WARN]: Faytkneas moved too quickly! 0.4430223350499318,0.41999998688697815,10.471965501521424 (0.4430223350499318, 0.41999998688697815, 10.471965501521424)
+[01:58:58 WARN]: Faytkneas moved too quickly! 0.4345687843014048,-0.07840000152587834,10.296303202086335 (0.4345687843014048, 0.1552320045166016, 10.296303202086335)
+[01:59:51 INFO]: CommandBlock at 81,80,623 issued server command: /warp mushpeen MASHTHEKEYBOARD
+[01:59:52 INFO]: Faytkneas lost connection: Disconnected
+[01:59:52 INFO]: Faytkneas left the game.
+[01:59:55 INFO]: CommandBlock at 81,80,623 issued server command: /warp mushpeen MASHTHEKEYBOARD
+[02:01:02 INFO]: Ripleey issued server command: //fill air 20
+[02:01:02 INFO]: WorldEdit: Ripleey (in "kevlar"): /fill air 20 - Position: (-430.0, 116.0, 761.0)
+[02:01:23 INFO]: Ripleey issued server command: //fill air 20 5
+[02:01:23 INFO]: WorldEdit: Ripleey (in "kevlar"): /fill air 20 5 - Position: (-430.0, 125.0, 760.0)
+[02:01:33 INFO]: Ripleey issued server command: /undo
+[02:01:33 INFO]: WorldEdit: Ripleey (in "kevlar"): /undo
+[02:01:34 INFO]: Ripleey issued server command: /undo
+[02:01:34 INFO]: WorldEdit: Ripleey (in "kevlar"): /undo
+[02:01:44 INFO]: Ripleey issued server command: //fill dirt 20 5
+[02:01:44 INFO]: WorldEdit: Ripleey (in "kevlar"): /fill dirt 20 5 - Position: (-432.0, 124.0, 755.0)
+[02:01:53 INFO]: CommandBlock at -64,101,658 issued server command: /warp klolred MASHTHEKEYBOARD
+[02:01:53 INFO]: Ripleey issued server command: /undo
+[02:01:53 INFO]: WorldEdit: Ripleey (in "kevlar"): /undo
+[02:01:57 INFO]: CommandBlock at -49,101,659 issued server command: /warp klolwut MASHTHEKEYBOARD
+[02:02:04 INFO]: Ripleey lost connection: Disconnected
+[02:02:04 INFO]: Ripleey left the game.
+[02:02:08 INFO]: CommandBlock at -48,90,660 issued server command: /warp klolwut2 MASHTHEKEYBOARD
+[02:02:15 INFO]: CommandBlock at -55,96,648 issued server command: /warp top MASHTHEKEYBOARD
+[02:02:54 INFO]: MASHTHEKEYBOARD issued server command: /time set day
+[02:04:49 INFO]: MASHTHEKEYBOARD issued server command: /warp city cetner
+[02:04:53 INFO]: MASHTHEKEYBOARD issued server command: /warp citycenter
+[02:05:48 INFO]: MASHTHEKEYBOARD lost connection: You logged in from another location
+[02:05:48 INFO]: MASHTHEKEYBOARD left the game.
+[02:05:48 INFO]: MASHTHEKEYBOARD[/192.168.1.112:52899] logged in with entity id 687308 at ([kevlar] -100.84558783548296, 84.00305693624244, 683.2351194209009)
+[02:09:17 INFO]: MASHTHEKEYBOARD lost connection: Timed out
+[02:09:17 INFO]: MASHTHEKEYBOARD left the game.
+[02:24:05 INFO]: SavageMcDabbage issued server command: //wand
+[02:24:05 INFO]: WorldEdit: SavageMcDabbage (in "kevlar"): /wand
+[02:24:18 INFO]: SavageMcDabbage issued server command: //fill oak_wood
+[02:24:39 INFO]: SavageMcDabbage issued server command: //fill air
+[02:24:43 INFO]: SavageMcDabbage issued server command: /fill
+[02:24:47 INFO]: SavageMcDabbage issued server command: /fill oak_wood
+[02:24:54 INFO]: SavageMcDabbage issued server command: //help
+[02:24:54 INFO]: WorldEdit: SavageMcDabbage (in "kevlar"): /help
+[02:25:25 INFO]: SavageMcDabbage issued server command: //fill oak_wood 5
+[02:25:25 INFO]: WorldEdit: SavageMcDabbage (in "kevlar"): /fill oak_wood 5 - Position: (-326.0, 66.0, 442.0)
+[02:25:30 INFO]: SavageMcDabbage issued server command: //fill wood
+[02:25:32 INFO]: SavageMcDabbage issued server command: //fill wood 5
+[02:25:32 INFO]: WorldEdit: SavageMcDabbage (in "kevlar"): /fill wood 5 - Position: (-326.0, 66.0, 442.0)
+[02:25:39 INFO]: SavageMcDabbage issued server command: //undo
+[02:25:39 INFO]: WorldEdit: SavageMcDabbage (in "kevlar"): /undo
+[02:25:51 INFO]: SavageMcDabbage issued server command: //fill wood
+[02:48:54 INFO]: Maximum4[/24.22.82.26:62098] logged in with entity id 710901 at ([kevlar] 59.615821345363216, 76.0, 740.173897298871)
+[02:49:01 INFO]: Maximum4 issued server command: /tp savagemcdabbage
+[02:49:08 INFO]: <Maximum4> wuts this
+[02:53:30 INFO]: Maximum4 issued server command: /toggledowngall
+[02:53:34 INFO]: Maximum4 issued server command: /toggledownfall
+[02:53:34 INFO]: Maximum4: Toggling downfall off for world 'kevlar'
+[02:54:13 INFO]: @: Given SPEED (ID 1) * 1 to Maximum4 for 45 seconds
+[02:54:14 INFO]: @: Given SPEED (ID 1) * 1 to Maximum4 for 45 seconds
+[02:56:35 INFO]: Maximum4 issued server command: /tp savagemcdabbage
+[03:04:14 INFO]: Maximum4 issued server command: /toggledownfall
+[03:04:14 INFO]: Maximum4: Toggling downfall off for world 'kevlar'
+[03:04:18 INFO]: Maximum4 issued server command: /warp school
+[03:04:49 INFO]: Maximum4 lost connection: Internal Exception: java.io.IOException: Connection reset by peer
+[03:04:49 INFO]: Maximum4 left the game.
+[03:18:25 INFO]: Maximum4[/24.22.82.26:64646] logged in with entity id 728688 at ([kevlar] 21.5, 72.0, 730.5)
+[03:18:29 INFO]: <SavageMcDabbage> hiho
+[03:18:35 INFO]: Maximum4 issued server command: /tp savagemcdabbage
+[03:18:36 INFO]: <Maximum4> hi
+[03:18:48 INFO]: <Maximum4> you were afk for a very long time my dude
+[03:18:52 INFO]: <Maximum4> wuts this
+[03:18:59 INFO]: <SavageMcDabbage> a ship :D
+[03:19:04 INFO]: <Maximum4> nice
+[03:19:12 INFO]: <Maximum4> did you make that house over there
+[03:19:20 INFO]: <SavageMcDabbage> no lol
+[03:19:24 INFO]: <Maximum4> oh
+[03:19:31 INFO]: <SavageMcDabbage> im trash at building imo
+[03:19:33 INFO]: <Maximum4> need help?
+[03:19:45 INFO]: <SavageMcDabbage> id like to do this myself
+[03:19:46 INFO]: <Maximum4> you should have used logs
+[03:19:48 INFO]: <Maximum4> ok
+[03:20:02 INFO]: <Maximum4> looks really cool tho
+[03:20:07 INFO]: <SavageMcDabbage> you can make a cave in the thing tho
+[03:20:17 INFO]: <Maximum4> ?
+[03:20:32 INFO]: <SavageMcDabbage> its gon be pirate cave
+[03:20:36 INFO]: <Maximum4> ok
+[03:20:40 INFO]: <Maximum4> what do u want in it
+[03:20:42 INFO]: Maximum4 issued server command: /clear
+[03:20:58 INFO]: <Maximum4> i wanna build a tnt cannon for ur ship
+[03:21:03 INFO]: <SavageMcDabbage> for now i just want it hollowed out
+[03:21:16 INFO]: <Maximum4> cant u just use worldedit
+[03:21:16 INFO]: <SavageMcDabbage> if you can make it compact then sure
+[03:21:25 INFO]: <SavageMcDabbage> and ye but no worldedit
+[03:21:41 INFO]: <Maximum4> oh well no they said you could but just no copy and paste right?
+[03:22:03 INFO]: <SavageMcDabbage> maybe i dont remember
+[03:22:13 INFO]: <Maximum4> can i just tnt it
+[03:22:25 INFO]: <SavageMcDabbage> ye
+[03:22:29 INFO]: <SavageMcDabbage> just dont go overboard
+[03:22:35 INFO]: <SavageMcDabbage> i dont want to terraform the outside
+[03:22:40 INFO]: <SavageMcDabbage> too much at least
+[03:25:29 INFO]: <SavageMcDabbage> kevin look how fast i can click
+[03:25:37 INFO]: Maximum4 issued server command: /tp savagemcdabbage
+[03:25:45 INFO]: <Maximum4> how
+[03:25:57 INFO]: <Maximum4> how
+[03:26:19 INFO]: <SavageMcDabbage> just click quickl
+[03:26:29 INFO]: <SavageMcDabbage> ur doing it really fast too tho
+[03:26:40 INFO]: <Maximum4> i click my keyboard and my mouse at the same time
+[03:26:48 INFO]: <Maximum4> watch
+[03:26:51 INFO]: <Maximum4> dont blibk
+[03:26:53 INFO]: <Maximum4> blink
+[03:27:01 INFO]: <SavageMcDabbage> oh right cos ur on laptop
+[03:27:07 INFO]: <SavageMcDabbage> do that again
+[03:27:10 INFO]: <Maximum4> do you like the cave
+[03:27:36 INFO]: <Maximum4> do u like the cave
+[03:27:37 INFO]: <SavageMcDabbage> now watch this and then ill review cave
+[03:27:39 INFO]: Faytkneas[/24.21.68.237:52221] logged in with entity id 734945 at ([kevlar] -300.851881518189, 67.81269068620246, 441.88890691541525)
+[03:27:44 INFO]: <SavageMcDabbage> just mouse
+[03:27:46 INFO]: <Maximum4> ok
+[03:27:47 INFO]: Faytkneas issued server command: /effect clear
+[03:27:56 INFO]: Faytkneas issued server command: /effect clear faytkneas
+[03:27:56 INFO]: <Maximum4> we should make some sort of timer for this
+[03:27:59 INFO]: <Maximum4> with command blocks
+[03:28:06 INFO]: <Maximum4> clicks per second timer
+[03:28:09 INFO]: Faytkneas issued server command: /effectclear faytkneas
+[03:28:18 INFO]: <Maximum4> this will be just mouse k?
+[03:28:19 INFO]: Faytkneas issued server command: /effect faytkneas clear
+[03:28:22 INFO]: <SavageMcDabbage> the cave feels very piratey
+[03:28:29 INFO]: Maximum4 issued server command: /kill faytkneas
+[03:28:29 INFO]: Faytkneas died
+[03:28:32 INFO]: <Maximum4> go away
+[03:28:37 INFO]: <Faytkneas> y
+[03:28:42 INFO]: Faytkneas issued server command: /tp maximum4
+[03:28:47 INFO]: <Faytkneas> look
+[03:29:18 INFO]: Faytkneas issued server command: /kill maximum4
+[03:29:18 INFO]: Maximum4 died
+[03:29:26 INFO]: Maximum4 issued server command: /tp faytkneas
+[03:29:52 INFO]: <Maximum4> im building a timer ok?
+[03:29:59 INFO]: <Maximum4> i have an idea
+[03:30:04 INFO]: <SavageMcDabbage> cool
+[03:30:55 INFO]: SavageMcDabbage issued server command: //fill wood
+[03:31:03 INFO]: <Maximum4> screw off
+[03:31:07 INFO]: <Faytkneas> noyu
+[03:31:14 INFO]: <Maximum4> no u
+[03:31:21 INFO]: <Maximum4> u didn't spell it right nerd
+[03:31:31 INFO]: <Faytkneas> no yu
+[03:32:19 INFO]: <Maximum4> im gonna need u to move
+[03:32:23 INFO]: Maximum4 issued server command: /kill faytkneas
+[03:32:23 INFO]: Faytkneas died
+[03:32:31 INFO]: Faytkneas issued server command: /kill maximum4
+[03:32:31 INFO]: Maximum4 died
+[03:32:38 INFO]: Maximum4 issued server command: /tp savagemcdabbage
+[03:32:38 INFO]: Faytkneas issued server command: /tp sav
+[03:32:47 INFO]: <SavageMcDabbage> how about just no more /kill
+[03:32:49 INFO]: <Faytkneas> dont /kill or ill do it back
+[03:32:51 INFO]: <Maximum4> ok
+[03:33:01 INFO]: Maximum4 issued server command: /tp faytkneas faytkneas
+[03:33:04 INFO]: Maximum4 issued server command: /tp faytkneas faytkneas
+[03:33:05 INFO]: Maximum4 issued server command: /tp faytkneas faytkneas
+[03:33:06 INFO]: Maximum4 issued server command: /
+[03:33:06 INFO]: WorldEdit: Maximum4 (in "kevlar"): /
+[03:33:10 INFO]: <SavageMcDabbage> instead /tp ___ ~0 ~10 ~0
+[03:33:12 INFO]: Maximum4 issued server command: /tp faytkneas faytkneas
+[03:33:14 INFO]: Maximum4 issued server command: /tp faytkneas faytkneas
+[03:33:23 INFO]: SavageMcDabbage issued server command: /tp SavageMcDabbage ~0 ~10 ~0
+[03:33:27 INFO]: SavageMcDabbage issued server command: /tp SavageMcDabbage ~0 ~10 ~0
+[03:33:31 INFO]: <SavageMcDabbage> it works
+[03:33:36 INFO]: <Maximum4> i was randomly typing and suddenly it said super pick axe enabled
+[03:33:43 INFO]: Faytkneas issued server command: /
+[03:33:43 INFO]: WorldEdit: Faytkneas (in "kevlar"): /
+[03:33:44 INFO]: Faytkneas issued server command: /
+[03:33:44 INFO]: WorldEdit: Faytkneas (in "kevlar"): /
+[03:33:51 INFO]: Maximum4 issued server command: /time set 0
+[03:34:15 INFO]: Maximum4 issued server command: /tp faytkneas faytkneas
+[03:34:16 INFO]: Maximum4 issued server command: /tp faytkneas faytkneas
+[03:34:17 INFO]: Maximum4 issued server command: /tp faytkneas faytkneas
+[03:34:18 INFO]: Maximum4 issued server command: /
+[03:34:18 INFO]: WorldEdit: Maximum4 (in "kevlar"): /
+[03:34:21 INFO]: Maximum4 issued server command: /tp faytkneas faytkneas
+[03:34:22 INFO]: Maximum4 issued server command: /tp faytkneas faytkneas
+[03:34:23 INFO]: Maximum4 issued server command: /tp faytkneas faytkneas
+[03:34:23 INFO]: Maximum4 issued server command: /tp faytkneas faytkneas
+[03:34:24 INFO]: Maximum4 issued server command: /tp faytkneas faytkneas
+[03:34:25 INFO]: Maximum4 issued server command: /tp faytkneas faytkneas
+[03:34:26 INFO]: Maximum4 issued server command: /tp faytkneas faytkneas
+[03:34:26 INFO]: Maximum4 issued server command: /tp faytkneas faytkneas
+[03:34:27 INFO]: Maximum4 issued server command: /tp faytkneas faytkneas
+[03:34:27 INFO]: Maximum4 issued server command: /tp faytkneas faytkneas
+[03:34:28 INFO]: Maximum4 issued server command: /tp faytkneas faytkneas
+[03:34:28 INFO]: Maximum4 issued server command: /tp faytkneas faytkneas
+[03:34:29 INFO]: Maximum4 issued server command: /tp faytkneas faytkneas
+[03:34:30 INFO]: <SavageMcDabbage> ye try hitting a block with a pick in hand
+[03:34:36 INFO]: <Maximum4> i di
+[03:34:42 INFO]: <Maximum4> i did
+[03:34:49 INFO]: Maximum4 issued server command: /tp faytkneas faytkneas
+[03:34:50 INFO]: Maximum4 issued server command: /tp faytkneas faytkneas
+[03:34:51 INFO]: Maximum4 issued server command: /tp faytkneas faytkneas
+[03:34:51 INFO]: Maximum4 issued server command: /tp faytkneas faytkneas
+[03:34:51 INFO]: Maximum4 issued server command: /tp faytkneas faytkneas
+[03:34:52 INFO]: Maximum4 issued server command: /tp faytkneas faytkneas
+[03:34:53 INFO]: Maximum4 issued server command: /tp faytkneas faytkneas
+[03:34:53 INFO]: Maximum4 issued server command: /tp faytkneas faytkneas
+[03:34:54 INFO]: Maximum4 issued server command: /tp faytkneas faytkneas
+[03:34:54 INFO]: <Faytkneas> stop
+[03:35:00 INFO]: <Maximum4> ok
+[03:35:09 INFO]: <Maximum4> now it saus super pick axe disabled
+[03:35:59 INFO]: Maximum4 issued server command: //
+[03:35:59 INFO]: WorldEdit: Maximum4 (in "kevlar"): /
+[03:36:00 INFO]: Maximum4 issued server command: //
+[03:36:00 INFO]: WorldEdit: Maximum4 (in "kevlar"): /
+[03:36:11 INFO]: <Maximum4> ok so apparently typing // enables super pickaxe
+[03:36:19 INFO]: <SavageMcDabbage> hah weird
+[03:36:20 INFO]: <Maximum4> and it makes pickaxes super powerful
+[03:36:27 INFO]: <Faytkneas> just / does too
+[03:36:29 INFO]: Maximum4 issued server command: /
+[03:36:29 INFO]: WorldEdit: Maximum4 (in "kevlar"): /
+[03:36:30 INFO]: SavageMcDabbage issued server command: /
+[03:36:30 INFO]: WorldEdit: SavageMcDabbage (in "kevlar"): /
+[03:36:31 INFO]: Maximum4 issued server command: /
+[03:36:31 INFO]: WorldEdit: Maximum4 (in "kevlar"): /
+[03:36:31 INFO]: SavageMcDabbage issued server command: /
+[03:36:31 INFO]: WorldEdit: SavageMcDabbage (in "kevlar"): /
+[03:38:51 INFO]: <Maximum4> why wont my thing work
+[03:39:34 INFO]: <SavageMcDabbage> oof
+[03:39:44 INFO]: <SavageMcDabbage> no idea
+[03:41:20 INFO]: Faytkneas issued server command: /gamemode s maximum4
+[03:41:26 INFO]: Maximum4 issued server command: /gamemode c
+[03:41:35 INFO]: <Maximum4> stoopid
+[03:41:52 INFO]: <Maximum4> there we go!
+[03:42:10 INFO]: <Maximum4> approved by casey
+[03:47:06 INFO]: <Maximum4> forget about the timer
+[03:47:53 INFO]: <SavageMcDabbage> kevbone
+[03:48:01 INFO]: <SavageMcDabbage> just so u know i was using an autoclicker
+[03:48:06 INFO]: <Maximum4> wow
+[03:48:09 INFO]: Faytkneas lost connection: Disconnected
+[03:48:09 INFO]: Faytkneas left the game.
+[03:48:52 INFO]: SavageMcDabbage issued server command: //wand
+[03:48:52 INFO]: WorldEdit: SavageMcDabbage (in "kevlar"): /wand
+[03:49:02 INFO]: SavageMcDabbage issued server command: //copy
+[03:49:02 INFO]: WorldEdit: SavageMcDabbage (in "kevlar"): /copy
+[03:49:14 INFO]: SavageMcDabbage issued server command: //paste
+[03:49:14 INFO]: WorldEdit: SavageMcDabbage (in "kevlar"): /paste - Position: (-306.0, 78.0, 448.0)
+[03:49:23 INFO]: SavageMcDabbage issued server command: //undo
+[03:49:23 INFO]: WorldEdit: SavageMcDabbage (in "kevlar"): /undo
+[03:49:38 INFO]: SavageMcDabbage issued server command: //copy
+[03:49:38 INFO]: WorldEdit: SavageMcDabbage (in "kevlar"): /copy
+[03:49:42 INFO]: SavageMcDabbage issued server command: //paste
+[03:49:42 INFO]: WorldEdit: SavageMcDabbage (in "kevlar"): /paste - Position: (-306.0, 80.0, 448.0)
+[03:49:50 INFO]: <Maximum4> working on a tnt cannon now
+[03:49:53 INFO]: Maximum4 issued server command: /time set 0
+[03:49:54 INFO]: Maximum4 issued server command: /clear
+[03:50:34 INFO]: SavageMcDabbage issued server command: //paste
+[03:50:34 INFO]: WorldEdit: SavageMcDabbage (in "kevlar"): /paste - Position: (-306.0, 88.0, 450.0)
+[03:50:53 INFO]: SavageMcDabbage issued server command: //undo
+[03:50:53 INFO]: WorldEdit: SavageMcDabbage (in "kevlar"): /undo
+[03:51:02 INFO]: SavageMcDabbage issued server command: //copy
+[03:51:02 INFO]: WorldEdit: SavageMcDabbage (in "kevlar"): /copy
+[03:51:08 INFO]: SavageMcDabbage issued server command: //paste
+[03:51:08 INFO]: WorldEdit: SavageMcDabbage (in "kevlar"): /paste - Position: (-306.0, 80.0, 450.0)
+[03:51:14 INFO]: <SavageMcDabbage> realm is up btw keving
+[03:51:22 INFO]: <Maximum4> oh i can't join
+[03:52:11 INFO]: <SavageMcDabbage> how come
+[03:52:33 INFO]: <Maximum4> cuz i play on a friends account and they haven't done the thing that lets you play on realms
+[03:52:54 INFO]: <SavageMcDabbage> ah rip
+[03:52:58 INFO]: <Maximum4> yea
+[03:53:05 INFO]: <Maximum4> you can go play on the realm if u want
+[03:53:09 INFO]: <SavageMcDabbage> i might later
+[03:53:13 INFO]: <SavageMcDabbage> still gonna work on this
+[03:53:17 INFO]: <Maximum4> k
+[03:55:30 INFO]: MickeyAndPluto[/192.168.1.70:50117] logged in with entity id 757933 at ([kevlar] -85.44349537094551, 73.617562640463, 313.22550738948513)
+[03:55:40 INFO]: MickeyAndPluto lost connection: Disconnected
+[03:55:40 INFO]: MickeyAndPluto left the game.
+[03:56:38 INFO]: <Maximum4> i just saved my tnt cannon from exploding
+[03:56:48 INFO]: <SavageMcDabbage> sweeto
+[03:56:52 INFO]: <SavageMcDabbage> did you douse it in water
+[03:56:55 INFO]: <Maximum4> yea
+[03:57:13 INFO]: <Maximum4> why is it doin that
+[03:57:18 INFO]: <SavageMcDabbage> this redstone
+[03:57:21 INFO]: <Maximum4> ah
+[03:57:35 INFO]: <SavageMcDabbage> ayy lmao
+[03:57:37 INFO]: <Maximum4> that was bad lol
+[03:57:58 INFO]: <Maximum4> there we go
+[03:58:26 INFO]: <Maximum4> watch this
+[03:58:48 INFO]: <SavageMcDabbage> niceeeboi
+[03:59:00 INFO]: <Maximum4> it went rly far one time
+[03:59:15 INFO]: <Maximum4> there we go
+[03:59:26 INFO]: <SavageMcDabbage> can i try something
+[03:59:28 INFO]: <Maximum4> yes
+[03:59:28 INFO]: SavageMcDabbage issued server command: /clear
+[04:00:03 INFO]: <Maximum4> nice
+[04:00:12 INFO]: <SavageMcDabbage> should make launch a little more consistent
+[04:00:17 INFO]: <Maximum4> yea
+[04:00:26 INFO]: <Maximum4> cuz the launching tnt keeps landing in random spots
+[04:01:10 INFO]: <Maximum4> needs more power
+[04:01:10 INFO]: <SavageMcDabbage> can we raise launch dispenser 1 block
+[04:01:11 INFO]: Maximum4 issued server command: /time set 0
+[04:01:16 INFO]: <Maximum4> yea
+[04:02:05 INFO]: <Maximum4> we need less drag on the tnt
+[04:02:08 INFO]: <SavageMcDabbage> that should make launch 100% consistent
+[04:02:12 INFO]: <Maximum4> so i got rid of the blocks
+[04:02:38 INFO]: <Maximum4> needs more power
+[04:02:43 INFO]: <SavageMcDabbage> we can add 1 more power dispenser
+[04:02:47 INFO]: <Maximum4> yea
+[04:02:53 INFO]: <Maximum4> we should stack them
+[04:02:58 INFO]: <SavageMcDabbage> and actually 1 more below water
+[04:04:20 INFO]: <Maximum4> hm
+[04:04:38 INFO]: SavageMcDabbage issued server command: //wand
+[04:04:38 INFO]: WorldEdit: SavageMcDabbage (in "kevlar"): /wand
+[04:04:57 INFO]: SavageMcDabbage issued server command: //copy
+[04:04:57 INFO]: WorldEdit: SavageMcDabbage (in "kevlar"): /copy
+[04:05:02 INFO]: SavageMcDabbage issued server command: //paste
+[04:05:02 INFO]: WorldEdit: SavageMcDabbage (in "kevlar"): /paste - Position: (-251.0, 70.0, 419.0)
+[04:05:38 INFO]: <Maximum4> few
+[04:05:40 INFO]: <Maximum4> close one
+[04:05:51 INFO]: <Maximum4> launching tnt dropped too soon
+[04:05:57 INFO]: <Maximum4> and dropped twice for some reason
+[04:06:11 INFO]: <Maximum4> we should have a tnt cannon comp
+[04:06:16 INFO]: SavageMcDabbage issued server command: //paste
+[04:06:16 INFO]: WorldEdit: SavageMcDabbage (in "kevlar"): /paste - Position: (-251.0, 70.0, 419.0)
+[04:06:16 INFO]: <Maximum4> 30 min to build something
+[04:06:25 INFO]: <Maximum4> no tutorials
+[04:07:37 INFO]: <Maximum4> aw
+[04:08:11 INFO]: SavageMcDabbage issued server command: //paste
+[04:08:11 INFO]: WorldEdit: SavageMcDabbage (in "kevlar"): /paste - Position: (-250.0, 69.0, 419.0)
+[04:08:19 INFO]: Maximum4 issued server command: /enchant flame 1
+[04:08:54 INFO]: SavageMcDabbage issued server command: /tp Maximum4 ~ ~100 ~
+[04:08:59 INFO]: SavageMcDabbage issued server command: /tp Maximum4 ~0 ~100 ~0
+[04:09:20 INFO]: Maximum4 issued server command: /clear
+[04:09:35 INFO]: <Maximum4> wait so which side of the ship is the front
+[04:09:45 INFO]: <Maximum4> ok
+[04:10:11 INFO]: SavageMcDabbage issued server command: /clear
+[04:10:12 INFO]: <Maximum4> ur boat needs a bottom
+[04:10:15 INFO]: <SavageMcDabbage> ikik
+[04:10:27 INFO]: <SavageMcDabbage> thats just a pain though, so putting it off til last
+[04:10:36 INFO]: Maximum4 issued server command: /effect maximum4 nightvision 100 100
+[04:10:42 INFO]: Maximum4 issued server command: /effect maximum4 night vision 100 100
+[04:10:46 INFO]: Maximum4 issued server command: /effect maximum4 night_vision 100 100
+[04:10:46 INFO]: Maximum4: Given NIGHT_VISION (ID 16) * 100 to maximum4 for 100 seconds
+[04:10:49 INFO]: Maximum4 issued server command: /time set 0
+[04:10:54 INFO]: <SavageMcDabbage> im gonna head to the realm
+[04:10:59 INFO]: <Maximum4> ok bye
+[04:11:03 INFO]: <SavageMcDabbage> cya bb
+[04:11:06 INFO]: <Maximum4> <3
+[04:11:06 INFO]: SavageMcDabbage lost connection: Disconnected
+[04:11:06 INFO]: SavageMcDabbage left the game.
+[04:11:11 INFO]: Maximum4 lost connection: Disconnected
+[04:11:11 INFO]: Maximum4 left the game.
+[04:36:11 INFO]: Maximum4[/24.22.82.26:49254] logged in with entity id 765793 at ([kevlar] -352.86711996770356, 74.50210176149426, 458.4058669162817)
+[04:36:13 INFO]: Maximum4 lost connection: Disconnected
+[04:36:13 INFO]: Maximum4 left the game.
+[04:36:16 INFO]: Maximum4[/24.22.82.26:49256] logged in with entity id 766029 at ([kevlar] -352.86711996770356, 74.50210176149426, 458.4058669162817)
+[04:36:22 INFO]: Maximum4 issued server command: /toggledownfall
+[04:36:22 INFO]: Maximum4: Toggling downfall off for world 'kevlar'
+[04:41:07 INFO]: Maximum4 issued server command: /clear
+[04:43:54 INFO]: Maximum4 issued server command: /clear
+[04:45:09 INFO]: Maximum4 lost connection: Disconnected
+[04:45:09 INFO]: Maximum4 left the game.
+[20:53:21 INFO]: korvallis[/98.246.222.7:45350] logged in with entity id 769858 at ([kevlar] -95.04588194100164, 64.0, 667.6445653319803)
+[20:54:49 INFO]: korvallis issued server command: /warp spawn
+[20:56:13 INFO]: korvallis issued server command: /warp citycenter
+[20:56:43 INFO]: korvallis issued server command: /warp spawn
+[20:56:52 INFO]: CommandBlock at 128,63,257 issued server command: /gm c korvallis
+[20:56:52 INFO]: CommandBlock at 133,63,257 issued server command: /warp citycenter korvallis
+[20:56:55 INFO]: korvallis issued server command: /back
+[20:56:56 INFO]: CommandBlock at 128,63,257 issued server command: /gm c korvallis
+[20:56:56 INFO]: CommandBlock at 133,63,257 issued server command: /warp citycenter korvallis
+[20:56:59 INFO]: korvallis issued server command: /back
+[20:56:59 INFO]: CommandBlock at 128,63,257 issued server command: /gm c korvallis
+[20:56:59 INFO]: CommandBlock at 133,63,257 issued server command: /warp citycenter korvallis
+[20:57:02 INFO]: korvallis issued server command: /warp spawn
+[21:01:53 INFO]: korvallis issued server command: /time set day
+[21:11:00 INFO]: korvallis issued server command: /killall mobs
+[21:12:50 INFO]: korvallis issued server command: /time set day
+[21:26:10 INFO]: korvallis issued server command: /toggle downfall
+[21:26:14 INFO]: korvallis issued server command: /toggledownfall
+[21:26:14 INFO]: korvallis: Toggling downfall off for world 'kevlar'
+[21:26:30 INFO]: korvallis issued server command: /wand
+[21:26:30 INFO]: WorldEdit: korvallis (in "kevlar"): /wand
+[21:26:46 INFO]: korvallis issued server command: /set 0
+[21:26:46 INFO]: WorldEdit: korvallis (in "kevlar"): /set 0
+[21:26:53 INFO]: korvallis issued server command: /set 0
+[21:26:53 INFO]: WorldEdit: korvallis (in "kevlar"): /set 0 - Region: (-101.0, 68.0, 731.0) - (-90.0, 73.0, 756.0)
+[21:27:28 INFO]: korvallis issued server command: /time set day
+[21:27:31 INFO]: korvallis issued server command: /time set night
+[21:27:34 INFO]: korvallis issued server command: /time set day
+[21:53:59 INFO]: korvallis issued server command: /set 0
+[21:53:59 INFO]: WorldEdit: korvallis (in "kevlar"): /set 0 - Region: (-97.0, 73.0, 743.0) - (-89.0, 75.0, 750.0)
+[21:56:58 INFO]: korvallis issued server command: /set 0
+[21:56:58 INFO]: WorldEdit: korvallis (in "kevlar"): /set 0 - Region: (-96.0, 68.0, 746.0) - (-89.0, 75.0, 756.0)
+[21:57:59 INFO]: korvallis issued server command: /time set day
+[22:11:53 INFO]: korvallis lost connection: Disconnected
+[22:11:53 INFO]: korvallis left the game.
+[23:53:29 INFO]: Maximum4[/24.22.82.26:55600] logged in with entity id 890293 at ([kevlar] -331.30818816595314, 78.76810877322033, 402.3470380692679)
+[23:53:58 INFO]: Maximum4 lost connection: Disconnected
+[23:53:58 INFO]: Maximum4 left the game.
+[00:41:11 INFO]: s_mitty[/69.166.47.136:59073] logged in with entity id 891120 at ([kevlar] 412.49301296846556, 97.52936759557846, 562.7194417490033)
+[00:41:57 INFO]: GroupManager - INFO -  Data files refreshed.
+[00:48:20 INFO]: s_mitty issued server command: /time day
+[00:59:37 INFO]: s_mitty issued server command: /time day
+[01:16:48 INFO]: s_mitty issued server command: /weather clear
+[01:16:55 INFO]: s_mitty issued server command: /time day
+[01:19:20 INFO]: s_mitty issued server command: //set quartz
+[01:19:20 INFO]: WorldEdit: s_mitty (in "kevlar"): /set quartz - Region: (356.0, 62.0, 496.0) - (385.0, 62.0, 509.0)
+[01:19:52 INFO]: s_mitty issued server command: //fill air
+[01:19:59 INFO]: s_mitty issued server command: // set air
+[01:20:06 INFO]: s_mitty issued server command: //set air
+[01:20:06 INFO]: WorldEdit: s_mitty (in "kevlar"): /set air - Region: (356.0, 54.0, 496.0) - (385.0, 62.0, 509.0)
+[01:20:28 INFO]: s_mitty issued server command: //set quartz'
+[01:20:28 INFO]: WorldEdit: s_mitty (in "kevlar"): /set quartz' - Region: (355.0, 60.0, 495.0) - (385.0, 60.0, 509.0)
+[01:20:35 INFO]: s_mitty issued server command: //set quartz
+[01:20:35 INFO]: WorldEdit: s_mitty (in "kevlar"): /set quartz - Region: (355.0, 60.0, 495.0) - (385.0, 60.0, 509.0)
+[01:24:33 INFO]: s_mitty issued server command: /warp citycenter
+[01:25:00 INFO]: s_mitty issued server command: /warp stadium
+[01:25:17 INFO]: CommandBlock at 58,80,589 issued server command: /warp poo s_mitty
+[01:25:22 INFO]: CommandBlock at 81,80,623 issued server command: /warp mushpeen s_mitty
+[01:28:16 INFO]: s_mitty issued server command: /time day
+[01:41:54 INFO]: s_mitty issued server command: /time day
+[01:43:14 INFO]: s_mitty issued server command: /warp aidan
+[01:43:19 INFO]: s_mitty issued server command: /warp smit
+[01:43:28 INFO]: s_mitty issued server command: /war
+[01:43:31 INFO]: s_mitty issued server command: /warp
+[01:43:37 INFO]: s_mitty issued server command: /warp aidansmit
+[01:47:32 INFO]: s_mitty issued server command: /warp airport
+[01:47:38 INFO]: s_mitty issued server command: /warp station
+[01:47:45 INFO]: s_mitty issued server command: /warp centralstation
+[01:47:50 INFO]: s_mitty issued server command: /warp s_mitty
+[01:47:59 INFO]: s_mitty issued server command: /warp citycenter
+[01:50:02 INFO]: s_mitty issued server command: /warp citycenter
+[01:51:19 INFO]: CommandBlock at -68,65,322 issued server command: /warp dropper s_mitty
+[01:51:22 INFO]: CommandBlock at -71,251,327 issued server command: /gamemode survival s_mitty
+[01:51:24 INFO]: @: Set s_mitty's spawnpoint to -70.67875068547225, 250.0, 323.35198861515664
+[01:51:43 INFO]: s_mitty fell from a high place
+[01:51:53 INFO]: s_mitty fell from a high place
+[01:52:04 INFO]: s_mitty fell from a high place
+[01:52:15 INFO]: s_mitty fell from a high place
+[01:53:10 INFO]: s_mitty fell from a high place
+[01:53:49 INFO]: s_mitty fell from a high place
+[01:53:53 INFO]: CommandBlock at -73,251,320 issued server command: /warp park s_mitty
+[01:54:18 INFO]: s_mitty issued server command: /warp themepark
+[01:54:23 INFO]: s_mitty issued server command: /gamemode
+[01:54:30 INFO]: s_mitty issued server command: /gamemode creative
+[01:55:06 INFO]: CommandBlock at -68,65,322 issued server command: /warp dropper s_mitty
+[01:56:33 INFO]: s_mitty issued server command: /warp citycenter
+[01:56:39 INFO]: s_mitty issued server command: /time day
+[01:56:44 INFO]: s_mitty issued server command: /weather clear'
+[01:56:56 INFO]: s_mitty issued server command: /warp boat
+[01:57:00 INFO]: s_mitty issued server command: /warp pirate
+[01:57:05 INFO]: s_mitty issued server command: /warp ship
+[02:00:20 INFO]: CommandBlock at 144,66,128 issued server command: /warp lighttower s_mitty
+[02:01:35 INFO]: @: Given SPEED (ID 1) * 1 to s_mitty for 45 seconds
+[02:01:36 INFO]: @: Given SPEED (ID 1) * 1 to s_mitty for 45 seconds
+[02:01:37 INFO]: @: Given SPEED (ID 1) * 1 to s_mitty for 45 seconds
+[02:01:57 INFO]: GroupManager - INFO -  Data files refreshed.
+[02:02:47 INFO]: s_mitty issued server command: /warp ski
+[02:02:51 INFO]: s_mitty issued server command: /warp skiresort
+[02:02:55 INFO]: s_mitty issued server command: /warp skiresort
+[02:03:02 INFO]: s_mitty issued server command: /warp resort
+[02:03:06 INFO]: s_mitty issued server command: /warp
+[02:03:18 INFO]: s_mitty issued server command: /warp 2
+[02:03:25 INFO]: s_mitty issued server command: /warp drewski
+[02:03:49 INFO]: s_mitty issued server command: /warp erikthemepark
+[02:04:04 INFO]: s_mitty issued server command: /warp citycenter
+[02:06:28 INFO]: s_mitty issued server command: /warp ocean
+[02:06:50 INFO]: s_mitty issued server command: /time day
+[02:08:27 INFO]: s_mitty issued server command: /warp citycenter
+[02:10:39 INFO]: s_mitty issued server command: /warp set
+[02:10:46 INFO]: s_mitty issued server command: /warpset airport
+[02:10:57 INFO]: s_mitty issued server command: /warpset
+[02:11:06 INFO]: s_mitty issued server command: /newwarp
+[02:11:12 INFO]: s_mitty issued server command: /setwarp
+[02:11:16 INFO]: s_mitty issued server command: /setwarp airport
+[02:11:16 INFO]: Creating empty config: /home/mc/mc/yold-bukkit/plugins/Essentials/warps/airport.yml
+[02:14:28 INFO]: s_mitty lost connection: Disconnected
+[02:14:28 INFO]: s_mitty left the game.
+[04:00:46 INFO]: Kevlar[/192.168.1.1:52551] logged in with entity id 1196150 at ([kevlar] -184.31393432180278, 59.54999998211861, 942.4900000095367)
+[04:00:49 INFO]: Kevlar lost connection: Disconnected
+[04:00:49 INFO]: Kevlar left the game.
+[04:00:53 INFO]: Stopping server
