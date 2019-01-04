@@ -8753,3 +8753,649 @@ java.io.IOException: Bad file descriptor
 [03:32:51 INFO]: MASHTHEKEYBOARD left the game.
 [03:32:53 INFO]: Stopping server
 connect_to 127.0.0.1 port 25565: failed.
+connect_to 127.0.0.1 port 25565: failed.
+connect_to 127.0.0.1 port 25565: failed.
+connect_to 127.0.0.1 port 25565: failed.
+Loading libraries, please wait...
+WARNING: An illegal reflective access operation has occurred
+WARNING: Illegal reflective access by net.minecraft.util.io.netty.util.internal.PlatformDependent0 (file:/home/mc/mc/yold-bukkit/craftbukkit.jar) to field java.nio.DirectByteBuffer.cleaner
+WARNING: Please consider reporting this to the maintainers of net.minecraft.util.io.netty.util.internal.PlatformDependent0
+WARNING: Use --illegal-access=warn to enable warnings of further illegal reflective access operations
+WARNING: All illegal access operations will be denied in a future release
+Jan 02, 2019 3:35:58 AM net.minecraft.util.io.netty.util.internal.PlatformDependent <clinit>
+INFO: Your platform does not provide complete low-level API for accessing direct buffers reliably. Unless explicitly requested, heap buffer will always be preferred to avoid potential system unstability.
+[03:35:58 ERROR]: Exception handling console input
+java.io.IOException: Bad file descriptor
+	at java.base/java.io.FileInputStream.readBytes(Native Method) ~[?:?]
+	at java.base/java.io.FileInputStream.read(FileInputStream.java:280) ~[?:?]
+	at java.base/java.io.BufferedInputStream.fill(BufferedInputStream.java:252) ~[?:?]
+	at java.base/java.io.BufferedInputStream.read(BufferedInputStream.java:271) ~[?:?]
+	at java.base/java.io.FilterInputStream.read(FilterInputStream.java:83) ~[?:?]
+	at org.bukkit.craftbukkit.libs.jline.console.ConsoleReader$1.read(ConsoleReader.java:167) ~[craftbukkit.jar:git-Bukkit-1.7.9-R0.1-10-g8688bd4-b3092jnks]
+	at org.bukkit.craftbukkit.libs.jline.internal.InputStreamReader.read(InputStreamReader.java:267) ~[craftbukkit.jar:git-Bukkit-1.7.9-R0.1-10-g8688bd4-b3092jnks]
+	at org.bukkit.craftbukkit.libs.jline.internal.InputStreamReader.read(InputStreamReader.java:204) ~[craftbukkit.jar:git-Bukkit-1.7.9-R0.1-10-g8688bd4-b3092jnks]
+	at org.bukkit.craftbukkit.libs.jline.console.ConsoleReader.readCharacter(ConsoleReader.java:995) ~[craftbukkit.jar:git-Bukkit-1.7.9-R0.1-10-g8688bd4-b3092jnks]
+	at org.bukkit.craftbukkit.libs.jline.console.ConsoleReader.readLineSimple(ConsoleReader.java:1506) ~[craftbukkit.jar:git-Bukkit-1.7.9-R0.1-10-g8688bd4-b3092jnks]
+	at org.bukkit.craftbukkit.libs.jline.console.ConsoleReader.readLine(ConsoleReader.java:1153) ~[craftbukkit.jar:git-Bukkit-1.7.9-R0.1-10-g8688bd4-b3092jnks]
+	at org.bukkit.craftbukkit.libs.jline.console.ConsoleReader.readLine(ConsoleReader.java:1117) ~[craftbukkit.jar:git-Bukkit-1.7.9-R0.1-10-g8688bd4-b3092jnks]
+	at org.bukkit.craftbukkit.libs.jline.console.ConsoleReader.readLine(ConsoleReader.java:1105) ~[craftbukkit.jar:git-Bukkit-1.7.9-R0.1-10-g8688bd4-b3092jnks]
+	at net.minecraft.server.v1_7_R3.ThreadCommandReader.run(ThreadCommandReader.java:34) [craftbukkit.jar:git-Bukkit-1.7.9-R0.1-10-g8688bd4-b3092jnks]
+[03:35:58 INFO]: Starting minecraft server version 1.7.9
+[03:35:58 INFO]: Loading properties
+[03:35:58 INFO]: Default game type: CREATIVE
+[03:35:58 INFO]: Generating keypair
+[03:35:58 INFO]: Starting Minecraft server on *:25565
+[03:35:59 INFO]: This server is running CraftBukkit version git-Bukkit-1.7.9-R0.1-10-g8688bd4-b3092jnks (MC: 1.7.9) (Implementing API version 1.7.9-R0.2)
+[03:35:59 INFO]: [WorldEdit] Loading WorldEdit v5.6.2
+[03:35:59 INFO]: [SignEdit] Loading SignEdit v3.3.9
+[03:35:59 INFO]: [RunAs] Loading RunAs v1.0.1
+[03:35:59 INFO]: [AntiCreeper] Loading AntiCreeper v4.18.1
+[03:35:59 INFO]: [Essentials] Loading Essentials v2.13.1
+[03:35:59 INFO]: [Speedcarts] Loading Speedcarts v1.3.5
+[03:35:59 INFO]: [GroupManager] Loading GroupManager v2.1.11 (Phoenix)
+[03:35:59 INFO]: [EssentialsChat] Loading EssentialsChat v2.13.1
+[03:35:59 INFO]: [EssentialsProtect] Loading EssentialsProtect v2.13.1
+[03:35:59 WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[03:35:59 WARN]: The server will make no attempt to authenticate usernames. Beware.
+[03:35:59 WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[03:35:59 WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[03:35:59 INFO]: Preparing level "kevlar"
+[03:35:59 INFO]: Preparing start region for level 0 (Seed: -6429030645283485143)
+[03:36:00 INFO]: Preparing spawn area: 76%
+[03:36:00 INFO]: Preparing start region for level 1 (Seed: -5412670237699833762)
+[03:36:01 INFO]: Preparing start region for level 2 (Seed: -5412670237699833762)
+[03:36:01 INFO]: [WorldEdit] Enabling WorldEdit v5.6.2
+[03:36:01 INFO]: WEPIF: Using the Bukkit Permissions API.
+[03:36:02 INFO]: [SignEdit] Enabling SignEdit v3.3.9
+[03:36:02 INFO]: [RunAs] Enabling RunAs v1.0.1
+[03:36:02 INFO]: [AntiCreeper] Enabling AntiCreeper v4.18.1
+[03:36:02 INFO]: [AntiCreeper] brought to you by Filbert66
+[03:36:02 INFO]: [Essentials] Enabling Essentials v2.13.1
+[03:36:02 INFO]: Essentials: Using config file enhanced permissions.
+[03:36:02 INFO]: Permissions listed in as player-commands will be given to all users.
+[03:36:02 INFO]: [Speedcarts] Enabling Speedcarts v1.3.5
+[03:36:02 INFO]: [Speedcarts] Checking for updates...
+[03:36:03 WARN]: [Speedcarts] [33mSpeedcarts could not check for updates [java.net.UnknownHostException: version.znt.se].[m
+[03:36:03 INFO]: [Speedcarts] Speedcarts enabled!
+[03:36:03 INFO]: [GroupManager] Enabling GroupManager v2.1.11 (Phoenix)
+[03:36:03 INFO]: GroupManager - INFO - World Found: kevlar
+[03:36:03 INFO]: GroupManager - INFO - World Found: world
+[03:36:03 INFO]: GroupManager - INFO - Superperms support enabled.
+[03:36:03 INFO]: GroupManager - INFO - Scheduled Data Saving is set for every 10 minutes!
+[03:36:03 INFO]: GroupManager - INFO - Backups will be retained for 24 hours!
+[03:36:03 INFO]: GroupManager version 2.1.11 (Phoenix) is enabled!
+[03:36:03 INFO]: WEPIF: GroupManager detected! Using GroupManager for permissions.
+[03:36:03 INFO]: Essentials: Using GroupManager based permissions.
+[03:36:03 INFO]: [EssentialsChat] Enabling EssentialsChat v2.13.1
+[03:36:03 INFO]: [EssentialsProtect] Enabling EssentialsProtect v2.13.1
+[03:36:03 INFO]: Server permissions file permissions.yml is empty, ignoring it
+[03:36:03 INFO]: Done (3.737s)! For help, type "help" or "?"
+[03:36:03 INFO]: GroupManager - INFO - Bukkit Permissions Updated!
+[03:36:07 INFO]: s_mitty[/127.0.0.1:34180] logged in with entity id 266 at ([kevlar] -112.76024977857355, 75.19197202492657, 663.7988238509571)
+[03:36:16 INFO]: [WorldEdit] Using external NmsBlock for this version: CBXNmsBlock_175_5xcompat
+[03:36:20 INFO]: MASHTHEKEYBOARD[/127.0.0.1:34186] logged in with entity id 736 at ([kevlar] -236.10714821761226, 95.76093475409601, 803.3673840083694)
+[03:36:42 INFO]: Kevlar[/127.0.0.1:34190] logged in with entity id 1575 at ([kevlar] -26.76251149654138, 48.200000047683716, 325.30000001192093)
+[03:37:25 INFO]: Kevlar issued server command: /sc set 0.4
+[03:38:03 INFO]: Kevlar issued server command: /sc auto
+[03:38:15 INFO]: Kevlar issued server command: /sc set:auto
+[03:38:17 INFO]: Kevlar issued server command: /sc set 0
+[03:38:22 INFO]: Kevlar issued server command: /sc set -4
+[03:38:25 INFO]: Kevlar issued server command: /sc set a
+[03:38:30 INFO]: Kevlar issued server command: /sc set 0.4
+[03:38:40 INFO]: s_mitty issued server command: /replace air glasspane
+[03:38:40 INFO]: WorldEdit: s_mitty (in "kevlar"): /replace air glasspane - Region: (-118.0, 68.0, 659.0) - (-118.0, 94.0, 664.0)
+[03:39:00 INFO]: s_mitty issued server command: /replace air glasspane
+[03:39:00 INFO]: WorldEdit: s_mitty (in "kevlar"): /replace air glasspane - Region: (-119.0, 68.0, 664.0) - (-119.0, 95.0, 664.0)
+[03:39:05 INFO]: s_mitty issued server command: /replace air glasspane
+[03:39:05 INFO]: WorldEdit: s_mitty (in "kevlar"): /replace air glasspane - Region: (-120.0, 68.0, 665.0) - (-120.0, 95.0, 665.0)
+[03:39:12 INFO]: s_mitty issued server command: /replace air glasspane
+[03:39:12 INFO]: WorldEdit: s_mitty (in "kevlar"): /replace air glasspane - Region: (-127.0, 72.0, 665.0) - (-126.0, 95.0, 665.0)
+[03:39:16 INFO]: s_mitty issued server command: /undo
+[03:39:16 INFO]: WorldEdit: s_mitty (in "kevlar"): /undo
+[03:39:24 INFO]: s_mitty issued server command: /replace air glasspane
+[03:39:24 INFO]: WorldEdit: s_mitty (in "kevlar"): /replace air glasspane - Region: (-127.0, 95.0, 665.0) - (-126.0, 95.0, 665.0)
+[03:39:31 INFO]: s_mitty issued server command: /replace air glasspane
+[03:39:31 INFO]: WorldEdit: s_mitty (in "kevlar"): /replace air glasspane - Region: (-127.0, 68.0, 665.0) - (-127.0, 95.0, 665.0)
+[03:39:41 INFO]: s_mitty issued server command: /replace air glasspane
+[03:39:41 INFO]: WorldEdit: s_mitty (in "kevlar"): /replace air glasspane - Region: (-128.0, 69.0, 664.0) - (-128.0, 95.0, 664.0)
+[03:39:50 INFO]: s_mitty issued server command: /replace air glasspane
+[03:39:50 INFO]: WorldEdit: s_mitty (in "kevlar"): /replace air glasspane - Region: (-128.0, 69.0, 659.0) - (-128.0, 95.0, 659.0)
+[03:40:03 INFO]: s_mitty issued server command: /replace air glasspane
+[03:40:03 INFO]: WorldEdit: s_mitty (in "kevlar"): /replace air glasspane - Region: (-127.0, 69.0, 658.0) - (-127.0, 95.0, 658.0)
+[03:40:09 INFO]: s_mitty issued server command: /replace air glasspane
+[03:40:09 INFO]: WorldEdit: s_mitty (in "kevlar"): /replace air glasspane - Region: (-120.0, 69.0, 658.0) - (-120.0, 95.0, 658.0)
+[03:40:19 INFO]: s_mitty issued server command: /replace air glasspane
+[03:40:19 INFO]: WorldEdit: s_mitty (in "kevlar"): /replace air glasspane - Region: (-119.0, 69.0, 659.0) - (-119.0, 95.0, 659.0)
+[03:41:31 INFO]: s_mitty issued server command: /copy
+[03:41:31 INFO]: WorldEdit: s_mitty (in "kevlar"): /copy
+[03:41:35 INFO]: s_mitty issued server command: /rotate 90
+[03:41:35 INFO]: WorldEdit: s_mitty (in "kevlar"): /rotate 90
+[03:41:43 INFO]: s_mitty issued server command: /paste
+[03:41:43 INFO]: WorldEdit: s_mitty (in "kevlar"): /paste - Position: (-126.0, 67.0, 667.0)
+[03:42:25 INFO]: s_mitty issued server command: /time day
+[03:44:08 INFO]: s_mitty issued server command: /replace air glasspane
+[03:44:08 INFO]: WorldEdit: s_mitty (in "kevlar"): /replace air glasspane - Region: (-122.0, 68.0, 666.0) - (-121.0, 94.0, 666.0)
+[03:44:16 INFO]: s_mitty issued server command: /paste
+[03:44:16 INFO]: WorldEdit: s_mitty (in "kevlar"): /paste - Position: (-130.0, 67.0, 660.0)
+[03:44:19 INFO]: s_mitty issued server command: /undo
+[03:44:19 INFO]: WorldEdit: s_mitty (in "kevlar"): /undo
+[03:44:27 INFO]: s_mitty issued server command: /rotate 90
+[03:44:27 INFO]: WorldEdit: s_mitty (in "kevlar"): /rotate 90
+[03:44:31 INFO]: s_mitty issued server command: /paste
+[03:44:31 INFO]: WorldEdit: s_mitty (in "kevlar"): /paste - Position: (-130.0, 67.0, 660.0)
+[03:44:41 INFO]: s_mitty issued server command: /rotate 90
+[03:44:41 INFO]: WorldEdit: s_mitty (in "kevlar"): /rotate 90
+[03:44:51 INFO]: s_mitty issued server command: /paste
+[03:44:51 INFO]: WorldEdit: s_mitty (in "kevlar"): /paste - Position: (-121.0, 67.0, 656.0)
+[03:45:55 INFO]: s_mitty issued server command: /replace air glasspane
+[03:45:55 INFO]: WorldEdit: s_mitty (in "kevlar"): /replace air glasspane - Region: (-126.0, 68.0, 657.0) - (-125.0, 94.0, 657.0)
+[03:46:03 INFO]: GroupManager - INFO -  Data files refreshed.
+[03:46:15 INFO]: s_mitty issued server command: /set stonebrick
+[03:46:15 INFO]: WorldEdit: s_mitty (in "kevlar"): /set stonebrick - Region: (-127.0, 95.0, 657.0) - (-120.0, 95.0, 657.0)
+[03:46:22 INFO]: s_mitty issued server command: /set stonebrick
+[03:46:22 INFO]: WorldEdit: s_mitty (in "kevlar"): /set stonebrick - Region: (-129.0, 95.0, 659.0) - (-129.0, 95.0, 664.0)
+[03:46:30 INFO]: s_mitty issued server command: /set stonebrick
+[03:46:30 INFO]: WorldEdit: s_mitty (in "kevlar"): /set stonebrick - Region: (-127.0, 95.0, 666.0) - (-120.0, 95.0, 666.0)
+[03:46:36 INFO]: s_mitty issued server command: /set stonebrick
+[03:46:36 INFO]: WorldEdit: s_mitty (in "kevlar"): /set stonebrick - Region: (-118.0, 95.0, 659.0) - (-118.0, 95.0, 664.0)
+[03:46:47 INFO]: s_mitty issued server command: /replace air glasspane
+[03:46:47 INFO]: WorldEdit: s_mitty (in "kevlar"): /replace air glasspane - Region: (-129.0, 96.0, 659.0) - (-129.0, 96.0, 664.0)
+[03:46:52 INFO]: s_mitty issued server command: /replace air glasspane
+[03:46:52 INFO]: WorldEdit: s_mitty (in "kevlar"): /replace air glasspane - Region: (-127.0, 96.0, 666.0) - (-120.0, 96.0, 666.0)
+[03:46:57 INFO]: s_mitty issued server command: /replace air glasspane
+[03:46:57 INFO]: WorldEdit: s_mitty (in "kevlar"): /replace air glasspane - Region: (-118.0, 96.0, 659.0) - (-118.0, 96.0, 664.0)
+[03:47:01 INFO]: s_mitty issued server command: /replace air glasspane
+[03:47:01 INFO]: WorldEdit: s_mitty (in "kevlar"): /replace air glasspane - Region: (-127.0, 96.0, 657.0) - (-120.0, 96.0, 657.0)
+[03:47:16 INFO]: Kevlar issued server command: /sc set 4
+[03:47:34 INFO]: s_mitty issued server command: /set stonebrick
+[03:47:34 INFO]: WorldEdit: s_mitty (in "kevlar"): /set stonebrick - Region: (-120.0, 96.0, 664.0) - (-118.0, 96.0, 664.0)
+[03:47:39 INFO]: s_mitty issued server command: /set stonebrick
+[03:47:39 INFO]: WorldEdit: s_mitty (in "kevlar"): /set stonebrick - Region: (-120.0, 96.0, 664.0) - (-118.0, 97.0, 664.0)
+[03:47:42 INFO]: s_mitty issued server command: /set stonebrick
+[03:47:42 INFO]: WorldEdit: s_mitty (in "kevlar"): /set stonebrick - Region: (-120.0, 96.0, 664.0) - (-120.0, 97.0, 666.0)
+[03:47:47 INFO]: s_mitty issued server command: /set stonebrick
+[03:47:47 INFO]: WorldEdit: s_mitty (in "kevlar"): /set stonebrick - Region: (-127.0, 97.0, 666.0) - (-120.0, 97.0, 666.0)
+[03:47:52 INFO]: s_mitty issued server command: /set stonebrick
+[03:47:52 INFO]: WorldEdit: s_mitty (in "kevlar"): /set stonebrick - Region: (-127.0, 96.0, 664.0) - (-127.0, 97.0, 666.0)
+[03:47:54 INFO]: s_mitty issued server command: /set stonebrick
+[03:47:54 INFO]: WorldEdit: s_mitty (in "kevlar"): /set stonebrick - Region: (-129.0, 96.0, 664.0) - (-127.0, 97.0, 664.0)
+[03:47:58 INFO]: Kevlar issued server command: /set poweredrail
+[03:47:58 INFO]: WorldEdit: Kevlar (in "kevlar"): /set poweredrail - Region: (-172.0, 51.0, 535.0) - (-172.0, 51.0, 751.0)
+[03:48:01 INFO]: s_mitty issued server command: /set stonebrick
+[03:48:01 INFO]: WorldEdit: s_mitty (in "kevlar"): /set stonebrick - Region: (-129.0, 97.0, 659.0) - (-129.0, 97.0, 664.0)
+[03:48:04 INFO]: s_mitty issued server command: /set stonebrick
+[03:48:04 INFO]: WorldEdit: s_mitty (in "kevlar"): /set stonebrick - Region: (-129.0, 96.0, 659.0) - (-127.0, 97.0, 659.0)
+[03:48:07 INFO]: Kevlar issued server command: /j
+[03:48:07 INFO]: WorldEdit: Kevlar (in "kevlar"): jumpto
+[03:48:08 INFO]: s_mitty issued server command: /set stonebrick
+[03:48:08 INFO]: WorldEdit: s_mitty (in "kevlar"): /set stonebrick - Region: (-127.0, 96.0, 657.0) - (-127.0, 97.0, 659.0)
+[03:48:10 INFO]: Kevlar issued server command: /j
+[03:48:10 INFO]: WorldEdit: Kevlar (in "kevlar"): jumpto
+[03:48:14 INFO]: s_mitty issued server command: /set stonebrick
+[03:48:14 INFO]: WorldEdit: s_mitty (in "kevlar"): /set stonebrick - Region: (-127.0, 97.0, 657.0) - (-120.0, 97.0, 657.0)
+[03:48:14 INFO]: Kevlar issued server command: /j
+[03:48:14 INFO]: WorldEdit: Kevlar (in "kevlar"): jumpto
+[03:48:16 INFO]: Kevlar issued server command: /j
+[03:48:16 INFO]: WorldEdit: Kevlar (in "kevlar"): jumpto
+[03:48:19 INFO]: s_mitty issued server command: /set stonebrick
+[03:48:19 INFO]: WorldEdit: s_mitty (in "kevlar"): /set stonebrick - Region: (-120.0, 96.0, 657.0) - (-120.0, 97.0, 659.0)
+[03:48:21 INFO]: s_mitty issued server command: /set stonebrick
+[03:48:21 INFO]: WorldEdit: s_mitty (in "kevlar"): /set stonebrick - Region: (-120.0, 96.0, 659.0) - (-118.0, 97.0, 659.0)
+[03:48:23 INFO]: Kevlar issued server command: /set poweredrail
+[03:48:23 INFO]: WorldEdit: Kevlar (in "kevlar"): /set poweredrail - Region: (-170.0, 51.0, 535.0) - (-170.0, 51.0, 751.0)
+[03:48:28 INFO]: s_mitty issued server command: /set stonebrick
+[03:48:28 INFO]: WorldEdit: s_mitty (in "kevlar"): /set stonebrick - Region: (-118.0, 97.0, 659.0) - (-118.0, 97.0, 664.0)
+[03:48:50 INFO]: Kevlar issued server command: /expand 3 u
+[03:48:50 INFO]: WorldEdit: Kevlar (in "kevlar"): /expand 3 u - Region: (-173.0, 52.0, 522.0) - (-169.0, 52.0, 522.0)
+[03:48:54 INFO]: Kevlar issued server command: /expand 3 d
+[03:48:54 INFO]: WorldEdit: Kevlar (in "kevlar"): /expand 3 d - Region: (-173.0, 52.0, 522.0) - (-169.0, 55.0, 522.0)
+[03:48:55 INFO]: Kevlar issued server command: /copy
+[03:48:55 INFO]: WorldEdit: Kevlar (in "kevlar"): /copy
+[03:51:34 INFO]: s_mitty issued server command: /set stonebrick
+[03:51:34 INFO]: WorldEdit: s_mitty (in "kevlar"): /set stonebrick - Region: (-126.0, 66.0, 658.0) - (-121.0, 66.0, 665.0)
+[03:51:38 INFO]: s_mitty issued server command: /set stonebrick
+[03:51:38 INFO]: WorldEdit: s_mitty (in "kevlar"): /set stonebrick - Region: (-120.0, 66.0, 660.0) - (-119.0, 66.0, 663.0)
+[03:51:42 INFO]: s_mitty issued server command: /set stonebrick
+[03:51:42 INFO]: WorldEdit: s_mitty (in "kevlar"): /set stonebrick - Region: (-128.0, 66.0, 660.0) - (-127.0, 66.0, 663.0)
+[03:52:53 INFO]: s_mitty issued server command: /copy
+[03:52:53 INFO]: WorldEdit: s_mitty (in "kevlar"): /copy
+[03:52:57 INFO]: s_mitty issued server command: /paste
+[03:52:57 INFO]: WorldEdit: s_mitty (in "kevlar"): /paste - Position: (-121.0, 67.0, 667.0)
+[03:53:06 INFO]: s_mitty issued server command: /paste
+[03:53:06 INFO]: WorldEdit: s_mitty (in "kevlar"): /paste - Position: (-121.0, 66.0, 667.0)
+[03:53:22 INFO]: s_mitty issued server command: /time set day
+[03:54:18 INFO]: s_mitty issued server command: /paste
+[03:54:18 INFO]: WorldEdit: s_mitty (in "kevlar"): /paste - Position: (-121.0, 65.0, 667.0)
+[03:55:18 INFO]: s_mitty issued server command: /set air
+[03:55:18 INFO]: WorldEdit: s_mitty (in "kevlar"): /set air - Region: (-129.0, 93.0, 664.0) - (-120.0, 97.0, 666.0)
+[03:55:21 INFO]: s_mitty issued server command: /set air
+[03:55:21 INFO]: WorldEdit: s_mitty (in "kevlar"): /set air - Region: (-129.0, 93.0, 659.0) - (-120.0, 97.0, 666.0)
+[03:55:26 INFO]: s_mitty issued server command: /undo
+[03:55:26 INFO]: WorldEdit: s_mitty (in "kevlar"): /undo
+[03:55:33 INFO]: s_mitty issued server command: /set air
+[03:55:33 INFO]: WorldEdit: s_mitty (in "kevlar"): /set air - Region: (-129.0, 95.0, 659.0) - (-129.0, 97.0, 663.0)
+[03:55:40 INFO]: s_mitty issued server command: /set air
+[03:55:40 INFO]: WorldEdit: s_mitty (in "kevlar"): /set air - Region: (-128.0, 95.0, 659.0) - (-118.0, 97.0, 664.0)
+[03:55:49 INFO]: s_mitty issued server command: /set air
+[03:55:49 INFO]: WorldEdit: s_mitty (in "kevlar"): /set air - Region: (-118.0, 93.0, 659.0) - (-118.0, 94.0, 664.0)
+[03:56:54 INFO]: s_mitty issued server command: /copy
+[03:56:54 INFO]: WorldEdit: s_mitty (in "kevlar"): /copy
+[03:57:03 INFO]: s_mitty issued server command: /rotate 180
+[03:57:03 INFO]: WorldEdit: s_mitty (in "kevlar"): /rotate 180
+[03:57:07 INFO]: s_mitty issued server command: /paste
+[03:57:07 INFO]: WorldEdit: s_mitty (in "kevlar"): /paste - Position: (-121.0, 67.0, 656.0)
+[03:58:10 INFO]: s_mitty issued server command: /copy
+[03:58:10 INFO]: WorldEdit: s_mitty (in "kevlar"): /copy
+[03:58:12 INFO]: s_mitty issued server command: /rotate 90
+[03:58:12 INFO]: WorldEdit: s_mitty (in "kevlar"): /rotate 90
+[03:58:19 INFO]: s_mitty issued server command: /paste
+[03:58:19 INFO]: WorldEdit: s_mitty (in "kevlar"): /paste - Position: (-130.0, 67.0, 660.0)
+[03:59:13 INFO]: s_mitty issued server command: /revert
+[03:59:16 INFO]: s_mitty issued server command: /regen
+[03:59:16 INFO]: WorldEdit: s_mitty (in "kevlar"): /regen - Region: (-131.0, 67.0, 670.0) - (-116.0, 75.0, 682.0)
+[04:00:12 INFO]: Kevlar issued server command: /killall hostile
+[04:00:27 INFO]: s_mitty issued server command: /rotate 180
+[04:00:27 INFO]: WorldEdit: s_mitty (in "kevlar"): /rotate 180
+[04:00:33 INFO]: s_mitty issued server command: /paste
+[04:00:33 INFO]: WorldEdit: s_mitty (in "kevlar"): /paste - Position: (-117.0, 67.0, 663.0)
+[04:01:51 INFO]: s_mitty issued server command: /replace stonebrick quartz
+[04:01:51 INFO]: WorldEdit: s_mitty (in "kevlar"): /replace stonebrick quartz - Region: (-129.0, 66.0, 657.0) - (-118.0, 92.0, 666.0)
+[04:03:29 INFO]: s_mitty issued server command: /time set day
+[04:06:53 INFO]: MASHTHEKEYBOARD issued server command: /tp s_mitty
+[04:09:20 INFO]: MickeyAndPluto[/127.0.0.1:35124] logged in with entity id 72437 at ([kevlar] -329.6656577804023, 85.60341961786378, 824.7649468546531)
+[04:12:26 INFO]: Kevlar lost connection: Disconnected
+[04:12:26 INFO]: Kevlar left the game.
+[04:13:28 INFO]: MickeyAndPluto issued server command: /warp citycenter
+[04:13:37 INFO]: MickeyAndPluto issued server command: /warp space x
+[04:13:44 INFO]: MickeyAndPluto issued server command: /warp spacex
+[04:14:28 INFO]: s_mitty issued server command: /time set day
+[04:19:17 INFO]: s_mitty issued server command: /copy
+[04:19:17 INFO]: WorldEdit: s_mitty (in "kevlar"): /copy
+[04:19:23 INFO]: s_mitty issued server command: /paste
+[04:19:23 INFO]: WorldEdit: s_mitty (in "kevlar"): /paste - Position: (-128.0, 69.0, 660.0)
+[04:20:24 INFO]: MickeyAndPluto lost connection: Timed out
+[04:20:24 INFO]: MickeyAndPluto left the game.
+[04:20:51 INFO]: MickeyAndPluto[/127.0.0.1:35438] logged in with entity id 92213 at ([kevlar] -0.3907370390788228, 67.0, 712.1794515851907)
+[04:25:06 INFO]: s_mitty issued server command: /tims set day
+[04:25:14 INFO]: s_mitty issued server command: /time set day
+[04:30:21 INFO]: MickeyAndPluto issued server command: /tp s_mitty
+[04:30:50 INFO]: s_mitty issued server command: /tp MickeyAndPluto
+[04:36:02 INFO]: s_mitty issued server command: /copy
+[04:36:02 INFO]: WorldEdit: s_mitty (in "kevlar"): /copy
+[04:36:07 INFO]: s_mitty issued server command: /paste
+[04:36:07 INFO]: WorldEdit: s_mitty (in "kevlar"): /paste - Position: (-129.0, 96.0, 657.0)
+[04:37:10 INFO]: s_mitty issued server command: /TIME SET DAY
+[04:37:21 INFO]: s_mitty issued server command: /time set day
+[04:42:10 INFO]: s_mitty issued server command: /weather clear
+[04:43:49 INFO]: s_mitty issued server command: /tp MASHTHEKEYBOARD
+[04:46:20 INFO]: MickeyAndPluto lost connection: Timed out
+[04:46:20 INFO]: MickeyAndPluto left the game.
+[04:46:47 INFO]: CommandBlock at -47,72,634 issued server command: /warp dildo s_mitty
+[04:47:03 INFO]: s_mitty issued server command: /warp citycenter
+[04:48:13 INFO]: MASHTHEKEYBOARD lost connection: Disconnected
+[04:48:13 INFO]: MASHTHEKEYBOARD left the game.
+[05:03:06 INFO]: s_mitty lost connection: Disconnected
+[05:03:06 INFO]: s_mitty left the game.
+[17:00:03 INFO]: Epically_Magical[/127.0.0.1:53678] logged in with entity id 152844 at ([kevlar] 121.5, 64.0, 263.5)
+[17:00:03 INFO]: Creating empty config: /home/mc/mc/yold-bukkit/plugins/Essentials/userdata/epically_magical.yml
+[17:00:18 INFO]: CommandBlock at 128,63,257 issued server command: /gm c Epically_Magical
+[17:00:18 INFO]: CommandBlock at 133,63,257 issued server command: /warp citycenter Epically_Magical
+[17:01:38 INFO]: Epically_Magical lost connection: Disconnected
+[17:01:38 INFO]: Epically_Magical left the game.
+[17:02:17 INFO]: DankerMcFlanker[/127.0.0.1:53682] logged in with entity id 155798 at ([kevlar] 137.5, 67.0, 252.5)
+[17:02:17 INFO]: Creating empty config: /home/mc/mc/yold-bukkit/plugins/Essentials/userdata/dankermcflanker.yml
+[17:04:00 INFO]: DankerMcFlanker lost connection: Disconnected
+[17:04:00 INFO]: DankerMcFlanker left the game.
+[17:06:03 INFO]: GroupManager - INFO -  Data files refreshed.
+[01:01:12 INFO]: s_mitty[/127.0.0.1:42492] logged in with entity id 162670 at ([kevlar] -61.43271007977618, 69.0, 675.8750735830342)
+[01:01:22 INFO]: Kevlar[/127.0.0.1:42496] logged in with entity id 163549 at ([kevlar] -201.86018687242813, 64.0, 727.3024583723446)
+[01:09:55 INFO]: Kevlar issued server command: /killall hostile
+[01:10:58 INFO]: Kevlar issued server command: /set ironbar
+[01:10:58 INFO]: WorldEdit: Kevlar (in "kevlar"): /set ironbar - Region: (-202.0, 64.0, 718.0) - (-202.0, 67.0, 736.0)
+[01:11:03 INFO]: Kevlar issued server command: /set ironbars
+[01:11:03 INFO]: WorldEdit: Kevlar (in "kevlar"): /set ironbars - Region: (-202.0, 64.0, 718.0) - (-202.0, 67.0, 736.0)
+[01:12:53 INFO]: Kevlar issued server command: /warnd
+[01:12:56 INFO]: Kevlar issued server command: /warnd
+[01:12:58 INFO]: Kevlar issued server command: /wand
+[01:12:58 INFO]: WorldEdit: Kevlar (in "kevlar"): /wand
+[01:13:05 INFO]: Kevlar issued server command: /set glowstone
+[01:13:05 INFO]: WorldEdit: Kevlar (in "kevlar"): /set glowstone - Region: (-183.0, 64.0, 727.0) - (-183.0, 64.0, 727.0)
+[01:14:12 INFO]: Kevlar issued server command: /signedit copy
+[01:14:12 INFO]: [SignEdit] [PLAYER_COMMAND] Kevlar: /signedit copy
+[01:16:51 INFO]: Kevlar issued server command: /set ironbars
+[01:16:51 INFO]: WorldEdit: Kevlar (in "kevlar"): /set ironbars - Region: (-190.0, 62.0, 918.0) - (-188.0, 66.0, 918.0)
+[01:18:04 INFO]: Kevlar issued server command: /thru
+[01:18:04 INFO]: WorldEdit: Kevlar (in "kevlar"): thru
+[01:20:26 INFO]: Kevlar issued server command: /i sign
+[01:21:10 INFO]: Kevlar issued server command: /j
+[01:21:10 INFO]: WorldEdit: Kevlar (in "kevlar"): jumpto
+[01:21:15 INFO]: Kevlar issued server command: /thru
+[01:21:15 INFO]: WorldEdit: Kevlar (in "kevlar"): thru
+[01:21:18 INFO]: Kevlar issued server command: /thru
+[01:21:18 INFO]: WorldEdit: Kevlar (in "kevlar"): thru
+[01:21:19 INFO]: s_mitty issued server command: /tp kevlar
+[01:21:43 INFO]: s_mitty issued server command: /warp citycenter
+[01:21:58 INFO]: Kevlar issued server command: /j
+[01:21:58 INFO]: WorldEdit: Kevlar (in "kevlar"): jumpto
+[01:22:01 INFO]: Kevlar issued server command: /thru
+[01:22:01 INFO]: WorldEdit: Kevlar (in "kevlar"): thru
+[01:22:17 INFO]: Kevlar issued server command: /expand 2 l
+[01:22:17 INFO]: WorldEdit: Kevlar (in "kevlar"): /expand 2 l - Region: (137.0, 73.0, 1230.0) - (137.0, 77.0, 1233.0)
+[01:22:20 INFO]: Kevlar issued server command: /expand 2 r
+[01:22:20 INFO]: WorldEdit: Kevlar (in "kevlar"): /expand 2 r - Region: (137.0, 73.0, 1228.0) - (137.0, 77.0, 1233.0)
+[01:22:22 INFO]: Kevlar issued server command: /expand 2 u
+[01:22:22 INFO]: WorldEdit: Kevlar (in "kevlar"): /expand 2 u - Region: (137.0, 73.0, 1228.0) - (137.0, 77.0, 1235.0)
+[01:22:25 INFO]: Kevlar issued server command: /expand 2 d
+[01:22:25 INFO]: WorldEdit: Kevlar (in "kevlar"): /expand 2 d - Region: (137.0, 73.0, 1228.0) - (137.0, 79.0, 1235.0)
+[01:22:34 INFO]: Kevlar issued server command: /set fence
+[01:22:34 INFO]: WorldEdit: Kevlar (in "kevlar"): /set fence - Region: (137.0, 71.0, 1228.0) - (137.0, 79.0, 1235.0)
+[01:22:45 INFO]: Kevlar issued server command: /undo
+[01:22:45 INFO]: WorldEdit: Kevlar (in "kevlar"): /undo
+[01:22:53 INFO]: Kevlar issued server command: /replace ironbars netherfence
+[01:22:53 INFO]: WorldEdit: Kevlar (in "kevlar"): /replace ironbars netherfence - Region: (137.0, 71.0, 1228.0) - (137.0, 79.0, 1235.0)
+[01:23:03 INFO]: Kevlar issued server command: /undo
+[01:23:03 INFO]: WorldEdit: Kevlar (in "kevlar"): /undo
+[01:23:07 INFO]: Kevlar issued server command: /thru
+[01:23:07 INFO]: WorldEdit: Kevlar (in "kevlar"): thru
+[01:26:30 INFO]: Kevlar issued server command: /set netherbrick
+[01:26:30 INFO]: WorldEdit: Kevlar (in "kevlar"): /set netherbrick - Region: (-192.0, 61.0, 919.0) - (-192.0, 66.0, 937.0)
+[01:26:32 INFO]: Kevlar issued server command: /undo
+[01:26:32 INFO]: WorldEdit: Kevlar (in "kevlar"): /undo
+[01:26:35 INFO]: MASHTHEKEYBOARD[/127.0.0.1:43158] logged in with entity id 198465 at ([kevlar] -70.64359935232137, 72.0, 717.4425156949176)
+[01:26:36 INFO]: Kevlar issued server command: /set netherfence
+[01:26:36 INFO]: WorldEdit: Kevlar (in "kevlar"): /set netherfence - Region: (-192.0, 61.0, 919.0) - (-192.0, 66.0, 937.0)
+[01:26:46 INFO]: Kevlar issued server command: /undo
+[01:26:46 INFO]: WorldEdit: Kevlar (in "kevlar"): /undo
+[01:28:51 INFO]: Kevlar issued server command: /tp MASHTHEKEYBOARD Kevlar
+[01:28:54 INFO]: s_mitty issued server command: /time day
+[01:29:01 INFO]: s_mitty issued server command: /weather clear
+[01:30:15 INFO]: s_mitty issued server command: /cut
+[01:30:15 INFO]: WorldEdit: s_mitty (in "kevlar"): /cut - Region: (25.0, 71.0, 708.0) - (87.0, 94.0, 764.0)
+[01:30:22 INFO]: s_mitty issued server command: /undo
+[01:30:22 INFO]: WorldEdit: s_mitty (in "kevlar"): /undo
+[01:30:24 WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2069ms behind, skipping 41 tick(s)
+[01:30:55 INFO]: s_mitty issued server command: /cut
+[01:30:55 INFO]: WorldEdit: s_mitty (in "kevlar"): /cut - Region: (25.0, 71.0, 702.0) - (90.0, 93.0, 764.0)
+[01:31:04 INFO]: s_mitty issued server command: /undo
+[01:31:04 INFO]: WorldEdit: s_mitty (in "kevlar"): /undo
+[01:31:06 WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2371ms behind, skipping 47 tick(s)
+[01:31:17 INFO]: s_mitty issued server command: /cut
+[01:31:17 INFO]: WorldEdit: s_mitty (in "kevlar"): /cut - Region: (25.0, 71.0, 702.0) - (90.0, 93.0, 764.0)
+[01:31:54 INFO]: s_mitty issued server command: /warp aidansmit
+[01:32:08 INFO]: s_mitty issued server command: /paste
+[01:32:08 INFO]: WorldEdit: s_mitty (in "kevlar"): /paste - Position: (19945.0, 63.0, 20104.0)
+[01:32:23 INFO]: s_mitty issued server command: /warp cv
+[01:32:29 INFO]: s_mitty issued server command: /setwarp cv
+[01:32:29 INFO]: Creating empty config: /home/mc/mc/yold-bukkit/plugins/Essentials/warps/cv.yml
+[01:32:33 INFO]: s_mitty issued server command: /warp citycenter
+[01:33:13 INFO]: MASHTHEKEYBOARD issued server command: /thru
+[01:33:13 INFO]: WorldEdit: MASHTHEKEYBOARD (in "kevlar"): thru
+[01:33:22 INFO]: MASHTHEKEYBOARD issued server command: /j
+[01:33:22 INFO]: WorldEdit: MASHTHEKEYBOARD (in "kevlar"): jumpto
+[01:34:42 INFO]: s_mitty issued server command: /regen
+[01:34:42 INFO]: WorldEdit: s_mitty (in "kevlar"): /regen - Region: (25.0, 70.0, 702.0) - (77.0, 91.0, 764.0)
+[01:34:44 WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2281ms behind, skipping 45 tick(s)
+[01:35:07 INFO]: Kevlar issued server command: /minecart
+[01:35:11 INFO]: Kevlar issued server command: /i minecart
+[01:35:48 INFO]: s_mitty issued server command: /regen
+[01:35:48 INFO]: WorldEdit: s_mitty (in "kevlar"): /regen - Region: (-18.0, 64.0, 792.0) - (0.0, 67.0, 825.0)
+[01:36:15 INFO]: s_mitty issued server command: /regen
+[01:36:15 INFO]: WorldEdit: s_mitty (in "kevlar"): /regen - Region: (-18.0, 67.0, 791.0) - (2.0, 77.0, 828.0)
+[01:36:30 INFO]: s_mitty issued server command: /regen
+[01:36:30 INFO]: WorldEdit: s_mitty (in "kevlar"): /regen - Region: (-19.0, 64.0, 818.0) - (1.0, 70.0, 826.0)
+[01:36:45 INFO]: s_mitty issued server command: /naturalize
+[01:36:45 INFO]: WorldEdit: s_mitty (in "kevlar"): /naturalize - Region: (-19.0, 64.0, 818.0) - (-1.0, 64.0, 824.0)
+[01:36:54 INFO]: s_mitty issued server command: /SET GRASS
+[01:36:54 INFO]: WorldEdit: s_mitty (in "kevlar"): /set GRASS - Region: (-17.0, 64.0, 817.0) - (-3.0, 64.0, 823.0)
+[01:37:06 INFO]: s_mitty issued server command: /SET GRASS
+[01:37:06 INFO]: WorldEdit: s_mitty (in "kevlar"): /set GRASS - Region: (-14.0, 64.0, 824.0) - (-1.0, 65.0, 824.0)
+[01:37:28 INFO]: Kevlar issued server command: /setspeed 4
+[01:37:31 INFO]: Kevlar issued server command: /sc set 4
+[01:37:57 INFO]: Kevlar issued server command: /sc set 4
+[01:38:14 INFO]: Kevlar issued server command: /killall hostile
+[01:38:42 INFO]: Kevlar issued server command: /sc set 0.4
+[01:39:27 INFO]: s_mitty issued server command: /SET AIR
+[01:39:27 INFO]: WorldEdit: s_mitty (in "kevlar"): /set AIR - Region: (-14.0, 83.0, 665.0) - (6.0, 88.0, 678.0)
+[01:39:31 INFO]: s_mitty issued server command: /TIME DAY
+[01:40:21 INFO]: Kevlar issued server command: /sc set 4
+[01:40:38 INFO]: s_mitty issued server command: /SET AIR
+[01:40:38 INFO]: WorldEdit: s_mitty (in "kevlar"): /set AIR - Region: (-2.0, 80.0, 664.0) - (6.0, 86.0, 672.0)
+[01:40:54 INFO]: Kevlar issued server command: /sc set 0.4
+[01:41:33 INFO]: Kevlar issued server command: /sc set 0.4
+[01:41:38 INFO]: Kevlar issued server command: /sc set 0.4
+[01:41:42 INFO]: Kevlar issued server command: /sc set 0.4
+[01:42:24 INFO]: Kevlar issued server command: /tp MASHTHEKEYBOARD
+[01:43:00 INFO]: Kevlar issued server command: /expand 3 d
+[01:43:00 INFO]: WorldEdit: Kevlar (in "kevlar"): /expand 3 d - Region: (89.0, 87.0, 1232.0) - (105.0, 87.0, 1273.0)
+[01:43:03 INFO]: Kevlar issued server command: /replace air ice
+[01:43:03 INFO]: WorldEdit: Kevlar (in "kevlar"): /replace air ice - Region: (89.0, 84.0, 1232.0) - (105.0, 87.0, 1273.0)
+[01:43:11 INFO]: Kevlar issued server command: /undo
+[01:43:11 INFO]: WorldEdit: Kevlar (in "kevlar"): /undo
+[01:43:24 INFO]: Kevlar issued server command: /expand 5 l
+[01:43:24 INFO]: WorldEdit: Kevlar (in "kevlar"): /expand 5 l - Region: (104.0, 87.0, 1232.0) - (104.0, 87.0, 1232.0)
+[01:43:28 INFO]: Kevlar issued server command: /expand 5 r
+[01:43:28 INFO]: WorldEdit: Kevlar (in "kevlar"): /expand 5 r - Region: (104.0, 87.0, 1232.0) - (109.0, 87.0, 1232.0)
+[01:43:33 INFO]: Kevlar issued server command: /expand 3 d
+[01:43:33 INFO]: WorldEdit: Kevlar (in "kevlar"): /expand 3 d - Region: (99.0, 87.0, 1232.0) - (109.0, 87.0, 1232.0)
+[01:43:36 INFO]: Kevlar issued server command: /replace air packedice
+[01:43:36 INFO]: WorldEdit: Kevlar (in "kevlar"): /replace air packedice - Region: (99.0, 84.0, 1232.0) - (109.0, 87.0, 1232.0)
+[01:43:48 INFO]: Kevlar issued server command: /replace air grass
+[01:43:48 INFO]: WorldEdit: Kevlar (in "kevlar"): /replace air grass - Region: (99.0, 84.0, 1232.0) - (109.0, 87.0, 1232.0)
+[01:44:00 INFO]: Kevlar issued server command: /expand 10 ;
+[01:44:00 INFO]: WorldEdit: Kevlar (in "kevlar"): /expand 10 ; - Region: (104.0, 87.0, 1232.0) - (104.0, 87.0, 1232.0)
+[01:44:03 INFO]: s_mitty issued server command: /warp airport
+[01:44:09 INFO]: Kevlar issued server command: /expand 5 l
+[01:44:09 INFO]: WorldEdit: Kevlar (in "kevlar"): /expand 5 l - Region: (104.0, 87.0, 1233.0) - (104.0, 87.0, 1233.0)
+[01:44:12 INFO]: Kevlar issued server command: /expand 5 r
+[01:44:12 INFO]: WorldEdit: Kevlar (in "kevlar"): /expand 5 r - Region: (104.0, 87.0, 1233.0) - (109.0, 87.0, 1233.0)
+[01:44:15 INFO]: Kevlar issued server command: /expand 10
+[01:44:15 INFO]: WorldEdit: Kevlar (in "kevlar"): /expand 10 - Region: (99.0, 87.0, 1233.0) - (109.0, 87.0, 1233.0)
+[01:44:18 INFO]: Kevlar issued server command: /expand 3 d
+[01:44:18 INFO]: WorldEdit: Kevlar (in "kevlar"): /expand 3 d - Region: (99.0, 87.0, 1233.0) - (109.0, 87.0, 1243.0)
+[01:44:21 INFO]: Kevlar issued server command: /expand 5 f
+[01:44:21 INFO]: WorldEdit: Kevlar (in "kevlar"): /expand 5 f - Region: (99.0, 84.0, 1233.0) - (109.0, 87.0, 1243.0)
+[01:44:25 INFO]: Kevlar issued server command: /replace air packedice
+[01:44:25 INFO]: WorldEdit: Kevlar (in "kevlar"): /replace air packedice - Region: (99.0, 84.0, 1233.0) - (109.0, 87.0, 1248.0)
+[01:44:38 INFO]: Kevlar issued server command: /expand 5 l
+[01:44:38 INFO]: WorldEdit: Kevlar (in "kevlar"): /expand 5 l - Region: (99.0, 84.0, 1233.0) - (109.0, 87.0, 1248.0)
+[01:44:42 INFO]: Kevlar issued server command: /expand 5 r
+[01:44:42 INFO]: WorldEdit: Kevlar (in "kevlar"): /expand 5 r - Region: (99.0, 84.0, 1233.0) - (114.0, 87.0, 1248.0)
+[01:44:46 INFO]: Kevlar issued server command: /expand 10
+[01:44:46 INFO]: WorldEdit: Kevlar (in "kevlar"): /expand 10 - Region: (94.0, 84.0, 1233.0) - (114.0, 87.0, 1248.0)
+[01:44:52 INFO]: Kevlar issued server command: /replace air packedice
+[01:44:52 INFO]: WorldEdit: Kevlar (in "kevlar"): /replace air packedice - Region: (94.0, 84.0, 1233.0) - (114.0, 87.0, 1258.0)
+[01:45:08 INFO]: Kevlar issued server command: /expand 10
+[01:45:08 INFO]: WorldEdit: Kevlar (in "kevlar"): /expand 10 - Region: (94.0, 84.0, 1233.0) - (114.0, 87.0, 1258.0)
+[01:45:11 INFO]: Kevlar issued server command: /expand 5 l
+[01:45:11 INFO]: WorldEdit: Kevlar (in "kevlar"): /expand 5 l - Region: (94.0, 84.0, 1233.0) - (114.0, 87.0, 1268.0)
+[01:45:13 INFO]: Kevlar issued server command: /replace air packedice
+[01:45:13 INFO]: WorldEdit: Kevlar (in "kevlar"): /replace air packedice - Region: (94.0, 84.0, 1233.0) - (119.0, 87.0, 1268.0)
+[01:45:16 INFO]: Kevlar issued server command: /expand 10
+[01:45:16 INFO]: WorldEdit: Kevlar (in "kevlar"): /expand 10 - Region: (94.0, 84.0, 1233.0) - (119.0, 87.0, 1268.0)
+[01:45:17 INFO]: Kevlar issued server command: /replace air packedice
+[01:45:17 INFO]: WorldEdit: Kevlar (in "kevlar"): /replace air packedice - Region: (94.0, 84.0, 1233.0) - (119.0, 87.0, 1278.0)
+[01:45:24 INFO]: Kevlar issued server command: /expand 5 r
+[01:45:24 INFO]: WorldEdit: Kevlar (in "kevlar"): /expand 5 r - Region: (94.0, 84.0, 1233.0) - (119.0, 87.0, 1278.0)
+[01:45:26 INFO]: Kevlar issued server command: /replace air packedice
+[01:45:26 INFO]: WorldEdit: Kevlar (in "kevlar"): /replace air packedice - Region: (89.0, 84.0, 1233.0) - (119.0, 87.0, 1278.0)
+[01:45:29 INFO]: Kevlar issued server command: /expand 5 r
+[01:45:29 INFO]: WorldEdit: Kevlar (in "kevlar"): /expand 5 r - Region: (89.0, 84.0, 1233.0) - (119.0, 87.0, 1278.0)
+[01:45:30 INFO]: Kevlar issued server command: /replace air packedice
+[01:45:30 INFO]: WorldEdit: Kevlar (in "kevlar"): /replace air packedice - Region: (84.0, 84.0, 1233.0) - (119.0, 87.0, 1278.0)
+[01:45:40 INFO]: Kevlar issued server command: /back
+[01:46:07 INFO]: Kevlar issued server command: /sc set 0.4
+[01:46:44 INFO]: Kevlar issued server command: /thru
+[01:46:44 INFO]: WorldEdit: Kevlar (in "kevlar"): thru
+[01:46:57 INFO]: Kevlar issued server command: /replace ironbars fence
+[01:46:57 INFO]: WorldEdit: Kevlar (in "kevlar"): /replace ironbars fence - Region: (-202.0, 64.0, 718.0) - (-202.0, 67.0, 736.0)
+[01:46:58 INFO]: s_mitty issued server command: /cut
+[01:46:58 INFO]: WorldEdit: s_mitty (in "kevlar"): /cut - Region: (-162.0, 60.0, 424.0) - (-149.0, 76.0, 434.0)
+[01:47:15 INFO]: Kevlar issued server command: /thru
+[01:47:15 INFO]: WorldEdit: Kevlar (in "kevlar"): thru
+[01:47:28 INFO]: s_mitty issued server command: /paste
+[01:47:28 INFO]: WorldEdit: s_mitty (in "kevlar"): /paste - Position: (-354.0, 62.0, 482.0)
+[01:47:37 INFO]: MASHTHEKEYBOARD issued server command: /TREE
+[01:47:37 INFO]: WorldEdit: MASHTHEKEYBOARD (in "kevlar"): tree
+[01:48:06 INFO]: s_mitty issued server command: /warp harbor
+[01:48:58 INFO]: s_mitty issued server command: /delete
+[01:49:00 INFO]: s_mitty issued server command: /cut
+[01:49:00 INFO]: WorldEdit: s_mitty (in "kevlar"): /cut - Region: (-98.0, 63.0, 423.0) - (-97.0, 63.0, 437.0)
+[01:49:16 INFO]: s_mitty issued server command: /cut
+[01:49:16 INFO]: WorldEdit: s_mitty (in "kevlar"): /cut - Region: (-98.0, 62.0, 385.0) - (-97.0, 62.0, 422.0)
+[01:49:38 INFO]: s_mitty issued server command: /set water
+[01:49:38 INFO]: WorldEdit: s_mitty (in "kevlar"): /set water - Region: (-166.0, 59.0, 422.0) - (-147.0, 61.0, 430.0)
+[01:49:47 INFO]: MASHTHEKEYBOARD lost connection: Timed out
+[01:49:47 INFO]: MASHTHEKEYBOARD left the game.
+[01:50:16 INFO]: s_mitty issued server command: /time day
+[01:50:48 INFO]: s_mitty issued server command: /set air
+[01:50:48 INFO]: WorldEdit: s_mitty (in "kevlar"): /set air - Region: (-103.0, 61.0, 436.0) - (-94.0, 64.0, 449.0)
+[01:51:04 INFO]: s_mitty issued server command: /set water
+[01:51:04 INFO]: WorldEdit: s_mitty (in "kevlar"): /set water - Region: (-108.0, 60.0, 436.0) - (-93.0, 61.0, 449.0)
+[01:51:31 INFO]: MASHTHEKEYBOARD[/127.0.0.1:43716] logged in with entity id 275825 at ([kevlar] 101.26718208002958, 116.57654514643733, 1248.1635380669566)
+[01:53:01 INFO]: Kevlar issued server command: /setwarp temp1
+[01:53:23 INFO]: Kevlar issued server command: /set stone
+[01:53:23 INFO]: WorldEdit: Kevlar (in "kevlar"): /set stone - Region: (-194.0, 63.0, 745.0) - (-192.0, 65.0, 750.0)
+[01:53:30 INFO]: Kevlar issued server command: /undo
+[01:53:30 INFO]: WorldEdit: Kevlar (in "kevlar"): /undo
+[01:53:33 INFO]: Kevlar issued server command: /replace dirt stone
+[01:53:33 INFO]: WorldEdit: Kevlar (in "kevlar"): /replace dirt stone - Region: (-194.0, 63.0, 745.0) - (-192.0, 65.0, 750.0)
+[01:54:01 INFO]: Kevlar issued server command: /setwarp temp2
+[01:54:04 INFO]: Kevlar issued server command: /warp temp1
+[01:54:19 INFO]: <Kevlar> -183 48
+[01:54:23 INFO]: <Kevlar> -183 48 702
+[01:54:25 INFO]: Kevlar issued server command: /back
+[01:55:51 INFO]: s_mitty issued server command: /copy
+[01:55:51 INFO]: WorldEdit: s_mitty (in "kevlar"): /copy
+[01:55:55 INFO]: s_mitty issued server command: /rotate 180
+[01:55:55 INFO]: WorldEdit: s_mitty (in "kevlar"): /rotate 180
+[01:56:06 INFO]: Kevlar issued server command: /warp temp1
+[01:56:15 INFO]: Kevlar issued server command: /warp temp2
+[01:56:34 INFO]: s_mitty issued server command: /paste
+[01:56:34 INFO]: WorldEdit: s_mitty (in "kevlar"): /paste - Position: (-97.0, 63.0, 380.0)
+[01:56:51 INFO]: Kevlar issued server command: /expand 3 u
+[01:56:51 INFO]: WorldEdit: Kevlar (in "kevlar"): /expand 3 u - Region: (-187.0, 51.0, 700.0) - (-187.0, 51.0, 700.0)
+[01:56:54 INFO]: Kevlar issued server command: /expand 3 d
+[01:56:54 INFO]: WorldEdit: Kevlar (in "kevlar"): /expand 3 d - Region: (-187.0, 51.0, 700.0) - (-187.0, 54.0, 700.0)
+[01:56:58 INFO]: Kevlar issued server command: /expand 3 l
+[01:56:58 INFO]: WorldEdit: Kevlar (in "kevlar"): /expand 3 l - Region: (-187.0, 48.0, 700.0) - (-187.0, 54.0, 700.0)
+[01:57:01 INFO]: Kevlar issued server command: /expand 3 a
+[01:57:01 INFO]: WorldEdit: Kevlar (in "kevlar"): /expand 3 a - Region: (-187.0, 45.0, 700.0) - (-187.0, 54.0, 700.0)
+[01:57:04 INFO]: Kevlar issued server command: /expand 3 all
+[01:57:04 INFO]: WorldEdit: Kevlar (in "kevlar"): /expand 3 all - Region: (-187.0, 45.0, 700.0) - (-187.0, 54.0, 700.0)
+[01:57:04 INFO]: s_mitty issued server command: /set stone brock
+[01:57:09 INFO]: s_mitty issued server command: /stone brick
+[01:57:10 INFO]: Kevlar issued server command: /expand 3 r
+[01:57:10 INFO]: WorldEdit: Kevlar (in "kevlar"): /expand 3 r - Region: (-187.0, 45.0, 700.0) - (-187.0, 54.0, 700.0)
+[01:57:12 INFO]: Kevlar issued server command: /expand 3 f
+[01:57:12 INFO]: WorldEdit: Kevlar (in "kevlar"): /expand 3 f - Region: (-187.0, 42.0, 700.0) - (-187.0, 54.0, 700.0)
+[01:57:14 INFO]: Kevlar issued server command: /expand 3 b
+[01:57:14 INFO]: WorldEdit: Kevlar (in "kevlar"): /expand 3 b - Region: (-187.0, 39.0, 700.0) - (-187.0, 54.0, 700.0)
+[01:57:15 INFO]: Kevlar issued server command: /set air
+[01:57:15 INFO]: WorldEdit: Kevlar (in "kevlar"): /set air - Region: (-187.0, 36.0, 700.0) - (-187.0, 54.0, 700.0)
+[01:57:19 INFO]: s_mitty issued server command: /set stone brick
+[01:57:22 INFO]: Kevlar issued server command: /undo
+[01:57:22 INFO]: WorldEdit: Kevlar (in "kevlar"): /undo
+[01:57:24 INFO]: s_mitty issued server command: /set stonebrick
+[01:57:24 INFO]: WorldEdit: s_mitty (in "kevlar"): /set stonebrick - Region: (-97.0, 66.0, 385.0) - (-94.0, 67.0, 446.0)
+[01:57:27 INFO]: Kevlar issued server command: /expand 4 l
+[01:57:27 INFO]: WorldEdit: Kevlar (in "kevlar"): /expand 4 l - Region: (-186.0, 53.0, 699.0) - (-186.0, 53.0, 699.0)
+[01:57:32 INFO]: Kevlar issued server command: /expand 4 r
+[01:57:32 INFO]: WorldEdit: Kevlar (in "kevlar"): /expand 4 r - Region: (-190.0, 53.0, 699.0) - (-186.0, 53.0, 699.0)
+[01:57:34 INFO]: Kevlar issued server command: /expand 4 f
+[01:57:34 INFO]: WorldEdit: Kevlar (in "kevlar"): /expand 4 f - Region: (-190.0, 53.0, 699.0) - (-182.0, 53.0, 699.0)
+[01:57:35 INFO]: Kevlar issued server command: /expand 4 b
+[01:57:35 INFO]: WorldEdit: Kevlar (in "kevlar"): /expand 4 b - Region: (-190.0, 53.0, 695.0) - (-182.0, 53.0, 699.0)
+[01:57:36 INFO]: s_mitty issued server command: /undo
+[01:57:36 INFO]: WorldEdit: s_mitty (in "kevlar"): /undo
+[01:57:37 INFO]: Kevlar issued server command: /expand 4 u
+[01:57:37 INFO]: WorldEdit: Kevlar (in "kevlar"): /expand 4 u - Region: (-190.0, 53.0, 695.0) - (-182.0, 53.0, 703.0)
+[01:57:38 INFO]: Kevlar issued server command: /expand 4 d
+[01:57:38 INFO]: WorldEdit: Kevlar (in "kevlar"): /expand 4 d - Region: (-190.0, 53.0, 695.0) - (-182.0, 57.0, 703.0)
+[01:57:41 INFO]: Kevlar issued server command: /set air
+[01:57:41 INFO]: WorldEdit: Kevlar (in "kevlar"): /set air - Region: (-190.0, 49.0, 695.0) - (-182.0, 57.0, 703.0)
+[01:57:52 INFO]: Kevlar issued server command: /undo
+[01:57:52 INFO]: WorldEdit: Kevlar (in "kevlar"): /undo
+[01:57:55 INFO]: s_mitty issued server command: /set stonebrick
+[01:57:55 INFO]: WorldEdit: s_mitty (in "kevlar"): /set stonebrick - Region: (-97.0, 66.0, 385.0) - (-97.0, 67.0, 386.0)
+[01:57:57 INFO]: s_mitty issued server command: /undo
+[01:57:57 INFO]: WorldEdit: s_mitty (in "kevlar"): /undo
+[01:58:07 INFO]: s_mitty issued server command: /undo
+[01:58:07 INFO]: WorldEdit: s_mitty (in "kevlar"): /undo
+[01:58:07 INFO]: Kevlar issued server command: /redo
+[01:58:07 INFO]: WorldEdit: Kevlar (in "kevlar"): /redo
+[01:58:10 INFO]: s_mitty issued server command: /redo
+[01:58:10 INFO]: WorldEdit: s_mitty (in "kevlar"): /redo
+[01:58:14 INFO]: s_mitty issued server command: /set stonebrick
+[01:58:14 INFO]: WorldEdit: s_mitty (in "kevlar"): /set stonebrick - Region: (-97.0, 67.0, 386.0) - (-94.0, 67.0, 446.0)
+[01:59:38 INFO]: s_mitty issued server command: /measure
+[02:00:00 INFO]: Kevlar issued server command: /time set night
+[02:00:34 INFO]: Kevlar issued server command: /tp MASHTHEKEYBOARD
+[02:01:50 INFO]: Kevlar issued server command: /expand 100
+[02:01:50 INFO]: WorldEdit: Kevlar (in "kevlar"): /expand 100 - Region: (95.0, 86.0, 1239.0) - (95.0, 86.0, 1239.0)
+[02:01:52 INFO]: Kevlar issued server command: /expand 10 l
+[02:01:52 INFO]: WorldEdit: Kevlar (in "kevlar"): /expand 10 l - Region: (95.0, 86.0, 1239.0) - (95.0, 86.0, 1339.0)
+[02:01:54 INFO]: Kevlar issued server command: /expand 10 r
+[02:01:54 INFO]: WorldEdit: Kevlar (in "kevlar"): /expand 10 r - Region: (95.0, 86.0, 1239.0) - (105.0, 86.0, 1339.0)
+[02:01:58 INFO]: Kevlar issued server command: /effect clear
+[02:02:05 INFO]: Kevlar issued server command: /effect Kevlar clear
+[02:02:08 INFO]: Kevlar issued server command: /set glowstone
+[02:02:08 INFO]: WorldEdit: Kevlar (in "kevlar"): /set glowstone - Region: (85.0, 86.0, 1239.0) - (105.0, 86.0, 1339.0)
+[02:02:21 INFO]: Kevlar issued server command: /undo
+[02:02:21 INFO]: WorldEdit: Kevlar (in "kevlar"): /undo
+[02:02:25 INFO]: Kevlar issued server command: /back
+[02:03:40 INFO]: s_mitty issued server command: /set stonebrick
+[02:03:40 INFO]: WorldEdit: s_mitty (in "kevlar"): /set stonebrick - Region: (-99.0, 60.0, 399.0) - (-96.0, 63.0, 402.0)
+[02:04:37 INFO]: s_mitty issued server command: /set stonebrick
+[02:04:37 INFO]: WorldEdit: s_mitty (in "kevlar"): /set stonebrick - Region: (-99.0, 61.0, 431.0) - (-96.0, 63.0, 434.0)
+[02:05:04 INFO]: s_mitty issued server command: /set stonebrick
+[02:05:04 INFO]: WorldEdit: s_mitty (in "kevlar"): /set stonebrick - Region: (-94.0, 61.0, 432.0) - (-93.0, 66.0, 433.0)
+[02:06:38 INFO]: s_mitty issued server command: /set stonebrick
+[02:06:38 INFO]: WorldEdit: s_mitty (in "kevlar"): /set stonebrick - Region: (-94.0, 60.0, 399.0) - (-92.0, 62.0, 402.0)
+[02:06:59 INFO]: Kevlar issued server command: /kick MASHTHEKEYBOARD
+[02:07:02 INFO]: s_mitty issued server command: /time day
+[02:07:06 INFO]: MASHTHEKEYBOARD lost connection: Disconnected
+[02:07:06 INFO]: MASHTHEKEYBOARD left the game.
+[02:07:55 INFO]: s_mitty issued server command: /set stonebrick
+[02:07:55 INFO]: WorldEdit: s_mitty (in "kevlar"): /set stonebrick - Region: (-94.0, 68.0, 400.0) - (-93.0, 77.0, 401.0)
+[02:08:13 INFO]: s_mitty issued server command: /set stonebrick
+[02:08:13 INFO]: WorldEdit: s_mitty (in "kevlar"): /set stonebrick - Region: (-98.0, 68.0, 400.0) - (-97.0, 77.0, 401.0)
+[02:08:51 INFO]: s_mitty issued server command: /set stonebrick
+[02:08:51 INFO]: WorldEdit: s_mitty (in "kevlar"): /set stonebrick - Region: (-98.0, 67.0, 432.0) - (-97.0, 77.0, 433.0)
+[02:08:58 INFO]: s_mitty issued server command: /set stonebrick
+[02:08:58 INFO]: WorldEdit: s_mitty (in "kevlar"): /set stonebrick - Region: (-94.0, 67.0, 432.0) - (-93.0, 77.0, 433.0)
+[02:14:12 INFO]: Kevlar issued server command: /sc set 0.4
+[02:14:53 INFO]: Kevlar issued server command: /close
+[02:14:55 INFO]: Kevlar issued server command: /stop
+[02:14:55 INFO]: Kevlar: Stopping the server..
+[02:14:55 INFO]: Stopping server
+[02:14:55 INFO]: [EssentialsProtect] Disabling EssentialsProtect v2.13.1
+[02:14:55 INFO]: [EssentialsChat] Disabling EssentialsChat v2.13.1
+[02:14:55 INFO]: [GroupManager] Disabling GroupManager v2.1.11 (Phoenix)
+[02:14:55 INFO]: WEPIF: GroupManager detected! Using GroupManager for permissions.
+[02:14:55 INFO]: GroupManager - INFO - Scheduled Data Saving is disabled!
+[02:14:55 INFO]: GroupManager version 2.1.11 (Phoenix) is disabled!
+[02:14:55 INFO]: [Speedcarts] Disabling Speedcarts v1.3.5
+[02:14:55 INFO]: Essentials: Using config file enhanced permissions.
+[02:14:55 INFO]: Permissions listed in as player-commands will be given to all users.
+[02:14:55 INFO]: [Speedcarts] Goodbye Speedcarts!
+[02:14:55 INFO]: [Essentials] Disabling Essentials v2.13.1
+[02:14:55 INFO]: [AntiCreeper] Disabling AntiCreeper v4.18.1
+[02:14:55 INFO]: [RunAs] Disabling RunAs v1.0.1
+[02:14:55 INFO]: [SignEdit] Disabling SignEdit v3.3.9
+[02:14:55 INFO]: [WorldEdit] Disabling WorldEdit v5.6.2
+[02:14:55 INFO]: Saving players
+[02:14:55 INFO]: s_mitty lost connection: Server closed
+[02:14:55 INFO]: s_mitty left the game.
+[02:14:55 INFO]: Saving worlds
+[02:14:55 INFO]: Saving chunks for level 'kevlar'/Overworld
+[02:14:56 INFO]: Saving chunks for level 'kevlar_nether'/Nether
+[02:14:56 INFO]: Saving chunks for level 'kevlar_the_end'/The End
+[02:14:56 INFO]: Stopping server
+[02:14:56 INFO]: Saving players
+connect_to 127.0.0.1 port 25565: failed.
+connect_to 127.0.0.1 port 25565: failed.
+connect_to 127.0.0.1 port 25565: failed.
+connect_to 127.0.0.1 port 25565: failed.
+connect_to 127.0.0.1 port 25565: failed.
+connect_to 127.0.0.1 port 25565: failed.
+connect_to 127.0.0.1 port 25565: failed.
