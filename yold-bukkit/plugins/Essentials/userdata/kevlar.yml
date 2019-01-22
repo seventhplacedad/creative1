@@ -1,8 +1,8 @@
 uuid: 04563d4c-6a5b-343e-81b6-8bc0e358b91d
 timestamps:
-  login: 1546911396321
+  login: 1547259188156
   lastteleport: 1546595271901
-  logout: 1546732357704
+  logout: 1547259190873
 ipAddress: 127.0.0.1
 lastlocation:
   world: kevlar
@@ -13,11 +13,11 @@ lastlocation:
   pitch: 30.899942
 logoutlocation:
   world: kevlar
-  x: -56.74759340621324
+  x: -54.8599687359
   y: 64.0
-  z: 349.963073791345
-  yaw: -50.18164
-  pitch: 4.3500533
+  z: 342.06696652145666
+  yaw: 126.81829
+  pitch: 39.300068
 ban:
   reason: '§4Banned:
 

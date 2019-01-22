@@ -7616,3 +7616,169 @@
 [INFO] WorldEdit: s_mitty (in "kevlar"): /cut - Region: (-105.0, 72.0, 625.0) - (-101.0, 79.0, 629.0)
 [INFO] WorldEdit: s_mitty (in "kevlar"): /cut - Region: (-106.0, 71.0, 627.0) - (-101.0, 82.0, 632.0)
 [INFO] WorldEdit: s_mitty (in "kevlar"): /paste - Position: (-100.0, 72.0, 632.0)
+[INFO] WorldEdit: s_mitty (in "kevlar"): /cut - Region: (-1.0, 79.0, 667.0) - (1.0, 92.0, 673.0)
+[INFO] WorldEdit: s_mitty (in "kevlar"): /cut - Region: (2.0, 79.0, 669.0) - (3.0, 92.0, 672.0)
+[INFO] WorldEdit: s_mitty (in "kevlar"): /cut - Region: (-1.0, 79.0, 674.0) - (0.0, 92.0, 674.0)
+[INFO] WorldEdit: s_mitty (in "kevlar"): /cut - Region: (-2.0, 79.0, 668.0) - (-2.0, 92.0, 673.0)
+[INFO] WorldEdit: s_mitty (in "kevlar"): /cut - Region: (-3.0, 79.0, 669.0) - (-3.0, 92.0, 672.0)
+[INFO] WorldEdit: s_mitty (in "kevlar"): /cut - Region: (-4.0, 79.0, 670.0) - (-4.0, 92.0, 671.0)
+[INFO] WorldEdit: s_mitty (in "kevlar"): /set quartz - Region: (345.0, 62.0, 407.0) - (348.0, 62.0, 429.0)
+[INFO] WorldEdit: s_mitty (in "kevlar"): /set air - Region: (345.0, 61.0, 407.0) - (349.0, 61.0, 429.0)
+[INFO] WorldEdit: s_mitty (in "kevlar"): /set quartz - Region: (349.0, 61.0, 406.0) - (350.0, 61.0, 429.0)
+[INFO] WorldEdit: s_mitty (in "kevlar"): /set quartz - Region: (345.0, 61.0, 406.0) - (348.0, 61.0, 406.0)
+[INFO] WorldEdit: s_mitty (in "kevlar"): /set quartz - Region: (344.0, 61.0, 407.0) - (344.0, 61.0, 431.0)
+[INFO] WorldEdit: s_mitty (in "kevlar"): /set air - Region: (326.0, 61.0, 399.0) - (343.0, 61.0, 429.0)
+[INFO] WorldEdit: s_mitty (in "kevlar"): /set quartz - Region: (325.0, 61.0, 398.0) - (344.0, 62.0, 430.0)
+[INFO] WorldEdit: s_mitty (in "kevlar"): /undo
+[INFO] WorldEdit: s_mitty (in "kevlar"): /set quartz - Region: (325.0, 61.0, 398.0) - (344.0, 62.0, 430.0)
+[INFO] WorldEdit: s_mitty (in "kevlar"): /undo
+[INFO] WorldEdit: s_mitty (in "kevlar"): /set quartz - Region: (324.0, 62.0, 398.0) - (344.0, 62.0, 430.0)
+[INFO] WorldEdit: s_mitty (in "kevlar"): /set quartz - Region: (344.0, 61.0, 397.0) - (344.0, 61.0, 408.0)
+[INFO] WorldEdit: s_mitty (in "kevlar"): /set quartz - Region: (325.0, 61.0, 398.0) - (343.0, 61.0, 398.0)
+[INFO] WorldEdit: s_mitty (in "kevlar"): /copy
+[INFO] WorldEdit: s_mitty (in "kevlar"): /cut - Region: (-55.0, 87.0, 620.0) - (-41.0, 101.0, 630.0)
+[INFO] WorldEdit: s_mitty (in "kevlar"): /cut - Region: (-40.0, 89.0, 624.0) - (-34.0, 94.0, 628.0)
+[INFO] WorldEdit: s_mitty (in "kevlar"): /regen - Region: (-54.0, 86.0, 601.0) - (-48.0, 91.0, 605.0)
+[INFO] WorldEdit: s_mitty (in "kevlar"): /set grass - Region: (-68.0, 74.0, 623.0) - (-59.0, 74.0, 637.0)
+[INFO] WorldEdit: s_mitty (in "kevlar"): /set gravel - Region: (-68.0, 74.0, 623.0) - (-55.0, 74.0, 624.0)
+[INFO] WorldEdit: s_mitty (in "kevlar"): /set gravel - Region: (-68.0, 74.0, 624.0) - (-67.0, 74.0, 637.0)
+[INFO] WorldEdit: s_mitty (in "kevlar"): /cut - Region: (-53.0, 83.0, 623.0) - (-27.0, 83.0, 628.0)
+[INFO] WorldEdit: s_mitty (in "kevlar"): /set air - Region: (-71.0, 86.0, 622.0) - (-61.0, 92.0, 629.0)
+[INFO] WorldEdit: s_mitty (in "kevlar"): /copy
+[INFO] WorldEdit: s_mitty (in "kevlar"): /rotate 90
+[INFO] WorldEdit: s_mitty (in "kevlar"): /paste - Position: (-66.0, 81.0, 640.0)
+[INFO] WorldEdit: s_mitty (in "kevlar"): /undo
+[INFO] WorldEdit: s_mitty (in "kevlar"): /rotate 90
+[INFO] WorldEdit: s_mitty (in "kevlar"): /paste - Position: (-66.0, 84.0, 631.0)
+[INFO] WorldEdit: s_mitty (in "kevlar"): /undo
+[INFO] WorldEdit: s_mitty (in "kevlar"): /copy
+[INFO] WorldEdit: s_mitty (in "kevlar"): /paste - Position: (-67.0, 84.0, 632.0)
+[INFO] WorldEdit: s_mitty (in "kevlar"): /undo
+[INFO] WorldEdit: s_mitty (in "kevlar"): /rotate 180
+[INFO] WorldEdit: s_mitty (in "kevlar"): /paste - Position: (-67.0, 84.0, 631.0)
+[INFO] WorldEdit: s_mitty (in "kevlar"): /undo
+[INFO] WorldEdit: s_mitty (in "kevlar"): /paste - Position: (-67.0, 84.0, 628.0)
+[INFO] WorldEdit: s_mitty (in "kevlar"): /undo
+[INFO] WorldEdit: s_mitty (in "kevlar"): /paste - Position: (-67.0, 84.0, 627.0)
+[INFO] WorldEdit: s_mitty (in "kevlar"): /undo
+[INFO] WorldEdit: s_mitty (in "kevlar"): /paste - Position: (-67.0, 83.0, 627.0)
+[INFO] WorldEdit: s_mitty (in "kevlar"): /cut - Region: (-63.0, 76.0, 628.0) - (-60.0, 80.0, 632.0)
+[INFO] WorldEdit: s_mitty (in "kevlar"): /cut - Region: (-68.0, 77.0, 628.0) - (-60.0, 81.0, 632.0)
+[INFO] WorldEdit: s_mitty (in "kevlar"): /cut - Region: (-71.0, 76.0, 627.0) - (-60.0, 97.0, 639.0)
+[INFO] WorldEdit: s_mitty (in "kevlar"): /regen - Region: (-72.0, 81.0, 627.0) - (-64.0, 84.0, 632.0)
+[INFO] WorldEdit: s_mitty (in "kevlar"): /regen - Region: (-64.0, 80.0, 622.0) - (-64.0, 84.0, 627.0)
+[INFO] WorldEdit: s_mitty (in "kevlar"): /naturalize - Region: (-72.0, 84.0, 625.0) - (-64.0, 84.0, 632.0)
+[INFO] WorldEdit: s_mitty (in "kevlar"): /set cobble - Region: (-58.0, 65.0, 639.0) - (-31.0, 65.0, 641.0)
+[INFO] WorldEdit: s_mitty (in "kevlar"): /set cobble - Region: (-33.0, 65.0, 642.0) - (-31.0, 65.0, 653.0)
+[INFO] WorldEdit: s_mitty (in "kevlar"): /set cobble - Region: (-60.0, 65.0, 641.0) - (-60.0, 65.0, 644.0)
+[INFO] WorldEdit: s_mitty (in "kevlar"): /set cobble - Region: (-67.0, 65.0, 641.0) - (-62.0, 65.0, 646.0)
+[INFO] WorldEdit: s_mitty (in "kevlar"): /set cobble - Region: (-61.0, 65.0, 642.0) - (-61.0, 65.0, 645.0)
+[INFO] WorldEdit: s_mitty (in "kevlar"): /set wood - Region: (-70.0, 114.0, 684.0) - (-65.0, 114.0, 694.0)
+[INFO] WorldEdit: s_mitty (in "kevlar"): /set oakwood - Region: (-70.0, 114.0, 684.0) - (-65.0, 114.0, 694.0)
+[INFO] WorldEdit: s_mitty (in "kevlar"): /set planks - Region: (-70.0, 114.0, 684.0) - (-65.0, 114.0, 694.0)
+[INFO] WorldEdit: s_mitty (in "kevlar"): /set oakplanks - Region: (-70.0, 114.0, 684.0) - (-65.0, 114.0, 694.0)
+[INFO] WorldEdit: s_mitty (in "kevlar"): /set oakplanks - Region: (-70.0, 114.0, 695.0) - (-67.0, 114.0, 708.0)
+[INFO] WorldEdit: s_mitty (in "kevlar"): /set planks - Region: (-70.0, 114.0, 695.0) - (-67.0, 114.0, 708.0)
+[INFO] WorldEdit: s_mitty (in "kevlar"): /set planks - Region: (-66.0, 114.0, 695.0) - (-65.0, 114.0, 706.0)
+[INFO] WorldEdit: s_mitty (in "kevlar"): /set planks - Region: (-64.0, 114.0, 700.0) - (-63.0, 114.0, 704.0)
+[INFO] WorldEdit: s_mitty (in "kevlar"): /set planks - Region: (-72.0, 114.0, 698.0) - (-71.0, 114.0, 706.0)
+[INFO] WorldEdit: s_mitty (in "kevlar"): /set planks - Region: (-74.0, 114.0, 700.0) - (-73.0, 114.0, 704.0)
+[INFO] WorldEdit: s_mitty (in "kevlar"): /set ladder - Region: (-67.0, 96.0, 687.0) - (-66.0, 114.0, 687.0)
+[INFO] WorldEdit: s_mitty (in "kevlar"): /undo
+[INFO] WorldEdit: s_mitty (in "kevlar"): /cut - Region: (-161.0, 71.0, 756.0) - (-151.0, 81.0, 767.0)
+[INFO] WorldEdit: s_mitty (in "kevlar"): /cut - Region: (-156.0, 71.0, 755.0) - (-139.0, 81.0, 774.0)
+[INFO] WorldEdit: s_mitty (in "kevlar"): /set wood - Region: (-145.0, 71.0, 763.0) - (-145.0, 130.0, 765.0)
+[INFO] WorldEdit: s_mitty (in "kevlar"): /undo
+[INFO] WorldEdit: s_mitty (in "kevlar"): /set tree - Region: (-147.0, 71.0, 763.0) - (-145.0, 130.0, 765.0)
+[INFO] WorldEdit: s_mitty (in "kevlar"): /set tree - Region: (-147.0, 71.0, 762.0) - (-144.0, 111.0, 762.0)
+[INFO] WorldEdit: s_mitty (in "kevlar"): /set air - Region: (-144.0, 71.0, 762.0) - (-144.0, 111.0, 762.0)
+[INFO] WorldEdit: s_mitty (in "kevlar"): /set tree - Region: (-148.0, 71.0, 763.0) - (-147.0, 109.0, 765.0)
+[INFO] WorldEdit: s_mitty (in "kevlar"): /set tree - Region: (-147.0, 70.0, 765.0) - (-145.0, 109.0, 766.0)
+[INFO] WorldEdit: s_mitty (in "kevlar"): /set tree - Region: (-145.0, 71.0, 763.0) - (-144.0, 109.0, 765.0)
+[INFO] WorldEdit: s_mitty (in "kevlar"): /set tree - Region: (-147.0, 109.0, 762.0) - (-145.0, 124.0, 762.0)
+[INFO] WorldEdit: s_mitty (in "kevlar"): /set tree - Region: (-148.0, 109.0, 763.0) - (-147.0, 124.0, 765.0)
+[INFO] WorldEdit: s_mitty (in "kevlar"): /set tree - Region: (-147.0, 109.0, 765.0) - (-145.0, 125.0, 766.0)
+[INFO] WorldEdit: s_mitty (in "kevlar"): /set tree - Region: (-145.0, 109.0, 763.0) - (-144.0, 125.0, 765.0)
+[INFO] WorldEdit: s_mitty (in "kevlar"): /set tree - Region: (-147.0, 70.0, 761.0) - (-145.0, 111.0, 762.0)
+[INFO] WorldEdit: s_mitty (in "kevlar"): /set tree - Region: (-144.0, 70.0, 763.0) - (-143.0, 111.0, 765.0)
+[INFO] WorldEdit: s_mitty (in "kevlar"): /set tree - Region: (-147.0, 70.0, 766.0) - (-145.0, 111.0, 767.0)
+[INFO] WorldEdit: s_mitty (in "kevlar"): /set tree - Region: (-149.0, 70.0, 763.0) - (-148.0, 111.0, 765.0)
+[INFO] WorldEdit: s_mitty (in "kevlar"): /set tree - Region: (-144.0, 70.0, 762.0) - (-144.0, 104.0, 763.0)
+[INFO] WorldEdit: s_mitty (in "kevlar"): /set tree - Region: (-145.0, 70.0, 766.0) - (-144.0, 110.0, 766.0)
+[INFO] WorldEdit: s_mitty (in "kevlar"): /set tree - Region: (-148.0, 70.0, 765.0) - (-148.0, 98.0, 766.0)
+[INFO] WorldEdit: s_mitty (in "kevlar"): /cut - Region: (-152.0, 131.0, 759.0) - (-142.0, 135.0, 767.0)
+[INFO] WorldEdit: s_mitty (in "kevlar"): /paste - Position: (-148.0, 138.0, 764.0)
+[INFO] WorldEdit: s_mitty (in "kevlar"): /undo
+[INFO] WorldEdit: s_mitty (in "kevlar"): /paste - Position: (-146.0, 138.0, 762.0)
+[INFO] WorldEdit: s_mitty (in "kevlar"): /undo
+[INFO] WorldEdit: s_mitty (in "kevlar"): /paste - Position: (-144.0, 136.0, 764.0)
+[INFO] WorldEdit: s_mitty (in "kevlar"): /undo
+[INFO] WorldEdit: s_mitty (in "kevlar"): /paste - Position: (-146.0, 136.0, 762.0)
+[INFO] WorldEdit: s_mitty (in "kevlar"): /set air - Region: (-91.0, 81.0, 692.0) - (-85.0, 84.0, 700.0)
+[INFO] WorldEdit: s_mitty (in "kevlar"): /set frostedglasspane - Region: (-90.0, 81.0, 692.0) - (-85.0, 83.0, 692.0)
+[INFO] WorldEdit: s_mitty (in "kevlar"): /set frostedglass - Region: (-90.0, 81.0, 692.0) - (-85.0, 83.0, 692.0)
+[INFO] WorldEdit: s_mitty (in "kevlar"): /set stainedglasspane - Region: (-90.0, 81.0, 692.0) - (-85.0, 83.0, 692.0)
+[INFO] WorldEdit: s_mitty (in "kevlar"): /set air - Region: (-142.0, 68.0, 670.0) - (-114.0, 78.0, 685.0)
+[INFO] WorldEdit: s_mitty (in "kevlar"): /naturalize - Region: (-137.0, 67.0, 670.0) - (-133.0, 67.0, 670.0)
+[INFO] WorldEdit: s_mitty (in "kevlar"): /naturalize - Region: (-142.0, 67.0, 670.0) - (-126.0, 68.0, 687.0)
+[INFO] WorldEdit: s_mitty (in "kevlar"): /set air - Region: (-140.0, 67.0, 670.0) - (-124.0, 67.0, 685.0)
+[INFO] WorldEdit: s_mitty (in "kevlar"): /naturalize - Region: (-141.0, 66.0, 670.0) - (-119.0, 70.0, 684.0)
+[INFO] WorldEdit: s_mitty (in "kevlar"): /cut - Region: (-139.0, 67.0, 670.0) - (-116.0, 71.0, 673.0)
+[INFO] WorldEdit: s_mitty (in "kevlar"): /set air - Region: (-128.0, 74.0, 676.0) - (-118.0, 79.0, 684.0)
+[INFO] WorldEdit: s_mitty (in "kevlar"): /set air - Region: (-139.0, 74.0, 676.0) - (-129.0, 75.0, 683.0)
+[INFO] WorldEdit: s_mitty (in "kevlar"): /cut - Region: (-139.0, 67.0, 670.0) - (-120.0, 77.0, 683.0)
+[INFO] WorldEdit: s_mitty (in "kevlar"): /paste - Position: (-103.0, 69.0, 761.0)
+[INFO] WorldEdit: s_mitty (in "kevlar"): /cut - Region: (-98.0, 69.0, 760.0) - (-92.0, 72.0, 760.0)
+[INFO] WorldEdit: s_mitty (in "kevlar"): /paste - Position: (-92.0, 68.0, 758.0)
+[INFO] WorldEdit: s_mitty (in "kevlar"): /undo
+[INFO] WorldEdit: s_mitty (in "kevlar"): /paste - Position: (-92.0, 68.0, 760.0)
+[INFO] WorldEdit: s_mitty (in "kevlar"): /undo
+[INFO] WorldEdit: s_mitty (in "kevlar"): /paste - Position: (-92.0, 68.0, 759.0)
+[INFO] WorldEdit: s_mitty (in "kevlar"): /undo
+[INFO] WorldEdit: s_mitty (in "kevlar"): /undo
+[INFO] WorldEdit: s_mitty (in "kevlar"): /undo
+[INFO] WorldEdit: s_mitty (in "kevlar"): /redo
+[INFO] WorldEdit: s_mitty (in "kevlar"): /cut - Region: (128.0, 63.0, 747.0) - (128.0, 85.0, 747.0)
+[INFO] WorldEdit: s_mitty (in "kevlar"): /cut - Region: (128.0, 71.0, 709.0) - (128.0, 92.0, 709.0)
+[INFO] WorldEdit: s_mitty (in "kevlar"): /cut - Region: (128.0, 65.0, 676.0) - (129.0, 88.0, 676.0)
+[INFO] WorldEdit: s_mitty (in "kevlar"): /cut - Region: (156.0, 64.0, 679.0) - (179.0, 64.0, 711.0)
+[INFO] WorldEdit: s_mitty (in "kevlar"): /cut - Region: (171.0, 64.0, 695.0) - (189.0, 64.0, 716.0)
+[INFO] WorldEdit: s_mitty (in "kevlar"): /cut - Region: (156.0, 64.0, 713.0) - (177.0, 64.0, 726.0)
+[INFO] WorldEdit: s_mitty (in "kevlar"): /naturalize - Region: (155.0, 63.0, 676.0) - (193.0, 63.0, 727.0)
+[INFO] WorldEdit: s_mitty (in "kevlar"): /cut - Region: (309.0, 98.0, 588.0) - (333.0, 153.0, 620.0)
+[INFO] WorldEdit: s_mitty (in "kevlar"): /cut - Region: (24.0, 70.0, 698.0) - (58.0, 86.0, 743.0)
+[INFO] WorldEdit: s_mitty (in "kevlar"): /paste - Position: (171.0, 64.0, 700.0)
+[INFO] WorldEdit: s_mitty (in "kevlar"): /set grass - Region: (24.0, 69.0, 693.0) - (58.0, 71.0, 736.0)
+[INFO] WorldEdit: s_mitty (in "kevlar"): /set grass - Region: (23.0, 70.0, 737.0) - (58.0, 70.0, 745.0)
+[INFO] WorldEdit: s_mitty (in "kevlar"): /regen - Region: (24.0, 70.0, 688.0) - (58.0, 78.0, 746.0)
+[INFO] WorldEdit: s_mitty (in "kevlar"): /cut - Region: (26.0, 73.0, 710.0) - (51.0, 73.0, 729.0)
+[INFO] WorldEdit: s_mitty (in "kevlar"): /naturalize - Region: (25.0, 72.0, 715.0) - (34.0, 72.0, 730.0)
+[INFO] WorldEdit: s_mitty (in "kevlar"): /set grass - Region: (41.0, 70.0, 699.0) - (55.0, 72.0, 724.0)
+[INFO] WorldEdit: s_mitty (in "kevlar"): /set brick - Region: (35.0, 73.0, 725.0) - (41.0, 80.0, 725.0)
+[INFO] WorldEdit: s_mitty (in "kevlar"): /set brick - Region: (40.0, 73.0, 700.0) - (40.0, 80.0, 710.0)
+[INFO] WorldEdit: s_mitty (in "kevlar"): /set brick - Region: (41.0, 73.0, 725.0) - (41.0, 80.0, 739.0)
+[INFO] WorldEdit: s_mitty (in "kevlar"): /set grass - Region: (42.0, 72.0, 734.0) - (50.0, 72.0, 740.0)
+[INFO] WorldEdit: s_mitty (in "kevlar"): /set brick - Region: (41.0, 72.0, 739.0) - (51.0, 80.0, 739.0)
+[INFO] WorldEdit: s_mitty (in "kevlar"): /set brick - Region: (40.0, 73.0, 700.0) - (48.0, 80.0, 700.0)
+[INFO] WorldEdit: s_mitty (in "kevlar"): /set brick - Region: (48.0, 73.0, 700.0) - (49.0, 80.0, 739.0)
+[INFO] WorldEdit: s_mitty (in "kevlar"): /undo
+[INFO] WorldEdit: s_mitty (in "kevlar"): /set brick - Region: (49.0, 72.0, 700.0) - (49.0, 80.0, 739.0)
+[INFO] WorldEdit: s_mitty (in "kevlar"): /cut - Region: (40.0, 73.0, 700.0) - (43.0, 82.0, 710.0)
+[INFO] WorldEdit: s_mitty (in "kevlar"): /paste - Position: (40.0, 73.0, 705.0)
+[INFO] WorldEdit: s_mitty (in "kevlar"): /undo
+[INFO] WorldEdit: s_mitty (in "kevlar"): /undo
+[INFO] WorldEdit: s_mitty (in "kevlar"): /cut - Region: (40.0, 73.0, 700.0) - (43.0, 82.0, 710.0)
+[INFO] WorldEdit: s_mitty (in "kevlar"): /paste - Position: (40.0, 73.0, 709.0)
+[INFO] WorldEdit: s_mitty (in "kevlar"): /undo
+[INFO] WorldEdit: s_mitty (in "kevlar"): /undo
+[INFO] WorldEdit: s_mitty (in "kevlar"): /cut - Region: (40.0, 73.0, 700.0) - (43.0, 82.0, 710.0)
+[INFO] WorldEdit: s_mitty (in "kevlar"): /paste - Position: (40.0, 73.0, 703.0)
+[INFO] WorldEdit: s_mitty (in "kevlar"): /cut - Region: (45.0, 73.0, 699.0) - (49.0, 82.0, 710.0)
+[INFO] WorldEdit: s_mitty (in "kevlar"): /paste - Position: (50.0, 73.0, 702.0)
+[INFO] WorldEdit: s_mitty (in "kevlar"): /undo
+[INFO] WorldEdit: s_mitty (in "kevlar"): /undo
+[INFO] WorldEdit: s_mitty (in "kevlar"): /cut - Region: (45.0, 73.0, 699.0) - (49.0, 82.0, 710.0)
+[INFO] WorldEdit: s_mitty (in "kevlar"): /paste - Position: (50.0, 73.0, 703.0)
+[INFO] WorldEdit: s_mitty (in "kevlar"): /copy
+[INFO] WorldEdit: s_mitty (in "kevlar"): /paste - Position: (40.0, 73.0, 709.0)
+[INFO] WorldEdit: s_mitty (in "kevlar"): /set grass - Region: (42.0, 71.0, 696.0) - (48.0, 72.0, 699.0)
