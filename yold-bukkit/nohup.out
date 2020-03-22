@@ -10400,3 +10400,465 @@ packet_write_wait: Connection to 104.248.79.114 port 22: Broken pipe
 [01:49:36 INFO]: s_mitty lost connection: Disconnected
 [01:49:36 INFO]: s_mitty left the game.
 [21:39:53 INFO]: Stopping server
+Loading libraries, please wait...
+WARNING: An illegal reflective access operation has occurred
+WARNING: Illegal reflective access by net.minecraft.util.io.netty.util.internal.PlatformDependent0 (file:/home/mc/mc/yold-bukkit/craftbukkit.jar) to field java.nio.DirectByteBuffer.cleaner
+WARNING: Please consider reporting this to the maintainers of net.minecraft.util.io.netty.util.internal.PlatformDependent0
+WARNING: Use --illegal-access=warn to enable warnings of further illegal reflective access operations
+WARNING: All illegal access operations will be denied in a future release
+Aug 15, 2019 3:24:46 AM net.minecraft.util.io.netty.util.internal.PlatformDependent <clinit>
+INFO: Your platform does not provide complete low-level API for accessing direct buffers reliably. Unless explicitly requested, heap buffer will always be preferred to avoid potential system unstability.
+[03:24:46 INFO]: Starting minecraft server version 1.7.9
+[03:24:46 ERROR]: Exception handling console input
+java.io.IOException: Bad file descriptor
+	at java.base/java.io.FileInputStream.readBytes(Native Method) ~[?:?]
+	at java.base/java.io.FileInputStream.read(FileInputStream.java:279) ~[?:?]
+	at java.base/java.io.BufferedInputStream.fill(BufferedInputStream.java:252) ~[?:?]
+	at java.base/java.io.BufferedInputStream.read(BufferedInputStream.java:271) ~[?:?]
+	at java.base/java.io.FilterInputStream.read(FilterInputStream.java:83) ~[?:?]
+	at org.bukkit.craftbukkit.libs.jline.console.ConsoleReader$1.read(ConsoleReader.java:167) ~[craftbukkit.jar:git-Bukkit-1.7.9-R0.1-10-g8688bd4-b3092jnks]
+	at org.bukkit.craftbukkit.libs.jline.internal.InputStreamReader.read(InputStreamReader.java:267) ~[craftbukkit.jar:git-Bukkit-1.7.9-R0.1-10-g8688bd4-b3092jnks]
+	at org.bukkit.craftbukkit.libs.jline.internal.InputStreamReader.read(InputStreamReader.java:204) ~[craftbukkit.jar:git-Bukkit-1.7.9-R0.1-10-g8688bd4-b3092jnks]
+	at org.bukkit.craftbukkit.libs.jline.console.ConsoleReader.readCharacter(ConsoleReader.java:995) ~[craftbukkit.jar:git-Bukkit-1.7.9-R0.1-10-g8688bd4-b3092jnks]
+	at org.bukkit.craftbukkit.libs.jline.console.ConsoleReader.readLineSimple(ConsoleReader.java:1506) ~[craftbukkit.jar:git-Bukkit-1.7.9-R0.1-10-g8688bd4-b3092jnks]
+	at org.bukkit.craftbukkit.libs.jline.console.ConsoleReader.readLine(ConsoleReader.java:1153) ~[craftbukkit.jar:git-Bukkit-1.7.9-R0.1-10-g8688bd4-b3092jnks]
+	at org.bukkit.craftbukkit.libs.jline.console.ConsoleReader.readLine(ConsoleReader.java:1117) ~[craftbukkit.jar:git-Bukkit-1.7.9-R0.1-10-g8688bd4-b3092jnks]
+	at org.bukkit.craftbukkit.libs.jline.console.ConsoleReader.readLine(ConsoleReader.java:1105) ~[craftbukkit.jar:git-Bukkit-1.7.9-R0.1-10-g8688bd4-b3092jnks]
+	at net.minecraft.server.v1_7_R3.ThreadCommandReader.run(ThreadCommandReader.java:34) [craftbukkit.jar:git-Bukkit-1.7.9-R0.1-10-g8688bd4-b3092jnks]
+[03:24:46 INFO]: Loading properties
+[03:24:46 INFO]: Default game type: CREATIVE
+[03:24:46 INFO]: Generating keypair
+[03:24:47 INFO]: Starting Minecraft server on *:25567
+[03:24:47 INFO]: This server is running CraftBukkit version git-Bukkit-1.7.9-R0.1-10-g8688bd4-b3092jnks (MC: 1.7.9) (Implementing API version 1.7.9-R0.2)
+[03:24:47 INFO]: [WorldEdit] Loading WorldEdit v5.6.2
+[03:24:47 INFO]: [SignEdit] Loading SignEdit v3.3.9
+[03:24:47 INFO]: [RunAs] Loading RunAs v1.0.1
+[03:24:47 INFO]: [AntiCreeper] Loading AntiCreeper v4.18.1
+[03:24:47 INFO]: [Essentials] Loading Essentials v2.13.1
+[03:24:47 INFO]: [Speedcarts] Loading Speedcarts v1.3.5
+[03:24:47 INFO]: [GroupManager] Loading GroupManager v2.1.11 (Phoenix)
+[03:24:47 INFO]: [EssentialsChat] Loading EssentialsChat v2.13.1
+[03:24:47 INFO]: [EssentialsProtect] Loading EssentialsProtect v2.13.1
+[03:24:47 WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[03:24:47 WARN]: The server will make no attempt to authenticate usernames. Beware.
+[03:24:47 WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[03:24:47 WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[03:24:47 INFO]: Preparing level "kevlar"
+[03:24:48 INFO]: Preparing start region for level 0 (Seed: -6429030645283485143)
+[03:24:49 INFO]: Preparing spawn area: 64%
+[03:24:49 INFO]: Preparing start region for level 1 (Seed: -5412670237699833762)
+[03:24:49 INFO]: Preparing start region for level 2 (Seed: -5412670237699833762)
+[03:24:50 INFO]: [WorldEdit] Enabling WorldEdit v5.6.2
+[03:24:50 INFO]: WEPIF: Using the Bukkit Permissions API.
+[03:24:50 INFO]: [SignEdit] Enabling SignEdit v3.3.9
+[03:24:50 INFO]: [RunAs] Enabling RunAs v1.0.1
+[03:24:50 INFO]: [AntiCreeper] Enabling AntiCreeper v4.18.1
+[03:24:50 INFO]: [AntiCreeper] brought to you by Filbert66
+[03:24:50 INFO]: [Essentials] Enabling Essentials v2.13.1
+[03:24:51 INFO]: Essentials: Using config file enhanced permissions.
+[03:24:51 INFO]: Permissions listed in as player-commands will be given to all users.
+[03:24:51 INFO]: [Speedcarts] Enabling Speedcarts v1.3.5
+[03:24:51 INFO]: [Speedcarts] Checking for updates...
+[03:24:52 WARN]: [Speedcarts] [33mSpeedcarts could not check for updates [java.net.UnknownHostException: version.znt.se].[m
+[03:24:52 INFO]: [Speedcarts] Speedcarts enabled!
+[03:24:52 INFO]: [GroupManager] Enabling GroupManager v2.1.11 (Phoenix)
+[03:24:52 INFO]: GroupManager - INFO - World Found: kevlar
+[03:24:52 INFO]: GroupManager - INFO - World Found: world
+[03:24:52 INFO]: GroupManager - INFO - Superperms support enabled.
+[03:24:52 INFO]: GroupManager - INFO - Scheduled Data Saving is set for every 10 minutes!
+[03:24:52 INFO]: GroupManager - INFO - Backups will be retained for 24 hours!
+[03:24:52 INFO]: GroupManager version 2.1.11 (Phoenix) is enabled!
+[03:24:52 INFO]: WEPIF: GroupManager detected! Using GroupManager for permissions.
+[03:24:52 INFO]: Essentials: Using GroupManager based permissions.
+[03:24:52 INFO]: [EssentialsChat] Enabling EssentialsChat v2.13.1
+[03:24:52 INFO]: [EssentialsProtect] Enabling EssentialsProtect v2.13.1
+[03:24:52 INFO]: Server permissions file permissions.yml is empty, ignoring it
+[03:24:52 INFO]: Done (4.492s)! For help, type "help" or "?"
+[03:24:52 INFO]: GroupManager - INFO - Bukkit Permissions Updated!
+Loading libraries, please wait...
+WARNING: An illegal reflective access operation has occurred
+WARNING: Illegal reflective access by net.minecraft.util.io.netty.util.internal.PlatformDependent0 (file:/home/mc/mc/yold-bukkit/craftbukkit.jar) to field java.nio.DirectByteBuffer.cleaner
+WARNING: Please consider reporting this to the maintainers of net.minecraft.util.io.netty.util.internal.PlatformDependent0
+WARNING: Use --illegal-access=warn to enable warnings of further illegal reflective access operations
+WARNING: All illegal access operations will be denied in a future release
+Sep 17, 2019 4:00:03 AM net.minecraft.util.io.netty.util.internal.PlatformDependent <clinit>
+INFO: Your platform does not provide complete low-level API for accessing direct buffers reliably. Unless explicitly requested, heap buffer will always be preferred to avoid potential system unstability.
+[04:00:03 INFO]: Starting minecraft server version 1.7.9
+[04:00:03 INFO]: Loading properties
+[04:00:03 ERROR]: Exception handling console input
+java.io.IOException: Bad file descriptor
+	at java.base/java.io.FileInputStream.readBytes(Native Method) ~[?:?]
+	at java.base/java.io.FileInputStream.read(FileInputStream.java:279) ~[?:?]
+	at java.base/java.io.BufferedInputStream.fill(BufferedInputStream.java:252) ~[?:?]
+	at java.base/java.io.BufferedInputStream.read(BufferedInputStream.java:271) ~[?:?]
+	at java.base/java.io.FilterInputStream.read(FilterInputStream.java:83) ~[?:?]
+	at org.bukkit.craftbukkit.libs.jline.console.ConsoleReader$1.read(ConsoleReader.java:167) ~[craftbukkit.jar:git-Bukkit-1.7.9-R0.1-10-g8688bd4-b3092jnks]
+	at org.bukkit.craftbukkit.libs.jline.internal.InputStreamReader.read(InputStreamReader.java:267) ~[craftbukkit.jar:git-Bukkit-1.7.9-R0.1-10-g8688bd4-b3092jnks]
+	at org.bukkit.craftbukkit.libs.jline.internal.InputStreamReader.read(InputStreamReader.java:204) ~[craftbukkit.jar:git-Bukkit-1.7.9-R0.1-10-g8688bd4-b3092jnks]
+	at org.bukkit.craftbukkit.libs.jline.console.ConsoleReader.readCharacter(ConsoleReader.java:995) ~[craftbukkit.jar:git-Bukkit-1.7.9-R0.1-10-g8688bd4-b3092jnks]
+	at org.bukkit.craftbukkit.libs.jline.console.ConsoleReader.readLineSimple(ConsoleReader.java:1506) ~[craftbukkit.jar:git-Bukkit-1.7.9-R0.1-10-g8688bd4-b3092jnks]
+	at org.bukkit.craftbukkit.libs.jline.console.ConsoleReader.readLine(ConsoleReader.java:1153) ~[craftbukkit.jar:git-Bukkit-1.7.9-R0.1-10-g8688bd4-b3092jnks]
+	at org.bukkit.craftbukkit.libs.jline.console.ConsoleReader.readLine(ConsoleReader.java:1117) ~[craftbukkit.jar:git-Bukkit-1.7.9-R0.1-10-g8688bd4-b3092jnks]
+	at org.bukkit.craftbukkit.libs.jline.console.ConsoleReader.readLine(ConsoleReader.java:1105) ~[craftbukkit.jar:git-Bukkit-1.7.9-R0.1-10-g8688bd4-b3092jnks]
+	at net.minecraft.server.v1_7_R3.ThreadCommandReader.run(ThreadCommandReader.java:34) [craftbukkit.jar:git-Bukkit-1.7.9-R0.1-10-g8688bd4-b3092jnks]
+[04:00:03 INFO]: Default game type: CREATIVE
+[04:00:03 INFO]: Generating keypair
+[04:00:03 INFO]: Starting Minecraft server on *:25567
+[04:00:03 WARN]: **** FAILED TO BIND TO PORT!
+[04:00:03 WARN]: The exception was: java.net.BindException: Address already in use
+[04:00:03 WARN]: Perhaps a server is already running on that port?
+connect_to 127.0.0.1 port 25565: failed.
+connect_to 127.0.0.1 port 25565: failed.
+connect_to 127.0.0.1 port 25565: failed.
+connect_to 127.0.0.1 port 25565: failed.
+connect_to 127.0.0.1 port 25565: failed.
+connect_to 127.0.0.1 port 25565: failed.
+Connection to kevinkellar.com closed by remote host.
+ssh: connect to host kevinkellar.com port 22: Connection refused
+ssh: connect to host kevinkellar.com port 22: Connection refused
+ssh: connect to host kevinkellar.com port 22: Connection refused
+ssh: connect to host kevinkellar.com port 22: Connection refused
+[04:10:12 INFO]: Stopping server
+2019-09-17 04:10:12,281 ERROR Attempted to append to non-started appender TerminalConsole
+Error: Unable to access jarfile craftbukkit
+Loading libraries, please wait...
+WARNING: An illegal reflective access operation has occurred
+WARNING: Illegal reflective access by net.minecraft.util.io.netty.util.internal.PlatformDependent0 (file:/home/mc/mc/yold-bukkit/craftbukkit.jar) to field java.nio.DirectByteBuffer.cleaner
+WARNING: Please consider reporting this to the maintainers of net.minecraft.util.io.netty.util.internal.PlatformDependent0
+WARNING: Use --illegal-access=warn to enable warnings of further illegal reflective access operations
+WARNING: All illegal access operations will be denied in a future release
+Sep 17, 2019 4:16:00 AM net.minecraft.util.io.netty.util.internal.PlatformDependent <clinit>
+INFO: Your platform does not provide complete low-level API for accessing direct buffers reliably. Unless explicitly requested, heap buffer will always be preferred to avoid potential system unstability.
+[04:16:01 INFO]: Starting minecraft server version 1.7.9
+[04:16:01 ERROR]: Exception handling console input
+java.io.IOException: Bad file descriptor
+	at java.base/java.io.FileInputStream.readBytes(Native Method) ~[?:?]
+	at java.base/java.io.FileInputStream.read(FileInputStream.java:279) ~[?:?]
+	at java.base/java.io.BufferedInputStream.fill(BufferedInputStream.java:252) ~[?:?]
+	at java.base/java.io.BufferedInputStream.read(BufferedInputStream.java:271) ~[?:?]
+	at java.base/java.io.FilterInputStream.read(FilterInputStream.java:83) ~[?:?]
+	at org.bukkit.craftbukkit.libs.jline.console.ConsoleReader$1.read(ConsoleReader.java:167) ~[craftbukkit.jar:git-Bukkit-1.7.9-R0.1-10-g8688bd4-b3092jnks]
+	at org.bukkit.craftbukkit.libs.jline.internal.InputStreamReader.read(InputStreamReader.java:267) ~[craftbukkit.jar:git-Bukkit-1.7.9-R0.1-10-g8688bd4-b3092jnks]
+	at org.bukkit.craftbukkit.libs.jline.internal.InputStreamReader.read(InputStreamReader.java:204) ~[craftbukkit.jar:git-Bukkit-1.7.9-R0.1-10-g8688bd4-b3092jnks]
+	at org.bukkit.craftbukkit.libs.jline.console.ConsoleReader.readCharacter(ConsoleReader.java:995) ~[craftbukkit.jar:git-Bukkit-1.7.9-R0.1-10-g8688bd4-b3092jnks]
+	at org.bukkit.craftbukkit.libs.jline.console.ConsoleReader.readLineSimple(ConsoleReader.java:1506) ~[craftbukkit.jar:git-Bukkit-1.7.9-R0.1-10-g8688bd4-b3092jnks]
+	at org.bukkit.craftbukkit.libs.jline.console.ConsoleReader.readLine(ConsoleReader.java:1153) ~[craftbukkit.jar:git-Bukkit-1.7.9-R0.1-10-g8688bd4-b3092jnks]
+	at org.bukkit.craftbukkit.libs.jline.console.ConsoleReader.readLine(ConsoleReader.java:1117) ~[craftbukkit.jar:git-Bukkit-1.7.9-R0.1-10-g8688bd4-b3092jnks]
+	at org.bukkit.craftbukkit.libs.jline.console.ConsoleReader.readLine(ConsoleReader.java:1105) ~[craftbukkit.jar:git-Bukkit-1.7.9-R0.1-10-g8688bd4-b3092jnks]
+	at net.minecraft.server.v1_7_R3.ThreadCommandReader.run(ThreadCommandReader.java:34) [craftbukkit.jar:git-Bukkit-1.7.9-R0.1-10-g8688bd4-b3092jnks]
+[04:16:01 INFO]: Loading properties
+[04:16:01 INFO]: Default game type: CREATIVE
+[04:16:01 INFO]: Generating keypair
+[04:16:01 INFO]: Starting Minecraft server on *:25567
+[04:16:01 INFO]: This server is running CraftBukkit version git-Bukkit-1.7.9-R0.1-10-g8688bd4-b3092jnks (MC: 1.7.9) (Implementing API version 1.7.9-R0.2)
+[04:16:02 INFO]: [WorldEdit] Loading WorldEdit v5.6.2
+[04:16:02 INFO]: [SignEdit] Loading SignEdit v3.3.9
+[04:16:02 INFO]: [RunAs] Loading RunAs v1.0.1
+[04:16:02 INFO]: [AntiCreeper] Loading AntiCreeper v4.18.1
+[04:16:02 INFO]: [Essentials] Loading Essentials v2.13.1
+[04:16:02 INFO]: [Speedcarts] Loading Speedcarts v1.3.5
+[04:16:02 INFO]: [GroupManager] Loading GroupManager v2.1.11 (Phoenix)
+[04:16:02 INFO]: [EssentialsChat] Loading EssentialsChat v2.13.1
+[04:16:02 INFO]: [EssentialsProtect] Loading EssentialsProtect v2.13.1
+[04:16:02 WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[04:16:02 WARN]: The server will make no attempt to authenticate usernames. Beware.
+[04:16:02 WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[04:16:02 WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[04:16:02 INFO]: Preparing level "kevlar"
+[04:16:02 INFO]: Preparing start region for level 0 (Seed: -6429030645283485143)
+[04:16:03 INFO]: Preparing spawn area: 61%
+[04:16:03 INFO]: Preparing start region for level 1 (Seed: -5412670237699833762)
+[04:16:03 INFO]: Preparing start region for level 2 (Seed: -5412670237699833762)
+[04:16:04 INFO]: [WorldEdit] Enabling WorldEdit v5.6.2
+[04:16:04 INFO]: WEPIF: Using the Bukkit Permissions API.
+[04:16:04 INFO]: [SignEdit] Enabling SignEdit v3.3.9
+[04:16:04 INFO]: [RunAs] Enabling RunAs v1.0.1
+[04:16:04 INFO]: [AntiCreeper] Enabling AntiCreeper v4.18.1
+[04:16:04 INFO]: [AntiCreeper] brought to you by Filbert66
+[04:16:04 INFO]: [Essentials] Enabling Essentials v2.13.1
+[04:16:05 INFO]: Essentials: Using config file enhanced permissions.
+[04:16:05 INFO]: Permissions listed in as player-commands will be given to all users.
+[04:16:05 INFO]: [Speedcarts] Enabling Speedcarts v1.3.5
+[04:16:05 INFO]: [Speedcarts] Checking for updates...
+[04:16:06 WARN]: [Speedcarts] [33mSpeedcarts could not check for updates [java.net.UnknownHostException: version.znt.se].[m
+[04:16:06 INFO]: [Speedcarts] Speedcarts enabled!
+[04:16:06 INFO]: [GroupManager] Enabling GroupManager v2.1.11 (Phoenix)
+[04:16:06 INFO]: GroupManager - INFO - World Found: kevlar
+[04:16:06 INFO]: GroupManager - INFO - World Found: world
+[04:16:06 INFO]: GroupManager - INFO - Superperms support enabled.
+[04:16:06 INFO]: GroupManager - INFO - Scheduled Data Saving is set for every 10 minutes!
+[04:16:06 INFO]: GroupManager - INFO - Backups will be retained for 24 hours!
+[04:16:06 INFO]: GroupManager version 2.1.11 (Phoenix) is enabled!
+[04:16:06 INFO]: WEPIF: GroupManager detected! Using GroupManager for permissions.
+[04:16:06 INFO]: Essentials: Using GroupManager based permissions.
+[04:16:06 INFO]: [EssentialsChat] Enabling EssentialsChat v2.13.1
+[04:16:06 INFO]: [EssentialsProtect] Enabling EssentialsProtect v2.13.1
+[04:16:06 INFO]: Server permissions file permissions.yml is empty, ignoring it
+[04:16:06 INFO]: Done (4.432s)! For help, type "help" or "?"
+[04:16:06 INFO]: GroupManager - INFO - Bukkit Permissions Updated!
+connect_to 127.0.0.1 port 25565: failed.
+connect_to 127.0.0.1 port 25565: failed.
+connect_to 127.0.0.1 port 25565: failed.
+connect_to 127.0.0.1 port 25565: failed.
+connect_to 127.0.0.1 port 25565: failed.
+connect_to 127.0.0.1 port 25565: failed.
+connect_to 127.0.0.1 port 25565: failed.
+connect_to 127.0.0.1 port 25565: failed.
+connect_to 127.0.0.1 port 25565: failed.
+connect_to 127.0.0.1 port 25565: failed.
+[04:43:05 INFO]: Stopping server
+Loading libraries, please wait...
+WARNING: An illegal reflective access operation has occurred
+WARNING: Illegal reflective access by net.minecraft.util.io.netty.util.internal.PlatformDependent0 (file:/home/mc/mc/yold-bukkit/craftbukkit.jar) to field java.nio.DirectByteBuffer.cleaner
+WARNING: Please consider reporting this to the maintainers of net.minecraft.util.io.netty.util.internal.PlatformDependent0
+WARNING: Use --illegal-access=warn to enable warnings of further illegal reflective access operations
+WARNING: All illegal access operations will be denied in a future release
+Sep 17, 2019 4:45:07 AM net.minecraft.util.io.netty.util.internal.PlatformDependent <clinit>
+INFO: Your platform does not provide complete low-level API for accessing direct buffers reliably. Unless explicitly requested, heap buffer will always be preferred to avoid potential system unstability.
+[04:45:07 INFO]: Starting minecraft server version 1.7.9
+[04:45:07 INFO]: Loading properties
+[04:45:07 ERROR]: Exception handling console input
+java.io.IOException: Bad file descriptor
+	at java.base/java.io.FileInputStream.readBytes(Native Method) ~[?:?]
+	at java.base/java.io.FileInputStream.read(FileInputStream.java:279) ~[?:?]
+	at java.base/java.io.BufferedInputStream.fill(BufferedInputStream.java:252) ~[?:?]
+	at java.base/java.io.BufferedInputStream.read(BufferedInputStream.java:271) ~[?:?]
+	at java.base/java.io.FilterInputStream.read(FilterInputStream.java:83) ~[?:?]
+	at org.bukkit.craftbukkit.libs.jline.console.ConsoleReader$1.read(ConsoleReader.java:167) ~[craftbukkit.jar:git-Bukkit-1.7.9-R0.1-10-g8688bd4-b3092jnks]
+	at org.bukkit.craftbukkit.libs.jline.internal.InputStreamReader.read(InputStreamReader.java:267) ~[craftbukkit.jar:git-Bukkit-1.7.9-R0.1-10-g8688bd4-b3092jnks]
+	at org.bukkit.craftbukkit.libs.jline.internal.InputStreamReader.read(InputStreamReader.java:204) ~[craftbukkit.jar:git-Bukkit-1.7.9-R0.1-10-g8688bd4-b3092jnks]
+	at org.bukkit.craftbukkit.libs.jline.console.ConsoleReader.readCharacter(ConsoleReader.java:995) ~[craftbukkit.jar:git-Bukkit-1.7.9-R0.1-10-g8688bd4-b3092jnks]
+	at org.bukkit.craftbukkit.libs.jline.console.ConsoleReader.readLineSimple(ConsoleReader.java:1506) ~[craftbukkit.jar:git-Bukkit-1.7.9-R0.1-10-g8688bd4-b3092jnks]
+	at org.bukkit.craftbukkit.libs.jline.console.ConsoleReader.readLine(ConsoleReader.java:1153) ~[craftbukkit.jar:git-Bukkit-1.7.9-R0.1-10-g8688bd4-b3092jnks]
+	at org.bukkit.craftbukkit.libs.jline.console.ConsoleReader.readLine(ConsoleReader.java:1117) ~[craftbukkit.jar:git-Bukkit-1.7.9-R0.1-10-g8688bd4-b3092jnks]
+	at org.bukkit.craftbukkit.libs.jline.console.ConsoleReader.readLine(ConsoleReader.java:1105) ~[craftbukkit.jar:git-Bukkit-1.7.9-R0.1-10-g8688bd4-b3092jnks]
+	at net.minecraft.server.v1_7_R3.ThreadCommandReader.run(ThreadCommandReader.java:34) [craftbukkit.jar:git-Bukkit-1.7.9-R0.1-10-g8688bd4-b3092jnks]
+[04:45:08 INFO]: Default game type: CREATIVE
+[04:45:08 INFO]: Generating keypair
+[04:45:08 INFO]: Starting Minecraft server on *:25567
+[04:45:08 INFO]: This server is running CraftBukkit version git-Bukkit-1.7.9-R0.1-10-g8688bd4-b3092jnks (MC: 1.7.9) (Implementing API version 1.7.9-R0.2)
+[04:45:09 INFO]: [WorldEdit] Loading WorldEdit v5.6.2
+[04:45:09 INFO]: [SignEdit] Loading SignEdit v3.3.9
+[04:45:09 INFO]: [RunAs] Loading RunAs v1.0.1
+[04:45:09 INFO]: [AntiCreeper] Loading AntiCreeper v4.18.1
+[04:45:09 INFO]: [Essentials] Loading Essentials v2.13.1
+[04:45:09 INFO]: [Speedcarts] Loading Speedcarts v1.3.5
+[04:45:09 INFO]: [GroupManager] Loading GroupManager v2.1.11 (Phoenix)
+[04:45:09 INFO]: [EssentialsChat] Loading EssentialsChat v2.13.1
+[04:45:09 INFO]: [EssentialsProtect] Loading EssentialsProtect v2.13.1
+[04:45:09 WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[04:45:09 WARN]: The server will make no attempt to authenticate usernames. Beware.
+[04:45:09 WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[04:45:09 WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[04:45:09 INFO]: Preparing level "kevlar"
+[04:45:09 INFO]: Preparing start region for level 0 (Seed: -6429030645283485143)
+[04:45:10 INFO]: Preparing spawn area: 77%
+[04:45:10 INFO]: Preparing start region for level 1 (Seed: -5412670237699833762)
+[04:45:11 INFO]: Preparing start region for level 2 (Seed: -5412670237699833762)
+[04:45:11 INFO]: [WorldEdit] Enabling WorldEdit v5.6.2
+[04:45:11 INFO]: WEPIF: Using the Bukkit Permissions API.
+[04:45:11 INFO]: [SignEdit] Enabling SignEdit v3.3.9
+[04:45:11 INFO]: [RunAs] Enabling RunAs v1.0.1
+[04:45:11 INFO]: [AntiCreeper] Enabling AntiCreeper v4.18.1
+[04:45:11 INFO]: [AntiCreeper] brought to you by Filbert66
+[04:45:11 INFO]: [Essentials] Enabling Essentials v2.13.1
+[04:45:12 INFO]: Essentials: Using config file enhanced permissions.
+[04:45:12 INFO]: Permissions listed in as player-commands will be given to all users.
+[04:45:12 INFO]: [Speedcarts] Enabling Speedcarts v1.3.5
+[04:45:12 INFO]: [Speedcarts] Checking for updates...
+[04:45:13 WARN]: [Speedcarts] [33mSpeedcarts could not check for updates [java.net.UnknownHostException: version.znt.se].[m
+[04:45:13 INFO]: [Speedcarts] Speedcarts enabled!
+[04:45:13 INFO]: [GroupManager] Enabling GroupManager v2.1.11 (Phoenix)
+[04:45:13 INFO]: GroupManager - INFO - World Found: kevlar
+[04:45:13 INFO]: GroupManager - INFO - World Found: world
+[04:45:13 INFO]: GroupManager - INFO - Superperms support enabled.
+[04:45:13 INFO]: GroupManager - INFO - Scheduled Data Saving is set for every 10 minutes!
+[04:45:13 INFO]: GroupManager - INFO - Backups will be retained for 24 hours!
+[04:45:13 INFO]: GroupManager version 2.1.11 (Phoenix) is enabled!
+[04:45:13 INFO]: WEPIF: GroupManager detected! Using GroupManager for permissions.
+[04:45:13 INFO]: Essentials: Using GroupManager based permissions.
+[04:45:13 INFO]: [EssentialsChat] Enabling EssentialsChat v2.13.1
+[04:45:13 INFO]: [EssentialsProtect] Enabling EssentialsProtect v2.13.1
+[04:45:13 INFO]: Server permissions file permissions.yml is empty, ignoring it
+[04:45:13 INFO]: Done (4.395s)! For help, type "help" or "?"
+[04:45:13 INFO]: GroupManager - INFO - Bukkit Permissions Updated!
+connect_to 127.0.0.1 port 25565: failed.
+connect_to 127.0.0.1 port 25565: failed.
+connect_to 127.0.0.1 port 25565: failed.
+connect_to 127.0.0.1 port 25565: failed.
+Connection to kevinkellar.com closed by remote host.
+connect_to 127.0.0.1 port 25565: failed.
+connect_to 127.0.0.1 port 25565: failed.
+connect_to 127.0.0.1 port 25565: failed.
+connect_to 127.0.0.1 port 25565: failed.
+connect_to 127.0.0.1 port 25565: failed.
+connect_to 127.0.0.1 port 25565: failed.
+connect_to 127.0.0.1 port 25565: failed.
+connect_to 127.0.0.1 port 25565: failed.
+connect_to 127.0.0.1 port 25565: failed.
+connect_to 127.0.0.1 port 25565: failed.
+connect_to 127.0.0.1 port 25565: failed.
+Connection to kevinkellar.com closed by remote host.
+ssh: connect to host kevinkellar.com port 22: Connection refused
+Connection to kevinkellar.com closed by remote host.
+ssh: connect to host kevinkellar.com port 22: Connection refused
+connect_to 127.0.0.1 port 25565: failed.
+connect_to 127.0.0.1 port 25565: failed.
+connect_to 127.0.0.1 port 25565: failed.
+connect_to 127.0.0.1 port 25565: failed.
+connect_to 127.0.0.1 port 25565: failed.
+connect_to 127.0.0.1 port 25565: failed.
+connect_to 127.0.0.1 port 25565: failed.
+connect_to 127.0.0.1 port 25565: failed.
+connect_to 127.0.0.1 port 25565: failed.
+Connection to kevinkellar.com closed by remote host.
+connect_to 127.0.0.1 port 25565: failed.
+connect_to 127.0.0.1 port 25565: failed.
+connect_to 127.0.0.1 port 25565: failed.
+connect_to 127.0.0.1 port 25565: failed.
+connect_to 127.0.0.1 port 25565: failed.
+connect_to 127.0.0.1 port 25565: failed.
+connect_to 127.0.0.1 port 25565: failed.
+connect_to 127.0.0.1 port 25565: failed.
+connect_to 127.0.0.1 port 25565: failed.
+connect_to 127.0.0.1 port 25565: failed.
+connect_to 127.0.0.1 port 25565: failed.
+connect_to 127.0.0.1 port 25565: failed.
+connect_to 127.0.0.1 port 25565: failed.
+connect_to 127.0.0.1 port 25565: failed.
+connect_to 127.0.0.1 port 25565: failed.
+connect_to 127.0.0.1 port 25565: failed.
+connect_to 127.0.0.1 port 25565: failed.
+connect_to 127.0.0.1 port 25565: failed.
+connect_to 127.0.0.1 port 25565: failed.
+connect_to 127.0.0.1 port 25565: failed.
+connect_to 127.0.0.1 port 25565: failed.
+connect_to 127.0.0.1 port 25565: failed.
+connect_to 127.0.0.1 port 25565: failed.
+connect_to 127.0.0.1 port 25565: failed.
+connect_to 127.0.0.1 port 25565: failed.
+connect_to 127.0.0.1 port 25565: failed.
+connect_to 127.0.0.1 port 25565: failed.
+connect_to 127.0.0.1 port 25565: failed.
+connect_to 127.0.0.1 port 25565: failed.
+connect_to 127.0.0.1 port 25565: failed.
+connect_to 127.0.0.1 port 25565: failed.
+connect_to 127.0.0.1 port 25565: failed.
+connect_to 127.0.0.1 port 25565: failed.
+connect_to 127.0.0.1 port 25565: failed.
+connect_to 127.0.0.1 port 25565: failed.
+connect_to 127.0.0.1 port 25565: failed.
+connect_to 127.0.0.1 port 25565: failed.
+connect_to 127.0.0.1 port 25565: failed.
+connect_to 127.0.0.1 port 25565: failed.
+connect_to 127.0.0.1 port 25565: failed.
+connect_to 127.0.0.1 port 25565: failed.
+connect_to 127.0.0.1 port 25565: failed.
+connect_to 127.0.0.1 port 25565: failed.
+connect_to 127.0.0.1 port 25565: failed.
+Loading libraries, please wait...
+WARNING: An illegal reflective access operation has occurred
+WARNING: Illegal reflective access by net.minecraft.util.io.netty.util.internal.PlatformDependent0 (file:/home/mc/mc/yold-bukkit/craftbukkit.jar) to field java.nio.DirectByteBuffer.cleaner
+WARNING: Please consider reporting this to the maintainers of net.minecraft.util.io.netty.util.internal.PlatformDependent0
+WARNING: Use --illegal-access=warn to enable warnings of further illegal reflective access operations
+WARNING: All illegal access operations will be denied in a future release
+Sep 22, 2019 2:30:51 AM net.minecraft.util.io.netty.util.internal.PlatformDependent <clinit>
+INFO: Your platform does not provide complete low-level API for accessing direct buffers reliably. Unless explicitly requested, heap buffer will always be preferred to avoid potential system unstability.
+[02:30:51 INFO]: Starting minecraft server version 1.7.9
+[02:30:51 INFO]: Loading properties
+[02:30:51 ERROR]: Exception handling console input
+java.io.IOException: Bad file descriptor
+	at java.base/java.io.FileInputStream.readBytes(Native Method) ~[?:?]
+	at java.base/java.io.FileInputStream.read(FileInputStream.java:279) ~[?:?]
+	at java.base/java.io.BufferedInputStream.fill(BufferedInputStream.java:252) ~[?:?]
+	at java.base/java.io.BufferedInputStream.read(BufferedInputStream.java:271) ~[?:?]
+	at java.base/java.io.FilterInputStream.read(FilterInputStream.java:83) ~[?:?]
+	at org.bukkit.craftbukkit.libs.jline.console.ConsoleReader$1.read(ConsoleReader.java:167) ~[craftbukkit.jar:git-Bukkit-1.7.9-R0.1-10-g8688bd4-b3092jnks]
+	at org.bukkit.craftbukkit.libs.jline.internal.InputStreamReader.read(InputStreamReader.java:267) ~[craftbukkit.jar:git-Bukkit-1.7.9-R0.1-10-g8688bd4-b3092jnks]
+	at org.bukkit.craftbukkit.libs.jline.internal.InputStreamReader.read(InputStreamReader.java:204) ~[craftbukkit.jar:git-Bukkit-1.7.9-R0.1-10-g8688bd4-b3092jnks]
+	at org.bukkit.craftbukkit.libs.jline.console.ConsoleReader.readCharacter(ConsoleReader.java:995) ~[craftbukkit.jar:git-Bukkit-1.7.9-R0.1-10-g8688bd4-b3092jnks]
+	at org.bukkit.craftbukkit.libs.jline.console.ConsoleReader.readLineSimple(ConsoleReader.java:1506) ~[craftbukkit.jar:git-Bukkit-1.7.9-R0.1-10-g8688bd4-b3092jnks]
+	at org.bukkit.craftbukkit.libs.jline.console.ConsoleReader.readLine(ConsoleReader.java:1153) ~[craftbukkit.jar:git-Bukkit-1.7.9-R0.1-10-g8688bd4-b3092jnks]
+	at org.bukkit.craftbukkit.libs.jline.console.ConsoleReader.readLine(ConsoleReader.java:1117) ~[craftbukkit.jar:git-Bukkit-1.7.9-R0.1-10-g8688bd4-b3092jnks]
+	at org.bukkit.craftbukkit.libs.jline.console.ConsoleReader.readLine(ConsoleReader.java:1105) ~[craftbukkit.jar:git-Bukkit-1.7.9-R0.1-10-g8688bd4-b3092jnks]
+	at net.minecraft.server.v1_7_R3.ThreadCommandReader.run(ThreadCommandReader.java:34) [craftbukkit.jar:git-Bukkit-1.7.9-R0.1-10-g8688bd4-b3092jnks]
+[02:30:51 INFO]: Default game type: CREATIVE
+[02:30:51 INFO]: Generating keypair
+[02:30:51 INFO]: Starting Minecraft server on *:25567
+[02:30:51 WARN]: **** FAILED TO BIND TO PORT!
+[02:30:51 WARN]: The exception was: java.net.BindException: Address already in use
+[02:30:51 WARN]: Perhaps a server is already running on that port?
+connect_to 127.0.0.1 port 25565: failed.
+connect_to 127.0.0.1 port 25565: failed.
+connect_to 127.0.0.1 port 25565: failed.
+connect_to 127.0.0.1 port 25565: failed.
+connect_to 127.0.0.1 port 25565: failed.
+connect_to 127.0.0.1 port 25565: failed.
+connect_to 127.0.0.1 port 25565: failed.
+connect_to 127.0.0.1 port 25565: failed.
+connect_to 127.0.0.1 port 25565: failed.
+connect_to 127.0.0.1 port 25565: failed.
+connect_to 127.0.0.1 port 25565: failed.
+connect_to 127.0.0.1 port 25565: failed.
+connect_to 127.0.0.1 port 25565: failed.
+connect_to 127.0.0.1 port 25565: failed.
+connect_to 127.0.0.1 port 25565: failed.
+connect_to 127.0.0.1 port 25565: failed.
+connect_to 127.0.0.1 port 25565: failed.
+Loading libraries, please wait...
+WARNING: An illegal reflective access operation has occurred
+WARNING: Illegal reflective access by net.minecraft.util.io.netty.util.internal.PlatformDependent0 (file:/home/mc/mc/yold-bukkit/craftbukkit.jar) to field java.nio.DirectByteBuffer.cleaner
+WARNING: Please consider reporting this to the maintainers of net.minecraft.util.io.netty.util.internal.PlatformDependent0
+WARNING: Use --illegal-access=warn to enable warnings of further illegal reflective access operations
+WARNING: All illegal access operations will be denied in a future release
+Sep 22, 2019 2:56:17 AM net.minecraft.util.io.netty.util.internal.PlatformDependent <clinit>
+INFO: Your platform does not provide complete low-level API for accessing direct buffers reliably. Unless explicitly requested, heap buffer will always be preferred to avoid potential system unstability.
+[02:56:17 INFO]: Starting minecraft server version 1.7.9
+[02:56:17 INFO]: Loading properties
+[02:56:17 ERROR]: Exception handling console input
+java.io.IOException: Bad file descriptor
+	at java.base/java.io.FileInputStream.readBytes(Native Method) ~[?:?]
+	at java.base/java.io.FileInputStream.read(FileInputStream.java:279) ~[?:?]
+	at java.base/java.io.BufferedInputStream.fill(BufferedInputStream.java:252) ~[?:?]
+	at java.base/java.io.BufferedInputStream.read(BufferedInputStream.java:271) ~[?:?]
+	at java.base/java.io.FilterInputStream.read(FilterInputStream.java:83) ~[?:?]
+	at org.bukkit.craftbukkit.libs.jline.console.ConsoleReader$1.read(ConsoleReader.java:167) ~[craftbukkit.jar:git-Bukkit-1.7.9-R0.1-10-g8688bd4-b3092jnks]
+	at org.bukkit.craftbukkit.libs.jline.internal.InputStreamReader.read(InputStreamReader.java:267) ~[craftbukkit.jar:git-Bukkit-1.7.9-R0.1-10-g8688bd4-b3092jnks]
+	at org.bukkit.craftbukkit.libs.jline.internal.InputStreamReader.read(InputStreamReader.java:204) ~[craftbukkit.jar:git-Bukkit-1.7.9-R0.1-10-g8688bd4-b3092jnks]
+	at org.bukkit.craftbukkit.libs.jline.console.ConsoleReader.readCharacter(ConsoleReader.java:995) ~[craftbukkit.jar:git-Bukkit-1.7.9-R0.1-10-g8688bd4-b3092jnks]
+	at org.bukkit.craftbukkit.libs.jline.console.ConsoleReader.readLineSimple(ConsoleReader.java:1506) ~[craftbukkit.jar:git-Bukkit-1.7.9-R0.1-10-g8688bd4-b3092jnks]
+	at org.bukkit.craftbukkit.libs.jline.console.ConsoleReader.readLine(ConsoleReader.java:1153) ~[craftbukkit.jar:git-Bukkit-1.7.9-R0.1-10-g8688bd4-b3092jnks]
+	at org.bukkit.craftbukkit.libs.jline.console.ConsoleReader.readLine(ConsoleReader.java:1117) ~[craftbukkit.jar:git-Bukkit-1.7.9-R0.1-10-g8688bd4-b3092jnks]
+	at org.bukkit.craftbukkit.libs.jline.console.ConsoleReader.readLine(ConsoleReader.java:1105) ~[craftbukkit.jar:git-Bukkit-1.7.9-R0.1-10-g8688bd4-b3092jnks]
+	at net.minecraft.server.v1_7_R3.ThreadCommandReader.run(ThreadCommandReader.java:34) [craftbukkit.jar:git-Bukkit-1.7.9-R0.1-10-g8688bd4-b3092jnks]
+[02:56:17 INFO]: Default game type: CREATIVE
+[02:56:17 INFO]: Generating keypair
+[02:56:17 INFO]: Starting Minecraft server on *:25567
+[02:56:17 WARN]: **** FAILED TO BIND TO PORT!
+[02:56:17 WARN]: The exception was: java.net.BindException: Address already in use
+[02:56:17 WARN]: Perhaps a server is already running on that port?
+connect_to 127.0.0.1 port 25565: failed.
+connect_to 127.0.0.1 port 25565: failed.
+connect_to 127.0.0.1 port 25565: failed.
+connect_to 127.0.0.1 port 25565: failed.
+connect_to 127.0.0.1 port 25565: failed.
+connect_to 127.0.0.1 port 25565: failed.
+connect_to 127.0.0.1 port 25565: failed.
+connect_to 127.0.0.1 port 25565: failed.
+connect_to 127.0.0.1 port 25565: failed.
+connect_to 127.0.0.1 port 25565: failed.
+connect_to 127.0.0.1 port 25565: failed.
+connect_to 127.0.0.1 port 25565: failed.
+connect_to 127.0.0.1 port 25565: failed.
+connect_to 127.0.0.1 port 25565: failed.
+connect_to 127.0.0.1 port 25565: failed.
+connect_to 127.0.0.1 port 25565: failed.
+connect_to 127.0.0.1 port 25565: failed.
+connect_to 127.0.0.1 port 25565: failed.
+connect_to 127.0.0.1 port 25565: failed.
+connect_to 127.0.0.1 port 25565: failed.
+connect_to 127.0.0.1 port 25565: failed.
+connect_to 127.0.0.1 port 25565: failed.
+connect_to 127.0.0.1 port 25565: failed.
+[02:33:20 INFO]: Stopping server
+2019-09-23 02:33:20,384 ERROR Attempted to append to non-started appender TerminalConsole

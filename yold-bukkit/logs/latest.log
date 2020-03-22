@@ -1,8 +1,0 @@
-[00:08:28] [Server thread/INFO]: s_mitty issued server command: /time set day
-[00:08:38] [Server thread/INFO]: s_mitty lost connection: Disconnected
-[00:08:38] [Server thread/INFO]: s_mitty left the game.
-[01:35:36] [Server thread/INFO]: s_mitty[/127.0.0.1:49758] logged in with entity id 1175933 at ([kevlar] 53.64536099331744, 75.904149094818, 712.6885070943109)
-[01:35:42] [Server thread/INFO]: s_mitty issued server command: /weather clear
-[01:49:36] [Server thread/INFO]: s_mitty lost connection: Disconnected
-[01:49:36] [Server thread/INFO]: s_mitty left the game.
-[21:39:53] [Thread-3/INFO]: Stopping server
