@@ -1,0 +1,986 @@
+[03:46:19] [Server thread/INFO]: korvallis[/127.0.0.1:55362] logged in with entity id 2954 at ([kevlar] 134.49068834393216, 101.99624127772402, 608.7772235874986)
+[03:48:07] [Server thread/INFO]: [WorldEdit] Using external NmsBlock for this version: CBXNmsBlock_175_5xcompat
+[03:52:56] [Server thread/INFO]: korvallis issued server command: /set stone
+[03:52:56] [Server thread/INFO]: WorldEdit: korvallis (in "kevlar"): /set stone - Region: (-7.0, 68.0, 530.0) - (2.0, 68.0, 539.0)
+[03:53:09] [Server thread/INFO]: korvallis issued server command: /set stone
+[03:53:09] [Server thread/INFO]: WorldEdit: korvallis (in "kevlar"): /set stone - Region: (4.0, 64.0, 529.0) - (4.0, 67.0, 540.0)
+[03:54:59] [Server thread/INFO]: korvallis issued server command: /set bookshelf
+[03:54:59] [Server thread/INFO]: WorldEdit: korvallis (in "kevlar"): /set bookshelf - Region: (-42.0, 1.0, 507.0) - (-42.0, 67.0, 523.0)
+[03:56:17] [Server thread/INFO]: korvallis issued server command: /set stonebricks
+[03:56:17] [Server thread/INFO]: WorldEdit: korvallis (in "kevlar"): /set stonebricks - Region: (-42.0, 61.0, 507.0) - (-42.0, 63.0, 523.0)
+[03:56:24] [Server thread/INFO]: korvallis issued server command: /set stonebrick
+[03:56:24] [Server thread/INFO]: WorldEdit: korvallis (in "kevlar"): /set stonebrick - Region: (-42.0, 61.0, 507.0) - (-42.0, 63.0, 523.0)
+[03:56:51] [Server thread/INFO]: korvallis issued server command: /set bookshelf
+[03:56:51] [Server thread/INFO]: WorldEdit: korvallis (in "kevlar"): /set bookshelf - Region: (-42.0, 61.0, 507.0) - (-42.0, 61.0, 523.0)
+[03:59:26] [Server thread/INFO]: korvallis issued server command: /set stonebrick
+[03:59:26] [Server thread/INFO]: WorldEdit: korvallis (in "kevlar"): /set stonebrick - Region: (-42.0, 56.0, 507.0) - (-42.0, 57.0, 523.0)
+[04:06:59] [Server thread/INFO]: korvallis issued server command: /copy
+[04:06:59] [Server thread/INFO]: WorldEdit: korvallis (in "kevlar"): /copy
+[04:08:09] [Server thread/INFO]: korvallis issued server command: /paste
+[04:08:09] [Server thread/INFO]: WorldEdit: korvallis (in "kevlar"): /paste - Position: (-48.0, 56.0, 523.0)
+[04:08:20] [Server thread/INFO]: korvallis issued server command: /undo
+[04:08:20] [Server thread/INFO]: WorldEdit: korvallis (in "kevlar"): /undo
+[04:08:29] [Server thread/INFO]: korvallis issued server command: /paste
+[04:08:29] [Server thread/INFO]: WorldEdit: korvallis (in "kevlar"): /paste - Position: (-48.0, 58.0, 523.0)
+[04:09:13] [Server thread/INFO]: korvallis issued server command: /paste
+[04:09:13] [Server thread/INFO]: WorldEdit: korvallis (in "kevlar"): /paste - Position: (-48.0, 52.0, 523.0)
+[04:09:27] [Server thread/INFO]: korvallis issued server command: /paste
+[04:09:27] [Server thread/INFO]: WorldEdit: korvallis (in "kevlar"): /paste - Position: (-48.0, 46.0, 523.0)
+[04:09:39] [Server thread/INFO]: korvallis issued server command: /paste
+[04:09:39] [Server thread/INFO]: WorldEdit: korvallis (in "kevlar"): /paste - Position: (-48.0, 40.0, 523.0)
+[04:09:53] [Server thread/INFO]: korvallis issued server command: /paste
+[04:09:53] [Server thread/INFO]: WorldEdit: korvallis (in "kevlar"): /paste - Position: (-48.0, 34.0, 523.0)
+[04:10:04] [Server thread/INFO]: korvallis issued server command: /paste
+[04:10:04] [Server thread/INFO]: WorldEdit: korvallis (in "kevlar"): /paste - Position: (-48.0, 28.0, 523.0)
+[04:10:18] [Server thread/INFO]: korvallis issued server command: /paste
+[04:10:18] [Server thread/INFO]: WorldEdit: korvallis (in "kevlar"): /paste - Position: (-48.0, 22.0, 523.0)
+[04:10:34] [Server thread/INFO]: korvallis issued server command: /paste
+[04:10:34] [Server thread/INFO]: WorldEdit: korvallis (in "kevlar"): /paste - Position: (-48.0, 16.0, 523.0)
+[04:11:29] [Server thread/INFO]: korvallis issued server command: /set 0
+[04:11:29] [Server thread/INFO]: WorldEdit: korvallis (in "kevlar"): /set 0 - Region: (-48.0, 15.0, 523.0) - (-44.0, 61.0, 524.0)
+[04:14:58] [Server thread/INFO]: korvallis issued server command: /copy
+[04:14:58] [Server thread/INFO]: WorldEdit: korvallis (in "kevlar"): /copy
+[04:15:28] [Server thread/INFO]: korvallis issued server command: /paste
+[04:15:28] [Server thread/INFO]: WorldEdit: korvallis (in "kevlar"): /paste - Position: (-37.0, 64.0, 524.0)
+[04:15:55] [Server thread/INFO]: korvallis issued server command: /paste
+[04:15:55] [Server thread/INFO]: WorldEdit: korvallis (in "kevlar"): /paste - Position: (-26.0, 64.0, 524.0)
+[04:18:03] [Server thread/INFO]: korvallis issued server command: /set 0
+[04:18:03] [Server thread/INFO]: WorldEdit: korvallis (in "kevlar"): /set 0 - Region: (-54.0, 0.0, 507.0) - (-10.0, 0.0, 561.0)
+[04:18:50] [Server thread/INFO]: korvallis fell out of the world
+[04:21:24] [Server thread/INFO]: CommandBlock at -70,67,309 issued server command: /warp dropper2 korvallis [r=8]
+[04:22:14] [Server thread/INFO]: @: Set korvallis's spawnpoint to -60.20425761680474, 250.0, 315.8004648672794
+[04:22:15] [Server thread/INFO]: CommandBlock at -58,250,312 issued server command: /gamemode s korvallis
+[04:22:21] [Server thread/INFO]: korvallis fell from a high place
+[04:22:27] [Server thread/INFO]: korvallis fell from a high place
+[04:22:58] [Server thread/INFO]: korvallis fell from a high place
+[04:23:04] [Server thread/INFO]: korvallis fell from a high place
+[04:23:10] [Server thread/INFO]: @: Set korvallis's spawnpoint to -59.30000001192093, 250.0, 317.4704705943969
+[04:23:14] [Server thread/INFO]: korvallis fell from a high place
+[04:23:19] [Server thread/INFO]: @: Set korvallis's spawnpoint to -60.37627583613595, 250.0, 314.6163137444481
+[04:23:22] [Server thread/INFO]: korvallis fell from a high place
+[04:23:29] [Server thread/INFO]: korvallis fell from a high place
+[04:23:36] [Server thread/INFO]: korvallis fell from a high place
+[04:23:50] [Server thread/INFO]: korvallis fell from a high place
+[04:23:55] [Server thread/INFO]: korvallis fell from a high place
+[04:24:02] [Server thread/INFO]: korvallis fell from a high place
+[04:24:08] [Server thread/INFO]: korvallis fell from a high place
+[04:24:14] [Server thread/INFO]: korvallis fell from a high place
+[04:24:20] [Server thread/INFO]: korvallis fell from a high place
+[04:24:26] [Server thread/INFO]: korvallis fell from a high place
+[04:24:32] [Server thread/INFO]: korvallis fell from a high place
+[04:24:38] [Server thread/INFO]: korvallis fell from a high place
+[04:24:43] [Server thread/INFO]: korvallis fell from a high place
+[04:24:50] [Server thread/INFO]: korvallis fell from a high place
+[04:24:55] [Server thread/INFO]: korvallis fell from a high place
+[04:25:00] [Server thread/INFO]: korvallis fell from a high place
+[04:25:05] [Server thread/INFO]: korvallis fell from a high place
+[04:25:10] [Server thread/INFO]: korvallis fell from a high place
+[04:25:17] [Server thread/INFO]: korvallis fell from a high place
+[04:25:23] [Server thread/INFO]: korvallis fell from a high place
+[04:25:29] [Server thread/INFO]: korvallis fell from a high place
+[04:25:34] [Server thread/INFO]: korvallis fell from a high place
+[04:25:40] [Server thread/INFO]: korvallis fell from a high place
+[04:25:46] [Server thread/INFO]: korvallis fell from a high place
+[04:25:52] [Server thread/INFO]: korvallis fell from a high place
+[04:25:57] [Server thread/INFO]: korvallis fell from a high place
+[04:26:03] [Server thread/INFO]: korvallis fell from a high place
+[04:26:09] [Server thread/INFO]: korvallis fell from a high place
+[04:26:15] [Server thread/INFO]: korvallis fell from a high place
+[04:26:21] [Server thread/INFO]: korvallis fell from a high place
+[04:26:28] [Server thread/INFO]: korvallis fell from a high place
+[04:26:34] [Server thread/INFO]: korvallis fell from a high place
+[04:26:40] [Server thread/INFO]: korvallis fell from a high place
+[04:26:46] [Server thread/INFO]: korvallis fell from a high place
+[04:26:51] [Server thread/INFO]: korvallis fell from a high place
+[04:26:57] [Server thread/INFO]: korvallis fell from a high place
+[04:27:02] [Server thread/INFO]: korvallis fell from a high place
+[04:27:07] [Server thread/INFO]: korvallis fell from a high place
+[04:27:13] [Server thread/INFO]: korvallis fell from a high place
+[04:27:19] [Server thread/INFO]: korvallis fell from a high place
+[04:27:24] [Server thread/INFO]: korvallis fell from a high place
+[04:28:14] [Server thread/INFO]: korvallis fell from a high place
+[04:28:20] [Server thread/INFO]: korvallis fell from a high place
+[04:28:26] [Server thread/INFO]: korvallis fell from a high place
+[04:28:31] [Server thread/INFO]: korvallis fell from a high place
+[04:28:37] [Server thread/INFO]: korvallis fell from a high place
+[04:28:44] [Server thread/INFO]: korvallis issued server command: /gamemode c
+[04:29:35] [Server thread/INFO]: korvallis issued server command: /gamemode s
+[04:29:38] [Server thread/INFO]: korvallis fell from a high place
+[04:29:43] [Server thread/INFO]: korvallis fell from a high place
+[04:29:50] [Server thread/INFO]: korvallis fell from a high place
+[04:29:55] [Server thread/INFO]: korvallis fell from a high place
+[04:30:03] [Server thread/INFO]: korvallis fell from a high place
+[04:30:10] [Server thread/INFO]: korvallis fell from a high place
+[04:30:15] [Server thread/INFO]: korvallis fell from a high place
+[04:30:21] [Server thread/INFO]: korvallis fell from a high place
+[04:30:27] [Server thread/INFO]: korvallis fell from a high place
+[04:30:33] [Server thread/INFO]: korvallis fell from a high place
+[04:30:40] [Server thread/INFO]: korvallis fell from a high place
+[04:30:47] [Server thread/INFO]: korvallis fell from a high place
+[04:30:52] [Server thread/INFO]: korvallis fell from a high place
+[04:30:58] [Server thread/INFO]: korvallis fell from a high place
+[04:31:05] [Server thread/INFO]: korvallis fell from a high place
+[04:31:13] [Server thread/INFO]: korvallis fell from a high place
+[04:31:19] [Server thread/INFO]: korvallis fell from a high place
+[04:31:25] [Server thread/INFO]: korvallis fell from a high place
+[04:31:32] [Server thread/INFO]: korvallis fell from a high place
+[04:31:40] [Server thread/INFO]: korvallis fell from a high place
+[04:31:45] [Server thread/INFO]: korvallis fell from a high place
+[04:31:52] [Server thread/INFO]: korvallis fell from a high place
+[04:31:57] [Server thread/INFO]: korvallis fell from a high place
+[04:32:04] [Server thread/INFO]: korvallis fell from a high place
+[04:32:12] [Server thread/INFO]: korvallis fell from a high place
+[04:32:45] [Server thread/INFO]: korvallis issued server command: /gamemode c
+[04:33:19] [Server thread/INFO]: CommandBlock at -68,65,322 issued server command: /warp dropper korvallis
+[04:33:21] [Server thread/INFO]: @: Set korvallis's spawnpoint to -72.00303274601251, 250.0, 324.80996067776954
+[04:33:23] [Server thread/INFO]: CommandBlock at -71,251,327 issued server command: /gamemode survival korvallis
+[04:33:30] [Server thread/INFO]: korvallis fell from a high place
+[04:33:37] [Server thread/INFO]: korvallis fell from a high place
+[04:33:45] [Server thread/INFO]: korvallis fell from a high place
+[04:33:53] [Server thread/INFO]: korvallis fell from a high place
+[04:33:57] [Server thread/INFO]: CommandBlock at -73,251,320 issued server command: /warp park korvallis
+[04:34:03] [Server thread/INFO]: korvallis issued server command: /gamemode c
+[04:36:09] [Server thread/INFO]: korvallis issued server command: /set 0
+[04:36:09] [Server thread/INFO]: WorldEdit: korvallis (in "kevlar"): /set 0 - Region: (-130.0, 70.0, 688.0) - (-123.0, 80.0, 695.0)
+[04:44:02] [Server thread/INFO]: korvallis issued server command: /warp citycenter
+[04:54:45] [Server thread/INFO]: korvallis issued server command: /restore
+[04:54:45] [Server thread/INFO]: WorldEdit: korvallis (in "kevlar"): restore - Region: (-480.0, 62.0, 711.0) - (-382.0, 138.0, 782.0)
+[04:54:57] [Server thread/INFO]: korvallis issued server command: /restore
+[04:54:57] [Server thread/INFO]: WorldEdit: korvallis (in "kevlar"): restore - Region: (-480.0, 62.0, 711.0) - (-382.0, 138.0, 782.0)
+[04:55:06] [Server thread/INFO]: korvallis issued server command: /reload
+[04:55:06] [Server thread/INFO]: [EssentialsProtect] Disabling EssentialsProtect v2.13.1
+[04:55:06] [Server thread/INFO]: [EssentialsChat] Disabling EssentialsChat v2.13.1
+[04:55:06] [Server thread/INFO]: [GroupManager] Disabling GroupManager v2.1.11 (Phoenix)
+[04:55:06] [Server thread/INFO]: WEPIF: GroupManager detected! Using GroupManager for permissions.
+[04:55:06] [Server thread/INFO]: GroupManager - INFO - Scheduled Data Saving is disabled!
+[04:55:06] [Server thread/INFO]: GroupManager version 2.1.11 (Phoenix) is disabled!
+[04:55:06] [Server thread/INFO]: [Speedcarts] Disabling Speedcarts v1.3.5
+[04:55:06] [Server thread/INFO]: Essentials: Using config file enhanced permissions.
+[04:55:06] [Server thread/INFO]: Permissions listed in as player-commands will be given to all users.
+[04:55:06] [Server thread/INFO]: [Speedcarts] Goodbye Speedcarts!
+[04:55:06] [Server thread/INFO]: [Essentials] Disabling Essentials v2.13.1
+[04:55:06] [Server thread/INFO]: [AntiCreeper] Disabling AntiCreeper v4.18.1
+[04:55:06] [Server thread/INFO]: [RunAs] Disabling RunAs v1.0.1
+[04:55:06] [Server thread/INFO]: [SignEdit] Disabling SignEdit v3.3.9
+[04:55:06] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v5.6.2
+[04:55:06] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v5.6.2
+[04:55:06] [Server thread/INFO]: [SignEdit] Loading SignEdit v3.3.9
+[04:55:06] [Server thread/INFO]: [RunAs] Loading RunAs v1.0.1
+[04:55:06] [Server thread/INFO]: [AntiCreeper] Loading AntiCreeper v4.18.1
+[04:55:06] [Server thread/INFO]: [Essentials] Loading Essentials v2.13.1
+[04:55:06] [Server thread/INFO]: [Speedcarts] Loading Speedcarts v1.3.5
+[04:55:06] [Server thread/INFO]: [GroupManager] Loading GroupManager v2.1.11 (Phoenix)
+[04:55:06] [Server thread/INFO]: [EssentialsChat] Loading EssentialsChat v2.13.1
+[04:55:06] [Server thread/INFO]: [EssentialsProtect] Loading EssentialsProtect v2.13.1
+[04:55:06] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v5.6.2
+[04:55:06] [Server thread/INFO]: WEPIF: Using the Bukkit Permissions API.
+[04:55:06] [Server thread/INFO]: [SignEdit] Enabling SignEdit v3.3.9
+[04:55:06] [Server thread/INFO]: [RunAs] Enabling RunAs v1.0.1
+[04:55:06] [Server thread/INFO]: [AntiCreeper] Enabling AntiCreeper v4.18.1
+[04:55:06] [Server thread/INFO]: [AntiCreeper] brought to you by Filbert66
+[04:55:06] [Server thread/INFO]: [Essentials] Enabling Essentials v2.13.1
+[04:55:06] [Server thread/INFO]: Essentials: Using config file enhanced permissions.
+[04:55:06] [Server thread/INFO]: Permissions listed in as player-commands will be given to all users.
+[04:55:06] [Server thread/INFO]: [Speedcarts] Enabling Speedcarts v1.3.5
+[04:55:06] [Server thread/INFO]: [Speedcarts] Checking for updates...
+[04:55:06] [Server thread/WARN]: [Speedcarts] [33mSpeedcarts could not check for updates [java.net.UnknownHostException: version.znt.se].[m
+[04:55:06] [Server thread/INFO]: [Speedcarts] Speedcarts enabled!
+[04:55:06] [Server thread/INFO]: [GroupManager] Enabling GroupManager v2.1.11 (Phoenix)
+[04:55:06] [Server thread/INFO]: GroupManager - INFO - World Found: kevlar
+[04:55:06] [Server thread/INFO]: GroupManager - INFO - World Found: world
+[04:55:06] [Server thread/INFO]: GroupManager - INFO - Superperms support enabled.
+[04:55:06] [Server thread/INFO]: GroupManager - INFO - Scheduled Data Saving is set for every 10 minutes!
+[04:55:06] [Server thread/INFO]: GroupManager - INFO - Backups will be retained for 24 hours!
+[04:55:06] [Server thread/INFO]: GroupManager version 2.1.11 (Phoenix) is enabled!
+[04:55:06] [Server thread/INFO]: WEPIF: GroupManager detected! Using GroupManager for permissions.
+[04:55:06] [Server thread/INFO]: Essentials: Using GroupManager based permissions.
+[04:55:06] [Server thread/INFO]: [EssentialsChat] Enabling EssentialsChat v2.13.1
+[04:55:06] [Server thread/INFO]: [EssentialsProtect] Enabling EssentialsProtect v2.13.1
+[04:55:06] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[04:55:07] [Server thread/INFO]: korvallis: Reload complete.
+[04:55:07] [Server thread/INFO]: GroupManager - INFO - Bukkit Permissions Updated!
+[04:55:14] [Server thread/INFO]: korvallis issued server command: /regen
+[04:55:14] [Server thread/INFO]: [WorldEdit] Using external NmsBlock for this version: CBXNmsBlock_175_5xcompat
+[04:55:14] [Server thread/INFO]: WorldEdit: korvallis (in "kevlar"): /regen
+[04:55:34] [Server thread/INFO]: korvallis issued server command: /regen
+[04:55:34] [Server thread/INFO]: WorldEdit: korvallis (in "kevlar"): /regen - Region: (-476.0, 62.0, 720.0) - (-382.0, 139.0, 782.0)
+[04:55:38] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4141ms behind, skipping 82 tick(s)
+[04:59:14] [Server thread/INFO]: korvallis issued server command: /timeset day
+[04:59:59] [Server thread/INFO]: korvallis lost connection: Disconnected
+[04:59:59] [Server thread/INFO]: korvallis left the game.
+[05:00:02] [Server thread/INFO]: korvallis[/127.0.0.1:56274] logged in with entity id 296524 at ([kevlar] -129.6661139857536, 115.23425174361967, 479.9086430958228)
+[05:00:43] [Server thread/INFO]: korvallis lost connection: Disconnected
+[05:00:43] [Server thread/INFO]: korvallis left the game.
+[05:04:06] [Server thread/INFO]: Kevlar[/192.168.0.100:51344] logged in with entity id 298368 at ([kevlar] 107.69999998807907, 37.0, 650.5038703892586)
+[05:04:08] [Server thread/INFO]: Kevlar lost connection: Disconnected
+[05:04:08] [Server thread/INFO]: Kevlar left the game.
+[05:04:28] [Server thread/INFO]: korvallis[/127.0.0.1:56350] logged in with entity id 299067 at ([kevlar] -55.67261673412558, 64.66236787296837, 520.269265372965)
+[05:04:34] [Server thread/INFO]: MASHTHEKEYBOARD[/192.168.0.134:55351] logged in with entity id 299489 at ([kevlar] 49.0266531181618, 115.0, 1217.9646233767714)
+[05:04:35] [Server thread/INFO]: MASHTHEKEYBOARD lost connection: Internal Exception: java.io.IOException: Connection reset by peer
+[05:04:35] [Server thread/INFO]: MASHTHEKEYBOARD left the game.
+[05:04:37] [Server thread/INFO]: Kevlar[/192.168.0.100:51349] logged in with entity id 299900 at ([kevlar] 107.69999998807907, 37.0, 650.5038703892586)
+[05:04:47] [Server thread/INFO]: Kevlar issued server command: /weather clear
+[05:04:49] [Server thread/INFO]: MASHTHEKEYBOARD[/192.168.0.134:55404] logged in with entity id 300017 at ([kevlar] 49.0266531181618, 115.0, 1217.9646233767714)
+[05:04:50] [Server thread/INFO]: MASHTHEKEYBOARD lost connection: Internal Exception: java.io.IOException: Connection reset by peer
+[05:04:50] [Server thread/INFO]: MASHTHEKEYBOARD left the game.
+[05:04:55] [Netty IO #4/INFO]: <Kevlar> oh hi
+[05:05:06] [Netty IO #2/INFO]: <korvallis> hello
+[05:05:14] [Netty IO #2/INFO]: <korvallis> so much has been added
+[05:05:21] [Netty IO #2/INFO]: <korvallis> metro needs updating?
+[05:07:22] [Server thread/INFO]: Kevlar lost connection: Internal Exception: java.io.IOException: Connection reset by peer
+[05:07:22] [Server thread/INFO]: Kevlar left the game.
+[05:07:32] [Netty IO #2/INFO]: <korvallis> :(
+[05:08:09] [Server thread/INFO]: Kevlar[/192.168.0.100:51485] logged in with entity id 303030 at ([kevlar] 112.43811483576822, 38.0, 656.3064537088517)
+[05:08:12] [Server thread/INFO]: Kevlar lost connection: Disconnected
+[05:08:12] [Server thread/INFO]: Kevlar left the game.
+[05:08:46] [Server thread/INFO]: Kevlar[/192.168.0.100:51487] logged in with entity id 303574 at ([kevlar] 112.43811483576822, 38.0, 656.3064537088517)
+[05:08:59] [Server thread/INFO]: Kevlar issued server command: /warp citycenter
+[05:09:04] [Server thread/INFO]: Kevlar issued server command: /time set day
+[05:09:49] [Server thread/INFO]: Kevlar issued server command: /j
+[05:09:49] [Server thread/INFO]: WorldEdit: Kevlar (in "kevlar"): jumpto
+[05:11:34] [Server thread/INFO]: korvallis issued server command: /tp kevlar
+[05:12:59] [Server thread/INFO]: MickeyAndPluto[/192.168.0.197:65480] logged in with entity id 317685 at ([kevlar] -201.13687265394478, 114.47471121649474, 709.6457824136121)
+[05:13:46] [Server thread/INFO]: MickeyAndPluto issued server command: /tp kevlar
+[05:14:29] [Server thread/INFO]: Kevlar issued server command: /thru
+[05:14:29] [Server thread/INFO]: WorldEdit: Kevlar (in "kevlar"): thru
+[05:14:31] [Server thread/INFO]: Kevlar issued server command: /j
+[05:14:31] [Server thread/INFO]: WorldEdit: Kevlar (in "kevlar"): jumpto
+[05:15:10] [Server thread/INFO]: Kevlar issued server command: /j
+[05:15:10] [Server thread/INFO]: WorldEdit: Kevlar (in "kevlar"): jumpto
+[05:15:51] [Server thread/INFO]: Kevlar issued server command: /tp korvallis
+[05:16:12] [Server thread/INFO]: Kevlar issued server command: /tp korvallis
+[05:17:38] [Netty IO #2/INFO]: <korvallis> tp kevlar
+[05:17:43] [Server thread/INFO]: korvallis issued server command: /tp kevlar
+[05:18:03] [Server thread/INFO]: Kevlar issued server command: /j
+[05:18:03] [Server thread/INFO]: WorldEdit: Kevlar (in "kevlar"): jumpto
+[05:18:11] [Server thread/INFO]: MickeyAndPluto issued server command: /tp kevlar
+[05:18:25] [Server thread/INFO]: MickeyAndPluto issued server command: /warp space
+[05:18:29] [Server thread/INFO]: MASHTHEKEYBOARD[/192.168.0.134:55630] logged in with entity id 348985 at ([kevlar] 49.0266531181618, 115.0, 1217.9646233767714)
+[05:18:30] [Server thread/INFO]: MASHTHEKEYBOARD lost connection: Internal Exception: java.io.IOException: Connection reset by peer
+[05:18:30] [Server thread/INFO]: MASHTHEKEYBOARD left the game.
+[05:18:30] [Server thread/INFO]: MickeyAndPluto issued server command: /warp stadium
+[05:19:31] [Server thread/INFO]: MickeyAndPluto issued server command: /warp airport
+[05:20:19] [Server thread/INFO]: korvallis issued server command: /tp kevlar
+[05:20:32] [Server thread/INFO]: Kevlar issued server command: /time set day
+[05:20:41] [Server thread/INFO]: korvallis issued server command: /to mashthekeyboard
+[05:20:42] [Server thread/INFO]: MickeyAndPluto issued server command: /tp korvallis mickeyandpluto
+[05:21:43] [Server thread/INFO]: MASHTHEKEYBOARD[/192.168.0.134:55961] logged in with entity id 380151 at ([kevlar] 49.0266531181618, 115.0, 1217.9646233767714)
+[05:22:40] [Server thread/INFO]: MASHTHEKEYBOARD issued server command: /warp citycenter
+[05:23:12] [Server thread/INFO]: MASHTHEKEYBOARD issued server command: /tp Kevlar
+[05:23:32] [Server thread/INFO]: korvallis issued server command: /tp kevlar
+[05:23:44] [Server thread/INFO]: korvallis issued server command: /warp mac'n'cheese
+[05:23:55] [Server thread/INFO]: Kevlar issued server command: /tp korvallis
+[05:23:56] [Server thread/INFO]: MickeyAndPluto issued server command: /warp mac n cheese
+[05:24:01] [Server thread/INFO]: MickeyAndPluto issued server command: /warp mac'n cheese
+[05:24:06] [Server thread/INFO]: MASHTHEKEYBOARD issued server command: /warp macandcheese
+[05:24:13] [Server thread/INFO]: Kevlar issued server command: /j
+[05:24:13] [Server thread/INFO]: WorldEdit: Kevlar (in "kevlar"): jumpto
+[05:24:28] [Server thread/INFO]: Kevlar issued server command: /back
+[05:24:32] [Server thread/INFO]: MASHTHEKEYBOARD issued server command: /tp korvallis
+[05:24:40] [Server thread/INFO]: korvallis issued server command: /tp kevlar
+[05:24:45] [Server thread/INFO]: MickeyAndPluto issued server command: /warp city
+[05:24:50] [Server thread/INFO]: MickeyAndPluto issued server command: /warp citycenter
+[05:24:56] [Server thread/INFO]: MASHTHEKEYBOARD issued server command: /warp city center
+[05:25:01] [Server thread/INFO]: MASHTHEKEYBOARD issued server command: /warp city center
+[05:25:06] [Server thread/INFO]: MASHTHEKEYBOARD issued server command: /warp citycenter
+[05:25:16] [Server thread/INFO]: korvallis issued server command: /tp kevlar
+[05:25:43] [Server thread/INFO]: Kevlar issued server command: /j
+[05:25:43] [Server thread/INFO]: WorldEdit: Kevlar (in "kevlar"): jumpto
+[05:25:52] [Server thread/INFO]: korvallis issued server command: /tp kevlar
+[05:26:13] [Server thread/INFO]: MASHTHEKEYBOARD lost connection: Disconnected
+[05:26:13] [Server thread/INFO]: MASHTHEKEYBOARD left the game.
+[05:26:20] [Server thread/INFO]: MASHTHEKEYBOARD[/192.168.0.134:55995] logged in with entity id 429696 at ([kevlar] -47.028830202082304, 93.14437355915466, 722.3467311456144)
+[05:26:34] [Server thread/INFO]: MickeyAndPluto issued server command: /warp citycenter
+[05:27:13] [Server thread/INFO]: korvallis issued server command: /wand
+[05:27:13] [Server thread/INFO]: WorldEdit: korvallis (in "kevlar"): /wand
+[05:27:37] [Server thread/INFO]: Kevlar lost connection: Internal Exception: java.io.IOException: Connection reset by peer
+[05:27:37] [Server thread/INFO]: Kevlar left the game.
+[05:27:50] [Server thread/INFO]: korvallis issued server command: /copy
+[05:27:50] [Server thread/INFO]: WorldEdit: korvallis (in "kevlar"): /copy
+[05:27:55] [Server thread/INFO]: korvallis issued server command: /regen
+[05:27:55] [Server thread/INFO]: WorldEdit: korvallis (in "kevlar"): /regen - Region: (-129.0, 67.0, 657.0) - (-118.0, 102.0, 666.0)
+[05:28:00] [Server thread/INFO]: korvallis issued server command: /undo
+[05:28:00] [Server thread/INFO]: WorldEdit: korvallis (in "kevlar"): /undo
+[05:28:11] [Server thread/INFO]: korvallis issued server command: /copy
+[05:28:11] [Server thread/INFO]: WorldEdit: korvallis (in "kevlar"): /copy
+[05:28:14] [Server thread/INFO]: korvallis issued server command: /regen
+[05:28:14] [Server thread/INFO]: WorldEdit: korvallis (in "kevlar"): /regen - Region: (-118.0, 66.0, 666.0) - (-118.0, 67.0, 666.0)
+[05:28:19] [Server thread/INFO]: CommandBlock at -49,101,659 issued server command: /warp klolwut MickeyAndPluto
+[05:28:27] [Server thread/INFO]: CommandBlock at -48,90,660 issued server command: /warp klolwut2 MickeyAndPluto
+[05:28:31] [Server thread/INFO]: korvallis issued server command: /copy
+[05:28:31] [Server thread/INFO]: WorldEdit: korvallis (in "kevlar"): /copy
+[05:28:34] [Server thread/INFO]: korvallis issued server command: /regen
+[05:28:34] [Server thread/INFO]: WorldEdit: korvallis (in "kevlar"): /regen - Region: (-129.0, 66.0, 657.0) - (-118.0, 102.0, 666.0)
+[05:28:44] [Server thread/INFO]: korvallis issued server command: /paste
+[05:28:44] [Server thread/INFO]: WorldEdit: korvallis (in "kevlar"): /paste - Position: (-120.0, 67.0, 662.0)
+[05:30:08] [Server thread/INFO]: korvallis issued server command: /tp mickeyandpluto
+[05:30:23] [Server thread/INFO]: korvallis issued server command: /thru
+[05:30:23] [Server thread/INFO]: WorldEdit: korvallis (in "kevlar"): thru
+[05:31:24] [Server thread/INFO]: Kevlar[/192.168.0.100:51729] logged in with entity id 448223 at ([kevlar] -26.489469077346897, 96.63034002975823, 934.2961537698349)
+[05:31:28] [Server thread/INFO]: Kevlar issued server command: /time set day
+[05:32:16] [Server thread/INFO]: Kevlar lost connection: Internal Exception: java.io.IOException: Connection reset by peer
+[05:32:16] [Server thread/INFO]: Kevlar left the game.
+[05:32:19] [Server thread/INFO]: s_mitty[/127.0.0.1:56742] logged in with entity id 451846 at ([kevlar] -80.63146016053884, 162.88030394226675, 670.5386003753509)
+[05:32:44] [Server thread/INFO]: CommandBlock at 144,66,128 issued server command: /warp lighttower MickeyAndPluto
+[05:33:07] [Server thread/INFO]: MASHTHEKEYBOARD lost connection: Disconnected
+[05:33:07] [Server thread/INFO]: MASHTHEKEYBOARD left the game.
+[05:33:15] [Server thread/INFO]: MASHTHEKEYBOARD[/192.168.0.134:56009] logged in with entity id 457646 at ([kevlar] -119.41483298539777, 77.62435636516295, 797.010424810634)
+[05:33:19] [Server thread/INFO]: korvallis issued server command: /copy
+[05:33:19] [Server thread/INFO]: WorldEdit: korvallis (in "kevlar"): /copy
+[05:33:46] [Server thread/INFO]: @: Set MickeyAndPluto's spawnpoint to -60.556875394502335, 250.0, 315.7073205030327
+[05:33:48] [Server thread/INFO]: CommandBlock at -58,250,312 issued server command: /gamemode s MickeyAndPluto
+[05:33:50] [Server thread/INFO]: korvallis issued server command: /regen
+[05:33:50] [Server thread/INFO]: WorldEdit: korvallis (in "kevlar"): /regen - Region: (-171.0, 67.0, 714.0) - (-142.0, 81.0, 735.0)
+[05:33:53] [Server thread/INFO]: MickeyAndPluto fell from a high place
+[05:33:55] [Server thread/INFO]: korvallis issued server command: /paste
+[05:33:55] [Server thread/INFO]: WorldEdit: korvallis (in "kevlar"): /paste - Position: (-121.0, 64.0, 716.0)
+[05:33:58] [Server thread/INFO]: MickeyAndPluto fell from a high place
+[05:34:05] [Server thread/INFO]: MickeyAndPluto fell from a high place
+[05:34:07] [Server thread/INFO]: korvallis issued server command: /undo
+[05:34:07] [Server thread/INFO]: WorldEdit: korvallis (in "kevlar"): /undo
+[05:34:12] [Server thread/INFO]: MickeyAndPluto fell from a high place
+[05:34:14] [Server thread/INFO]: korvallis issued server command: /paste
+[05:34:14] [Server thread/INFO]: WorldEdit: korvallis (in "kevlar"): /paste - Position: (-119.0, 69.0, 716.0)
+[05:34:18] [Server thread/INFO]: korvallis issued server command: /undo
+[05:34:18] [Server thread/INFO]: WorldEdit: korvallis (in "kevlar"): /undo
+[05:34:18] [Server thread/INFO]: MickeyAndPluto fell from a high place
+[05:34:22] [Server thread/INFO]: korvallis issued server command: /paste
+[05:34:22] [Server thread/INFO]: WorldEdit: korvallis (in "kevlar"): /paste - Position: (-119.0, 72.0, 716.0)
+[05:34:24] [Server thread/INFO]: MickeyAndPluto fell from a high place
+[05:34:25] [Server thread/INFO]: korvallis issued server command: /undo
+[05:34:25] [Server thread/INFO]: WorldEdit: korvallis (in "kevlar"): /undo
+[05:34:29] [Server thread/INFO]: MickeyAndPluto fell from a high place
+[05:34:31] [Server thread/INFO]: korvallis issued server command: /paste
+[05:34:31] [Server thread/INFO]: WorldEdit: korvallis (in "kevlar"): /paste - Position: (-119.0, 79.0, 716.0)
+[05:34:35] [Server thread/INFO]: MickeyAndPluto fell from a high place
+[05:34:50] [Server thread/INFO]: MickeyAndPluto fell from a high place
+[05:35:00] [Server thread/INFO]: MickeyAndPluto issued server command: /gamemode creative
+[05:35:06] [pool-8-thread-1/INFO]: GroupManager - INFO -  Data files refreshed.
+[05:35:08] [Server thread/INFO]: korvallis issued server command: /undo
+[05:35:08] [Server thread/INFO]: WorldEdit: korvallis (in "kevlar"): /undo
+[05:35:10] [Server thread/INFO]: korvallis issued server command: /paste
+[05:35:10] [Server thread/INFO]: WorldEdit: korvallis (in "kevlar"): /paste - Position: (-119.0, 76.0, 692.0)
+[05:35:36] [Server thread/INFO]: korvallis issued server command: /undo
+[05:35:36] [Server thread/INFO]: WorldEdit: korvallis (in "kevlar"): /undo
+[05:35:52] [Server thread/INFO]: Kevlar[/192.168.0.100:51892] logged in with entity id 469373 at ([kevlar] -26.489469077346897, 96.63034002975823, 934.2961537698349)
+[05:36:18] [Server thread/INFO]: korvallis issued server command: /regen
+[05:36:18] [Server thread/INFO]: WorldEdit: korvallis (in "kevlar"): /regen - Region: (-166.0, 64.0, 669.0) - (-141.0, 76.0, 700.0)
+[05:36:29] [Server thread/INFO]: korvallis issued server command: /paste
+[05:36:29] [Server thread/INFO]: WorldEdit: korvallis (in "kevlar"): /paste - Position: (-121.0, 74.0, 683.0)
+[05:36:31] [Server thread/INFO]: Kevlar lost connection: Disconnected
+[05:36:31] [Server thread/INFO]: Kevlar left the game.
+[05:36:56] [Server thread/INFO]: korvallis issued server command: /undio
+[05:36:57] [Server thread/INFO]: korvallis issued server command: /undo
+[05:36:57] [Server thread/INFO]: WorldEdit: korvallis (in "kevlar"): /undo
+[05:37:05] [Server thread/INFO]: korvallis issued server command: /paste
+[05:37:05] [Server thread/INFO]: WorldEdit: korvallis (in "kevlar"): /paste - Position: (-121.0, 71.0, 699.0)
+[05:37:47] [Server thread/INFO]: Kevlar[/192.168.0.100:51958] logged in with entity id 477164 at ([kevlar] -26.489469077346897, 96.63034002975823, 934.2961537698349)
+[05:38:22] [Server thread/INFO]: s_mitty issued server command: /tp airport
+[05:38:27] [Server thread/INFO]: MickeyAndPluto issued server command: /warp korvallis
+[05:38:30] [Server thread/INFO]: s_mitty issued server command: /teleport airport
+[05:38:33] [Server thread/INFO]: MickeyAndPluto issued server command: /to korvallis
+[05:38:37] [Server thread/INFO]: MickeyAndPluto issued server command: /tp korvallis
+[05:38:46] [Server thread/INFO]: s_mitty issued server command: /help
+[05:38:46] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /help
+[05:38:54] [Server thread/INFO]: s_mitty issued server command: /spawn airport
+[05:39:42] [Server thread/INFO]: korvallis issued server command: /regen
+[05:39:42] [Server thread/INFO]: WorldEdit: korvallis (in "kevlar"): /regen - Region: (-156.0, 59.0, 719.0) - (-123.0, 66.0, 731.0)
+[05:40:15] [Server thread/INFO]: Kevlar issued server command: /j
+[05:40:15] [Server thread/INFO]: WorldEdit: Kevlar (in "kevlar"): jumpto
+[05:42:11] [Server thread/INFO]: s_mitty lost connection: Disconnected
+[05:42:11] [Server thread/INFO]: s_mitty left the game.
+[05:42:17] [Server thread/INFO]: MASHTHEKEYBOARD issued server command: /timeset day
+[05:42:32] [Server thread/INFO]: s_mitty[/127.0.0.1:56902] logged in with entity id 491885 at ([kevlar] -202.03949251915037, 73.0, 537.9348958900256)
+[05:43:45] [Server thread/INFO]: s_mitty issued server command: /time set day
+[05:44:13] [Server thread/INFO]: korvallis issued server command: /set 0
+[05:44:13] [Server thread/INFO]: WorldEdit: korvallis (in "kevlar"): /set 0 - Region: (-143.0, 67.0, 685.0) - (-126.0, 70.0, 696.0)
+[05:45:34] [Server thread/INFO]: s_mitty issued server command: /give s_mitty minecart
+[05:45:43] [Server thread/INFO]: s_mitty issued server command: /give s_mitty minecart
+[05:47:21] [Server thread/INFO]: Kevlar lost connection: Disconnected
+[05:47:21] [Server thread/INFO]: Kevlar left the game.
+[05:47:41] [Server thread/INFO]: korvallis issued server command: /set grass
+[05:47:41] [Server thread/INFO]: WorldEdit: korvallis (in "kevlar"): /set grass - Region: (-136.0, 66.0, 686.0) - (-129.0, 66.0, 693.0)
+[05:47:49] [Server thread/INFO]: korvallis issued server command: /set grass
+[05:47:49] [Server thread/INFO]: WorldEdit: korvallis (in "kevlar"): /set grass - Region: (-142.0, 66.0, 689.0) - (-137.0, 66.0, 693.0)
+[05:48:24] [Server thread/INFO]: s_mitty issued server command: /help
+[05:48:24] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /help
+[05:48:37] [Server thread/INFO]: s_mitty issued server command: //citycenter
+[05:49:09] [Server thread/INFO]: s_mitty issued server command: //airport
+[05:49:11] [Server thread/INFO]: Kevlar[/192.168.0.100:52118] logged in with entity id 510040 at ([kevlar] -24.052935022769848, 53.200000047683716, 673.6133228392896)
+[05:49:13] [Server thread/INFO]: korvallis issued server command: /set stonebrick
+[05:49:13] [Server thread/INFO]: WorldEdit: korvallis (in "kevlar"): /set stonebrick - Region: (-125.0, 63.0, 695.0) - (-116.0, 63.0, 699.0)
+[05:49:14] [Server thread/INFO]: s_mitty issued server command: /help
+[05:49:14] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /help
+[05:49:21] [Server thread/INFO]: MickeyAndPluto issued server command: /warp ski
+[05:49:22] [Server thread/INFO]: korvallis issued server command: /set stonebrick
+[05:49:22] [Server thread/INFO]: WorldEdit: korvallis (in "kevlar"): /set stonebrick - Region: (-125.0, 63.0, 700.0) - (-121.0, 63.0, 708.0)
+[05:49:25] [Server thread/INFO]: s_mitty issued server command: /help 2
+[05:49:25] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /help 2
+[05:49:42] [Server thread/INFO]: s_mitty issued server command: /warp airport
+[05:49:48] [Server thread/INFO]: s_mitty issued server command: /warp citycenter
+[05:50:00] [Server thread/INFO]: MickeyAndPluto issued server command: /warp citycenter
+[05:50:02] [Server thread/INFO]: Kevlar issued server command: /thry
+[05:51:58] [Server thread/INFO]: MickeyAndPluto issued server command: /tp korvallis MickeyAndPluto
+[05:52:08] [Server thread/INFO]: korvallis issued server command: /back
+[05:52:13] [Server thread/INFO]: s_mitty issued server command: /set stone
+[05:52:13] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /set stone - Region: (-20.0, 78.0, 689.0) - (-20.0, 78.0, 703.0)
+[05:52:16] [Server thread/INFO]: s_mitty issued server command: /undo
+[05:52:16] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /undo
+[05:52:21] [Server thread/INFO]: MickeyAndPluto issued server command: /warp city center
+[05:52:26] [Server thread/INFO]: MickeyAndPluto issued server command: /warp citycenter
+[05:52:44] [Server thread/INFO]: korvallis issued server command: /set stonebrick
+[05:52:44] [Server thread/INFO]: WorldEdit: korvallis (in "kevlar"): /set stonebrick - Region: (-124.0, 66.0, 670.0) - (-121.0, 66.0, 688.0)
+[05:52:45] [Server thread/INFO]: s_mitty issued server command: /warp underforest
+[05:52:50] [Server thread/INFO]: s_mitty issued server command: /warp forest
+[05:53:10] [Server thread/INFO]: s_mitty issued server command: /give s_mitty quartz_slab
+[05:53:14] [Server thread/INFO]: s_mitty issued server command: /give s_mitty quartz slab
+[05:53:50] [Server thread/INFO]: s_mitty issued server command: /warp airport
+[05:53:52] [Server thread/INFO]: korvallis issued server command: /tp kevlar
+[05:54:22] [Server thread/INFO]: s_mitty issued server command: /time set day
+[05:54:43] [Server thread/INFO]: Kevlar issued server command: /thru
+[05:54:43] [Server thread/INFO]: WorldEdit: Kevlar (in "kevlar"): thru
+[05:55:05] [Server thread/INFO]: Kevlar issued server command: /clear
+[05:55:10] [Server thread/INFO]: Kevlar issued server command: /thru
+[05:55:10] [Server thread/INFO]: WorldEdit: Kevlar (in "kevlar"): thru
+[05:55:29] [Server thread/INFO]: korvallis issued server command: /tp kevlar
+[05:55:45] [Server thread/INFO]: MickeyAndPluto issued server command: /warp end
+[05:56:28] [Server thread/INFO]: s_mitty issued server command: /warp suburbia
+[05:56:31] [Server thread/INFO]: s_mitty issued server command: /warp suburb
+[05:56:39] [Server thread/INFO]: s_mitty issued server command: /warp citycenter
+[05:57:04] [Server thread/INFO]: MickeyAndPluto issued server command: /warp citycenter
+[05:57:05] [Server thread/INFO]: Kevlar issued server command: /tp korvallis
+[05:57:53] [Server thread/INFO]: CommandBlock at 83,49,559 issued server command: /warp stadium Kevlar
+[05:58:18] [Server thread/INFO]: Kevlar issued server command: /j
+[05:58:18] [Server thread/INFO]: WorldEdit: Kevlar (in "kevlar"): jumpto
+[05:58:37] [Server thread/INFO]: [@] Someone can't read signs
+[05:58:37] [Server thread/INFO]: [@] and pressed the button that said "Please don't Press."
+[05:58:38] [Server thread/INFO]: [@] Now the random kill loop has started.
+[05:58:39] [Server thread/INFO]: [@] Fuck.
+[05:58:58] [Server thread/INFO]: [@] Someone can't read signs
+[05:58:59] [Server thread/INFO]: [@] and pressed the button that said "Please don't Press."
+[05:58:59] [Server thread/INFO]: [@] Now the random kill loop has started.
+[05:59:00] [Server thread/INFO]: [@] Fuck.
+[05:59:01] [Server thread/INFO]: [@] Someone can't read signs
+[05:59:01] [Server thread/INFO]: [@] and pressed the button that said "Please don't Press."
+[05:59:02] [Server thread/INFO]: [@] Now the random kill loop has started.
+[05:59:03] [Server thread/INFO]: [@] Fuck.
+[05:59:22] [Server thread/INFO]: MickeyAndPluto issued server command: /give MickeyAndPluto command block
+[05:59:48] [Server thread/INFO]: korvallis issued server command: /warp stadium
+[05:59:53] [Server thread/INFO]: MickeyAndPluto issued server command: /give MickeyAndPluto command_block
+[06:00:07] [Server thread/INFO]: MickeyAndPluto issued server command: /give MickeyAndPluto command_block
+[06:00:29] [Server thread/INFO]: Kevlar issued server command: /kick mickeyandpluto
+[06:00:32] [Server thread/INFO]: s_mitty issued server command: /warp spacex
+[06:00:43] [Server thread/INFO]: CommandBlock at -91,66,860 issued server command: /kill kevlar
+[06:00:43] [Server thread/INFO]: Kevlar died
+[06:00:58] [Server thread/INFO]: s_mitty issued server command: /warp
+[06:01:03] [Server thread/INFO]: CommandBlock at -91,66,860 issued server command: /kill kevlar
+[06:01:05] [Server thread/INFO]: CommandBlock at -91,66,860 issued server command: /kill kevlar
+[06:01:07] [Server thread/INFO]: s_mitty issued server command: /warp aidansmit
+[06:01:25] [Server thread/INFO]: korvallis issued server command: /give command
+[06:01:38] [Server thread/INFO]: korvallis issued server command: /give corvallis command 1
+[06:01:43] [Server thread/INFO]: MickeyAndPluto issued server command: /tp kevlar
+[06:01:48] [Server thread/INFO]: s_mitty issued server command: /tp kevar s_mitty
+[06:01:49] [Netty IO #2/INFO]: <korvallis> give korvallis command 1
+[06:01:57] [Server thread/INFO]: Kevlar issued server command: /kill korvalllis
+[06:01:59] [Server thread/INFO]: Kevlar issued server command: /kill korvallis
+[06:01:59] [Server thread/INFO]: korvallis died
+[06:02:03] [Server thread/INFO]: MickeyAndPluto issued server command: /kill Kevlar
+[06:02:03] [Server thread/INFO]: Kevlar died
+[06:02:07] [Server thread/INFO]: s_mitty issued server command: /tph
+[06:02:09] [Server thread/INFO]: Kevlar issued server command: /clear korvallis
+[06:02:11] [Server thread/INFO]: MickeyAndPluto issued server command: /kill all
+[06:02:11] [Server thread/INFO]: korvallis died
+[06:02:12] [Server thread/INFO]: s_mitty issued server command: /help 4
+[06:02:12] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /help 4
+[06:02:16] [Server thread/INFO]: s_mitty issued server command: /help4
+[06:02:17] [Server thread/INFO]: MickeyAndPluto issued server command: /kill
+[06:02:19] [Server thread/INFO]: s_mitty issued server command: /help 2
+[06:02:19] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /help 2
+[06:02:21] [Server thread/INFO]: korvallis issued server command: /kill mickeyandpluto
+[06:02:21] [Server thread/INFO]: MickeyAndPluto died
+[06:02:22] [Server thread/INFO]: s_mitty issued server command: /help
+[06:02:22] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /help
+[06:02:29] [Server thread/INFO]: MickeyAndPluto issued server command: /warp kevlar
+[06:02:32] [Server thread/INFO]: Ripleey[/127.0.0.1:57206] logged in with entity id 559707 at ([kevlar] -436.0214712302061, 126.11435598249446, 758.2423812884185)
+[06:02:34] [Server thread/INFO]: korvallis issued server command: /give korvallis command 1
+[06:02:35] [Server thread/INFO]: MickeyAndPluto issued server command: /tp kevlar
+[06:02:55] [Netty IO #1/INFO]: <MickeyAndPluto> hey back
+[06:02:58] [Netty IO #1/INFO]: <MickeyAndPluto> beck
+[06:03:00] [Netty IO #1/INFO]: <MickeyAndPluto> fuck
+[06:03:17] [Server thread/INFO]: s_mitty issued server command: /tp kevlar s_mitty
+[06:03:29] [Netty IO #3/INFO]: <Ripleey> hellop
+[06:03:35] [Server thread/INFO]: Kevlar issued server command: /tp korvallis Kevlar
+[06:03:38] [Server thread/INFO]: MickeyAndPluto issued server command: /tp ripleey kevlar
+[06:03:49] [Server thread/INFO]: Kevlar issued server command: /tp korvallis Kevlar
+[06:03:52] [Server thread/INFO]: korvallis issued server command: /back
+[06:03:53] [Netty IO #1/INFO]: <MickeyAndPluto> its art
+[06:03:55] [Server thread/INFO]: MickeyAndPluto issued server command: /tp kevlar
+[06:03:55] [Server thread/INFO]: korvallis issued server command: /back
+[06:04:01] [Server thread/INFO]: korvallis issued server command: /warp dropper1
+[06:04:04] [Server thread/INFO]: korvallis issued server command: /warp dropper
+[06:04:08] [Server thread/INFO]: Kevlar issued server command: /warp MASHTHEKEYBOARD macncheese
+[06:04:10] [Server thread/INFO]: MickeyAndPluto issued server command: /tp mashthekeyboard MickeyAndPluto
+[06:04:16] [Server thread/INFO]: s_mitty issued server command: /warp
+[06:04:18] [Server thread/INFO]: Kevlar issued server command: /warp macncheese MickeyAndPluto
+[06:04:22] [Server thread/INFO]: CommandBlock at -72,250,323 issued server command: /kill korvallis
+[06:04:22] [Server thread/INFO]: korvallis died
+[06:04:22] [Server thread/INFO]: CommandBlock at -72,250,323 issued server command: /kill s_mitty
+[06:04:22] [Server thread/INFO]: s_mitty died
+[06:04:22] [Server thread/INFO]: CommandBlock at -72,250,323 issued server command: /kill MASHTHEKEYBOARD
+[06:04:22] [Server thread/INFO]: MASHTHEKEYBOARD died
+[06:04:22] [Server thread/INFO]: CommandBlock at -72,250,323 issued server command: /kill Ripleey
+[06:04:22] [Server thread/INFO]: Ripleey died
+[06:04:22] [Server thread/INFO]: CommandBlock at -72,250,323 issued server command: /kill MickeyAndPluto
+[06:04:22] [Server thread/INFO]: MickeyAndPluto died
+[06:04:22] [Server thread/INFO]: CommandBlock at -72,250,323 issued server command: /kill Kevlar
+[06:04:22] [Server thread/INFO]: Kevlar died
+[06:04:28] [Server thread/INFO]: s_mitty issued server command: /warp2
+[06:04:31] [Server thread/INFO]: s_mitty issued server command: /warp 2
+[06:04:32] [Netty IO #3/INFO]: <Ripleey> wtf was that
+[06:04:36] [Server thread/INFO]: s_mitty issued server command: /warp dildo
+[06:04:39] [Server thread/INFO]: Kevlar issued server command: /tp korvallis
+[06:04:39] [Netty IO #1/INFO]: <MickeyAndPluto> idk everyone has o
+[06:04:41] [Server thread/INFO]: Ripleey issued server command: /back
+[06:04:57] [Server thread/INFO]: MickeyAndPluto issued server command: /time set day
+[06:05:02] [Server thread/INFO]: s_mitty issued server command: /warp 3
+[06:05:06] [pool-8-thread-1/INFO]: GroupManager - INFO -  Data files refreshed.
+[06:05:07] [Netty IO #1/INFO]: <MickeyAndPluto> beck join vc
+[06:05:10] [Server thread/INFO]: s_mitty issued server command: /warp 5
+[06:05:10] [Netty IO #3/INFO]: <Ripleey> no
+[06:05:13] [Netty IO #1/INFO]: <MickeyAndPluto> kk
+[06:05:16] [Netty IO #3/INFO]: <Ripleey> what is this
+[06:05:23] [Server thread/INFO]: s_mitty issued server command: /warp 6
+[06:05:24] [Netty IO #1/INFO]: <MickeyAndPluto> wdym what is this
+[06:05:31] [Server thread/INFO]: s_mitty issued server command: /warp smit
+[06:05:36] [Server thread/INFO]: CommandBlock at -70,67,309 issued server command: /warp dropper2 korvallis r=8
+[06:05:37] [Server thread/INFO]: s_mitty issued server command: /warp kevin
+[06:05:39] [Netty IO #3/INFO]: <Ripleey> who* is this
+[06:05:43] [Server thread/INFO]: s_mitty issued server command: /warp start
+[06:05:47] [Netty IO #1/INFO]: <MickeyAndPluto> im adam
+[06:05:51] [Server thread/INFO]: CommandBlock at -72,250,323 issued server command: /kill korvallis
+[06:05:51] [Server thread/INFO]: korvallis died
+[06:05:51] [Server thread/INFO]: CommandBlock at -72,250,323 issued server command: /kill Kevlar
+[06:05:51] [Server thread/INFO]: Kevlar died
+[06:05:51] [Server thread/INFO]: CommandBlock at -72,250,323 issued server command: /kill s_mitty
+[06:05:51] [Server thread/INFO]: s_mitty died
+[06:05:51] [Server thread/INFO]: CommandBlock at -72,250,323 issued server command: /kill MASHTHEKEYBOARD
+[06:05:51] [Server thread/INFO]: MASHTHEKEYBOARD died
+[06:05:51] [Server thread/INFO]: CommandBlock at -72,250,323 issued server command: /kill MickeyAndPluto
+[06:05:51] [Server thread/INFO]: MickeyAndPluto died
+[06:05:51] [Server thread/INFO]: CommandBlock at -72,250,323 issued server command: /kill Ripleey
+[06:05:51] [Server thread/INFO]: Ripleey died
+[06:05:56] [Server thread/INFO]: s_mitty issued server command: /warp ski
+[06:06:02] [Netty IO #1/INFO]: <MickeyAndPluto> confused by the question
+[06:06:21] [Netty IO #1/INFO]: <MickeyAndPluto> hows the server running 4 u
+[06:06:28] [Server thread/INFO]: korvallis issued server command: /wand
+[06:06:28] [Server thread/INFO]: WorldEdit: korvallis (in "kevlar"): /wand
+[06:06:29] [Server thread/INFO]: s_mitty issued server command: /warp subway
+[06:06:35] [Server thread/INFO]: s_mitty issued server command: /warp stairs
+[06:06:42] [Netty IO #3/INFO]: <Ripleey> nvm i was just saying funny art
+[06:06:43] [Server thread/INFO]: s_mitty issued server command: /warp spheres
+[06:06:48] [Server thread/INFO]: korvallis issued server command: /set 0
+[06:06:48] [Server thread/INFO]: WorldEdit: korvallis (in "kevlar"): /set 0 - Region: (-19.0, 63.0, 396.0) - (-14.0, 63.0, 399.0)
+[06:06:49] [Netty IO #3/INFO]: <Ripleey> server connection is fine
+[06:06:53] [Netty IO #1/INFO]: <MickeyAndPluto> oh its a friend of kevin
+[06:07:23] [Server thread/INFO]: korvallis issued server command: /tp korvallis kevlar
+[06:07:27] [Server thread/INFO]: korvallis issued server command: /back
+[06:07:30] [Server thread/INFO]: Ripleey lost connection: Disconnected
+[06:07:30] [Server thread/INFO]: Ripleey left the game.
+[06:07:31] [Server thread/INFO]: s_mitty issued server command: /warp 8
+[06:07:37] [Server thread/INFO]: s_mitty issued server command: /warp 7
+[06:07:52] [Server thread/INFO]: s_mitty issued server command: /warp uphigh
+[06:07:56] [Server thread/INFO]: s_mitty issued server command: /warp walls
+[06:08:15] [Server thread/INFO]: Kevlar issued server command: /tp -72,250,323
+[06:08:16] [Server thread/INFO]: s_mitty issued server command: /warp pvp
+[06:08:20] [Server thread/INFO]: s_mitty issued server command: /warp pagota
+[06:08:24] [Server thread/INFO]: Kevlar issued server command: /tp kevlar -72 250 323
+[06:08:24] [Server thread/INFO]: CommandBlock at -72,250,323 issued server command: /kill Kevlar
+[06:08:24] [Server thread/INFO]: Kevlar died
+[06:08:24] [Server thread/INFO]: CommandBlock at -72,250,323 issued server command: /kill korvallis
+[06:08:24] [Server thread/INFO]: korvallis died
+[06:08:24] [Server thread/INFO]: CommandBlock at -72,250,323 issued server command: /kill MickeyAndPluto
+[06:08:24] [Server thread/INFO]: MickeyAndPluto died
+[06:08:24] [Server thread/INFO]: CommandBlock at -72,250,323 issued server command: /kill s_mitty
+[06:08:24] [Server thread/INFO]: s_mitty died
+[06:08:24] [Server thread/INFO]: CommandBlock at -72,250,323 issued server command: /kill MASHTHEKEYBOARD
+[06:08:24] [Server thread/INFO]: MASHTHEKEYBOARD died
+[06:08:27] [Server thread/INFO]: CommandBlock at 128,63,257 issued server command: /gm c s_mitty
+[06:08:28] [Server thread/INFO]: Kevlar issued server command: /tp kevlar -72 250 323
+[06:08:28] [Server thread/INFO]: CommandBlock at 133,63,257 issued server command: /warp citycenter s_mitty
+[06:08:28] [Server thread/INFO]: CommandBlock at -72,250,323 issued server command: /kill Kevlar
+[06:08:28] [Server thread/INFO]: Kevlar died
+[06:08:28] [Server thread/INFO]: CommandBlock at -72,250,323 issued server command: /kill korvallis
+[06:08:28] [Server thread/INFO]: CommandBlock at -72,250,323 issued server command: /kill MickeyAndPluto
+[06:08:28] [Server thread/INFO]: CommandBlock at -72,250,323 issued server command: /kill s_mitty
+[06:08:28] [Server thread/INFO]: s_mitty died
+[06:08:28] [Server thread/INFO]: CommandBlock at -72,250,323 issued server command: /kill MASHTHEKEYBOARD
+[06:08:31] [Server thread/INFO]: CommandBlock at 128,63,257 issued server command: /gm c s_mitty
+[06:08:31] [Server thread/INFO]: Kevlar issued server command: /tp kevlar -72 250 323\
+[06:08:31] [Server thread/INFO]: CommandBlock at 133,63,257 issued server command: /warp citycenter s_mitty
+[06:08:32] [Server thread/INFO]: Kevlar issued server command: /tp kevlar -72 250 323\
+[06:08:37] [Server thread/INFO]: Kevlar issued server command: /tp kevlar -72 250 324
+[06:08:43] [Server thread/INFO]: korvallis issued server command: /back
+[06:08:46] [Server thread/INFO]: Kevlar issued server command: /tp kevlar -72 250 323\
+[06:08:48] [Server thread/INFO]: Kevlar issued server command: /tp kevlar -72 250 323
+[06:08:50] [Server thread/INFO]: CommandBlock at -15,63,400 issued server command: /tp kevlar mickeyandpluto
+[06:08:51] [Server thread/INFO]: CommandBlock at -18,63,400 issued server command: /tp kevlar mashthekeyboard
+[06:08:52] [Server thread/INFO]: Kevlar issued server command: /tp kevlar -72 250 323
+[06:08:58] [Server thread/INFO]: MickeyAndPluto issued server command: /ban kevlar
+[06:08:59] [Server thread/INFO]: CommandBlock at -15,63,400 issued server command: /tp kevlar mickeyandpluto
+[06:09:00] [Server thread/INFO]: CommandBlock at -18,63,400 issued server command: /tp kevlar mashthekeyboard
+[06:09:02] [Server thread/INFO]: CommandBlock at -15,63,400 issued server command: /tp kevlar mickeyandpluto
+[06:09:02] [Server thread/INFO]: Kevlar issued server command: /tp kevlar -72 250 323
+[06:09:03] [Server thread/INFO]: CommandBlock at -18,63,400 issued server command: /tp kevlar mashthekeyboard
+[06:09:04] [Server thread/INFO]: CommandBlock at -15,63,400 issued server command: /tp kevlar mickeyandpluto
+[06:09:04] [Server thread/INFO]: CommandBlock at -18,63,400 issued server command: /tp kevlar mashthekeyboard
+[06:09:06] [Server thread/INFO]: CommandBlock at -15,63,400 issued server command: /tp kevlar mickeyandpluto
+[06:09:07] [Server thread/INFO]: CommandBlock at -18,63,400 issued server command: /tp kevlar mashthekeyboard
+[06:09:08] [Server thread/INFO]: CommandBlock at -15,63,400 issued server command: /tp kevlar mickeyandpluto
+[06:09:09] [Server thread/INFO]: CommandBlock at -18,63,400 issued server command: /tp kevlar mashthekeyboard
+[06:09:10] [Server thread/INFO]: CommandBlock at -15,63,400 issued server command: /tp kevlar mickeyandpluto
+[06:09:11] [Server thread/INFO]: CommandBlock at -18,63,400 issued server command: /tp kevlar mashthekeyboard
+[06:09:12] [Server thread/INFO]: CommandBlock at -15,63,400 issued server command: /tp kevlar mickeyandpluto
+[06:09:13] [Server thread/INFO]: CommandBlock at -18,63,400 issued server command: /tp kevlar mashthekeyboard
+[06:09:14] [Server thread/INFO]: CommandBlock at -15,63,400 issued server command: /tp kevlar mickeyandpluto
+[06:09:15] [Server thread/INFO]: CommandBlock at -18,63,400 issued server command: /tp kevlar mashthekeyboard
+[06:09:16] [Server thread/INFO]: CommandBlock at -15,63,400 issued server command: /tp kevlar mickeyandpluto
+[06:09:17] [Server thread/INFO]: CommandBlock at -18,63,400 issued server command: /tp kevlar mashthekeyboard
+[06:09:18] [Server thread/INFO]: CommandBlock at -15,63,400 issued server command: /tp kevlar mickeyandpluto
+[06:09:19] [Server thread/INFO]: CommandBlock at -18,63,400 issued server command: /tp kevlar mashthekeyboard
+[06:09:21] [Server thread/INFO]: s_mitty issued server command: /warp airport
+[06:09:35] [Server thread/INFO]: Kevlar issued server command: /tp kevlar -18 63 400
+[06:09:51] [Server thread/INFO]: Kevlar issued server command: /tp korvallis
+[06:09:56] [Server thread/INFO]: korvallis issued server command: /tp kevlar
+[06:10:18] [Server thread/INFO]: Kevlar issued server command: /tp kevlar -72 250 323
+[06:10:36] [Server thread/INFO]: Kevlar issued server command: /tp korvallis
+[06:11:59] [Server thread/INFO]: MickeyAndPluto issued server command: /tp kevlar
+[06:12:41] [Server thread/INFO]: korvallis issued server command: /spawn sphere
+[06:12:44] [Server thread/INFO]: korvallis issued server command: /sphere
+[06:12:47] [Server thread/INFO]: MickeyAndPluto issued server command: /kill korvallis
+[06:12:47] [Server thread/INFO]: korvallis died
+[06:12:59] [Server thread/INFO]: korvallis issued server command: /tp kevlar
+[06:13:29] [Server thread/INFO]: MickeyAndPluto issued server command: /kill korvallis
+[06:13:29] [Server thread/INFO]: korvallis died
+[06:13:32] [Server thread/INFO]: Kevlar issued server command: /ban korvallis
+[06:13:39] [Server thread/INFO]: korvallis issued server command: /kill mickeyandpluto
+[06:13:39] [Server thread/INFO]: MickeyAndPluto died
+[06:14:31] [Server thread/INFO]: korvallis issued server command: /tp kevlar
+[06:15:27] [Server thread/INFO]: s_mitty issued server command: /time set day
+[06:15:34] [Server thread/INFO]: Kevlar issued server command: /time set night
+[06:15:38] [Server thread/INFO]: s_mitty issued server command: /time set day
+[06:17:18] [Server thread/INFO]: MASHTHEKEYBOARD issued server command: /warp Kevlar to MASHTHEKEYBOARD
+[06:18:12] [Server thread/INFO]: korvallis issued server command: /tp kevlar
+[06:18:31] [Server thread/INFO]: s_mitty issued server command: /set air
+[06:18:31] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /set air - Region: (-143.0, 67.0, 671.0) - (-126.0, 76.0, 694.0)
+[06:19:05] [Server thread/INFO]: Kevlar issued server command: /tp korvallis
+[06:20:09] [Server thread/INFO]: Kevlar issued server command: /tp Kevlar
+[06:20:13] [Server thread/INFO]: Kevlar issued server command: /tp korvallis
+[06:20:24] [Server thread/INFO]: s_mitty issued server command: /tp kevlar
+[06:20:58] [Server thread/INFO]: korvallis issued server command: /tp kevlar
+[06:20:58] [Server thread/INFO]: s_mitty issued server command: /tp kevlar
+[06:21:05] [Server thread/INFO]: s_mitty issued server command: /tp MASHTHEKEYBOARD
+[06:21:17] [Server thread/INFO]: s_mitty issued server command: /warp citycenter
+[06:21:48] [Server thread/INFO]: korvallis issued server command: /regen
+[06:21:48] [Server thread/INFO]: WorldEdit: korvallis (in "kevlar"): /regen - Region: (-57.0, 38.0, 696.0) - (-57.0, 65.0, 696.0)
+[06:23:10] [Server thread/INFO]: Kevlar issued server command: /thru
+[06:23:10] [Server thread/INFO]: WorldEdit: Kevlar (in "kevlar"): thru
+[06:23:27] [Server thread/INFO]: Kevlar issued server command: /thru
+[06:23:27] [Server thread/INFO]: WorldEdit: Kevlar (in "kevlar"): thru
+[06:23:37] [Server thread/INFO]: korvallis issued server command: /tp kevlar
+[06:24:00] [Server thread/INFO]: s_mitty issued server command: /tp kevlar
+[06:24:15] [Server thread/INFO]: korvallis issued server command: /back
+[06:24:22] [Server thread/INFO]: s_mitty issued server command: /warp citycenter
+[06:24:55] [Server thread/INFO]: Kevlar issued server command: /tp korvallis
+[06:25:05] [Server thread/INFO]: Kevlar issued server command: /tp smi
+[06:25:08] [Server thread/INFO]: Kevlar issued server command: /tp s_mitty
+[06:25:12] [Server thread/INFO]: s_mitty issued server command: /set 159:5
+[06:25:12] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /set 159:5 - Region: (-142.0, 71.0, 692.0) - (-128.0, 71.0, 692.0)
+[06:25:19] [Server thread/INFO]: Kevlar issued server command: /back
+[06:25:29] [Server thread/INFO]: korvallis issued server command: /tp kevlar
+[06:25:34] [Server thread/INFO]: s_mitty issued server command: /set 159:5
+[06:25:34] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /set 159:5 - Region: (-142.0, 71.0, 672.0) - (-128.0, 71.0, 692.0)
+[06:25:57] [Server thread/INFO]: Kevlar issued server command: /trhu
+[06:26:00] [Server thread/INFO]: Kevlar issued server command: /thru
+[06:26:00] [Server thread/INFO]: WorldEdit: Kevlar (in "kevlar"): thru
+[06:26:14] [Server thread/INFO]: Kevlar issued server command: /thru
+[06:26:14] [Server thread/INFO]: WorldEdit: Kevlar (in "kevlar"): thru
+[06:26:15] [Server thread/INFO]: s_mitty issued server command: /set glass
+[06:26:15] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /set glass - Region: (-141.0, 68.0, 672.0) - (-129.0, 70.0, 672.0)
+[06:26:21] [Server thread/INFO]: s_mitty issued server command: /time set day
+[06:26:24] [Server thread/INFO]: MickeyAndPluto issued server command: /warp park
+[06:26:27] [Server thread/INFO]: Kevlar issued server command: /thru
+[06:26:27] [Server thread/INFO]: WorldEdit: Kevlar (in "kevlar"): thru
+[06:26:59] [Server thread/INFO]: MickeyAndPluto issued server command: /tp MASHTHEKEYBOARD
+[06:27:32] [Server thread/INFO]: Kevlar issued server command: /tp korvallis
+[06:27:35] [Server thread/INFO]: s_mitty issued server command: /set grass
+[06:27:35] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /set grass - Region: (-141.0, 72.0, 673.0) - (-129.0, 72.0, 691.0)
+[06:28:01] [Server thread/INFO]: MickeyAndPluto issued server command: /warp parl
+[06:28:04] [Server thread/INFO]: MickeyAndPluto issued server command: /warp park
+[06:29:45] [Netty IO #2/INFO]: <korvallis> tp kevlar
+[06:29:48] [Server thread/INFO]: korvallis issued server command: /tp kevlar
+[06:30:08] [Server thread/INFO]: MickeyAndPluto issued server command: /deop kevlar
+[06:30:08] [Server thread/INFO]: MickeyAndPluto: De-opped kevlar
+[06:30:15] [Server thread/INFO]: MickeyAndPluto issued server command: /ban kevlar
+[06:30:15] [Server thread/INFO]: Kevlar lost connection: §4Banned:
+§rThe Ban Hammer has spoken!
+[06:30:15] [Server thread/INFO]: Kevlar left the game.
+[06:30:15] [Server thread/INFO]: §6Player§c §r§cMickeyAndPluto§r §6banned§c Kevlar §6for The Ban Hammer has spoken!.
+[06:30:24] [Server thread/INFO]: MickeyAndPluto issued server command: /unban kevlar
+[06:30:24] [Server thread/INFO]: §6Player§c §r§cMickeyAndPluto§r §6unbanned§c Kevlar.
+[06:30:28] [Server thread/INFO]: MickeyAndPluto issued server command: /op kevlar
+[06:30:28] [Server thread/INFO]: MickeyAndPluto: Opped kevlar
+[06:30:33] [Server thread/INFO]: Kevlar[/192.168.0.100:52204] logged in with entity id 682067 at ([kevlar] -62.241658107437196, 65.0, 753.1418255286388)
+[06:30:38] [Server thread/INFO]: Kevlar issued server command: /mail
+[06:30:45] [Server thread/INFO]: Kevlar issued server command: /mail send to MickeyAndPluto ur ass
+[06:30:51] [Server thread/INFO]: s_mitty issued server command: /set 159:5
+[06:30:51] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /set 159:5 - Region: (-142.0, 67.0, 673.0) - (-142.0, 70.0, 691.0)
+[06:30:56] [Server thread/INFO]: Kevlar issued server command: /mail send MickeyAndPluto uranass
+[06:31:04] [Server thread/INFO]: MickeyAndPluto issued server command: /mail
+[06:31:06] [Server thread/INFO]: s_mitty issued server command: /set glass
+[06:31:06] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /set glass - Region: (-141.0, 68.0, 692.0) - (-129.0, 70.0, 692.0)
+[06:31:10] [Server thread/INFO]: MickeyAndPluto issued server command: /mail read
+[06:31:22] [Server thread/INFO]: MickeyAndPluto issued server command: /mailclear
+[06:31:26] [Server thread/INFO]: MickeyAndPluto issued server command: /mail clear
+[06:31:31] [Server thread/INFO]: s_mitty issued server command: /set 159:4
+[06:31:31] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /set 159:4 - Region: (-141.0, 68.0, 692.0) - (-129.0, 68.0, 692.0)
+[06:31:34] [Server thread/INFO]: s_mitty issued server command: /set 159:3
+[06:31:34] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /set 159:3 - Region: (-141.0, 68.0, 692.0) - (-129.0, 68.0, 692.0)
+[06:31:37] [Server thread/INFO]: MickeyAndPluto issued server command: /nuke
+[06:31:38] [Server thread/INFO]: s_mitty issued server command: /set 159:6
+[06:31:38] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /set 159:6 - Region: (-141.0, 68.0, 692.0) - (-129.0, 68.0, 692.0)
+[06:31:41] [Server thread/INFO]: s_mitty issued server command: /set 159:7
+[06:31:41] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /set 159:7 - Region: (-141.0, 68.0, 692.0) - (-129.0, 68.0, 692.0)
+[06:31:47] [Server thread/INFO]: MickeyAndPluto issued server command: /smite kevlar
+[06:31:50] [Server thread/INFO]: s_mitty issued server command: /set 159:8
+[06:31:50] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /set 159:8 - Region: (-141.0, 68.0, 692.0) - (-129.0, 68.0, 692.0)
+[06:31:52] [Server thread/INFO]: s_mitty issued server command: /set 159:9
+[06:31:52] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /set 159:9 - Region: (-141.0, 68.0, 692.0) - (-129.0, 68.0, 692.0)
+[06:31:53] [Server thread/INFO]: MickeyAndPluto issued server command: /deop kevlar
+[06:31:53] [Server thread/INFO]: MickeyAndPluto: De-opped kevlar
+[06:31:56] [Server thread/INFO]: s_mitty issued server command: /set 159:5
+[06:31:56] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /set 159:5 - Region: (-141.0, 68.0, 692.0) - (-129.0, 68.0, 692.0)
+[06:32:04] [Server thread/INFO]: MickeyAndPluto issued server command: /gamemode survival kevlar
+[06:32:08] [Server thread/INFO]: MickeyAndPluto issued server command: /smite kevlar
+[06:32:11] [Server thread/INFO]: MickeyAndPluto issued server command: /smite kevlar
+[06:32:15] [Server thread/INFO]: MickeyAndPluto issued server command: /nuke
+[06:32:17] [Server thread/INFO]: s_mitty issued server command: /set 159:4
+[06:32:17] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /set 159:4 - Region: (-142.0, 67.0, 673.0) - (-142.0, 67.0, 691.0)
+[06:32:20] [Server thread/INFO]: s_mitty issued server command: /set 159:3
+[06:32:20] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /set 159:3 - Region: (-142.0, 67.0, 673.0) - (-142.0, 67.0, 691.0)
+[06:32:25] [Server thread/INFO]: MickeyAndPluto issued server command: /smite kevlar
+[06:32:25] [Server thread/INFO]: Kevlar died
+[06:32:26] [Server thread/INFO]: s_mitty issued server command: /set 159:6\
+[06:32:26] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /set 159:6\ - Region: (-142.0, 67.0, 673.0) - (-142.0, 67.0, 691.0)
+[06:32:27] [Server thread/INFO]: korvallis issued server command: /tp kevlar
+[06:32:30] [Server thread/INFO]: MickeyAndPluto issued server command: /op kelvar
+[06:32:31] [Server thread/INFO]: MickeyAndPluto: Opped kelvar
+[06:32:31] [Server thread/INFO]: s_mitty issued server command: /set 159:6
+[06:32:31] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /set 159:6 - Region: (-142.0, 67.0, 673.0) - (-142.0, 67.0, 691.0)
+[06:32:36] [Server thread/INFO]: s_mitty issued server command: /set 159:2
+[06:32:36] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /set 159:2 - Region: (-142.0, 67.0, 673.0) - (-142.0, 67.0, 691.0)
+[06:32:36] [Server thread/INFO]: Kevlar issued server command: /gm c
+[06:32:36] [Server thread/INFO]: §cKevlar §4was denied access to command.
+[06:32:38] [Server thread/INFO]: Kevlar issued server command: /gamemode c
+[06:32:38] [Server thread/INFO]: §cKevlar §4was denied access to command.
+[06:32:39] [Server thread/INFO]: s_mitty issued server command: /set 159:1
+[06:32:39] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /set 159:1 - Region: (-142.0, 67.0, 673.0) - (-142.0, 67.0, 691.0)
+[06:32:41] [Server thread/INFO]: s_mitty issued server command: /set 159:4
+[06:32:41] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /set 159:4 - Region: (-142.0, 67.0, 673.0) - (-142.0, 67.0, 691.0)
+[06:32:42] [Server thread/INFO]: MickeyAndPluto issued server command: /op kelvar
+[06:32:42] [Server thread/INFO]: MickeyAndPluto: Opped kelvar
+[06:32:45] [Server thread/INFO]: Kevlar issued server command: /gamemode c
+[06:32:45] [Server thread/INFO]: §cKevlar §4was denied access to command.
+[06:32:49] [Server thread/INFO]: s_mitty issued server command: /set 159:10
+[06:32:49] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /set 159:10 - Region: (-142.0, 67.0, 673.0) - (-142.0, 67.0, 691.0)
+[06:32:53] [Server thread/INFO]: MickeyAndPluto issued server command: /op kevlar
+[06:32:53] [Server thread/INFO]: MickeyAndPluto: Opped kevlar
+[06:32:54] [Server thread/INFO]: s_mitty issued server command: /set 159:11
+[06:32:54] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /set 159:11 - Region: (-142.0, 67.0, 673.0) - (-142.0, 67.0, 691.0)
+[06:32:54] [Server thread/INFO]: Kevlar issued server command: /gamemode c
+[06:32:57] [Server thread/INFO]: Kevlar issued server command: /back
+[06:32:58] [Server thread/INFO]: s_mitty issued server command: /set 159:12
+[06:32:58] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /set 159:12 - Region: (-142.0, 67.0, 673.0) - (-142.0, 67.0, 691.0)
+[06:33:01] [Server thread/INFO]: s_mitty issued server command: /set 159:13
+[06:33:01] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /set 159:13 - Region: (-142.0, 67.0, 673.0) - (-142.0, 67.0, 691.0)
+[06:33:02] [Server thread/INFO]: korvallis issued server command: /tp kevlar
+[06:33:02] [Server thread/INFO]: Kevlar issued server command: /tp korvallis
+[06:33:06] [Server thread/INFO]: Kevlar issued server command: /tp korvallis
+[06:33:10] [Server thread/INFO]: Kevlar issued server command: /back
+[06:33:14] [Server thread/INFO]: Kevlar issued server command: /tp suburbia
+[06:33:21] [Server thread/INFO]: s_mitty issued server command: /set 159:5
+[06:33:21] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /set 159:5 - Region: (-141.0, 68.0, 672.0) - (-129.0, 68.0, 672.0)
+[06:33:21] [Server thread/INFO]: Kevlar issued server command: /warp suburbia
+[06:33:22] [Server thread/INFO]: korvallis issued server command: /thru
+[06:33:22] [Server thread/INFO]: WorldEdit: korvallis (in "kevlar"): thru
+[06:33:28] [Server thread/INFO]: Kevlar issued server command: /warp suburbia
+[06:33:29] [Server thread/INFO]: korvallis issued server command: /warp surburbia
+[06:33:34] [Server thread/INFO]: Kevlar issued server command: /warp suburb
+[06:33:35] [Server thread/INFO]: Kevlar issued server command: /warp suburbs
+[06:33:36] [Server thread/INFO]: korvallis issued server command: /warp suburb
+[06:33:38] [Server thread/INFO]: s_mitty issued server command: /set stone brick
+[06:33:40] [Server thread/INFO]: Kevlar issued server command: /warp citycenter
+[06:33:41] [Server thread/INFO]: korvallis issued server command: /warp sub
+[06:33:42] [Server thread/INFO]: s_mitty issued server command: /set stonebrick
+[06:33:42] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /set stonebrick - Region: (-141.0, 66.0, 673.0) - (-129.0, 66.0, 691.0)
+[06:33:45] [Server thread/INFO]: korvallis issued server command: /warp list
+[06:33:49] [Server thread/INFO]: korvallis issued server command: /list warp
+[06:33:58] [Server thread/INFO]: korvallis issued server command: /listwarp
+[06:34:01] [Server thread/INFO]: korvallis issued server command: /warplist
+[06:34:05] [Server thread/INFO]: korvallis issued server command: /tp kevlar
+[06:35:19] [Server thread/INFO]: CommandBlock at -82,18,714 issued server command: /broadcast REACTOR SHUTDOWN INITIATED
+[06:35:20] [Server thread/INFO]: CommandBlock at -82,18,714 issued server command: /broadcast REACTOR SHUTDOWN INITIATED
+[06:35:20] [Server thread/INFO]: CommandBlock at -82,18,714 issued server command: /broadcast REACTOR SHUTDOWN INITIATED
+[06:36:08] [Server thread/INFO]: s_mitty issued server command: /set glass
+[06:36:08] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /set glass - Region: (-128.0, 68.0, 684.0) - (-128.0, 70.0, 691.0)
+[06:36:17] [Server thread/INFO]: s_mitty issued server command: /set glass
+[06:36:17] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /set glass - Region: (-128.0, 68.0, 673.0) - (-128.0, 70.0, 680.0)
+[06:36:44] [Server thread/INFO]: s_mitty issued server command: /time set day
+[06:36:45] [Server thread/INFO]: Kevlar issued server command: /thru
+[06:36:45] [Server thread/INFO]: WorldEdit: Kevlar (in "kevlar"): thru
+[06:37:29] [Server thread/INFO]: s_mitty issued server command: /warp airchives
+[06:37:38] [Server thread/INFO]: korvallis issued server command: /tp kevlar
+[06:37:42] [Server thread/INFO]: s_mitty issued server command: /warp
+[06:38:32] [Server thread/INFO]: korvallis issued server command: /tp kevlar
+[06:38:58] [Server thread/INFO]: korvallis issued server command: /tp kevlar
+[06:39:16] [Server thread/INFO]: MASHTHEKEYBOARD lost connection: Disconnected
+[06:39:16] [Server thread/INFO]: MASHTHEKEYBOARD left the game.
+[06:39:22] [Server thread/INFO]: korvallis issued server command: /tp kevlar
+[06:39:46] [Server thread/INFO]: s_mitty issued server command: /set stonebrick
+[06:39:46] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /set stonebrick - Region: (-127.0, 66.0, 681.0) - (-125.0, 66.0, 683.0)
+[06:39:52] [Server thread/INFO]: s_mitty issued server command: /tp kevlar
+[06:40:01] [Server thread/INFO]: Kevlar issued server command: /thru
+[06:40:01] [Server thread/INFO]: WorldEdit: Kevlar (in "kevlar"): thru
+[06:40:06] [Server thread/INFO]: Kevlar issued server command: /thru
+[06:40:06] [Server thread/INFO]: WorldEdit: Kevlar (in "kevlar"): thru
+[06:40:18] [Server thread/INFO]: s_mitty issued server command: /warp citycenter
+[06:42:01] [Server thread/INFO]: korvallis issued server command: /set quartsblock
+[06:42:01] [Server thread/INFO]: WorldEdit: korvallis (in "kevlar"): /set quartsblock - Region: (-132.0, 70.0, 660.0) - (-125.0, 78.0, 660.0)
+[06:42:05] [Server thread/INFO]: korvallis issued server command: /set quarts
+[06:42:05] [Server thread/INFO]: WorldEdit: korvallis (in "kevlar"): /set quarts - Region: (-132.0, 70.0, 660.0) - (-125.0, 78.0, 660.0)
+[06:42:11] [Server thread/INFO]: korvallis issued server command: /set quartz
+[06:42:11] [Server thread/INFO]: WorldEdit: korvallis (in "kevlar"): /set quartz - Region: (-132.0, 70.0, 660.0) - (-125.0, 78.0, 660.0)
+[06:46:30] [Server thread/INFO]: Kevlar issued server command: /tp korvallis
+[06:46:54] [Server thread/INFO]: Kevlar issued server command: /back
+[06:48:11] [Server thread/INFO]: korvallis issued server command: /tp kevlar
+[06:48:48] [Server thread/INFO]: s_mitty issued server command: /tp korvallis
+[06:48:57] [Server thread/INFO]: korvallis issued server command: /warp city center
+[06:49:01] [Server thread/INFO]: korvallis issued server command: /warp citycenter
+[06:49:07] [Server thread/INFO]: korvallis issued server command: /toggledownfall
+[06:49:07] [Server thread/INFO]: korvallis: Toggling downfall off for world 'kevlar'
+[06:49:16] [Server thread/INFO]: s_mitty issued server command: /tp citycenetr
+[06:49:25] [Server thread/INFO]: s_mitty lost connection: Disconnected
+[06:49:25] [Server thread/INFO]: s_mitty left the game.
+[06:49:57] [Server thread/INFO]: Kevlar lost connection: Disconnected
+[06:49:57] [Server thread/INFO]: Kevlar left the game.
+[06:52:08] [Server thread/INFO]: MickeyAndPluto issued server command: /save
+[06:52:08] [Server thread/INFO]: WorldEdit: MickeyAndPluto (in "kevlar"): /save
+[06:52:14] [Server thread/INFO]: MickeyAndPluto issued server command: /save-blocks
+[06:52:19] [Server thread/INFO]: MickeyAndPluto issued server command: /help
+[06:52:19] [Server thread/INFO]: WorldEdit: MickeyAndPluto (in "kevlar"): /help
+[06:53:55] [Server thread/INFO]: MickeyAndPluto lost connection: Disconnected
+[06:53:55] [Server thread/INFO]: MickeyAndPluto left the game.
+[07:30:52] [Server thread/INFO]: IBuyGunpowder[/127.0.0.1:58420] logged in with entity id 788046 at ([kevlar] 135.5, 66.0, 264.5)
+[07:30:52] [pool-7-thread-1/INFO]: Creating empty config: /home/mc/old/mc/yold-bukkit/plugins/Essentials/userdata/ibuygunpowder.yml
+[07:31:20] [Server thread/INFO]: IBuyGunpowder issued server command: /warp citycenter
+[07:31:20] [Server thread/INFO]: §cIBuyGunpowder §4was denied access to command.
+[07:31:23] [Server thread/INFO]: IBuyGunpowder issued server command: /tp
+[07:31:23] [Server thread/INFO]: §cIBuyGunpowder §4was denied access to command.
+[07:31:25] [Server thread/INFO]: IBuyGunpowder issued server command: /help
+[07:31:28] [Server thread/INFO]: IBuyGunpowder issued server command: /help
+[07:31:29] [Server thread/INFO]: IBuyGunpowder issued server command: /op
+[07:35:06] [pool-8-thread-1/INFO]: GroupManager - INFO -  Data files refreshed.
+[07:35:25] [Server thread/WARN]: IBuyGunpowder moved too quickly! 0.0,0.0,0.0 (164.9421943082998, 76.07101991318989, 307.8607942160404)
+[07:35:25] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 18057ms behind, skipping 361 tick(s)
+[07:35:25] [Server thread/WARN]: IBuyGunpowder moved too quickly! 0.0,0.0,0.0 (150.09740114633402, 45.64261194791393, 280.1533308105674)
+[07:35:25] [Server thread/WARN]: IBuyGunpowder moved too quickly! 0.0,0.0,0.0 (136.58863897962496, 27.385567168748356, 254.93953838492985)
+[07:35:25] [Server thread/WARN]: IBuyGunpowder moved too quickly! 0.0,0.0,0.0 (124.29566505363833, 16.431340301249012, 231.99498661634163)
+[07:35:25] [Server thread/WARN]: IBuyGunpowder moved too quickly! 0.0,0.0,0.0 (113.10905845859442, 9.858804180749408, 211.11544390518154)
+[07:35:25] [Server thread/WARN]: IBuyGunpowder moved too quickly! 0.0,0.0,0.0 (102.92924616372403, 5.9152825084496445, 192.11505949043806)
+[07:35:25] [Server thread/WARN]: IBuyGunpowder moved too quickly! 0.0,0.0,0.0 (93.66561670841578, 3.5491695050697865, 174.8247091747166)
+[07:35:26] [Server thread/WARN]: IBuyGunpowder moved too quickly! 0.0,0.0,0.0 (85.23571366113691, 2.1295017030418717, 159.09048993395257)
+[07:35:26] [Server thread/WARN]: IBuyGunpowder moved too quickly! 0.0,0.0,0.0 (77.56450166703014, 1.277701021825123, 0.0)
+[07:35:26] [Server thread/WARN]: IBuyGunpowder moved too quickly! 0.0,0.0,0.0 (70.58369855120743, 0.7666206130950738, 0.0)
+[07:35:26] [Server thread/WARN]: IBuyGunpowder moved too quickly! 0.0,0.0,0.0 (64.23116753272993, 0.45997236785704426, 0.0)
+[07:36:43] [Server thread/WARN]: IBuyGunpowder moved too quickly! 0.0,0.19295999908447925,0.004834065213799477 (52.87099318586213, 7.0514888608112685, 19.53619223650021)
+[07:36:43] [Server thread/WARN]: IBuyGunpowder moved too quickly! 0.0,0.0,0.0 (48.11260518573152, 4.230893316486761, 17.777935447572222)
+[07:36:43] [Server thread/WARN]: IBuyGunpowder moved too quickly! 0.0,0.0,0.0 (43.78247198081897, 2.5385359898920568, 16.177921723535633)
+[07:36:44] [Server thread/WARN]: IBuyGunpowder moved too quickly! 0.0,0.0,0.0 (39.842050650786284, 1.523121593935234, 14.721909192700307)
+[07:36:44] [Server thread/WARN]: IBuyGunpowder moved too quickly! 0.0,0.0,0.0 (36.25626713711488, 0.9138729563611404, 13.396937751454713)
+[07:36:44] [Server thread/WARN]: IBuyGunpowder moved too quickly! 0.0,0.0,0.0 (32.993204045632986, 0.5483237738166842, 12.191213705172464)
+[07:36:44] [Server thread/WARN]: IBuyGunpowder moved too quickly! 0.0,0.0,0.0 (30.02381654680723, 0.3289942642900105, 11.094004791434246)
+[07:36:44] [Server thread/WARN]: IBuyGunpowder moved too quickly! 0.0,0.0,0.0 (27.321673845000504, 0.1973965585740063, 10.095544651157018)
+[07:36:44] [Server thread/WARN]: IBuyGunpowder moved too quickly! 0.0,0.0,0.0 (24.86272391548987, 0.11843793514440376, 9.186945897319083)
+[07:36:44] [Server thread/WARN]: IBuyGunpowder moved too quickly! 0.0,0.0,0.0 (22.625079415146665, 0.07106276108664225, 8.36012100749761)
+[07:36:44] [Server thread/WARN]: IBuyGunpowder moved too quickly! 0.0,0.0,0.0 (20.588822861149787, 0.04263765665198535, 7.607710336075723)
+[07:36:45] [Server thread/WARN]: IBuyGunpowder moved too quickly! 0.0,0.0,0.0 (18.735829343609673, 0.02558259399119121, 6.923016605349051)
+[07:36:45] [Server thread/WARN]: IBuyGunpowder moved too quickly! 0.0,0.0,0.0 (17.04960519405148, 0.015349556394714725, 6.299945292430973)
+[07:36:45] [Server thread/WARN]: IBuyGunpowder moved too quickly! 0.0,0.0,0.0 (15.515141173730537, 0.009209733836828835, 5.732950381334826)
+[07:36:45] [Server thread/WARN]: IBuyGunpowder moved too quickly! 0.0,0.0,0.0 (14.11877887499556, 0.005525840302097301, 5.216984997367299)
+[07:36:45] [Server thread/WARN]: IBuyGunpowder moved too quickly! 0.0,0.0,0.0 (12.848089146525671, 0.0033155041812583806, 4.747456484425118)
+[07:36:45] [Server thread/WARN]: IBuyGunpowder moved too quickly! 0.0,0.0,0.0 (11.69176146029291, 0.0, 4.320185525333859)
+[07:36:45] [Server thread/WARN]: IBuyGunpowder moved too quickly! 0.0,0.0,0.0 (10.639503235495194, 0.0, 3.9313689413551858)
+[07:36:45] [Server thread/WARN]: IBuyGunpowder moved too quickly! 0.0,0.0,0.0 (9.681948223332704, 0.0, 3.5775458397374726)
+[07:37:49] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 6114ms behind, skipping 122 tick(s)
+[07:38:57] [Server thread/WARN]: IBuyGunpowder moved too quickly! 0.0976328325217537,0.36396413111262405,-0.13761403143115558 (2.4898334885863247, 2.3540304729668504, 11.235922996542293)
+[07:38:57] [Server thread/WARN]: IBuyGunpowder moved too quickly! 0.0,0.0,0.0 (2.265748539912037, 1.4124182837801103, 10.224690221527293)
+[07:39:17] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2463ms behind, skipping 49 tick(s)
+[07:39:38] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4564ms behind, skipping 91 tick(s)
+[07:39:55] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3250ms behind, skipping 65 tick(s)
+[07:40:11] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3793ms behind, skipping 75 tick(s)
+[07:40:51] [Server thread/WARN]: IBuyGunpowder moved too quickly! 0.0,0.0,0.0 (0.0, 10.320444933946856, 0.0)
+[07:40:51] [Server thread/WARN]: IBuyGunpowder moved too quickly! 0.0,0.0,0.0 (0.0, 10.035636230588905, 0.0)
+[07:41:16] [Server thread/WARN]: IBuyGunpowder moved too quickly! 0.0,0.0,0.0 (1.5710272166726333, 25.805642407939015, 0.0)
+[07:41:17] [Server thread/WARN]: IBuyGunpowder moved too quickly! 0.0,0.0,0.0 (1.4296348083739248, 25.211130050457925, 0.0)
+[07:41:17] [Server thread/WARN]: IBuyGunpowder moved too quickly! 0.0,0.0,0.0 (1.3009677131139366, 24.628507928787034, 0.0)
+[07:41:17] [Server thread/WARN]: IBuyGunpowder moved too quickly! 0.0,-0.07840000152587834,0.0 (1.1838806530529185, 24.057538238436926, 0.0)
+[07:41:17] [Server thread/WARN]: IBuyGunpowder moved too quickly! 0.0,0.0,0.0 (1.0773314253266615, 23.497987931003436, 0.0)
+[07:41:17] [Server thread/WARN]: IBuyGunpowder moved too quickly! 0.0,0.0,0.0 (0.980371625301403, 22.94962861904604, 0.0)
+[07:41:17] [Server thread/WARN]: IBuyGunpowder moved too quickly! 0.0,0.0,0.0 (0.8921382047355458, 22.41223648286867, 0.0)
+[07:41:17] [Server thread/WARN]: IBuyGunpowder moved too quickly! 0.0,-0.07840000152587834,0.0 (0.8118457897066023, 21.885592179164906, 0.0)
+[07:41:17] [Server thread/WARN]: IBuyGunpowder moved too quickly! 0.0,0.0,0.0 (0.7387796899245113, 21.369480751490272, 0.0)
+[07:41:17] [Server thread/WARN]: IBuyGunpowder moved too quickly! 0.0,0.0,0.0 (0.6722895372065737, 20.86369154252509, 0.0)
+[07:41:17] [Server thread/WARN]: IBuyGunpowder moved too quickly! 0.0,0.0,0.0 (0.6117834964894768, 20.368018108092045, 0.0)
+[07:41:17] [Server thread/WARN]: IBuyGunpowder moved too quickly! 0.0,0.0,0.0 (0.5567229978500846, 19.88225813289344, 0.0)
+[07:41:17] [Server thread/WARN]: IBuyGunpowder moved too quickly! 0.0,0.0,0.0 (0.5066179426442187, 19.406213347933672, 0.0)
+[07:41:17] [Server thread/WARN]: IBuyGunpowder moved too quickly! 0.0,-0.07840000152587834,0.0 (0.4610223410928233, 18.939689449593267, 0.0)
+[07:41:17] [Server thread/WARN]: IBuyGunpowder moved too quickly! 0.0,0.0,0.0 (0.4195303424852613, 18.48249602032143, 0.0)
+[07:41:17] [Server thread/WARN]: IBuyGunpowder moved too quickly! 0.0,0.0,0.0 (0.38177262266420886, 18.03444645091476, 0.0)
+[07:41:17] [Server thread/WARN]: IBuyGunpowder moved too quickly! 0.0,0.0,0.0 (0.3474130966368155, 17.595357864350355, 0.0)
+[07:41:17] [Server thread/WARN]: IBuyGunpowder moved too quickly! 0.0,0.0,0.0 (0.31614592705077316, 17.165051041142288, 0.0)
+[07:41:17] [Server thread/WARN]: IBuyGunpowder moved too quickly! 0.0,0.0,0.0 (0.2876928019074605, 16.74335034619093, 0.0)
+[07:41:17] [Server thread/WARN]: IBuyGunpowder moved too quickly! 0.0,0.0,0.0 (0.26180045728083307, 16.330083657095297, 0.0)
+[07:41:17] [Server thread/WARN]: IBuyGunpowder moved too quickly! 0.0,0.0,0.0 (0.23823842299154832, 15.925082293899141, 0.0)
+[07:41:17] [Server thread/WARN]: IBuyGunpowder moved too quickly! 0.0,0.0,0.0 (0.21679697117036026, 15.528180950242119, 0.0)
+[07:41:17] [Server thread/WARN]: IBuyGunpowder moved too quickly! 0.0,0.0,0.0 (0.19728524945075468, 15.139217625887945, 0.0)
+[07:41:17] [Server thread/WARN]: IBuyGunpowder moved too quickly! 0.0,0.0,0.0 (0.17952958217419834, 14.758033560601968, 0.0)
+[07:41:17] [Server thread/WARN]: IBuyGunpowder moved too quickly! 0.0,0.0,0.0 (0.16337192448687116, 14.384473169351201, 0.0)
+[07:41:17] [Server thread/WARN]: IBuyGunpowder moved too quickly! 0.0,0.0,0.0 (0.14866845556765199, 14.018383978800351, 0.0)
+[07:41:17] [Server thread/WARN]: IBuyGunpowder moved too quickly! 0.0,0.0,0.0 (0.1352882984655487, 13.65961656507792, 0.0)
+[07:41:17] [Server thread/WARN]: IBuyGunpowder moved too quickly! 0.0,0.0,0.0 (0.12311235515172615, 13.308024492786993, 0.0)
+[07:41:17] [Server thread/WARN]: IBuyGunpowder moved too quickly! 0.0,-0.07840000152587834,0.0 (0.1120322464168208, 12.963464255235797, 0.0)
+[07:41:17] [Server thread/WARN]: IBuyGunpowder moved too quickly! 0.0,0.0,0.0 (0.10194934717746952, 12.62579521586366, 0.0)
+[07:41:17] [Server thread/WARN]: IBuyGunpowder moved too quickly! 0.0,0.0,0.0 (0.0927739086052253, 12.29487955083844, 0.0)
+[07:41:17] [Server thread/WARN]: IBuyGunpowder moved too quickly! 0.0,0.0,0.0 (0.08442425926384761, 11.97058219280201, 0.0)
+[07:41:17] [Server thread/WARN]: IBuyGunpowder moved too quickly! 0.0,0.0,0.0 (0.07682607814421565, 11.652770775740827, 0.0)
+[07:41:17] [Server thread/WARN]: IBuyGunpowder moved too quickly! 0.0,0.0,0.0 (0.06991173312608032, 11.341315580959096, 0.0)
+[07:41:17] [Server thread/WARN]: IBuyGunpowder moved too quickly! 0.0,0.0,0.0 (0.06361967897824125, 11.036089484132463, 0.0)
+[07:41:17] [Server thread/WARN]: IBuyGunpowder moved too quickly! 0.0,0.0,0.0 (0.05789390953869202, 10.736967903420636, 0.0)
+[07:41:17] [Server thread/WARN]: IBuyGunpowder moved too quickly! 0.0,0.0,0.0 (0.052683459198537945, 10.443828748617754, 0.0)
+[07:41:17] [Server thread/WARN]: IBuyGunpowder moved too quickly! 0.0,0.0,0.0 (0.04794194925234823, 10.156552371319744, 0.0)
+[07:41:55] [Server thread/WARN]: IBuyGunpowder moved too quickly! 0.2127041611576601,0.0,-0.05092929923480938 (9.240170384525412, 7.043642349772437, 22.172610815317004)
+[07:41:56] [Server thread/WARN]: IBuyGunpowder moved too quickly! 0.0,0.0,0.0 (8.408555292251236, 4.226185409863462, 20.177076423438333)
+[07:41:56] [Server thread/WARN]: IBuyGunpowder moved too quickly! 0.0,0.0,0.0 (7.651785536471763, 2.5357112459180775, 18.361140074493772)
+[07:41:56] [Server thread/WARN]: IBuyGunpowder moved too quickly! 0.0,0.0,0.0 (6.963125038865367, 1.5214267475508465, 16.708637949329393)
+[07:41:56] [Server thread/WARN]: IBuyGunpowder moved too quickly! 0.0,0.0,0.0 (6.336443967982706, 0.9128560485305078, 15.204860972091216)
+[07:45:40] [Server thread/INFO]: CommandBlock at -68,65,322 issued server command: /warp dropper IBuyGunpowder
+[07:45:46] [Server thread/INFO]: @: Set IBuyGunpowder's spawnpoint to -71.71363255099855, 250.0, 325.69999998807907
+[07:45:48] [Server thread/INFO]: CommandBlock at -71,251,327 issued server command: /gamemode survival IBuyGunpowder
+[07:45:57] [Server thread/INFO]: IBuyGunpowder fell from a high place
+[07:46:02] [Server thread/INFO]: CommandBlock at 128,63,257 issued server command: /gm c IBuyGunpowder
+[07:46:02] [Server thread/INFO]: CommandBlock at 133,63,257 issued server command: /warp citycenter IBuyGunpowder
+[07:46:35] [Netty IO #6/INFO]: <IBuyGunpowder> hi there
+[07:46:35] [Server thread/INFO]: korvallis lost connection: Disconnected
+[07:46:35] [Server thread/INFO]: korvallis left the game.
+[07:48:10] [Server thread/INFO]: IBuyGunpowder lost connection: Disconnected
+[07:48:10] [Server thread/INFO]: IBuyGunpowder left the game.
+[17:15:53] [Thread-4/INFO]: Stopping server

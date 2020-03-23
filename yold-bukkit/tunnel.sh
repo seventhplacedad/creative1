@@ -1,1 +1,1 @@
-ssh -nNR 25565:127.0.0.1:25565 mc@kevinkellar.com
+ssh -nNR 5000:127.0.0.1:5000 mc@kevinkellar.com

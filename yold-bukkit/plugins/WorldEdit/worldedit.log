@@ -7782,3 +7782,131 @@
 [INFO] WorldEdit: s_mitty (in "kevlar"): /copy
 [INFO] WorldEdit: s_mitty (in "kevlar"): /paste - Position: (40.0, 73.0, 709.0)
 [INFO] WorldEdit: s_mitty (in "kevlar"): /set grass - Region: (42.0, 71.0, 696.0) - (48.0, 72.0, 699.0)
+[INFO] WorldEdit: korvallis (in "kevlar"): /set stone - Region: (-7.0, 68.0, 530.0) - (2.0, 68.0, 539.0)
+[INFO] WorldEdit: korvallis (in "kevlar"): /set stone - Region: (4.0, 64.0, 529.0) - (4.0, 67.0, 540.0)
+[INFO] WorldEdit: korvallis (in "kevlar"): /set bookshelf - Region: (-42.0, 1.0, 507.0) - (-42.0, 67.0, 523.0)
+[INFO] WorldEdit: korvallis (in "kevlar"): /set stonebricks - Region: (-42.0, 61.0, 507.0) - (-42.0, 63.0, 523.0)
+[INFO] WorldEdit: korvallis (in "kevlar"): /set stonebrick - Region: (-42.0, 61.0, 507.0) - (-42.0, 63.0, 523.0)
+[INFO] WorldEdit: korvallis (in "kevlar"): /set bookshelf - Region: (-42.0, 61.0, 507.0) - (-42.0, 61.0, 523.0)
+[INFO] WorldEdit: korvallis (in "kevlar"): /set stonebrick - Region: (-42.0, 56.0, 507.0) - (-42.0, 57.0, 523.0)
+[INFO] WorldEdit: korvallis (in "kevlar"): /copy
+[INFO] WorldEdit: korvallis (in "kevlar"): /paste - Position: (-48.0, 56.0, 523.0)
+[INFO] WorldEdit: korvallis (in "kevlar"): /undo
+[INFO] WorldEdit: korvallis (in "kevlar"): /paste - Position: (-48.0, 58.0, 523.0)
+[INFO] WorldEdit: korvallis (in "kevlar"): /paste - Position: (-48.0, 52.0, 523.0)
+[INFO] WorldEdit: korvallis (in "kevlar"): /paste - Position: (-48.0, 46.0, 523.0)
+[INFO] WorldEdit: korvallis (in "kevlar"): /paste - Position: (-48.0, 40.0, 523.0)
+[INFO] WorldEdit: korvallis (in "kevlar"): /paste - Position: (-48.0, 34.0, 523.0)
+[INFO] WorldEdit: korvallis (in "kevlar"): /paste - Position: (-48.0, 28.0, 523.0)
+[INFO] WorldEdit: korvallis (in "kevlar"): /paste - Position: (-48.0, 22.0, 523.0)
+[INFO] WorldEdit: korvallis (in "kevlar"): /paste - Position: (-48.0, 16.0, 523.0)
+[INFO] WorldEdit: korvallis (in "kevlar"): /set 0 - Region: (-48.0, 15.0, 523.0) - (-44.0, 61.0, 524.0)
+[INFO] WorldEdit: korvallis (in "kevlar"): /copy
+[INFO] WorldEdit: korvallis (in "kevlar"): /paste - Position: (-37.0, 64.0, 524.0)
+[INFO] WorldEdit: korvallis (in "kevlar"): /paste - Position: (-26.0, 64.0, 524.0)
+[INFO] WorldEdit: korvallis (in "kevlar"): /set 0 - Region: (-54.0, 0.0, 507.0) - (-10.0, 0.0, 561.0)
+[INFO] WorldEdit: korvallis (in "kevlar"): /set 0 - Region: (-130.0, 70.0, 688.0) - (-123.0, 80.0, 695.0)
+[INFO] WorldEdit: korvallis (in "kevlar"): restore - Region: (-480.0, 62.0, 711.0) - (-382.0, 138.0, 782.0)
+[INFO] WorldEdit: korvallis (in "kevlar"): restore - Region: (-480.0, 62.0, 711.0) - (-382.0, 138.0, 782.0)
+[INFO] WorldEdit: korvallis (in "kevlar"): /regen
+[INFO] WorldEdit: korvallis (in "kevlar"): /regen - Region: (-476.0, 62.0, 720.0) - (-382.0, 139.0, 782.0)
+[INFO] WorldEdit: Kevlar (in "kevlar"): jumpto
+[INFO] WorldEdit: Kevlar (in "kevlar"): thru
+[INFO] WorldEdit: Kevlar (in "kevlar"): jumpto
+[INFO] WorldEdit: Kevlar (in "kevlar"): jumpto
+[INFO] WorldEdit: Kevlar (in "kevlar"): jumpto
+[INFO] WorldEdit: Kevlar (in "kevlar"): jumpto
+[INFO] WorldEdit: Kevlar (in "kevlar"): jumpto
+[INFO] WorldEdit: korvallis (in "kevlar"): /wand
+[INFO] WorldEdit: korvallis (in "kevlar"): /copy
+[INFO] WorldEdit: korvallis (in "kevlar"): /regen - Region: (-129.0, 67.0, 657.0) - (-118.0, 102.0, 666.0)
+[INFO] WorldEdit: korvallis (in "kevlar"): /undo
+[INFO] WorldEdit: korvallis (in "kevlar"): /copy
+[INFO] WorldEdit: korvallis (in "kevlar"): /regen - Region: (-118.0, 66.0, 666.0) - (-118.0, 67.0, 666.0)
+[INFO] WorldEdit: korvallis (in "kevlar"): /copy
+[INFO] WorldEdit: korvallis (in "kevlar"): /regen - Region: (-129.0, 66.0, 657.0) - (-118.0, 102.0, 666.0)
+[INFO] WorldEdit: korvallis (in "kevlar"): /paste - Position: (-120.0, 67.0, 662.0)
+[INFO] WorldEdit: korvallis (in "kevlar"): thru
+[INFO] WorldEdit: korvallis (in "kevlar"): /copy
+[INFO] WorldEdit: korvallis (in "kevlar"): /regen - Region: (-171.0, 67.0, 714.0) - (-142.0, 81.0, 735.0)
+[INFO] WorldEdit: korvallis (in "kevlar"): /paste - Position: (-121.0, 64.0, 716.0)
+[INFO] WorldEdit: korvallis (in "kevlar"): /undo
+[INFO] WorldEdit: korvallis (in "kevlar"): /paste - Position: (-119.0, 69.0, 716.0)
+[INFO] WorldEdit: korvallis (in "kevlar"): /undo
+[INFO] WorldEdit: korvallis (in "kevlar"): /paste - Position: (-119.0, 72.0, 716.0)
+[INFO] WorldEdit: korvallis (in "kevlar"): /undo
+[INFO] WorldEdit: korvallis (in "kevlar"): /paste - Position: (-119.0, 79.0, 716.0)
+[INFO] WorldEdit: korvallis (in "kevlar"): /undo
+[INFO] WorldEdit: korvallis (in "kevlar"): /paste - Position: (-119.0, 76.0, 692.0)
+[INFO] WorldEdit: korvallis (in "kevlar"): /undo
+[INFO] WorldEdit: korvallis (in "kevlar"): /regen - Region: (-166.0, 64.0, 669.0) - (-141.0, 76.0, 700.0)
+[INFO] WorldEdit: korvallis (in "kevlar"): /paste - Position: (-121.0, 74.0, 683.0)
+[INFO] WorldEdit: korvallis (in "kevlar"): /undo
+[INFO] WorldEdit: korvallis (in "kevlar"): /paste - Position: (-121.0, 71.0, 699.0)
+[INFO] WorldEdit: s_mitty (in "kevlar"): /help
+[INFO] WorldEdit: korvallis (in "kevlar"): /regen - Region: (-156.0, 59.0, 719.0) - (-123.0, 66.0, 731.0)
+[INFO] WorldEdit: Kevlar (in "kevlar"): jumpto
+[INFO] WorldEdit: korvallis (in "kevlar"): /set 0 - Region: (-143.0, 67.0, 685.0) - (-126.0, 70.0, 696.0)
+[INFO] WorldEdit: korvallis (in "kevlar"): /set grass - Region: (-136.0, 66.0, 686.0) - (-129.0, 66.0, 693.0)
+[INFO] WorldEdit: korvallis (in "kevlar"): /set grass - Region: (-142.0, 66.0, 689.0) - (-137.0, 66.0, 693.0)
+[INFO] WorldEdit: s_mitty (in "kevlar"): /help
+[INFO] WorldEdit: korvallis (in "kevlar"): /set stonebrick - Region: (-125.0, 63.0, 695.0) - (-116.0, 63.0, 699.0)
+[INFO] WorldEdit: s_mitty (in "kevlar"): /help
+[INFO] WorldEdit: korvallis (in "kevlar"): /set stonebrick - Region: (-125.0, 63.0, 700.0) - (-121.0, 63.0, 708.0)
+[INFO] WorldEdit: s_mitty (in "kevlar"): /help 2
+[INFO] WorldEdit: s_mitty (in "kevlar"): /set stone - Region: (-20.0, 78.0, 689.0) - (-20.0, 78.0, 703.0)
+[INFO] WorldEdit: s_mitty (in "kevlar"): /undo
+[INFO] WorldEdit: korvallis (in "kevlar"): /set stonebrick - Region: (-124.0, 66.0, 670.0) - (-121.0, 66.0, 688.0)
+[INFO] WorldEdit: Kevlar (in "kevlar"): thru
+[INFO] WorldEdit: Kevlar (in "kevlar"): thru
+[INFO] WorldEdit: Kevlar (in "kevlar"): jumpto
+[INFO] WorldEdit: s_mitty (in "kevlar"): /help 4
+[INFO] WorldEdit: s_mitty (in "kevlar"): /help 2
+[INFO] WorldEdit: s_mitty (in "kevlar"): /help
+[INFO] WorldEdit: korvallis (in "kevlar"): /wand
+[INFO] WorldEdit: korvallis (in "kevlar"): /set 0 - Region: (-19.0, 63.0, 396.0) - (-14.0, 63.0, 399.0)
+[INFO] WorldEdit: s_mitty (in "kevlar"): /set air - Region: (-143.0, 67.0, 671.0) - (-126.0, 76.0, 694.0)
+[INFO] WorldEdit: korvallis (in "kevlar"): /regen - Region: (-57.0, 38.0, 696.0) - (-57.0, 65.0, 696.0)
+[INFO] WorldEdit: Kevlar (in "kevlar"): thru
+[INFO] WorldEdit: Kevlar (in "kevlar"): thru
+[INFO] WorldEdit: s_mitty (in "kevlar"): /set 159:5 - Region: (-142.0, 71.0, 692.0) - (-128.0, 71.0, 692.0)
+[INFO] WorldEdit: s_mitty (in "kevlar"): /set 159:5 - Region: (-142.0, 71.0, 672.0) - (-128.0, 71.0, 692.0)
+[INFO] WorldEdit: Kevlar (in "kevlar"): thru
+[INFO] WorldEdit: Kevlar (in "kevlar"): thru
+[INFO] WorldEdit: s_mitty (in "kevlar"): /set glass - Region: (-141.0, 68.0, 672.0) - (-129.0, 70.0, 672.0)
+[INFO] WorldEdit: Kevlar (in "kevlar"): thru
+[INFO] WorldEdit: s_mitty (in "kevlar"): /set grass - Region: (-141.0, 72.0, 673.0) - (-129.0, 72.0, 691.0)
+[INFO] WorldEdit: s_mitty (in "kevlar"): /set 159:5 - Region: (-142.0, 67.0, 673.0) - (-142.0, 70.0, 691.0)
+[INFO] WorldEdit: s_mitty (in "kevlar"): /set glass - Region: (-141.0, 68.0, 692.0) - (-129.0, 70.0, 692.0)
+[INFO] WorldEdit: s_mitty (in "kevlar"): /set 159:4 - Region: (-141.0, 68.0, 692.0) - (-129.0, 68.0, 692.0)
+[INFO] WorldEdit: s_mitty (in "kevlar"): /set 159:3 - Region: (-141.0, 68.0, 692.0) - (-129.0, 68.0, 692.0)
+[INFO] WorldEdit: s_mitty (in "kevlar"): /set 159:6 - Region: (-141.0, 68.0, 692.0) - (-129.0, 68.0, 692.0)
+[INFO] WorldEdit: s_mitty (in "kevlar"): /set 159:7 - Region: (-141.0, 68.0, 692.0) - (-129.0, 68.0, 692.0)
+[INFO] WorldEdit: s_mitty (in "kevlar"): /set 159:8 - Region: (-141.0, 68.0, 692.0) - (-129.0, 68.0, 692.0)
+[INFO] WorldEdit: s_mitty (in "kevlar"): /set 159:9 - Region: (-141.0, 68.0, 692.0) - (-129.0, 68.0, 692.0)
+[INFO] WorldEdit: s_mitty (in "kevlar"): /set 159:5 - Region: (-141.0, 68.0, 692.0) - (-129.0, 68.0, 692.0)
+[INFO] WorldEdit: s_mitty (in "kevlar"): /set 159:4 - Region: (-142.0, 67.0, 673.0) - (-142.0, 67.0, 691.0)
+[INFO] WorldEdit: s_mitty (in "kevlar"): /set 159:3 - Region: (-142.0, 67.0, 673.0) - (-142.0, 67.0, 691.0)
+[INFO] WorldEdit: s_mitty (in "kevlar"): /set 159:6\ - Region: (-142.0, 67.0, 673.0) - (-142.0, 67.0, 691.0)
+[INFO] WorldEdit: s_mitty (in "kevlar"): /set 159:6 - Region: (-142.0, 67.0, 673.0) - (-142.0, 67.0, 691.0)
+[INFO] WorldEdit: s_mitty (in "kevlar"): /set 159:2 - Region: (-142.0, 67.0, 673.0) - (-142.0, 67.0, 691.0)
+[INFO] WorldEdit: s_mitty (in "kevlar"): /set 159:1 - Region: (-142.0, 67.0, 673.0) - (-142.0, 67.0, 691.0)
+[INFO] WorldEdit: s_mitty (in "kevlar"): /set 159:4 - Region: (-142.0, 67.0, 673.0) - (-142.0, 67.0, 691.0)
+[INFO] WorldEdit: s_mitty (in "kevlar"): /set 159:10 - Region: (-142.0, 67.0, 673.0) - (-142.0, 67.0, 691.0)
+[INFO] WorldEdit: s_mitty (in "kevlar"): /set 159:11 - Region: (-142.0, 67.0, 673.0) - (-142.0, 67.0, 691.0)
+[INFO] WorldEdit: s_mitty (in "kevlar"): /set 159:12 - Region: (-142.0, 67.0, 673.0) - (-142.0, 67.0, 691.0)
+[INFO] WorldEdit: s_mitty (in "kevlar"): /set 159:13 - Region: (-142.0, 67.0, 673.0) - (-142.0, 67.0, 691.0)
+[INFO] WorldEdit: s_mitty (in "kevlar"): /set 159:5 - Region: (-141.0, 68.0, 672.0) - (-129.0, 68.0, 672.0)
+[INFO] WorldEdit: korvallis (in "kevlar"): thru
+[INFO] WorldEdit: s_mitty (in "kevlar"): /set stonebrick - Region: (-141.0, 66.0, 673.0) - (-129.0, 66.0, 691.0)
+[INFO] WorldEdit: s_mitty (in "kevlar"): /set glass - Region: (-128.0, 68.0, 684.0) - (-128.0, 70.0, 691.0)
+[INFO] WorldEdit: s_mitty (in "kevlar"): /set glass - Region: (-128.0, 68.0, 673.0) - (-128.0, 70.0, 680.0)
+[INFO] WorldEdit: Kevlar (in "kevlar"): thru
+[INFO] WorldEdit: s_mitty (in "kevlar"): /set stonebrick - Region: (-127.0, 66.0, 681.0) - (-125.0, 66.0, 683.0)
+[INFO] WorldEdit: Kevlar (in "kevlar"): thru
+[INFO] WorldEdit: Kevlar (in "kevlar"): thru
+[INFO] WorldEdit: korvallis (in "kevlar"): /set quartsblock - Region: (-132.0, 70.0, 660.0) - (-125.0, 78.0, 660.0)
+[INFO] WorldEdit: korvallis (in "kevlar"): /set quarts - Region: (-132.0, 70.0, 660.0) - (-125.0, 78.0, 660.0)
+[INFO] WorldEdit: korvallis (in "kevlar"): /set quartz - Region: (-132.0, 70.0, 660.0) - (-125.0, 78.0, 660.0)
+[INFO] WorldEdit: MickeyAndPluto (in "kevlar"): /save
+[INFO] WorldEdit: MickeyAndPluto (in "kevlar"): /help
