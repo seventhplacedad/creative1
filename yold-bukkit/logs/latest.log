@@ -1,227 +1,254 @@
-[00:00:11] [Server thread/INFO]: korvallis issued server command: /set 159
-[00:00:11] [Server thread/INFO]: WorldEdit: korvallis (in "kevlar"): /set 159 - Region: (-203.0, 52.0, 533.0) - (-203.0, 52.0, 672.0)
-[00:00:11] [Server thread/INFO]: s_mitty issued server command: /set air
-[00:00:11] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /set air - Region: (-205.0, 78.0, 559.0) - (-199.0, 81.0, 563.0)
-[00:00:43] [Server thread/INFO]: korvallis issued server command: /set 159:15
-[00:00:43] [Server thread/INFO]: WorldEdit: korvallis (in "kevlar"): /set 159:15 - Region: (-207.0, 52.0, 533.0) - (-207.0, 52.0, 672.0)
-[00:01:01] [Server thread/INFO]: s_mitty issued server command: /set air
-[00:01:01] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /set air - Region: (-203.0, 64.0, 555.0) - (-202.0, 66.0, 604.0)
-[00:01:06] [Server thread/INFO]: s_mitty issued server command: /set air
-[00:01:06] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /set air - Region: (-203.0, 66.0, 555.0) - (-202.0, 68.0, 604.0)
-[00:01:10] [Server thread/INFO]: korvallis issued server command: /set 159:14
-[00:01:10] [Server thread/INFO]: WorldEdit: korvallis (in "kevlar"): /set 159:14 - Region: (-207.0, 53.0, 533.0) - (-207.0, 53.0, 672.0)
-[00:01:22] [Server thread/INFO]: s_mitty issued server command: /set quartz
-[00:01:22] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /set quartz - Region: (-210.0, 63.0, 554.0) - (-203.0, 63.0, 583.0)
-[00:01:40] [Server thread/INFO]: s_mitty issued server command: /set quartz
-[00:01:40] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /set quartz - Region: (-213.0, 63.0, 564.0) - (-202.0, 63.0, 604.0)
-[00:01:58] [Server thread/INFO]: s_mitty issued server command: /set stone
-[00:01:58] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /set stone - Region: (-214.0, 63.0, 549.0) - (-214.0, 63.0, 584.0)
-[00:02:07] [Server thread/INFO]: s_mitty issued server command: /set stone
-[00:02:07] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /set stone - Region: (-225.0, 63.0, 548.0) - (-214.0, 63.0, 584.0)
-[00:02:48] [Server thread/INFO]: s_mitty issued server command: /set stone
-[00:02:48] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /set stone - Region: (-226.0, 63.0, 591.0) - (-215.0, 63.0, 602.0)
-[00:03:04] [Server thread/INFO]: s_mitty lost connection: Disconnected
-[00:03:04] [Server thread/INFO]: s_mitty left the game.
-[00:03:14] [Server thread/INFO]: korvallis issued server command: /copy
-[00:03:14] [Server thread/INFO]: WorldEdit: korvallis (in "kevlar"): /copy
-[00:03:33] [Server thread/INFO]: korvallis issued server command: /copy
-[00:03:33] [Server thread/INFO]: WorldEdit: korvallis (in "kevlar"): /copy
-[00:04:15] [Server thread/INFO]: korvallis issued server command: /paste
-[00:04:15] [Server thread/INFO]: WorldEdit: korvallis (in "kevlar"): /paste - Position: (-206.0, 51.0, 592.0)
-[00:04:36] [Server thread/INFO]: korvallis issued server command: /paste
-[00:04:36] [Server thread/INFO]: WorldEdit: korvallis (in "kevlar"): /paste - Position: (-206.0, 51.0, 652.0)
-[00:04:45] [Server thread/INFO]: korvallis issued server command: /set stone
-[00:04:45] [Server thread/INFO]: WorldEdit: korvallis (in "kevlar"): /set stone - Region: (-203.0, 51.0, 663.0) - (-203.0, 53.0, 672.0)
-[00:04:51] [Server thread/INFO]: korvallis issued server command: /set stone
-[00:04:51] [Server thread/INFO]: WorldEdit: korvallis (in "kevlar"): /set stone - Region: (-207.0, 51.0, 663.0) - (-207.0, 53.0, 672.0)
-[00:05:04] [Server thread/INFO]: korvallis issued server command: /set stone
-[00:05:04] [Server thread/INFO]: WorldEdit: korvallis (in "kevlar"): /set stone - Region: (-207.0, 51.0, 603.0) - (-207.0, 53.0, 651.0)
-[00:05:17] [Server thread/INFO]: korvallis issued server command: /set stone
-[00:05:17] [Server thread/INFO]: WorldEdit: korvallis (in "kevlar"): /set stone - Region: (-207.0, 51.0, 543.0) - (-207.0, 53.0, 591.0)
-[00:05:27] [Server thread/INFO]: korvallis issued server command: /set stone
-[00:05:27] [Server thread/INFO]: WorldEdit: korvallis (in "kevlar"): /set stone - Region: (-203.0, 51.0, 543.0) - (-203.0, 53.0, 591.0)
-[00:05:38] [Server thread/INFO]: korvallis issued server command: /set stone
-[00:05:38] [Server thread/INFO]: WorldEdit: korvallis (in "kevlar"): /set stone - Region: (-203.0, 51.0, 603.0) - (-203.0, 53.0, 651.0)
-[00:06:58] [Server thread/INFO]: korvallis issued server command: /set redstoneblock
-[00:06:58] [Server thread/INFO]: WorldEdit: korvallis (in "kevlar"): /set redstoneblock - Region: (-206.0, 49.0, 532.0) - (-204.0, 49.0, 672.0)
-[00:07:14] [Server thread/INFO]: korvallis issued server command: /undo
-[00:07:14] [Server thread/INFO]: WorldEdit: korvallis (in "kevlar"): /undo
-[00:07:48] [Server thread/INFO]: korvallis issued server command: /set 76
-[00:07:48] [Server thread/INFO]: WorldEdit: korvallis (in "kevlar"): /set 76 - Region: (-206.0, 49.0, 532.0) - (-204.0, 49.0, 672.0)
-[00:08:18] [Server thread/INFO]: korvallis issued server command: /set stone
-[00:08:18] [Server thread/INFO]: WorldEdit: korvallis (in "kevlar"): /set stone - Region: (-205.0, 49.0, 531.0) - (-205.0, 49.0, 672.0)
-[00:13:41] [Server thread/INFO]: korvallis issued server command: /set 159:14
-[00:13:41] [Server thread/INFO]: WorldEdit: korvallis (in "kevlar"): /set 159:14 - Region: (-200.0, 63.0, 744.0) - (-200.0, 63.0, 753.0)
-[00:13:47] [Server thread/INFO]: korvallis issued server command: /set 159
-[00:13:47] [Server thread/INFO]: WorldEdit: korvallis (in "kevlar"): /set 159 - Region: (-200.0, 64.0, 744.0) - (-200.0, 64.0, 753.0)
-[00:13:53] [Server thread/INFO]: korvallis issued server command: /set stone
-[00:13:53] [Server thread/INFO]: WorldEdit: korvallis (in "kevlar"): /set stone - Region: (-200.0, 65.0, 744.0) - (-200.0, 65.0, 753.0)
-[00:17:21] [Server thread/INFO]: korvallis issued server command: /set 159:5
-[00:17:21] [Server thread/INFO]: WorldEdit: korvallis (in "kevlar"): /set 159:5 - Region: (-207.0, 63.0, 756.0) - (-197.0, 63.0, 756.0)
-[00:17:32] [Server thread/INFO]: korvallis issued server command: /set 159:15
-[00:17:32] [Server thread/INFO]: WorldEdit: korvallis (in "kevlar"): /set 159:15 - Region: (-207.0, 64.0, 756.0) - (-197.0, 64.0, 756.0)
-[00:19:02] [Server thread/INFO]: korvallis issued server command: /set stone
-[00:19:02] [Server thread/INFO]: WorldEdit: korvallis (in "kevlar"): /set stone - Region: (-201.0, 66.0, 753.0) - (-198.0, 66.0, 755.0)
-[00:19:07] [Server thread/INFO]: korvallis issued server command: /set stone
-[00:19:07] [Server thread/INFO]: WorldEdit: korvallis (in "kevlar"): /set stone - Region: (-199.0, 63.0, 752.0) - (-197.0, 65.0, 752.0)
-[00:19:15] [Server thread/INFO]: korvallis issued server command: /set stone
-[00:19:15] [Server thread/INFO]: WorldEdit: korvallis (in "kevlar"): /set stone - Region: (-197.0, 63.0, 746.0) - (-197.0, 65.0, 752.0)
-[00:19:45] [Server thread/INFO]: korvallis issued server command: /set 195:14
-[00:19:45] [Server thread/INFO]: WorldEdit: korvallis (in "kevlar"): /set 195:14 - Region: (-208.0, 63.0, 741.0) - (-208.0, 63.0, 753.0)
-[00:19:51] [Server thread/INFO]: korvallis issued server command: /set 159:14
-[00:19:51] [Server thread/INFO]: WorldEdit: korvallis (in "kevlar"): /set 159:14 - Region: (-208.0, 63.0, 741.0) - (-208.0, 63.0, 753.0)
-[00:20:01] [Server thread/INFO]: korvallis issued server command: /set 159:15
-[00:20:01] [Server thread/INFO]: WorldEdit: korvallis (in "kevlar"): /set 159:15 - Region: (-208.0, 64.0, 741.0) - (-208.0, 64.0, 753.0)
-[00:26:12] [Server thread/INFO]: korvallis issued server command: /copy
-[00:26:12] [Server thread/INFO]: WorldEdit: korvallis (in "kevlar"): /copy
-[00:26:20] [Server thread/INFO]: korvallis issued server command: /paste
-[00:26:20] [Server thread/INFO]: WorldEdit: korvallis (in "kevlar"): /paste - Position: (-204.0, 53.0, 676.0)
-[00:27:03] [Server thread/INFO]: korvallis issued server command: /paste
-[00:27:03] [Server thread/INFO]: WorldEdit: korvallis (in "kevlar"): /paste - Position: (-204.0, 53.0, 692.0)
-[00:27:32] [Server thread/INFO]: korvallis issued server command: /set glowstone
-[00:27:32] [Server thread/INFO]: WorldEdit: korvallis (in "kevlar"): /set glowstone - Region: (-205.0, 52.0, 675.0) - (-205.0, 52.0, 702.0)
-[00:27:43] [Server thread/INFO]: korvallis issued server command: /set stone
-[00:27:43] [Server thread/INFO]: WorldEdit: korvallis (in "kevlar"): /set stone - Region: (-206.0, 55.0, 665.0) - (-204.0, 55.0, 671.0)
-[00:29:21] [Server thread/INFO]: korvallis issued server command: /set 0
-[00:29:21] [Server thread/INFO]: WorldEdit: korvallis (in "kevlar"): /set 0 - Region: (-203.0, 52.0, 705.0) - (-195.0, 64.0, 712.0)
-[00:30:16] [Server thread/INFO]: korvallis issued server command: /set 0
-[00:30:16] [Server thread/INFO]: WorldEdit: korvallis (in "kevlar"): /set 0 - Region: (-194.0, 52.0, 705.0) - (-186.0, 65.0, 712.0)
-[00:30:35] [Server thread/INFO]: korvallis issued server command: /set stone
-[00:30:35] [Server thread/INFO]: WorldEdit: korvallis (in "kevlar"): /set stone - Region: (-202.0, 52.0, 697.0) - (-170.0, 66.0, 702.0)
-[00:30:49] [Server thread/INFO]: korvallis issued server command: /set stone
-[00:30:49] [Server thread/INFO]: WorldEdit: korvallis (in "kevlar"): /set stone - Region: (-182.0, 52.0, 702.0) - (-170.0, 66.0, 705.0)
-[00:31:47] [Server thread/INFO]: korvallis issued server command: /set stone
-[00:31:47] [Server thread/INFO]: WorldEdit: korvallis (in "kevlar"): /set stone - Region: (-182.0, 52.0, 702.0) - (-170.0, 66.0, 705.0)
-[00:31:57] [Server thread/INFO]: korvallis issued server command: /set stone
-[00:31:57] [Server thread/INFO]: WorldEdit: korvallis (in "kevlar"): /set stone - Region: (-202.0, 52.0, 702.0) - (-183.0, 66.0, 702.0)
-[00:33:45] [Server thread/INFO]: korvallis issued server command: /set stone
-[00:33:45] [Server thread/INFO]: WorldEdit: korvallis (in "kevlar"): /set stone - Region: (-185.0, 48.0, 700.0) - (-182.0, 51.0, 713.0)
-[00:34:15] [Server thread/INFO]: korvallis issued server command: /set 0
-[00:34:15] [Server thread/INFO]: WorldEdit: korvallis (in "kevlar"): /set 0 - Region: (-202.0, 65.0, 705.0) - (-196.0, 66.0, 712.0)
-[00:34:38] [Server thread/INFO]: korvallis issued server command: /set 0
-[00:34:38] [Server thread/INFO]: WorldEdit: korvallis (in "kevlar"): /set 0 - Region: (-202.0, 52.0, 702.0) - (-183.0, 66.0, 702.0)
-[00:36:26] [Server thread/INFO]: korvallis issued server command: /replace stone 35:9
-[00:36:26] [Server thread/INFO]: WorldEdit: korvallis (in "kevlar"): /replace stone 35:9 - Region: (-202.0, 52.0, 701.0) - (-183.0, 66.0, 701.0)
-[00:37:19] [Server thread/INFO]: korvallis issued server command: /replace 35:9 35:3
-[00:37:19] [Server thread/INFO]: WorldEdit: korvallis (in "kevlar"): /replace 35:9 35:3 - Region: (-202.0, 52.0, 701.0) - (-183.0, 66.0, 701.0)
-[00:39:52] [Server thread/INFO]: korvallis issued server command: /set glowstone
-[00:39:52] [Server thread/INFO]: WorldEdit: korvallis (in "kevlar"): /set glowstone - Region: (-203.0, 51.0, 710.0) - (-183.0, 66.0, 710.0)
-[00:42:37] [Server thread/INFO]: korvallis issued server command: /set 35:5
-[00:42:37] [Server thread/INFO]: WorldEdit: korvallis (in "kevlar"): /set 35:5 - Region: (-207.0, 57.0, 701.0) - (-203.0, 66.0, 701.0)
-[00:42:42] [Server thread/INFO]: korvallis issued server command: /set 35:4
-[00:42:42] [Server thread/INFO]: WorldEdit: korvallis (in "kevlar"): /set 35:4 - Region: (-207.0, 57.0, 701.0) - (-203.0, 66.0, 701.0)
-[00:42:47] [Server thread/INFO]: korvallis issued server command: /set 35:3
-[00:42:47] [Server thread/INFO]: WorldEdit: korvallis (in "kevlar"): /set 35:3 - Region: (-207.0, 57.0, 701.0) - (-203.0, 66.0, 701.0)
-[00:43:29] [Server thread/INFO]: korvallis issued server command: /set glowstone
-[00:43:29] [Server thread/INFO]: WorldEdit: korvallis (in "kevlar"): /set glowstone - Region: (-206.0, 67.0, 702.0) - (-183.0, 67.0, 704.0)
-[00:43:41] [Server thread/INFO]: korvallis issued server command: /set 0
-[00:43:41] [Server thread/INFO]: WorldEdit: korvallis (in "kevlar"): /set 0 - Region: (-195.0, 66.0, 705.0) - (-183.0, 66.0, 709.0)
-[00:43:50] [Server thread/INFO]: korvallis issued server command: /set stone
-[00:43:50] [Server thread/INFO]: WorldEdit: korvallis (in "kevlar"): /set stone - Region: (-206.0, 66.0, 711.0) - (-183.0, 66.0, 712.0)
-[00:45:43] [Server thread/INFO]: korvallis issued server command: /set glowstone
-[00:45:43] [Server thread/INFO]: WorldEdit: korvallis (in "kevlar"): /set glowstone - Region: (-206.0, 67.0, 705.0) - (-183.0, 67.0, 709.0)
-[00:45:54] [Server thread/INFO]: korvallis issued server command: /set glowstone
-[00:45:54] [Server thread/INFO]: WorldEdit: korvallis (in "kevlar"): /set glowstone - Region: (-203.0, 51.0, 702.0) - (-183.0, 51.0, 709.0)
-[00:51:02] [Server thread/INFO]: CommandBlock at 139,36,555 issued server command: /kill korvallis
-[00:51:02] [Server thread/INFO]: korvallis died
-[00:51:04] [Server thread/INFO]: CommandBlock at 139,36,555 issued server command: /kill korvallis
-[00:51:05] [Server thread/INFO]: CommandBlock at 139,36,555 issued server command: /kill korvallis
-[00:51:07] [Server thread/INFO]: CommandBlock at 139,36,555 issued server command: /kill korvallis
-[00:51:07] [Server thread/INFO]: korvallis died
-[00:51:10] [Server thread/INFO]: CommandBlock at 139,36,555 issued server command: /kill korvallis
-[00:51:10] [Server thread/INFO]: korvallis died
-[00:51:12] [Server thread/INFO]: CommandBlock at 139,36,555 issued server command: /kill korvallis
-[00:51:12] [Server thread/INFO]: korvallis died
-[00:51:14] [Server thread/INFO]: CommandBlock at 139,36,555 issued server command: /kill korvallis
-[00:51:14] [Server thread/INFO]: korvallis died
-[00:52:29] [Server thread/INFO]: korvallis lost connection: Disconnected
-[00:52:29] [Server thread/INFO]: korvallis left the game.
-[01:39:10] [Server thread/INFO]: Kevlar[/192.168.0.100:50261] logged in with entity id 603583 at ([kevlar] -367.39066133355357, 98.0, 821.6458367972565)
-[01:39:44] [Server thread/INFO]: Kevlar issued server command: /j
-[01:39:44] [Server thread/INFO]: WorldEdit: Kevlar (in "kevlar"): jumpto
-[01:39:57] [Server thread/INFO]: Kevlar fell out of the world
-[01:39:59] [Server thread/INFO]: CommandBlock at 139,36,555 issued server command: /kill Kevlar
-[01:39:59] [Server thread/INFO]: Kevlar died
-[01:40:01] [Server thread/INFO]: CommandBlock at 139,36,555 issued server command: /kill Kevlar
-[01:40:01] [Server thread/INFO]: Kevlar died
-[01:40:03] [Server thread/INFO]: CommandBlock at 139,36,555 issued server command: /kill Kevlar
-[01:40:03] [Server thread/INFO]: Kevlar died
-[01:40:04] [Server thread/INFO]: CommandBlock at 139,36,555 issued server command: /kill Kevlar
-[01:40:16] [Server thread/INFO]: CommandBlock at 139,36,555 issued server command: /kill Kevlar
-[01:40:18] [Server thread/INFO]: CommandBlock at 139,36,555 issued server command: /kill Kevlar
-[01:40:21] [Server thread/INFO]: CommandBlock at 139,36,555 issued server command: /kill Kevlar
-[01:40:23] [Server thread/INFO]: CommandBlock at 139,36,555 issued server command: /kill Kevlar
-[01:40:25] [Server thread/INFO]: CommandBlock at 139,36,555 issued server command: /kill Kevlar
-[01:40:28] [Server thread/INFO]: CommandBlock at 139,36,555 issued server command: /kill Kevlar
-[01:40:30] [Server thread/INFO]: CommandBlock at 139,36,555 issued server command: /kill Kevlar
-[01:40:33] [Server thread/INFO]: CommandBlock at 139,36,555 issued server command: /kill Kevlar
-[01:40:35] [Server thread/INFO]: CommandBlock at 139,36,555 issued server command: /kill Kevlar
-[01:40:37] [Server thread/INFO]: CommandBlock at 139,36,555 issued server command: /kill Kevlar
-[01:40:40] [Server thread/INFO]: CommandBlock at 139,36,555 issued server command: /kill Kevlar
-[01:40:42] [Server thread/INFO]: CommandBlock at 139,36,555 issued server command: /kill Kevlar
-[01:40:45] [Server thread/INFO]: CommandBlock at 139,36,555 issued server command: /kill Kevlar
-[01:40:47] [Server thread/INFO]: CommandBlock at 139,36,555 issued server command: /kill Kevlar
-[01:40:49] [Server thread/INFO]: CommandBlock at 139,36,555 issued server command: /kill Kevlar
-[01:40:52] [Server thread/INFO]: CommandBlock at 139,36,555 issued server command: /kill Kevlar
-[01:40:54] [Server thread/INFO]: CommandBlock at 139,36,555 issued server command: /kill Kevlar
-[01:40:57] [Server thread/INFO]: CommandBlock at 139,36,555 issued server command: /kill Kevlar
-[01:40:59] [Server thread/INFO]: CommandBlock at 139,36,555 issued server command: /kill Kevlar
-[01:41:01] [Server thread/INFO]: CommandBlock at 139,36,555 issued server command: /kill Kevlar
-[01:41:04] [Server thread/INFO]: CommandBlock at 139,36,555 issued server command: /kill Kevlar
-[01:41:06] [Server thread/INFO]: CommandBlock at 139,36,555 issued server command: /kill Kevlar
-[01:41:09] [Server thread/INFO]: CommandBlock at 139,36,555 issued server command: /kill Kevlar
-[01:41:11] [Server thread/INFO]: CommandBlock at 139,36,555 issued server command: /kill Kevlar
-[01:41:13] [Server thread/INFO]: CommandBlock at 139,36,555 issued server command: /kill Kevlar
-[01:41:13] [Server thread/INFO]: Kevlar died
-[01:41:16] [Server thread/INFO]: CommandBlock at 139,36,555 issued server command: /kill Kevlar
-[01:41:18] [Server thread/INFO]: CommandBlock at 139,36,555 issued server command: /kill Kevlar
-[01:41:21] [Server thread/INFO]: CommandBlock at 139,36,555 issued server command: /kill Kevlar
-[01:41:23] [Server thread/INFO]: CommandBlock at 139,36,555 issued server command: /kill Kevlar
-[01:41:25] [Server thread/INFO]: CommandBlock at 139,36,555 issued server command: /kill Kevlar
-[01:41:28] [Server thread/INFO]: CommandBlock at 139,36,555 issued server command: /kill Kevlar
-[01:41:30] [Server thread/INFO]: CommandBlock at 139,36,555 issued server command: /kill Kevlar
-[01:41:30] [Server thread/INFO]: Kevlar lost connection: Internal Exception: java.io.IOException: Connection reset by peer
-[01:41:30] [Server thread/INFO]: Kevlar left the game.
-[01:44:34] [Server thread/INFO]: MickeyAndPluto[/192.168.0.100:50446] logged in with entity id 608568 at ([kevlar] -85.26975730673661, 72.5882549013172, 444.9912087854477)
-[01:44:39] [Server thread/INFO]: CommandBlock at 139,36,555 issued server command: /kill MickeyAndPluto
-[01:44:39] [Server thread/INFO]: MickeyAndPluto died
-[01:44:41] [Server thread/INFO]: CommandBlock at 139,36,555 issued server command: /kill MickeyAndPluto
-[01:44:41] [Server thread/INFO]: MickeyAndPluto died
-[01:44:43] [Server thread/INFO]: CommandBlock at 139,36,555 issued server command: /kill MickeyAndPluto
-[01:44:43] [Server thread/INFO]: MickeyAndPluto died
-[01:44:46] [Server thread/INFO]: CommandBlock at 139,36,555 issued server command: /kill MickeyAndPluto
-[01:44:46] [Server thread/INFO]: MickeyAndPluto died
-[01:44:50] [Server thread/INFO]: MickeyAndPluto issued server command: /tp 139,36,555
-[01:44:58] [Server thread/INFO]: MickeyAndPluto issued server command: /tp 139 36 555
-[01:45:04] [Server thread/INFO]: MickeyAndPluto issued server command: /tp mickeyandpluto 139 36 555
-[01:45:05] [Server thread/INFO]: CommandBlock at 139,36,555 issued server command: /kill MickeyAndPluto
-[01:45:05] [Server thread/INFO]: MickeyAndPluto died
-[01:45:10] [Server thread/INFO]: MickeyAndPluto issued server command: /back
-[01:45:11] [Server thread/INFO]: CommandBlock at 139,36,555 issued server command: /kill MickeyAndPluto
-[01:45:11] [Server thread/INFO]: MickeyAndPluto died
-[01:45:14] [Server thread/INFO]: MickeyAndPluto issued server command: /back
-[01:45:15] [Server thread/INFO]: CommandBlock at 139,36,555 issued server command: /kill MickeyAndPluto
-[01:45:15] [Server thread/INFO]: MickeyAndPluto died
-[01:45:21] [Server thread/INFO]: MickeyAndPluto issued server command: /back
-[01:45:23] [Server thread/INFO]: CommandBlock at 139,36,555 issued server command: /kill MickeyAndPluto
-[01:45:23] [Server thread/INFO]: MickeyAndPluto died
-[01:45:26] [Server thread/INFO]: MickeyAndPluto issued server command: /back
-[01:45:26] [Server thread/INFO]: CommandBlock at 139,36,555 issued server command: /kill MickeyAndPluto
-[01:45:26] [Server thread/INFO]: MickeyAndPluto died
-[01:45:29] [Server thread/INFO]: MickeyAndPluto issued server command: /back
-[01:45:30] [Server thread/INFO]: CommandBlock at 139,36,555 issued server command: /kill MickeyAndPluto
-[01:45:30] [Server thread/INFO]: MickeyAndPluto died
-[01:45:33] [Server thread/INFO]: MickeyAndPluto issued server command: /back
-[01:45:34] [Server thread/INFO]: CommandBlock at 139,36,555 issued server command: /kill MickeyAndPluto
-[01:45:34] [Server thread/INFO]: MickeyAndPluto died
-[01:45:49] [Server thread/INFO]: MickeyAndPluto issued server command: /effect MickeyAndPluto nightvision 1 10 10
-[01:45:56] [Server thread/INFO]: MickeyAndPluto issued server command: /effect MickeyAndPluto 15 1 10 10
-[01:45:56] [Server thread/INFO]: MickeyAndPluto: Given BLINDNESS (ID 15) * 10 to MickeyAndPluto for 1 seconds
-[01:46:05] [Server thread/INFO]: MickeyAndPluto issued server command: /effect MickeyAndPluto 16 10 10 10
-[01:46:05] [Server thread/INFO]: MickeyAndPluto: Given NIGHT_VISION (ID 16) * 10 to MickeyAndPluto for 10 seconds
-[01:46:08] [Server thread/INFO]: MickeyAndPluto issued server command: /back
-[01:46:46] [Server thread/INFO]: MickeyAndPluto issued server command: /thru
-[01:46:46] [Server thread/INFO]: WorldEdit: MickeyAndPluto (in "kevlar"): thru
-[01:47:15] [Server thread/INFO]: MickeyAndPluto lost connection: Disconnected
-[01:47:15] [Server thread/INFO]: MickeyAndPluto left the game.
-[01:48:42] [Thread-4/INFO]: Stopping server
+[01:52:59] [Server thread/INFO]: Starting minecraft server version 1.7.9
+[01:52:59] [Server console handler/ERROR]: Exception handling console input
+java.io.IOException: Bad file descriptor
+	at java.io.FileInputStream.readBytes(Native Method) ~[?:1.8.0_242]
+	at java.io.FileInputStream.read(FileInputStream.java:255) ~[?:1.8.0_242]
+	at java.io.BufferedInputStream.fill(BufferedInputStream.java:246) ~[?:1.8.0_242]
+	at java.io.BufferedInputStream.read(BufferedInputStream.java:265) ~[?:1.8.0_242]
+	at java.io.FilterInputStream.read(FilterInputStream.java:83) ~[?:1.8.0_242]
+	at org.bukkit.craftbukkit.libs.jline.console.ConsoleReader$1.read(ConsoleReader.java:167) ~[craftbukkit.jar:git-Bukkit-1.7.9-R0.1-10-g8688bd4-b3092jnks]
+	at org.bukkit.craftbukkit.libs.jline.internal.InputStreamReader.read(InputStreamReader.java:267) ~[craftbukkit.jar:git-Bukkit-1.7.9-R0.1-10-g8688bd4-b3092jnks]
+	at org.bukkit.craftbukkit.libs.jline.internal.InputStreamReader.read(InputStreamReader.java:204) ~[craftbukkit.jar:git-Bukkit-1.7.9-R0.1-10-g8688bd4-b3092jnks]
+	at org.bukkit.craftbukkit.libs.jline.console.ConsoleReader.readCharacter(ConsoleReader.java:995) ~[craftbukkit.jar:git-Bukkit-1.7.9-R0.1-10-g8688bd4-b3092jnks]
+	at org.bukkit.craftbukkit.libs.jline.console.ConsoleReader.readLineSimple(ConsoleReader.java:1506) ~[craftbukkit.jar:git-Bukkit-1.7.9-R0.1-10-g8688bd4-b3092jnks]
+	at org.bukkit.craftbukkit.libs.jline.console.ConsoleReader.readLine(ConsoleReader.java:1153) ~[craftbukkit.jar:git-Bukkit-1.7.9-R0.1-10-g8688bd4-b3092jnks]
+	at org.bukkit.craftbukkit.libs.jline.console.ConsoleReader.readLine(ConsoleReader.java:1117) ~[craftbukkit.jar:git-Bukkit-1.7.9-R0.1-10-g8688bd4-b3092jnks]
+	at org.bukkit.craftbukkit.libs.jline.console.ConsoleReader.readLine(ConsoleReader.java:1105) ~[craftbukkit.jar:git-Bukkit-1.7.9-R0.1-10-g8688bd4-b3092jnks]
+	at net.minecraft.server.v1_7_R3.ThreadCommandReader.run(ThreadCommandReader.java:34) [craftbukkit.jar:git-Bukkit-1.7.9-R0.1-10-g8688bd4-b3092jnks]
+[01:52:59] [Server thread/INFO]: Loading properties
+[01:52:59] [Server thread/INFO]: Default game type: CREATIVE
+[01:52:59] [Server thread/INFO]: Generating keypair
+[01:53:00] [Server thread/INFO]: Starting Minecraft server on *:5000
+[01:53:00] [Server thread/INFO]: This server is running CraftBukkit version git-Bukkit-1.7.9-R0.1-10-g8688bd4-b3092jnks (MC: 1.7.9) (Implementing API version 1.7.9-R0.2)
+[01:53:00] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v5.6.2
+[01:53:00] [Server thread/INFO]: [SignEdit] Loading SignEdit v3.3.9
+[01:53:00] [Server thread/INFO]: [RunAs] Loading RunAs v1.0.1
+[01:53:00] [Server thread/INFO]: [AntiCreeper] Loading AntiCreeper v4.18.1
+[01:53:00] [Server thread/INFO]: [Essentials] Loading Essentials v2.13.1
+[01:53:00] [Server thread/INFO]: [Speedcarts] Loading Speedcarts v1.3.5
+[01:53:00] [Server thread/INFO]: [GroupManager] Loading GroupManager v2.1.11 (Phoenix)
+[01:53:00] [Server thread/INFO]: [EssentialsChat] Loading EssentialsChat v2.13.1
+[01:53:00] [Server thread/INFO]: [EssentialsProtect] Loading EssentialsProtect v2.13.1
+[01:53:00] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[01:53:00] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[01:53:00] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[01:53:00] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[01:53:01] [Server thread/INFO]: Preparing level "kevlar"
+[01:53:01] [Server thread/INFO]: Preparing start region for level 0 (Seed: -6429030645283485143)
+[01:53:02] [Server thread/INFO]: Preparing spawn area: 20%
+[01:53:02] [Server thread/INFO]: Preparing start region for level 1 (Seed: -5412670237699833762)
+[01:53:03] [Server thread/INFO]: Preparing start region for level 2 (Seed: -5412670237699833762)
+[01:53:03] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v5.6.2
+[01:53:03] [Server thread/INFO]: WEPIF: Using the Bukkit Permissions API.
+[01:53:04] [Server thread/INFO]: [SignEdit] Enabling SignEdit v3.3.9
+[01:53:04] [Server thread/INFO]: [RunAs] Enabling RunAs v1.0.1
+[01:53:04] [Server thread/INFO]: [AntiCreeper] Enabling AntiCreeper v4.18.1
+[01:53:04] [Server thread/INFO]: [AntiCreeper] brought to you by Filbert66
+[01:53:04] [Server thread/INFO]: [Essentials] Enabling Essentials v2.13.1
+[01:53:05] [Server thread/INFO]: Essentials: Using config file enhanced permissions.
+[01:53:05] [Server thread/INFO]: Permissions listed in as player-commands will be given to all users.
+[01:53:05] [Server thread/INFO]: [Speedcarts] Enabling Speedcarts v1.3.5
+[01:53:05] [Server thread/INFO]: [Speedcarts] Checking for updates...
+[01:53:05] [Server thread/WARN]: [Speedcarts] [33mSpeedcarts could not check for updates [java.net.UnknownHostException: version.znt.se].[m
+[01:53:05] [Server thread/INFO]: [Speedcarts] Speedcarts enabled!
+[01:53:05] [Server thread/INFO]: [GroupManager] Enabling GroupManager v2.1.11 (Phoenix)
+[01:53:05] [Server thread/INFO]: GroupManager - INFO - World Found: kevlar
+[01:53:05] [Server thread/INFO]: GroupManager - INFO - World Found: world
+[01:53:05] [Server thread/INFO]: GroupManager - INFO - Superperms support enabled.
+[01:53:05] [Server thread/INFO]: GroupManager - INFO - Scheduled Data Saving is set for every 10 minutes!
+[01:53:05] [Server thread/INFO]: GroupManager - INFO - Backups will be retained for 24 hours!
+[01:53:05] [Server thread/INFO]: GroupManager version 2.1.11 (Phoenix) is enabled!
+[01:53:05] [Server thread/INFO]: WEPIF: GroupManager detected! Using GroupManager for permissions.
+[01:53:05] [Server thread/INFO]: Essentials: Using GroupManager based permissions.
+[01:53:05] [Server thread/INFO]: [EssentialsChat] Enabling EssentialsChat v2.13.1
+[01:53:05] [Server thread/INFO]: [EssentialsProtect] Enabling EssentialsProtect v2.13.1
+[01:53:05] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[01:53:05] [Server thread/INFO]: Done (4.804s)! For help, type "help" or "?"
+[01:53:05] [Server thread/INFO]: GroupManager - INFO - Bukkit Permissions Updated!
+[04:11:41] [Server thread/INFO]: s_mitty[/127.0.0.1:47978] logged in with entity id 3086 at ([kevlar] -191.07306664915563, 71.85155533097391, 563.2733284152622)
+[04:11:54] [Server thread/INFO]: [WorldEdit] Using external NmsBlock for this version: CBXNmsBlock_175_5xcompat
+[04:13:05] [pool-5-thread-1/INFO]: GroupManager - INFO -  Data files refreshed.
+[04:13:17] [Server thread/INFO]: s_mitty issued server command: /set air
+[04:13:17] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /set air - Region: (-194.0, 69.0, 594.0) - (-193.0, 71.0, 598.0)
+[04:13:45] [Server thread/INFO]: s_mitty issued server command: /set air
+[04:13:45] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /set air - Region: (-201.0, 64.0, 555.0) - (-193.0, 68.0, 604.0)
+[04:14:19] [Server thread/INFO]: s_mitty issued server command: /set quartz
+[04:14:19] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /set quartz - Region: (-202.0, 77.0, 554.0) - (-194.0, 77.0, 605.0)
+[04:15:09] [Server thread/INFO]: s_mitty issued server command: /cut
+[04:15:09] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /cut - Region: (-200.0, 78.0, 546.0) - (-196.0, 95.0, 550.0)
+[04:15:35] [Server thread/INFO]: s_mitty issued server command: /undo
+[04:15:35] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /undo
+[04:23:24] [Server thread/INFO]: s_mitty issued server command: /time set night
+[04:26:53] [Server thread/INFO]: s_mitty issued server command: /weather clear
+[04:27:02] [Server thread/INFO]: s_mitty issued server command: /time set day
+[04:27:29] [Server thread/INFO]: s_mitty issued server command: /set quartz
+[04:27:29] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /set quartz - Region: (-194.0, 72.0, 554.0) - (-193.0, 76.0, 605.0)
+[04:27:39] [Server thread/INFO]: s_mitty issued server command: /undo
+[04:27:39] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /undo
+[04:27:46] [Server thread/INFO]: s_mitty issued server command: /undo
+[04:27:46] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /undo
+[04:27:52] [Server thread/INFO]: s_mitty issued server command: /redo
+[04:27:52] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /redo
+[04:27:55] [Server thread/INFO]: s_mitty issued server command: /set quartz
+[04:27:55] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /set quartz - Region: (-193.0, 73.0, 554.0) - (-193.0, 76.0, 605.0)
+[04:28:13] [Server thread/INFO]: s_mitty issued server command: /set quartz
+[04:28:13] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /set quartz - Region: (-193.0, 72.0, 554.0) - (-193.0, 72.0, 605.0)
+[04:29:30] [Server thread/INFO]: CrunchyCaffine[/127.0.0.1:48280] logged in with entity id 20025 at ([kevlar] 165.4081625936471, 104.90929146954238, 369.46803638596697)
+[04:29:41] [Server thread/INFO]: s_mitty issued server command: /set quartz
+[04:29:41] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /set quartz - Region: (-213.0, 67.0, 555.0) - (-193.0, 68.0, 604.0)
+[04:29:44] [Server thread/INFO]: CrunchyCaffine issued server command: /list
+[04:29:51] [Netty IO #4/INFO]: <CrunchyCaffine> yo
+[04:29:52] [Server thread/INFO]: s_mitty issued server command: /set quartz
+[04:29:52] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /set quartz - Region: (-200.0, 69.0, 554.0) - (-193.0, 71.0, 554.0)
+[04:30:03] [Server thread/INFO]: s_mitty issued server command: /set quartz
+[04:30:03] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /set quartz - Region: (-193.0, 69.0, 555.0) - (-193.0, 72.0, 605.0)
+[04:30:15] [Server thread/INFO]: s_mitty issued server command: /set quartz
+[04:30:15] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /set quartz - Region: (-203.0, 69.0, 605.0) - (-194.0, 76.0, 605.0)
+[04:31:22] [Server thread/INFO]: s_mitty issued server command: /set air
+[04:31:22] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /set air - Region: (-206.0, 72.0, 564.0) - (-204.0, 73.0, 604.0)
+[04:32:07] [Server thread/INFO]: s_mitty issued server command: /set air
+[04:32:07] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /set air - Region: (-210.0, 68.0, 555.0) - (-194.0, 68.0, 604.0)
+[04:32:34] [Server thread/INFO]: s_mitty issued server command: /set air
+[04:32:34] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /set air - Region: (-211.0, 68.0, 555.0) - (-211.0, 68.0, 604.0)
+[04:33:05] [pool-5-thread-1/INFO]: GroupManager - INFO -  Data files refreshed.
+[04:33:22] [Server thread/INFO]: s_mitty issued server command: /set air
+[04:33:22] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /set air - Region: (-213.0, 68.0, 559.0) - (-213.0, 68.0, 604.0)
+[04:38:03] [Server thread/INFO]: s_mitty lost connection: Disconnected
+[04:38:03] [Server thread/INFO]: s_mitty left the game.
+[04:45:53] [Server thread/INFO]: CrunchyCaffine lost connection: You have been kicked for idling more than 10 minutes.
+[04:45:53] [Server thread/INFO]: CrunchyCaffine left the game.
+[05:22:11] [Server thread/INFO]: Kevlar[/192.168.0.100:50888] logged in with entity id 39824 at ([kevlar] 18.5, 96.74883583713113, 635.5)
+[05:23:11] [Server thread/INFO]: Kevlar lost connection: Internal Exception: java.io.IOException: Connection reset by peer
+[05:23:11] [Server thread/INFO]: Kevlar left the game.
+[05:24:30] [Server thread/INFO]: Kevlar[/192.168.0.100:49444] logged in with entity id 40979 at ([kevlar] 18.5, 110.0, 635.5)
+[05:24:37] [Server thread/INFO]: Kevlar issued server command: /time set day
+[05:26:22] [Server thread/INFO]: Kevlar lost connection: Disconnected
+[05:26:22] [Server thread/INFO]: Kevlar left the game.
+[05:47:27] [Server thread/INFO]: Kevlar[/192.168.0.100:49738] logged in with entity id 43667 at ([kevlar] 18.5, 110.0, 635.5)
+[05:48:48] [Server thread/INFO]: MASHTHEKEYBOARD[/192.168.0.134:61430] logged in with entity id 45673 at ([kevlar] -70.91685184394157, 81.7340332296762, 841.0661470604103)
+[05:50:27] [Server thread/INFO]: Kevlar issued server command: /tp MASHTHEKEYBOARD
+[05:50:44] [Server thread/INFO]: Kevlar issued server command: /tp MASHTHEKEYBOARD
+[05:50:59] [Server thread/INFO]: MickeyAndPluto[/192.168.0.105:50105] logged in with entity id 55858 at ([kevlar] 71.56857820033133, 34.0, 563.1774521488527)
+[05:51:22] [Server thread/INFO]: MickeyAndPluto issued server command: /tp kevlar mickeyandpluto
+[05:51:45] [Server thread/INFO]: Kevlar issued server command: /tp MASHTHEKEYBOARD
+[05:51:54] [Server thread/INFO]: MickeyAndPluto issued server command: /tp MASHTHEKEYBOARD
+[05:52:01] [Server thread/INFO]: Kevlar issued server command: /thru
+[05:52:01] [Server thread/INFO]: WorldEdit: Kevlar (in "kevlar"): thru
+[05:52:21] [Server thread/INFO]: MASHTHEKEYBOARD issued server command: /tp Kevlar
+[05:52:29] [Server thread/INFO]: Kevlar issued server command: /thru
+[05:52:29] [Server thread/INFO]: WorldEdit: Kevlar (in "kevlar"): thru
+[05:52:31] [Server thread/INFO]: Kevlar issued server command: /thru
+[05:52:31] [Server thread/INFO]: WorldEdit: Kevlar (in "kevlar"): thru
+[05:52:40] [Server thread/INFO]: MASHTHEKEYBOARD issued server command: /tp Kevlar
+[05:52:41] [Server thread/INFO]: Kevlar issued server command: /thru
+[05:52:41] [Server thread/INFO]: WorldEdit: Kevlar (in "kevlar"): thru
+[05:52:44] [Server thread/INFO]: Kevlar issued server command: /thru
+[05:52:44] [Server thread/INFO]: WorldEdit: Kevlar (in "kevlar"): thru
+[05:52:47] [Server thread/INFO]: Kevlar issued server command: /thruw
+[05:52:48] [Server thread/INFO]: Kevlar issued server command: /thruw
+[05:52:48] [Server thread/INFO]: MASHTHEKEYBOARD issued server command: /tp Kevlar
+[05:52:49] [Server thread/INFO]: Kevlar issued server command: /thru
+[05:52:49] [Server thread/INFO]: WorldEdit: Kevlar (in "kevlar"): thru
+[05:53:47] [Server thread/INFO]: s_mitty[/127.0.0.1:49516] logged in with entity id 63775 at ([kevlar] -208.07457414143954, 68.0, 559.0575869528186)
+[05:57:15] [Server thread/INFO]: MickeyAndPluto issued server command: /tp Kevlar
+[05:57:23] [Server thread/INFO]: s_mitty issued server command: /set quartz
+[05:57:23] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /set quartz - Region: (-201.0, 63.0, 558.0) - (-193.0, 64.0, 605.0)
+[05:57:32] [Server thread/INFO]: s_mitty issued server command: /undo
+[05:57:32] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /undo
+[05:57:39] [Server thread/INFO]: s_mitty issued server command: /set quartz
+[05:57:39] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /set quartz - Region: (-201.0, 63.0, 558.0) - (-193.0, 63.0, 604.0)
+[05:59:00] [Server thread/INFO]: s_mitty issued server command: /set quartz
+[05:59:00] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /set quartz - Region: (-199.0, 63.0, 555.0) - (-193.0, 63.0, 558.0)
+[05:59:55] [Server thread/INFO]: s_mitty issued server command: /set quartz
+[05:59:55] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /set quartz - Region: (-196.0, 64.0, 554.0) - (-193.0, 66.0, 554.0)
+[06:00:19] [Server thread/INFO]: s_mitty issued server command: /set quartz
+[06:00:19] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /set quartz - Region: (-192.0, 64.0, 555.0) - (-192.0, 66.0, 604.0)
+[06:00:28] [Server thread/INFO]: s_mitty issued server command: /set quartz
+[06:00:28] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /set quartz - Region: (-212.0, 64.0, 605.0) - (-193.0, 66.0, 605.0)
+[06:00:47] [Server thread/INFO]: MickeyAndPluto issued server command: /kill all hostile
+[06:00:52] [Server thread/INFO]: MickeyAndPluto issued server command: /kill hostile
+[06:00:58] [Server thread/INFO]: MickeyAndPluto issued server command: /kill MASHTHEKEYBOARD
+[06:00:58] [Server thread/INFO]: MASHTHEKEYBOARD died
+[06:01:03] [Server thread/INFO]: MickeyAndPluto issued server command: /killall
+[06:01:04] [Server thread/INFO]: MASHTHEKEYBOARD issued server command: /back
+[06:01:11] [Server thread/INFO]: MickeyAndPluto issued server command: /killall hostile
+[06:01:31] [Server thread/INFO]: MickeyAndPluto issued server command: /killall hostile
+[06:01:37] [Server thread/INFO]: MickeyAndPluto issued server command: /kill all hostile
+[06:01:44] [Server thread/INFO]: MickeyAndPluto issued server command: /killall hostile
+[06:02:18] [Server thread/INFO]: MickeyAndPluto issued server command: /killall players
+[06:02:18] [Server thread/INFO]: s_mitty issued server command: /set quartz
+[06:02:18] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /set quartz - Region: (-211.0, 68.0, 605.0) - (-194.0, 68.0, 605.0)
+[06:02:24] [Server thread/INFO]: MickeyAndPluto issued server command: /killall mobs
+[06:02:27] [Server thread/INFO]: s_mitty issued server command: /set quartz
+[06:02:27] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /set quartz - Region: (-206.0, 68.0, 605.0) - (-203.0, 73.0, 605.0)
+[06:02:31] [Server thread/INFO]: MickeyAndPluto issued server command: /killall mobs
+[06:02:35] [Server thread/INFO]: s_mitty issued server command: /set quartz
+[06:02:35] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /set quartz - Region: (-208.0, 68.0, 605.0) - (-207.0, 72.0, 605.0)
+[06:02:36] [Server thread/INFO]: MickeyAndPluto issued server command: /killall mobs
+[06:07:55] [Server thread/INFO]: MickeyAndPluto lost connection: Disconnected
+[06:07:55] [Server thread/INFO]: MickeyAndPluto left the game.
+[06:17:18] [Server thread/INFO]: s_mitty issued server command: /killall mobs
+[06:17:26] [Server thread/INFO]: s_mitty issued server command: /time set day
+[06:20:10] [Server thread/INFO]: Kevlar lost connection: Disconnected
+[06:20:10] [Server thread/INFO]: Kevlar left the game.
+[06:22:10] [Server thread/INFO]: MASHTHEKEYBOARD lost connection: Disconnected
+[06:22:10] [Server thread/INFO]: MASHTHEKEYBOARD left the game.
+[06:30:06] [Server thread/INFO]: s_mitty issued server command: /cut
+[06:30:06] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /cut - Region: (-254.0, 64.0, 554.0) - (-219.0, 73.0, 585.0)
+[06:30:13] [Server thread/INFO]: s_mitty issued server command: /paste
+[06:30:13] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /paste - Position: (-213.0, 68.0, 562.0)
+[06:36:03] [Server thread/INFO]: s_mitty issued server command: /weather clear
+[06:37:40] [Server thread/INFO]: s_mitty issued server command: /cut
+[06:37:40] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /cut - Region: (-254.0, 63.0, 566.0) - (-253.0, 63.0, 572.0)
+[06:37:48] [Server thread/INFO]: s_mitty issued server command: /paste
+[06:37:48] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /paste - Position: (-253.0, 64.0, 572.0)
+[06:44:29] [Server thread/INFO]: s_mitty issued server command: /set air
+[06:44:29] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /set air - Region: (-228.0, 64.0, 605.0) - (-214.0, 105.0, 621.0)
+[06:45:17] [Server thread/INFO]: s_mitty issued server command: /set stone
+[06:45:17] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /set stone - Region: (-213.0, 64.0, 605.0) - (-213.0, 82.0, 621.0)
+[06:46:27] [Server thread/INFO]: s_mitty issued server command: /copy
+[06:46:27] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /copy
+[06:46:45] [Server thread/INFO]: s_mitty issued server command: /paste
+[06:46:45] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /paste - Position: (-209.0, 72.0, 590.0)
+[06:46:57] [Server thread/INFO]: s_mitty issued server command: /undo
+[06:46:57] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /undo
+[06:47:04] [Server thread/INFO]: s_mitty issued server command: /paste
+[06:47:04] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /paste - Position: (-209.0, 72.0, 590.0)
+[06:47:11] [Server thread/INFO]: s_mitty issued server command: /undo
+[06:47:11] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /undo
+[06:47:15] [Server thread/INFO]: s_mitty issued server command: /paste
+[06:47:15] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /paste - Position: (-210.0, 71.0, 590.0)
+[06:47:50] [Server thread/INFO]: s_mitty issued server command: /undo
+[06:47:50] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /undo
+[06:47:57] [Server thread/INFO]: s_mitty issued server command: /paste
+[06:47:57] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /paste - Position: (-210.0, 71.0, 595.0)
+[06:48:27] [Server thread/INFO]: s_mitty issued server command: /set stone
+[06:48:27] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /set stone - Region: (-213.0, 64.0, 605.0) - (-209.0, 77.0, 621.0)
+[06:50:25] [Server thread/INFO]: s_mitty issued server command: /copy
+[06:50:25] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /copy
+[06:50:42] [Server thread/INFO]: s_mitty issued server command: /paste
+[06:50:42] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /paste - Position: (-255.0, 64.0, 607.0)
+[06:50:54] [Server thread/INFO]: s_mitty issued server command: /undo
+[06:50:54] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /undo
+[06:50:58] [Server thread/INFO]: s_mitty issued server command: /paste
+[06:50:58] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /paste - Position: (-256.0, 64.0, 607.0)
+[06:52:37] [Server thread/INFO]: s_mitty issued server command: /time set day
+[06:57:43] [Server thread/INFO]: s_mitty issued server command: /weather clear
+[07:00:36] [Server thread/INFO]: s_mitty issued server command: /set grass
+[07:00:36] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /set grass - Region: (-278.0, 63.0, 622.0) - (-241.0, 63.0, 624.0)
+[07:00:55] [Server thread/INFO]: s_mitty issued server command: /set grass
+[07:00:55] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /set grass - Region: (-278.0, 63.0, 625.0) - (-241.0, 63.0, 635.0)
+[07:03:24] [Server thread/INFO]: s_mitty issued server command: /time set day
+[07:04:04] [Server thread/INFO]: korvallis[/127.0.0.1:50600] logged in with entity id 164534 at ([kevlar] -76.63515032978327, 252.52936759557844, 309.4626930288208)
+[07:04:20] [Server thread/INFO]: korvallis issued server command: /warp farm
+[07:04:24] [Server thread/INFO]: korvallis issued server command: /warp aiport
+[07:04:28] [Server thread/INFO]: korvallis issued server command: /warp airport
+[07:06:32] [Server thread/INFO]: korvallis lost connection: Disconnected
+[07:06:32] [Server thread/INFO]: korvallis left the game.
+[07:06:47] [Server thread/INFO]: s_mitty issued server command: /set water
+[07:06:47] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /set water - Region: (-249.0, 62.0, 630.0) - (-245.0, 63.0, 633.0)
+[07:09:44] [Server thread/INFO]: s_mitty issued server command: /set grass
+[07:09:44] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /set grass - Region: (-278.0, 63.0, 617.0) - (-275.0, 63.0, 621.0)
+[07:11:12] [Server thread/INFO]: s_mitty lost connection: Disconnected
+[07:11:12] [Server thread/INFO]: s_mitty left the game.
+[16:13:35] [Server thread/INFO]: Kevlar[/192.168.0.100:50315] logged in with entity id 175493 at ([kevlar] 294.5306639291926, 52.0, 589.8536307098403)
