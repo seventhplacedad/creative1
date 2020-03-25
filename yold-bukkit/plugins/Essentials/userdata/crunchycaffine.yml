@@ -1,7 +1,7 @@
 uuid: 22cdf969-3cde-38b5-bf42-29f1712cf7e7
 timestamps:
-  login: 1440972932251
-  logout: 1440972633780
+  login: 1585080637203
+  logout: 1585080684581
   lastteleport: 1440975847238
 ipAddress: 127.0.0.1
 lastlocation:
@@ -13,9 +13,9 @@ lastlocation:
   pitch: -6.599977
 logoutlocation:
   world: kevlar
-  x: -130.59774717998386
-  y: 44.05257717408371
-  z: 681.6999999880791
-  yaw: -89.09741
-  pitch: 2.8500528
+  x: 165.4081625936471
+  y: 104.90929146954238
+  z: 369.46803638596697
+  yaw: 327.30124
+  pitch: 52.8
 afk: false
