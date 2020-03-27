@@ -1,254 +1,419 @@
-[01:52:59] [Server thread/INFO]: Starting minecraft server version 1.7.9
-[01:52:59] [Server console handler/ERROR]: Exception handling console input
-java.io.IOException: Bad file descriptor
-	at java.io.FileInputStream.readBytes(Native Method) ~[?:1.8.0_242]
-	at java.io.FileInputStream.read(FileInputStream.java:255) ~[?:1.8.0_242]
-	at java.io.BufferedInputStream.fill(BufferedInputStream.java:246) ~[?:1.8.0_242]
-	at java.io.BufferedInputStream.read(BufferedInputStream.java:265) ~[?:1.8.0_242]
-	at java.io.FilterInputStream.read(FilterInputStream.java:83) ~[?:1.8.0_242]
-	at org.bukkit.craftbukkit.libs.jline.console.ConsoleReader$1.read(ConsoleReader.java:167) ~[craftbukkit.jar:git-Bukkit-1.7.9-R0.1-10-g8688bd4-b3092jnks]
-	at org.bukkit.craftbukkit.libs.jline.internal.InputStreamReader.read(InputStreamReader.java:267) ~[craftbukkit.jar:git-Bukkit-1.7.9-R0.1-10-g8688bd4-b3092jnks]
-	at org.bukkit.craftbukkit.libs.jline.internal.InputStreamReader.read(InputStreamReader.java:204) ~[craftbukkit.jar:git-Bukkit-1.7.9-R0.1-10-g8688bd4-b3092jnks]
-	at org.bukkit.craftbukkit.libs.jline.console.ConsoleReader.readCharacter(ConsoleReader.java:995) ~[craftbukkit.jar:git-Bukkit-1.7.9-R0.1-10-g8688bd4-b3092jnks]
-	at org.bukkit.craftbukkit.libs.jline.console.ConsoleReader.readLineSimple(ConsoleReader.java:1506) ~[craftbukkit.jar:git-Bukkit-1.7.9-R0.1-10-g8688bd4-b3092jnks]
-	at org.bukkit.craftbukkit.libs.jline.console.ConsoleReader.readLine(ConsoleReader.java:1153) ~[craftbukkit.jar:git-Bukkit-1.7.9-R0.1-10-g8688bd4-b3092jnks]
-	at org.bukkit.craftbukkit.libs.jline.console.ConsoleReader.readLine(ConsoleReader.java:1117) ~[craftbukkit.jar:git-Bukkit-1.7.9-R0.1-10-g8688bd4-b3092jnks]
-	at org.bukkit.craftbukkit.libs.jline.console.ConsoleReader.readLine(ConsoleReader.java:1105) ~[craftbukkit.jar:git-Bukkit-1.7.9-R0.1-10-g8688bd4-b3092jnks]
-	at net.minecraft.server.v1_7_R3.ThreadCommandReader.run(ThreadCommandReader.java:34) [craftbukkit.jar:git-Bukkit-1.7.9-R0.1-10-g8688bd4-b3092jnks]
-[01:52:59] [Server thread/INFO]: Loading properties
-[01:52:59] [Server thread/INFO]: Default game type: CREATIVE
-[01:52:59] [Server thread/INFO]: Generating keypair
-[01:53:00] [Server thread/INFO]: Starting Minecraft server on *:5000
-[01:53:00] [Server thread/INFO]: This server is running CraftBukkit version git-Bukkit-1.7.9-R0.1-10-g8688bd4-b3092jnks (MC: 1.7.9) (Implementing API version 1.7.9-R0.2)
-[01:53:00] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v5.6.2
-[01:53:00] [Server thread/INFO]: [SignEdit] Loading SignEdit v3.3.9
-[01:53:00] [Server thread/INFO]: [RunAs] Loading RunAs v1.0.1
-[01:53:00] [Server thread/INFO]: [AntiCreeper] Loading AntiCreeper v4.18.1
-[01:53:00] [Server thread/INFO]: [Essentials] Loading Essentials v2.13.1
-[01:53:00] [Server thread/INFO]: [Speedcarts] Loading Speedcarts v1.3.5
-[01:53:00] [Server thread/INFO]: [GroupManager] Loading GroupManager v2.1.11 (Phoenix)
-[01:53:00] [Server thread/INFO]: [EssentialsChat] Loading EssentialsChat v2.13.1
-[01:53:00] [Server thread/INFO]: [EssentialsProtect] Loading EssentialsProtect v2.13.1
-[01:53:00] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[01:53:00] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[01:53:00] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[01:53:00] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[01:53:01] [Server thread/INFO]: Preparing level "kevlar"
-[01:53:01] [Server thread/INFO]: Preparing start region for level 0 (Seed: -6429030645283485143)
-[01:53:02] [Server thread/INFO]: Preparing spawn area: 20%
-[01:53:02] [Server thread/INFO]: Preparing start region for level 1 (Seed: -5412670237699833762)
-[01:53:03] [Server thread/INFO]: Preparing start region for level 2 (Seed: -5412670237699833762)
-[01:53:03] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v5.6.2
-[01:53:03] [Server thread/INFO]: WEPIF: Using the Bukkit Permissions API.
-[01:53:04] [Server thread/INFO]: [SignEdit] Enabling SignEdit v3.3.9
-[01:53:04] [Server thread/INFO]: [RunAs] Enabling RunAs v1.0.1
-[01:53:04] [Server thread/INFO]: [AntiCreeper] Enabling AntiCreeper v4.18.1
-[01:53:04] [Server thread/INFO]: [AntiCreeper] brought to you by Filbert66
-[01:53:04] [Server thread/INFO]: [Essentials] Enabling Essentials v2.13.1
-[01:53:05] [Server thread/INFO]: Essentials: Using config file enhanced permissions.
-[01:53:05] [Server thread/INFO]: Permissions listed in as player-commands will be given to all users.
-[01:53:05] [Server thread/INFO]: [Speedcarts] Enabling Speedcarts v1.3.5
-[01:53:05] [Server thread/INFO]: [Speedcarts] Checking for updates...
-[01:53:05] [Server thread/WARN]: [Speedcarts] [33mSpeedcarts could not check for updates [java.net.UnknownHostException: version.znt.se].[m
-[01:53:05] [Server thread/INFO]: [Speedcarts] Speedcarts enabled!
-[01:53:05] [Server thread/INFO]: [GroupManager] Enabling GroupManager v2.1.11 (Phoenix)
-[01:53:05] [Server thread/INFO]: GroupManager - INFO - World Found: kevlar
-[01:53:05] [Server thread/INFO]: GroupManager - INFO - World Found: world
-[01:53:05] [Server thread/INFO]: GroupManager - INFO - Superperms support enabled.
-[01:53:05] [Server thread/INFO]: GroupManager - INFO - Scheduled Data Saving is set for every 10 minutes!
-[01:53:05] [Server thread/INFO]: GroupManager - INFO - Backups will be retained for 24 hours!
-[01:53:05] [Server thread/INFO]: GroupManager version 2.1.11 (Phoenix) is enabled!
-[01:53:05] [Server thread/INFO]: WEPIF: GroupManager detected! Using GroupManager for permissions.
-[01:53:05] [Server thread/INFO]: Essentials: Using GroupManager based permissions.
-[01:53:05] [Server thread/INFO]: [EssentialsChat] Enabling EssentialsChat v2.13.1
-[01:53:05] [Server thread/INFO]: [EssentialsProtect] Enabling EssentialsProtect v2.13.1
-[01:53:05] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[01:53:05] [Server thread/INFO]: Done (4.804s)! For help, type "help" or "?"
-[01:53:05] [Server thread/INFO]: GroupManager - INFO - Bukkit Permissions Updated!
-[04:11:41] [Server thread/INFO]: s_mitty[/127.0.0.1:47978] logged in with entity id 3086 at ([kevlar] -191.07306664915563, 71.85155533097391, 563.2733284152622)
-[04:11:54] [Server thread/INFO]: [WorldEdit] Using external NmsBlock for this version: CBXNmsBlock_175_5xcompat
-[04:13:05] [pool-5-thread-1/INFO]: GroupManager - INFO -  Data files refreshed.
-[04:13:17] [Server thread/INFO]: s_mitty issued server command: /set air
-[04:13:17] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /set air - Region: (-194.0, 69.0, 594.0) - (-193.0, 71.0, 598.0)
-[04:13:45] [Server thread/INFO]: s_mitty issued server command: /set air
-[04:13:45] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /set air - Region: (-201.0, 64.0, 555.0) - (-193.0, 68.0, 604.0)
-[04:14:19] [Server thread/INFO]: s_mitty issued server command: /set quartz
-[04:14:19] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /set quartz - Region: (-202.0, 77.0, 554.0) - (-194.0, 77.0, 605.0)
-[04:15:09] [Server thread/INFO]: s_mitty issued server command: /cut
-[04:15:09] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /cut - Region: (-200.0, 78.0, 546.0) - (-196.0, 95.0, 550.0)
-[04:15:35] [Server thread/INFO]: s_mitty issued server command: /undo
-[04:15:35] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /undo
-[04:23:24] [Server thread/INFO]: s_mitty issued server command: /time set night
-[04:26:53] [Server thread/INFO]: s_mitty issued server command: /weather clear
-[04:27:02] [Server thread/INFO]: s_mitty issued server command: /time set day
-[04:27:29] [Server thread/INFO]: s_mitty issued server command: /set quartz
-[04:27:29] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /set quartz - Region: (-194.0, 72.0, 554.0) - (-193.0, 76.0, 605.0)
-[04:27:39] [Server thread/INFO]: s_mitty issued server command: /undo
-[04:27:39] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /undo
-[04:27:46] [Server thread/INFO]: s_mitty issued server command: /undo
-[04:27:46] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /undo
-[04:27:52] [Server thread/INFO]: s_mitty issued server command: /redo
-[04:27:52] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /redo
-[04:27:55] [Server thread/INFO]: s_mitty issued server command: /set quartz
-[04:27:55] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /set quartz - Region: (-193.0, 73.0, 554.0) - (-193.0, 76.0, 605.0)
-[04:28:13] [Server thread/INFO]: s_mitty issued server command: /set quartz
-[04:28:13] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /set quartz - Region: (-193.0, 72.0, 554.0) - (-193.0, 72.0, 605.0)
-[04:29:30] [Server thread/INFO]: CrunchyCaffine[/127.0.0.1:48280] logged in with entity id 20025 at ([kevlar] 165.4081625936471, 104.90929146954238, 369.46803638596697)
-[04:29:41] [Server thread/INFO]: s_mitty issued server command: /set quartz
-[04:29:41] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /set quartz - Region: (-213.0, 67.0, 555.0) - (-193.0, 68.0, 604.0)
-[04:29:44] [Server thread/INFO]: CrunchyCaffine issued server command: /list
-[04:29:51] [Netty IO #4/INFO]: <CrunchyCaffine> yo
-[04:29:52] [Server thread/INFO]: s_mitty issued server command: /set quartz
-[04:29:52] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /set quartz - Region: (-200.0, 69.0, 554.0) - (-193.0, 71.0, 554.0)
-[04:30:03] [Server thread/INFO]: s_mitty issued server command: /set quartz
-[04:30:03] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /set quartz - Region: (-193.0, 69.0, 555.0) - (-193.0, 72.0, 605.0)
-[04:30:15] [Server thread/INFO]: s_mitty issued server command: /set quartz
-[04:30:15] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /set quartz - Region: (-203.0, 69.0, 605.0) - (-194.0, 76.0, 605.0)
-[04:31:22] [Server thread/INFO]: s_mitty issued server command: /set air
-[04:31:22] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /set air - Region: (-206.0, 72.0, 564.0) - (-204.0, 73.0, 604.0)
-[04:32:07] [Server thread/INFO]: s_mitty issued server command: /set air
-[04:32:07] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /set air - Region: (-210.0, 68.0, 555.0) - (-194.0, 68.0, 604.0)
-[04:32:34] [Server thread/INFO]: s_mitty issued server command: /set air
-[04:32:34] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /set air - Region: (-211.0, 68.0, 555.0) - (-211.0, 68.0, 604.0)
-[04:33:05] [pool-5-thread-1/INFO]: GroupManager - INFO -  Data files refreshed.
-[04:33:22] [Server thread/INFO]: s_mitty issued server command: /set air
-[04:33:22] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /set air - Region: (-213.0, 68.0, 559.0) - (-213.0, 68.0, 604.0)
-[04:38:03] [Server thread/INFO]: s_mitty lost connection: Disconnected
-[04:38:03] [Server thread/INFO]: s_mitty left the game.
-[04:45:53] [Server thread/INFO]: CrunchyCaffine lost connection: You have been kicked for idling more than 10 minutes.
-[04:45:53] [Server thread/INFO]: CrunchyCaffine left the game.
-[05:22:11] [Server thread/INFO]: Kevlar[/192.168.0.100:50888] logged in with entity id 39824 at ([kevlar] 18.5, 96.74883583713113, 635.5)
-[05:23:11] [Server thread/INFO]: Kevlar lost connection: Internal Exception: java.io.IOException: Connection reset by peer
-[05:23:11] [Server thread/INFO]: Kevlar left the game.
-[05:24:30] [Server thread/INFO]: Kevlar[/192.168.0.100:49444] logged in with entity id 40979 at ([kevlar] 18.5, 110.0, 635.5)
-[05:24:37] [Server thread/INFO]: Kevlar issued server command: /time set day
-[05:26:22] [Server thread/INFO]: Kevlar lost connection: Disconnected
-[05:26:22] [Server thread/INFO]: Kevlar left the game.
-[05:47:27] [Server thread/INFO]: Kevlar[/192.168.0.100:49738] logged in with entity id 43667 at ([kevlar] 18.5, 110.0, 635.5)
-[05:48:48] [Server thread/INFO]: MASHTHEKEYBOARD[/192.168.0.134:61430] logged in with entity id 45673 at ([kevlar] -70.91685184394157, 81.7340332296762, 841.0661470604103)
-[05:50:27] [Server thread/INFO]: Kevlar issued server command: /tp MASHTHEKEYBOARD
-[05:50:44] [Server thread/INFO]: Kevlar issued server command: /tp MASHTHEKEYBOARD
-[05:50:59] [Server thread/INFO]: MickeyAndPluto[/192.168.0.105:50105] logged in with entity id 55858 at ([kevlar] 71.56857820033133, 34.0, 563.1774521488527)
-[05:51:22] [Server thread/INFO]: MickeyAndPluto issued server command: /tp kevlar mickeyandpluto
-[05:51:45] [Server thread/INFO]: Kevlar issued server command: /tp MASHTHEKEYBOARD
-[05:51:54] [Server thread/INFO]: MickeyAndPluto issued server command: /tp MASHTHEKEYBOARD
-[05:52:01] [Server thread/INFO]: Kevlar issued server command: /thru
-[05:52:01] [Server thread/INFO]: WorldEdit: Kevlar (in "kevlar"): thru
-[05:52:21] [Server thread/INFO]: MASHTHEKEYBOARD issued server command: /tp Kevlar
-[05:52:29] [Server thread/INFO]: Kevlar issued server command: /thru
-[05:52:29] [Server thread/INFO]: WorldEdit: Kevlar (in "kevlar"): thru
-[05:52:31] [Server thread/INFO]: Kevlar issued server command: /thru
-[05:52:31] [Server thread/INFO]: WorldEdit: Kevlar (in "kevlar"): thru
-[05:52:40] [Server thread/INFO]: MASHTHEKEYBOARD issued server command: /tp Kevlar
-[05:52:41] [Server thread/INFO]: Kevlar issued server command: /thru
-[05:52:41] [Server thread/INFO]: WorldEdit: Kevlar (in "kevlar"): thru
-[05:52:44] [Server thread/INFO]: Kevlar issued server command: /thru
-[05:52:44] [Server thread/INFO]: WorldEdit: Kevlar (in "kevlar"): thru
-[05:52:47] [Server thread/INFO]: Kevlar issued server command: /thruw
-[05:52:48] [Server thread/INFO]: Kevlar issued server command: /thruw
-[05:52:48] [Server thread/INFO]: MASHTHEKEYBOARD issued server command: /tp Kevlar
-[05:52:49] [Server thread/INFO]: Kevlar issued server command: /thru
-[05:52:49] [Server thread/INFO]: WorldEdit: Kevlar (in "kevlar"): thru
-[05:53:47] [Server thread/INFO]: s_mitty[/127.0.0.1:49516] logged in with entity id 63775 at ([kevlar] -208.07457414143954, 68.0, 559.0575869528186)
-[05:57:15] [Server thread/INFO]: MickeyAndPluto issued server command: /tp Kevlar
-[05:57:23] [Server thread/INFO]: s_mitty issued server command: /set quartz
-[05:57:23] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /set quartz - Region: (-201.0, 63.0, 558.0) - (-193.0, 64.0, 605.0)
-[05:57:32] [Server thread/INFO]: s_mitty issued server command: /undo
-[05:57:32] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /undo
-[05:57:39] [Server thread/INFO]: s_mitty issued server command: /set quartz
-[05:57:39] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /set quartz - Region: (-201.0, 63.0, 558.0) - (-193.0, 63.0, 604.0)
-[05:59:00] [Server thread/INFO]: s_mitty issued server command: /set quartz
-[05:59:00] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /set quartz - Region: (-199.0, 63.0, 555.0) - (-193.0, 63.0, 558.0)
-[05:59:55] [Server thread/INFO]: s_mitty issued server command: /set quartz
-[05:59:55] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /set quartz - Region: (-196.0, 64.0, 554.0) - (-193.0, 66.0, 554.0)
-[06:00:19] [Server thread/INFO]: s_mitty issued server command: /set quartz
-[06:00:19] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /set quartz - Region: (-192.0, 64.0, 555.0) - (-192.0, 66.0, 604.0)
-[06:00:28] [Server thread/INFO]: s_mitty issued server command: /set quartz
-[06:00:28] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /set quartz - Region: (-212.0, 64.0, 605.0) - (-193.0, 66.0, 605.0)
-[06:00:47] [Server thread/INFO]: MickeyAndPluto issued server command: /kill all hostile
-[06:00:52] [Server thread/INFO]: MickeyAndPluto issued server command: /kill hostile
-[06:00:58] [Server thread/INFO]: MickeyAndPluto issued server command: /kill MASHTHEKEYBOARD
-[06:00:58] [Server thread/INFO]: MASHTHEKEYBOARD died
-[06:01:03] [Server thread/INFO]: MickeyAndPluto issued server command: /killall
-[06:01:04] [Server thread/INFO]: MASHTHEKEYBOARD issued server command: /back
-[06:01:11] [Server thread/INFO]: MickeyAndPluto issued server command: /killall hostile
-[06:01:31] [Server thread/INFO]: MickeyAndPluto issued server command: /killall hostile
-[06:01:37] [Server thread/INFO]: MickeyAndPluto issued server command: /kill all hostile
-[06:01:44] [Server thread/INFO]: MickeyAndPluto issued server command: /killall hostile
-[06:02:18] [Server thread/INFO]: MickeyAndPluto issued server command: /killall players
-[06:02:18] [Server thread/INFO]: s_mitty issued server command: /set quartz
-[06:02:18] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /set quartz - Region: (-211.0, 68.0, 605.0) - (-194.0, 68.0, 605.0)
-[06:02:24] [Server thread/INFO]: MickeyAndPluto issued server command: /killall mobs
-[06:02:27] [Server thread/INFO]: s_mitty issued server command: /set quartz
-[06:02:27] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /set quartz - Region: (-206.0, 68.0, 605.0) - (-203.0, 73.0, 605.0)
-[06:02:31] [Server thread/INFO]: MickeyAndPluto issued server command: /killall mobs
-[06:02:35] [Server thread/INFO]: s_mitty issued server command: /set quartz
-[06:02:35] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /set quartz - Region: (-208.0, 68.0, 605.0) - (-207.0, 72.0, 605.0)
-[06:02:36] [Server thread/INFO]: MickeyAndPluto issued server command: /killall mobs
-[06:07:55] [Server thread/INFO]: MickeyAndPluto lost connection: Disconnected
-[06:07:55] [Server thread/INFO]: MickeyAndPluto left the game.
-[06:17:18] [Server thread/INFO]: s_mitty issued server command: /killall mobs
-[06:17:26] [Server thread/INFO]: s_mitty issued server command: /time set day
-[06:20:10] [Server thread/INFO]: Kevlar lost connection: Disconnected
-[06:20:10] [Server thread/INFO]: Kevlar left the game.
-[06:22:10] [Server thread/INFO]: MASHTHEKEYBOARD lost connection: Disconnected
-[06:22:10] [Server thread/INFO]: MASHTHEKEYBOARD left the game.
-[06:30:06] [Server thread/INFO]: s_mitty issued server command: /cut
-[06:30:06] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /cut - Region: (-254.0, 64.0, 554.0) - (-219.0, 73.0, 585.0)
-[06:30:13] [Server thread/INFO]: s_mitty issued server command: /paste
-[06:30:13] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /paste - Position: (-213.0, 68.0, 562.0)
-[06:36:03] [Server thread/INFO]: s_mitty issued server command: /weather clear
-[06:37:40] [Server thread/INFO]: s_mitty issued server command: /cut
-[06:37:40] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /cut - Region: (-254.0, 63.0, 566.0) - (-253.0, 63.0, 572.0)
-[06:37:48] [Server thread/INFO]: s_mitty issued server command: /paste
-[06:37:48] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /paste - Position: (-253.0, 64.0, 572.0)
-[06:44:29] [Server thread/INFO]: s_mitty issued server command: /set air
-[06:44:29] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /set air - Region: (-228.0, 64.0, 605.0) - (-214.0, 105.0, 621.0)
-[06:45:17] [Server thread/INFO]: s_mitty issued server command: /set stone
-[06:45:17] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /set stone - Region: (-213.0, 64.0, 605.0) - (-213.0, 82.0, 621.0)
-[06:46:27] [Server thread/INFO]: s_mitty issued server command: /copy
-[06:46:27] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /copy
-[06:46:45] [Server thread/INFO]: s_mitty issued server command: /paste
-[06:46:45] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /paste - Position: (-209.0, 72.0, 590.0)
-[06:46:57] [Server thread/INFO]: s_mitty issued server command: /undo
-[06:46:57] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /undo
-[06:47:04] [Server thread/INFO]: s_mitty issued server command: /paste
-[06:47:04] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /paste - Position: (-209.0, 72.0, 590.0)
-[06:47:11] [Server thread/INFO]: s_mitty issued server command: /undo
-[06:47:11] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /undo
-[06:47:15] [Server thread/INFO]: s_mitty issued server command: /paste
-[06:47:15] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /paste - Position: (-210.0, 71.0, 590.0)
-[06:47:50] [Server thread/INFO]: s_mitty issued server command: /undo
-[06:47:50] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /undo
-[06:47:57] [Server thread/INFO]: s_mitty issued server command: /paste
-[06:47:57] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /paste - Position: (-210.0, 71.0, 595.0)
-[06:48:27] [Server thread/INFO]: s_mitty issued server command: /set stone
-[06:48:27] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /set stone - Region: (-213.0, 64.0, 605.0) - (-209.0, 77.0, 621.0)
-[06:50:25] [Server thread/INFO]: s_mitty issued server command: /copy
-[06:50:25] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /copy
-[06:50:42] [Server thread/INFO]: s_mitty issued server command: /paste
-[06:50:42] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /paste - Position: (-255.0, 64.0, 607.0)
-[06:50:54] [Server thread/INFO]: s_mitty issued server command: /undo
-[06:50:54] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /undo
-[06:50:58] [Server thread/INFO]: s_mitty issued server command: /paste
-[06:50:58] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /paste - Position: (-256.0, 64.0, 607.0)
-[06:52:37] [Server thread/INFO]: s_mitty issued server command: /time set day
-[06:57:43] [Server thread/INFO]: s_mitty issued server command: /weather clear
-[07:00:36] [Server thread/INFO]: s_mitty issued server command: /set grass
-[07:00:36] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /set grass - Region: (-278.0, 63.0, 622.0) - (-241.0, 63.0, 624.0)
-[07:00:55] [Server thread/INFO]: s_mitty issued server command: /set grass
-[07:00:55] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /set grass - Region: (-278.0, 63.0, 625.0) - (-241.0, 63.0, 635.0)
-[07:03:24] [Server thread/INFO]: s_mitty issued server command: /time set day
-[07:04:04] [Server thread/INFO]: korvallis[/127.0.0.1:50600] logged in with entity id 164534 at ([kevlar] -76.63515032978327, 252.52936759557844, 309.4626930288208)
-[07:04:20] [Server thread/INFO]: korvallis issued server command: /warp farm
-[07:04:24] [Server thread/INFO]: korvallis issued server command: /warp aiport
-[07:04:28] [Server thread/INFO]: korvallis issued server command: /warp airport
-[07:06:32] [Server thread/INFO]: korvallis lost connection: Disconnected
-[07:06:32] [Server thread/INFO]: korvallis left the game.
-[07:06:47] [Server thread/INFO]: s_mitty issued server command: /set water
-[07:06:47] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /set water - Region: (-249.0, 62.0, 630.0) - (-245.0, 63.0, 633.0)
-[07:09:44] [Server thread/INFO]: s_mitty issued server command: /set grass
-[07:09:44] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /set grass - Region: (-278.0, 63.0, 617.0) - (-275.0, 63.0, 621.0)
-[07:11:12] [Server thread/INFO]: s_mitty lost connection: Disconnected
-[07:11:12] [Server thread/INFO]: s_mitty left the game.
-[16:13:35] [Server thread/INFO]: Kevlar[/192.168.0.100:50315] logged in with entity id 175493 at ([kevlar] 294.5306639291926, 52.0, 589.8536307098403)
+[00:07:47] [Server thread/INFO]: s_mitty lost connection: Disconnected
+[00:07:47] [Server thread/INFO]: s_mitty left the game.
+[03:57:17] [Server thread/INFO]: Kevlar[/192.168.0.100:52410] logged in with entity id 1004179 at ([kevlar] -236.6443571288811, 123.8080721175894, 474.4399692039366)
+[03:57:22] [Server thread/INFO]: Kevlar issued server command: /list
+[03:58:24] [Server thread/INFO]: matt18990[/127.0.0.1:39054] logged in with entity id 1013185 at ([kevlar] 130.5, 66.0, 252.5)
+[03:58:24] [pool-4-thread-1/INFO]: Creating empty config: /home/mc/old/mc/yold-bukkit/plugins/Essentials/userdata/matt18990.yml
+[03:58:51] [Netty IO #5/INFO]: <matt18990> wtf
+[03:58:53] [Netty IO #3/INFO]: <Kevlar> hi
+[03:58:56] [Server thread/INFO]: Kevlar issued server command: /tp matt18990
+[03:59:00] [Netty IO #3/INFO]: <Kevlar> oh yeah
+[03:59:01] [Server thread/INFO]: CommandBlock at 128,63,257 issued server command: /gm c matt18990
+[03:59:01] [Server thread/INFO]: CommandBlock at 133,63,257 issued server command: /warp citycenter Kevlar
+[03:59:10] [Server thread/INFO]: CommandBlock at 128,63,257 issued server command: /gm c matt18990
+[03:59:10] [Server thread/INFO]: CommandBlock at 133,63,257 issued server command: /warp citycenter matt18990
+[03:59:11] [Netty IO #3/INFO]: <Kevlar> spawn is busted
+[03:59:14] [Server thread/INFO]: Kevlar issued server command: /tp matt18990
+[03:59:36] [Server thread/INFO]: matt18990 issued server command: /tp
+[03:59:36] [Server thread/INFO]: §cmatt18990 §4was denied access to command.
+[03:59:40] [Netty IO #5/INFO]: <matt18990> op me bruh
+[03:59:44] [Server thread/INFO]: Kevlar issued server command: /op matt18990
+[03:59:44] [Server thread/INFO]: Kevlar: Opped matt18990
+[03:59:46] [Server thread/INFO]: Kevlar issued server command: /tp matt18990
+[03:59:48] [Netty IO #5/INFO]: <matt18990> yeet
+[03:59:52] [Server thread/INFO]: matt18990 issued server command: /nick
+[03:59:58] [Server thread/INFO]: matt18990 issued server command: /nick kevlar gaylmao
+[04:00:01] [Netty IO #5/INFO]: <matt18990> LOL
+[04:00:03] [Netty IO #3/INFO]: <&ogaylmao> ty
+[04:00:08] [Netty IO #3/INFO]: <&ogaylmao> we dont have any permisisons
+[04:00:11] [Server thread/INFO]: matt18990 issued server command: /help
+[04:00:12] [Server thread/INFO]: WorldEdit: matt18990 (in "kevlar"): /help
+[04:00:14] [Server thread/INFO]: matt18990 issued server command: /nice
+[04:00:16] [Netty IO #5/INFO]: <matt18990> nice
+[04:00:20] [Netty IO #3/INFO]: <&ogaylmao> .h
+[04:00:22] [Server thread/INFO]: Kevlar issued server command: /j
+[04:00:22] [Server thread/INFO]: WorldEdit: Kevlar (in "kevlar"): jumpto
+[04:00:22] [Netty IO #5/INFO]: <matt18990> ok where r u building
+[04:00:37] [Netty IO #3/INFO]: <&ogaylmao> uh
+[04:00:48] [Netty IO #3/INFO]: <&ogaylmao> im working on fixing the rail lines
+[04:00:53] [Server thread/INFO]: Kevlar issued server command: /tp matt18990
+[04:00:59] [Server thread/INFO]: Kevlar issued server command: /time set day
+[04:01:02] [Server thread/INFO]: matt18990 issued server command: /tp
+[04:01:05] [Server thread/INFO]: matt18990 issued server command: /tp kevlar
+[04:01:09] [Server thread/INFO]: matt18990 issued server command: /tp kevlar
+[04:01:20] [Netty IO #3/INFO]: <&ogaylmao> this map is busted
+[04:01:23] [Netty IO #3/INFO]: <&ogaylmao> and wrong
+[04:01:51] [Netty IO #3/INFO]: <&ogaylmao> oh wtf
+[04:01:58] [Netty IO #5/INFO]: <matt18990> aw
+[04:02:06] [Netty IO #3/INFO]: <&ogaylmao> i swear like water and lava randomly spwan
+[04:02:33] [Netty IO #5/INFO]: <matt18990> none of these rails are fuckin powered lmao
+[04:02:41] [Netty IO #3/INFO]: <&ogaylmao> i have to fix it
+[04:02:46] [Netty IO #3/INFO]: <&ogaylmao> idk what the ufck hapened
+[04:02:52] [Netty IO #5/INFO]: <matt18990> LOL
+[04:02:58] [Netty IO #5/INFO]: <matt18990> get fucked
+[04:03:00] [Netty IO #5/INFO]: <matt18990> me2
+[04:03:11] [Netty IO #5/INFO]: <matt18990> what even happened
+[04:03:25] [Netty IO #3/INFO]: <&ogaylmao> i have no clue
+[04:03:35] [Netty IO #3/INFO]: <&ogaylmao> the rails were powereed like a few years ago
+[04:04:45] [Server thread/INFO]: Kevlar issued server command: /weather clear
+[04:05:12] [Netty IO #3/INFO]: <&ogaylmao> this busted too
+[04:05:15] [Netty IO #5/INFO]: <matt18990> what even happened
+[04:05:51] [Netty IO #3/INFO]: <&ogaylmao> i have no clue
+[04:05:53] [Netty IO #5/INFO]: <matt18990> i cant tell if this is a lot of shit
+[04:05:58] [Server thread/INFO]: Kevlar issued server command: /tp matt18990
+[04:06:02] [Netty IO #5/INFO]: <matt18990> or if its like nothing
+[04:06:04] [Netty IO #5/INFO]: <matt18990> LOL
+[04:06:05] [Netty IO #3/INFO]: <&ogaylmao> this is literally wackaff
+[04:06:08] [Netty IO #5/INFO]: <matt18990> if that makes any sense
+[04:06:12] [Netty IO #3/INFO]: <&ogaylmao> this is my brothers
+[04:06:12] [Server thread/INFO]: matt18990 issued server command: /tp Kevlar
+[04:06:20] [Netty IO #5/INFO]: <matt18990> like
+[04:06:20] [Netty IO #3/INFO]: <&ogaylmao> here come see thi sparty
+[04:06:27] [Netty IO #5/INFO]: <matt18990> theres a fuckin hay maze
+[04:06:27] [Server thread/INFO]: Kevlar issued server command: /j
+[04:06:27] [Server thread/INFO]: WorldEdit: Kevlar (in "kevlar"): jumpto
+[04:06:29] [Netty IO #5/INFO]: <matt18990> LMAO
+[04:06:31] [Server thread/INFO]: matt18990 issued server command: /tp Kevlar
+[04:06:31] [Netty IO #3/INFO]: <&ogaylmao> this is my brothers
+[04:06:35] [Server thread/INFO]: Kevlar issued server command: /tp matt18990 Kevlar
+[04:06:40] [Netty IO #5/INFO]: <matt18990> cool
+[04:06:42] [Netty IO #3/INFO]: <&ogaylmao> wackass airport
+[04:06:56] [Netty IO #5/INFO]: <matt18990> like shits even labelled and everything
+[04:06:58] [Netty IO #3/INFO]: <&ogaylmao> basically all of it is medicre
+[04:07:01] [Netty IO #5/INFO]: <matt18990> little details
+[04:07:03] [Netty IO #5/INFO]: <matt18990> lmfao
+[04:07:03] [Netty IO #3/INFO]: <&ogaylmao> but theres so much
+[04:07:10] [Netty IO #3/INFO]: <&ogaylmao> come
+[04:07:13] [Netty IO #3/INFO]: <&ogaylmao> nazi lesson
+[04:07:18] [Server thread/INFO]: matt18990 issued server command: /tp Kevlar
+[04:07:28] [pool-5-thread-1/INFO]: GroupManager - INFO -  Data files refreshed.
+[04:07:42] [Netty IO #3/INFO]: <&ogaylmao> wait no
+[04:07:46] [Server thread/INFO]: Kevlar issued server command: /time set day
+[04:08:02] [Netty IO #5/INFO]: <matt18990> WATERSLIDE
+[04:08:08] [Netty IO #3/INFO]: <&ogaylmao> aqueduct
+[04:08:14] [Netty IO #3/INFO]: <&ogaylmao> has its own trainstn
+[04:08:30] [Server thread/INFO]: Kevlar issued server command: /thru
+[04:08:30] [Server thread/INFO]: WorldEdit: Kevlar (in "kevlar"): thru
+[04:08:34] [Server thread/INFO]: Kevlar issued server command: /thru
+[04:08:34] [Server thread/INFO]: WorldEdit: Kevlar (in "kevlar"): thru
+[04:08:35] [Netty IO #5/INFO]: <matt18990> ya thers so much
+[04:08:53] [Netty IO #3/INFO]: <&ogaylmao> come back to bank
+[04:08:57] [Server thread/INFO]: matt18990 issued server command: /tp Kevlar
+[04:09:07] [Netty IO #5/INFO]: <matt18990> lmfao
+[04:09:34] [Netty IO #5/INFO]: <matt18990> lmao
+[04:09:39] [Netty IO #5/INFO]: <matt18990> why r ur brothers so edgy bro
+[04:09:46] [Netty IO #3/INFO]: <&ogaylmao> lol this was my hs friend
+[04:10:07] [Netty IO #3/INFO]: <&ogaylmao> idk what this is
+[04:10:13] [Server thread/INFO]: matt18990 issued server command: /tp Kevlar
+[04:10:18] [Netty IO #3/INFO]: <&ogaylmao> everytime i go on this server i find new stuffw
+[04:10:45] [Netty IO #5/INFO]: <matt18990> i forgot how to use worldedit
+[04:10:47] [Server thread/INFO]: Kevlar issued server command: /tp matt18990
+[04:10:53] [Netty IO #3/INFO]: <&ogaylmao> wit
+[04:10:56] [Netty IO #3/INFO]: <&ogaylmao> dont do worldedit
+[04:11:00] [Netty IO #3/INFO]: <&ogaylmao> ill show u why
+[04:11:04] [Server thread/INFO]: Kevlar issued server command: /warp citycenter
+[04:11:09] [Server thread/INFO]: matt18990 issued server command: /tp Kevlar
+[04:11:42] [Netty IO #3/INFO]: <&ogaylmao> hwere is it
+[04:12:00] [Server thread/INFO]: Kevlar issued server command: /j
+[04:12:00] [Server thread/INFO]: WorldEdit: Kevlar (in "kevlar"): jumpto
+[04:12:08] [Server thread/INFO]: Kevlar issued server command: /j
+[04:12:08] [Server thread/INFO]: WorldEdit: Kevlar (in "kevlar"): jumpto
+[04:12:14] [Netty IO #3/INFO]: <&ogaylmao> theres this
+[04:12:21] [Server thread/INFO]: matt18990 issued server command: /worldedit
+[04:12:24] [Server thread/INFO]: matt18990 issued server command: /set
+[04:12:31] [Netty IO #3/INFO]: <&ogaylmao> r u spawning vilagers
+[04:12:32] [Server thread/INFO]: matt18990 issued server command: /set lilypad
+[04:12:32] [Server thread/INFO]: WorldEdit: matt18990 (in "kevlar"): /set lilypad - Region: (-262.0, 63.0, 434.0) - (-211.0, 63.0, 476.0)
+[04:12:33] [Server thread/INFO]: Kevlar issued server command: /tp matt18990
+[04:12:40] [Server thread/INFO]: Kevlar issued server command: /back
+[04:12:46] [Server thread/INFO]: matt18990 issued server command: /spawn
+[04:12:51] [Netty IO #5/INFO]: <matt18990> aye
+[04:12:55] [Server thread/INFO]: Kevlar issued server command: /tp matt18990 Kevlar
+[04:13:15] [Netty IO #3/INFO]: <&ogaylmao> the underforest
+[04:13:16] [Netty IO #5/INFO]: <matt18990> oh shit
+[04:13:24] [Netty IO #3/INFO]: <&ogaylmao> cus iditions dont know how to world edit
+[04:13:49] [Netty IO #3/INFO]: <&ogaylmao> so yeah
+[04:13:57] [Netty IO #5/INFO]: <matt18990> theres so much redstone in here
+[04:13:58] [Netty IO #3/INFO]: <&ogaylmao> idk the creative world is like 6 years old now
+[04:14:02] [Server thread/INFO]: matt18990 issued server command: /tp Kevlar
+[04:14:06] [Netty IO #5/INFO]: <matt18990> fantastic
+[04:14:07] [Netty IO #3/INFO]: <&ogaylmao> its supposed to make it blink
+[04:14:08] [Server thread/INFO]: matt18990 issued server command: /back
+[04:14:11] [Server thread/INFO]: matt18990 issued server command: /back
+[04:14:11] [Server thread/INFO]: Kevlar issued server command: /warp citycenter
+[04:14:32] [Server thread/INFO]: Kevlar issued server command: /j
+[04:14:32] [Server thread/INFO]: WorldEdit: Kevlar (in "kevlar"): jumpto
+[04:14:40] [Server thread/INFO]: matt18990 issued server command: /tp Kevlar
+[04:14:54] [Netty IO #3/INFO]: <&ogaylmao> lol
+[04:15:17] [Netty IO #3/INFO]: <&ogaylmao> wwwwwwwwwwwwwww
+[04:15:25] [Netty IO #3/INFO]: <&ogaylmao> pool
+[04:15:31] [Server thread/INFO]: matt18990 issued server command: /tp Kevlar
+[04:17:21] [Netty IO #5/INFO]: <matt18990> rip all this stuff
+[04:17:29] [Netty IO #3/INFO]: <&ogaylmao> i think it was unfinished?
+[04:17:31] [Netty IO #5/INFO]: <matt18990> lets go to the womens locker room
+[04:17:36] [Netty IO #3/INFO]: <&ogaylmao> but there definitly might be corruptions
+[04:17:44] [Netty IO #5/INFO]: <matt18990> LMAO
+[04:17:45] [Netty IO #3/INFO]: <&ogaylmao> lol
+[04:17:51] [Netty IO #3/INFO]: <&ogaylmao> wait ok come see under the pagota
+[04:18:00] [Server thread/INFO]: Kevlar issued server command: /warp pagota
+[04:18:05] [Server thread/INFO]: Kevlar issued server command: /time set day
+[04:18:35] [Server thread/INFO]: Kevlar issued server command: /tp matt18990
+[04:19:00] [Netty IO #3/INFO]: <&ogaylmao> wyd
+[04:19:16] [Server thread/INFO]: Kevlar issued server command: /back
+[04:19:22] [Server thread/INFO]: Kevlar issued server command: /weather clear
+[04:19:26] [Server thread/INFO]: Kevlar issued server command: /tp matt18990
+[04:19:37] [Server thread/INFO]: matt18990 issued server command: /SET REDSTAINEDGLASS
+[04:19:37] [Server thread/INFO]: WorldEdit: matt18990 (in "kevlar"): /set REDSTAINEDGLASS - Region: (283.0, 60.0, 398.0) - (309.0, 73.0, 398.0)
+[04:19:42] [Server thread/INFO]: matt18990 issued server command: /set redstainedglass
+[04:19:42] [Server thread/INFO]: WorldEdit: matt18990 (in "kevlar"): /set redstainedglass - Region: (283.0, 60.0, 398.0) - (309.0, 73.0, 398.0)
+[04:19:48] [Netty IO #3/INFO]: <&ogaylmao> that looks like worledit to me
+[04:19:51] [Server thread/INFO]: matt18990 issued server command: /set redglass
+[04:19:51] [Server thread/INFO]: WorldEdit: matt18990 (in "kevlar"): /set redglass - Region: (283.0, 60.0, 398.0) - (309.0, 73.0, 398.0)
+[04:19:55] [Netty IO #5/INFO]: <matt18990> no its not
+[04:20:06] [Server thread/INFO]: Kevlar issued server command: /warp spheres
+[04:20:08] [Netty IO #5/INFO]: <matt18990> cant figure out the fuckin block name
+[04:20:14] [Server thread/INFO]: Kevlar issued server command: /thru
+[04:20:14] [Server thread/INFO]: WorldEdit: Kevlar (in "kevlar"): thru
+[04:20:26] [Netty IO #5/INFO]: <matt18990> OH
+[04:20:29] [Server thread/INFO]: Kevlar issued server command: /back
+[04:20:32] [Server thread/INFO]: matt18990 issued server command: /set red_stained_glass
+[04:20:32] [Server thread/INFO]: WorldEdit: matt18990 (in "kevlar"): /set red_stained_glass - Region: (283.0, 60.0, 398.0) - (309.0, 73.0, 398.0)
+[04:20:36] [Netty IO #5/INFO]: <matt18990> FUCK
+[04:20:42] [Netty IO #3/INFO]: <&ogaylmao> im consuded
+[04:20:45] [Netty IO #3/INFO]: <&ogaylmao> confused
+[04:20:49] [Server thread/INFO]: matt18990 issued server command: /set red_stained_glass
+[04:20:49] [Server thread/INFO]: WorldEdit: matt18990 (in "kevlar"): /set red_stained_glass - Region: (283.0, 60.0, 398.0) - (309.0, 73.0, 398.0)
+[04:20:54] [Server thread/INFO]: matt18990 issued server command: /set stone
+[04:20:54] [Server thread/INFO]: WorldEdit: matt18990 (in "kevlar"): /set stone - Region: (283.0, 60.0, 398.0) - (309.0, 73.0, 398.0)
+[04:20:58] [Netty IO #5/INFO]: <matt18990> uh oh
+[04:21:00] [Server thread/INFO]: matt18990 issued server command: /undo
+[04:21:00] [Server thread/INFO]: WorldEdit: matt18990 (in "kevlar"): /undo
+[04:21:23] [Server thread/INFO]: Kevlar issued server command: /set glass
+[04:21:23] [Server thread/INFO]: WorldEdit: Kevlar (in "kevlar"): /set glass - Region: (283.0, 60.0, 398.0) - (309.0, 73.0, 398.0)
+[04:21:28] [Server thread/INFO]: Kevlar issued server command: /undo
+[04:21:28] [Server thread/INFO]: WorldEdit: Kevlar (in "kevlar"): /undo
+[04:21:35] [Netty IO #5/INFO]: <matt18990> i just wana d a china flag
+[04:21:43] [Netty IO #5/INFO]: <matt18990> but i cant get worldedit to /set red_stained_glass
+[04:21:47] [Netty IO #3/INFO]: <&ogaylmao> no
+[04:21:52] [Netty IO #3/INFO]: <&ogaylmao> its glass:color
+[04:21:55] [Netty IO #5/INFO]: <matt18990> ohhhh
+[04:21:57] [Netty IO #3/INFO]: <&ogaylmao> but the colors are codes only
+[04:21:58] [Server thread/INFO]: matt18990 issued server command: /set glass:red
+[04:21:58] [Server thread/INFO]: WorldEdit: matt18990 (in "kevlar"): /set glass:red - Region: (283.0, 60.0, 398.0) - (309.0, 73.0, 398.0)
+[04:22:01] [Netty IO #5/INFO]: <matt18990> uh
+[04:22:07] [Server thread/INFO]: Kevlar issued server command: /set glass:10
+[04:22:07] [Server thread/INFO]: WorldEdit: Kevlar (in "kevlar"): /set glass:10 - Region: (283.0, 60.0, 398.0) - (309.0, 73.0, 398.0)
+[04:22:14] [Server thread/INFO]: Kevlar issued server command: /set stainedglass:10
+[04:22:14] [Server thread/INFO]: WorldEdit: Kevlar (in "kevlar"): /set stainedglass:10 - Region: (283.0, 60.0, 398.0) - (309.0, 73.0, 398.0)
+[04:22:18] [Server thread/INFO]: Kevlar issued server command: /set stainedglass:9
+[04:22:18] [Server thread/INFO]: WorldEdit: Kevlar (in "kevlar"): /set stainedglass:9 - Region: (283.0, 60.0, 398.0) - (309.0, 73.0, 398.0)
+[04:22:20] [Server thread/INFO]: Kevlar issued server command: /set stainedglass:12
+[04:22:20] [Server thread/INFO]: WorldEdit: Kevlar (in "kevlar"): /set stainedglass:12 - Region: (283.0, 60.0, 398.0) - (309.0, 73.0, 398.0)
+[04:22:22] [Server thread/INFO]: Kevlar issued server command: /set stainedglass:13
+[04:22:22] [Server thread/INFO]: WorldEdit: Kevlar (in "kevlar"): /set stainedglass:13 - Region: (283.0, 60.0, 398.0) - (309.0, 73.0, 398.0)
+[04:22:25] [Server thread/INFO]: Kevlar issued server command: /set stainedglass:14
+[04:22:25] [Server thread/INFO]: WorldEdit: Kevlar (in "kevlar"): /set stainedglass:14 - Region: (283.0, 60.0, 398.0) - (309.0, 73.0, 398.0)
+[04:22:27] [Netty IO #3/INFO]: <&ogaylmao> yay
+[04:22:28] [Server thread/INFO]: matt18990 issued server command: /set glass:13
+[04:22:28] [Server thread/INFO]: WorldEdit: matt18990 (in "kevlar"): /set glass:13 - Region: (283.0, 60.0, 398.0) - (309.0, 73.0, 398.0)
+[04:22:30] [Netty IO #3/INFO]: <&ogaylmao> yay
+[04:22:32] [Server thread/INFO]: Kevlar issued server command: /set stainedglass:14
+[04:22:32] [Server thread/INFO]: WorldEdit: Kevlar (in "kevlar"): /set stainedglass:14 - Region: (283.0, 60.0, 398.0) - (309.0, 73.0, 398.0)
+[04:22:33] [Server thread/INFO]: matt18990 issued server command: /set glass:14
+[04:22:33] [Server thread/INFO]: WorldEdit: matt18990 (in "kevlar"): /set glass:14 - Region: (283.0, 60.0, 398.0) - (309.0, 73.0, 398.0)
+[04:22:36] [Server thread/INFO]: Kevlar issued server command: /set stainedglass:14
+[04:22:36] [Server thread/INFO]: WorldEdit: Kevlar (in "kevlar"): /set stainedglass:14 - Region: (283.0, 60.0, 398.0) - (309.0, 73.0, 398.0)
+[04:22:37] [Netty IO #5/INFO]: <matt18990> wait fucked
+[04:22:38] [Netty IO #3/INFO]: <&ogaylmao> huh
+[04:22:41] [Netty IO #5/INFO]: <matt18990> how r u doin that
+[04:22:48] [Server thread/INFO]: matt18990 issued server command: //set glass:14
+[04:22:48] [Server thread/INFO]: WorldEdit: matt18990 (in "kevlar"): /set glass:14 - Region: (283.0, 60.0, 398.0) - (309.0, 73.0, 398.0)
+[04:22:50] [Netty IO #3/INFO]: <&ogaylmao> set stainedglass:14
+[04:22:52] [Server thread/INFO]: matt18990 issued server command: /undo
+[04:22:52] [Server thread/INFO]: WorldEdit: matt18990 (in "kevlar"): /undo
+[04:22:53] [Netty IO #3/INFO]: <&ogaylmao> sorry i lied
+[04:22:54] [Netty IO #5/INFO]: <matt18990> ohh
+[04:22:57] [Netty IO #5/INFO]: <matt18990> yeah got it
+[04:23:09] [Server thread/INFO]: Kevlar issued server command: /expand 1 b
+[04:23:09] [Server thread/INFO]: WorldEdit: Kevlar (in "kevlar"): /expand 1 b - Region: (283.0, 60.0, 398.0) - (309.0, 73.0, 398.0)
+[04:23:13] [Server thread/INFO]: Kevlar issued server command: /set stainedglass:14
+[04:23:13] [Server thread/INFO]: WorldEdit: Kevlar (in "kevlar"): /set stainedglass:14 - Region: (283.0, 60.0, 398.0) - (309.0, 73.0, 399.0)
+[04:23:33] [Server thread/INFO]: Kevlar issued server command: /set wool"14
+[04:23:33] [Server thread/INFO]: WorldEdit: Kevlar (in "kevlar"): /set wool"14 - Region: (283.0, 60.0, 398.0) - (309.0, 73.0, 398.0)
+[04:23:35] [Server thread/INFO]: Kevlar issued server command: /set wool:14
+[04:23:35] [Server thread/INFO]: WorldEdit: Kevlar (in "kevlar"): /set wool:14 - Region: (283.0, 60.0, 398.0) - (309.0, 73.0, 398.0)
+[04:23:43] [Netty IO #3/INFO]: <&ogaylmao> hail china
+[04:24:00] [Netty IO #3/INFO]: <&ogaylmao> thats perfect
+[04:24:10] [Netty IO #5/INFO]: <matt18990> lmfao
+[04:24:12] [Server thread/INFO]: Kevlar issued server command: /killall
+[04:24:14] [Netty IO #5/INFO]: <matt18990> fantastic
+[04:24:15] [Server thread/INFO]: Kevlar issued server command: /killall all
+[04:24:23] [Server thread/INFO]: Kevlar issued server command: /warp pagota
+[04:24:43] [Server thread/INFO]: Kevlar issued server command: /tp matt18990
+[04:24:44] [Server thread/INFO]: matt18990 issued server command: /set tnt
+[04:24:44] [Server thread/INFO]: WorldEdit: matt18990 (in "kevlar"): /set tnt - Region: (279.0, 57.0, 406.0) - (301.0, 78.0, 509.0)
+[04:24:47] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3525ms behind, skipping 70 tick(s)
+[04:24:49] [Netty IO #3/INFO]: <&ogaylmao> wait no
+[04:24:52] [Netty IO #5/INFO]: <matt18990> oh no
+[04:24:59] [Server thread/INFO]: matt18990 issued server command: /undo
+[04:24:59] [Server thread/INFO]: WorldEdit: matt18990 (in "kevlar"): /undo
+[04:25:08] [Server thread/INFO]: Kevlar issued server command: /killall tnt
+[04:25:18] [Server thread/INFO]: Kevlar issued server command: /killall tnt
+[04:25:29] [Netty IO #5/INFO]: <matt18990> oh no oh no
+[04:25:39] [Netty IO #5/INFO]: <matt18990> ytoh no oh no oh no
+[04:25:46] [Netty IO #3/INFO]: <&ogaylmao> ur rtrated
+[04:26:25] [Netty IO #5/INFO]: <matt18990> oh no oh no
+[04:26:32] [Netty IO #5/INFO]: <matt18990> no oh no
+[04:26:52] [Netty IO #5/INFO]: <matt18990> is it over?
+[04:26:52] [Netty IO #5/INFO]: <matt18990> is it over?ytoh no
+[04:27:11] [Netty IO #3/INFO]: <&ogaylmao> ur os cancelled
+[04:27:49] [Netty IO #3/INFO]: <&ogaylmao> why
+[04:28:02] [Netty IO #3/INFO]: <&ogaylmao> i cant even type or do anything
+[04:28:46] [Netty IO #5/INFO]: <matt18990> u can rollback right
+[04:29:09] [Netty IO #3/INFO]: <&ogaylmao> yeah i just hope that changes werent made recently
+[04:29:13] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 229936ms behind, skipping 4598 tick(s)
+[04:29:15] [Server thread/INFO]: Kevlar lost connection: Internal Exception: java.io.IOException: Connection reset by peer
+[04:29:15] [Server thread/INFO]: Kevlar left the game.
+[04:29:20] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 6974ms behind, skipping 139 tick(s)
+[04:29:48] [Server thread/INFO]: Kevlar[/192.168.0.100:52594] logged in with entity id 1171423 at ([kevlar] 253.00738853545772, 131.3656401961362, 402.0603970574525)
+[04:29:56] [Netty IO #7/INFO]: <&ogaylmao> wew
+[04:30:02] [Server thread/INFO]: Kevlar issued server command: /tp matt18990
+[04:30:19] [Server thread/INFO]: Kevlar issued server command: /tp matt18990
+[04:30:30] [Netty IO #7/INFO]: <&ogaylmao> that was dumb
+[04:30:35] [Netty IO #5/INFO]: <matt18990> yeah lmao
+[04:30:37] [Netty IO #5/INFO]: <matt18990> my bad
+[04:30:39] [Server thread/INFO]: matt18990 lost connection: Disconnected
+[04:30:39] [Server thread/INFO]: matt18990 left the game.
+[04:30:41] [Server thread/INFO]: matt18990[/127.0.0.1:39588] logged in with entity id 1171974 at ([kevlar] 329.8794730474038, 55.534265233620516, 481.5343315683179)
+[04:30:47] [Netty IO #7/INFO]: <&ogaylmao> is the server superlagged fo ru
+[04:30:51] [Netty IO #1/INFO]: <matt18990> yes
+[04:30:56] [Netty IO #1/INFO]: <matt18990> he tnt damage is loading in slowly
+[04:31:02] [Netty IO #7/INFO]: <&ogaylmao> yeah
+[04:31:06] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 73259ms behind, skipping 1465 tick(s)
+[04:31:08] [Netty IO #1/INFO]: <matt18990> oooooops
+[04:31:10] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4047ms behind, skipping 80 tick(s)
+[04:31:15] [Netty IO #1/INFO]: <matt18990> sry kevin
+[04:31:25] [Netty IO #7/INFO]: <&ogaylmao> lol nbd
+[04:31:29] [Netty IO #7/INFO]: <&ogaylmao> the server is git versioned
+[04:31:31] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 10434ms behind, skipping 208 tick(s)
+[04:31:34] [Netty IO #7/INFO]: <&ogaylmao> come see the pagota
+[04:31:40] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3384ms behind, skipping 67 tick(s)
+[04:31:41] [Server thread/INFO]: Kevlar issued server command: /warp pag
+[04:31:43] [Server thread/INFO]: matt18990 issued server command: /tp Kevlar
+[04:31:44] [Server thread/INFO]: Kevlar issued server command: /warp pagota
+[04:31:50] [Server thread/INFO]: matt18990 issued server command: /tp Kevlar
+[04:32:21] [Netty IO #7/INFO]: <&ogaylmao> wait
+[04:32:35] [Netty IO #1/INFO]: <matt18990> oo
+[04:32:37] [Netty IO #1/INFO]: <matt18990> its hell
+[04:32:53] [Netty IO #1/INFO]: <matt18990> clams
+[04:32:54] [Netty IO #1/INFO]: <matt18990> ?
+[04:32:59] [Netty IO #7/INFO]: <&ogaylmao> its dumb
+[04:33:00] [Netty IO #1/INFO]: <matt18990>  ur gay
+[04:33:06] [Netty IO #7/INFO]: <&ogaylmao> theres grafiti that says that all over
+[04:33:13] [Netty IO #1/INFO]: <matt18990> its like banksy
+[04:33:34] [Netty IO #1/INFO]: <matt18990>  lma
+[04:33:39] [Netty IO #1/INFO]: <matt18990>  ufbuskyejrwnoeukjfvbwukejfv
+[04:33:41] [Netty IO #7/INFO]: <&ogaylmao> lol what
+[04:35:38] [Server thread/INFO]: matt18990 issued server command: /tp Kevlar
+[04:36:34] [Server thread/INFO]: Kevlar issued server command: /tp matt18990
+[04:36:49] [Server thread/INFO]: matt18990 issued server command: /set poweredrail
+[04:36:49] [Server thread/INFO]: WorldEdit: matt18990 (in "kevlar"): /set poweredrail - Region: (-199.0, 50.0, 529.0) - (-170.0, 51.0, 529.0)
+[04:36:55] [Netty IO #1/INFO]: <matt18990> wtf
+[04:36:58] [Server thread/INFO]: matt18990 issued server command: /undo
+[04:36:58] [Server thread/INFO]: WorldEdit: matt18990 (in "kevlar"): /undo
+[04:38:05] [Netty IO #7/INFO]: <&ogaylmao> wait wait bad
+[04:38:24] [Netty IO #1/INFO]: <matt18990> ?
+[04:38:29] [Netty IO #1/INFO]: <matt18990> oop was that not right
+[04:38:39] [Netty IO #7/INFO]: <&ogaylmao> my freind is dumb
+[04:39:07] [Server thread/INFO]: matt18990 issued server command: /tp ke
+[04:39:33] [Server thread/INFO]: matt18990 issued server command: /set quartz
+[04:39:33] [Server thread/INFO]: WorldEdit: matt18990 (in "kevlar"): /set quartz - Region: (-157.0, 62.0, 529.0) - (-149.0, 62.0, 530.0)
+[04:39:46] [Server thread/INFO]: matt18990 issued server command: /set quartz
+[04:39:46] [Server thread/INFO]: WorldEdit: matt18990 (in "kevlar"): /set quartz - Region: (-163.0, 62.0, 518.0) - (-156.0, 62.0, 528.0)
+[04:39:57] [Server thread/INFO]: matt18990 issued server command: /set quartz
+[04:39:57] [Server thread/INFO]: WorldEdit: matt18990 (in "kevlar"): /set quartz - Region: (-163.0, 62.0, 531.0) - (-156.0, 62.0, 535.0)
+[04:40:20] [Server thread/INFO]: matt18990 issued server command: /set wood:3
+[04:40:20] [Server thread/INFO]: WorldEdit: matt18990 (in "kevlar"): /set wood:3 - Region: (-155.0, 62.0, 529.0) - (-149.0, 62.0, 530.0)
+[04:40:26] [Server thread/INFO]: matt18990 issued server command: /set darkoaklog
+[04:40:26] [Server thread/INFO]: WorldEdit: matt18990 (in "kevlar"): /set darkoaklog - Region: (-155.0, 62.0, 529.0) - (-149.0, 62.0, 530.0)
+[04:40:34] [Server thread/INFO]: matt18990 issued server command: /set log
+[04:40:34] [Server thread/INFO]: WorldEdit: matt18990 (in "kevlar"): /set log - Region: (-155.0, 62.0, 529.0) - (-149.0, 62.0, 530.0)
+[04:40:53] [Server thread/INFO]: matt18990 issued server command: /set wood
+[04:40:53] [Server thread/INFO]: WorldEdit: matt18990 (in "kevlar"): /set wood - Region: (-159.0, 62.0, 530.0) - (-156.0, 62.0, 532.0)
+[04:40:56] [Server thread/INFO]: matt18990 issued server command: /undo
+[04:40:56] [Server thread/INFO]: WorldEdit: matt18990 (in "kevlar"): /undo
+[04:40:57] [Server thread/INFO]: matt18990 issued server command: /set stone
+[04:40:57] [Server thread/INFO]: WorldEdit: matt18990 (in "kevlar"): /set stone - Region: (-159.0, 62.0, 530.0) - (-156.0, 62.0, 532.0)
+[04:41:03] [Server thread/INFO]: matt18990 issued server command: /set diamondore
+[04:41:03] [Server thread/INFO]: WorldEdit: matt18990 (in "kevlar"): /set diamondore - Region: (-159.0, 62.0, 530.0) - (-156.0, 62.0, 532.0)
+[04:41:07] [Server thread/INFO]: matt18990 issued server command: /set lava
+[04:41:07] [Server thread/INFO]: WorldEdit: matt18990 (in "kevlar"): /set lava - Region: (-159.0, 62.0, 530.0) - (-156.0, 62.0, 532.0)
+[04:41:10] [Server thread/INFO]: matt18990 issued server command: /set quartz
+[04:41:10] [Server thread/INFO]: WorldEdit: matt18990 (in "kevlar"): /set quartz - Region: (-159.0, 62.0, 530.0) - (-156.0, 62.0, 532.0)
+[04:41:13] [Server thread/INFO]: matt18990 issued server command: /tp kev
+[04:42:00] [Netty IO #1/INFO]: <matt18990> kev
+[04:42:04] [Netty IO #1/INFO]: <matt18990> gotta go
+[04:42:08] [Netty IO #1/INFO]: <matt18990> ttyl
+[04:42:08] [Netty IO #7/INFO]: <&ogaylmao> sure thing
+[04:42:12] [Netty IO #7/INFO]: <&ogaylmao> have a good one
+[04:42:14] [Netty IO #1/INFO]: <matt18990> u should play survival w us :(
+[04:42:17] [Netty IO #1/INFO]: <matt18990> miss u br o
+[04:42:23] [Netty IO #7/INFO]: <&ogaylmao> miss you too
+[04:42:23] [Netty IO #1/INFO]: <matt18990> creative 179 sucks lmao
+[04:42:29] [Netty IO #7/INFO]: <&ogaylmao> hmu for csgo
+[04:42:31] [Netty IO #1/INFO]: <matt18990> play survival
+[04:42:35] [Netty IO #1/INFO]: <matt18990> oh fuck lmao i will
+[04:42:37] [Netty IO #7/INFO]: <&ogaylmao> we do 179 for plugin reasons kinda
+[04:42:46] [Netty IO #7/INFO]: <&ogaylmao> i really have been having a good time on csgo
+[04:42:54] [Netty IO #1/INFO]: <matt18990> fr? LOL
+[04:43:20] [Netty IO #7/INFO]: <&ogaylmao> i mean
+[04:43:22] [Netty IO #1/INFO]: <matt18990> i have so much cs to play once i got home
+[04:43:22] [Netty IO #7/INFO]: <&ogaylmao> not online
+[04:43:26] [Netty IO #7/INFO]: <&ogaylmao> only lobbies
+[04:43:29] [Netty IO #1/INFO]: <matt18990> wdym
+[04:43:30] [Netty IO #7/INFO]: <&ogaylmao> so im ass i guess
+[04:43:32] [Netty IO #1/INFO]: <matt18990> prol
+[04:43:36] [Netty IO #7/INFO]: <&ogaylmao> like wingman with my brothers
+[04:43:42] [Netty IO #1/INFO]: <matt18990> ohhh
+[04:43:51] [Netty IO #7/INFO]: <&ogaylmao> or we play copmpetitive but with like 20 bots on the other team
+[04:44:01] [Netty IO #1/INFO]: <matt18990> LOL
+[04:44:02] [Netty IO #7/INFO]: <&ogaylmao> so its not real cs i guess
+[04:44:03] [Netty IO #1/INFO]: <matt18990> im so down
+[04:44:19] [Netty IO #7/INFO]: <&ogaylmao> 20 bots on other team feels likea like left for dead
+[04:44:21] [Netty IO #7/INFO]: <&ogaylmao> super good time
+[04:44:33] [Netty IO #1/INFO]: <matt18990> dude i wana play l4d
+[04:44:41] [Netty IO #1/INFO]: <matt18990> now thats a good fuckin idea
+[04:45:00] [Netty IO #1/INFO]: <matt18990> aight gtg kev
+[04:45:03] [Netty IO #7/INFO]: <&ogaylmao> ok ttyl
+[04:45:06] [Netty IO #1/INFO]: <matt18990> talk to u later <3
+[04:45:07] [Netty IO #7/INFO]: <&ogaylmao> seriously hmy for cso
+[04:45:12] [Netty IO #1/INFO]: <matt18990> i will
+[04:45:12] [Netty IO #7/INFO]: <&ogaylmao> stop
+[04:45:15] [Server thread/INFO]: Kevlar issued server command: /stop
+[04:45:15] [Server thread/INFO]: Kevlar: Stopping the server..
+[04:45:15] [Server thread/INFO]: Stopping server
+[04:45:15] [Server thread/INFO]: [EssentialsProtect] Disabling EssentialsProtect v2.13.1
+[04:45:15] [Server thread/INFO]: [EssentialsChat] Disabling EssentialsChat v2.13.1
+[04:45:15] [Server thread/INFO]: [GroupManager] Disabling GroupManager v2.1.11 (Phoenix)
+[04:45:15] [Server thread/INFO]: WEPIF: GroupManager detected! Using GroupManager for permissions.
+[04:45:15] [Server thread/INFO]: GroupManager - INFO - Scheduled Data Saving is disabled!
+[04:45:15] [Server thread/INFO]: GroupManager version 2.1.11 (Phoenix) is disabled!
+[04:45:15] [Server thread/INFO]: [Speedcarts] Disabling Speedcarts v1.3.5
+[04:45:15] [Server thread/INFO]: Essentials: Using config file enhanced permissions.
+[04:45:15] [Server thread/INFO]: Permissions listed in as player-commands will be given to all users.
+[04:45:15] [Server thread/INFO]: [Speedcarts] Goodbye Speedcarts!
+[04:45:15] [Server thread/INFO]: [Essentials] Disabling Essentials v2.13.1
+[04:45:15] [Server thread/INFO]: [AntiCreeper] Disabling AntiCreeper v4.18.1
+[04:45:15] [Server thread/INFO]: [RunAs] Disabling RunAs v1.0.1
+[04:45:15] [Server thread/INFO]: [SignEdit] Disabling SignEdit v3.3.9
+[04:45:15] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v5.6.2
+[04:45:15] [Server thread/INFO]: Saving players
+[04:45:15] [Server thread/INFO]: Kevlar lost connection: Server closed
+[04:45:15] [Server thread/INFO]: Kevlar left the game.
+[04:45:15] [Server thread/INFO]: Saving worlds
+[04:45:15] [Server thread/INFO]: Saving chunks for level 'kevlar'/Overworld
+[04:45:16] [Server thread/INFO]: Saving chunks for level 'kevlar_nether'/Nether
+[04:45:16] [Server thread/INFO]: Saving chunks for level 'kevlar_the_end'/The End
+[04:45:16] [Thread-4/INFO]: Stopping server
+[04:45:16] [Thread-4/INFO]: Saving players
+[04:45:16] [Thread-4/INFO]: matt18990 lost connection: Server closed

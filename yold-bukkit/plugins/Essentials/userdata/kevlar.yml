@@ -1,23 +1,23 @@
 uuid: 04563d4c-6a5b-343e-81b6-8bc0e358b91d
 timestamps:
-  login: 1585152815453
-  lastteleport: 1585115505239
-  logout: 1585117208284
+  login: 1585283388144
+  lastteleport: 1585283794245
+  logout: 1585283349512
 ipAddress: 192.168.0.100
 lastlocation:
   world: kevlar
-  x: 72.5
-  y: 36.0
-  z: 564.5
-  yaw: -181.3058
-  pitch: 17.199099
+  x: -204.61406380654168
+  y: 51.0
+  z: 551.8023965086104
+  yaw: -2.0994873
+  pitch: 17.699997
 logoutlocation:
   world: kevlar
-  x: 294.5306639291926
-  y: 52.0
-  z: 589.8536307098403
-  yaw: -73.72751
-  pitch: 20.418768
+  x: 253.00738853545772
+  y: 131.3656401961362
+  z: 402.0603970574525
+  yaw: -5.8783264
+  pitch: 49.65001
 ban:
   reason: '§4Banned:
 
@@ -26,3 +26,4 @@ ban:
 afk: false
 godmode: false
 money: '0'
+nickname: gaylmao
