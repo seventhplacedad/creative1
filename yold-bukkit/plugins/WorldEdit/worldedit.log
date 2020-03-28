@@ -8377,3 +8377,36 @@
 [INFO] WorldEdit: s_mitty (in "kevlar"): /set grass - Region: (-278.0, 63.0, 625.0) - (-241.0, 63.0, 635.0)
 [INFO] WorldEdit: s_mitty (in "kevlar"): /set water - Region: (-249.0, 62.0, 630.0) - (-245.0, 63.0, 633.0)
 [INFO] WorldEdit: s_mitty (in "kevlar"): /set grass - Region: (-278.0, 63.0, 617.0) - (-275.0, 63.0, 621.0)
+[INFO] WorldEdit: korvallis (in "kevlar"): /set 0 - Region: (164.0, 63.0, 550.0) - (192.0, 78.0, 578.0)
+[INFO] WorldEdit: korvallis (in "kevlar"): restore - Region: (164.0, 63.0, 550.0) - (192.0, 78.0, 578.0)
+[INFO] WorldEdit: korvallis (in "kevlar"): /regen - Region: (164.0, 63.0, 550.0) - (192.0, 78.0, 578.0)
+[INFO] WorldEdit: korvallis (in "kevlar"): /set 0 - Region: (171.0, 63.0, 579.0) - (181.0, 63.0, 590.0)
+[INFO] WorldEdit: korvallis (in "kevlar"): /set 0 - Region: (189.0, 63.0, 578.0) - (199.0, 63.0, 594.0)
+[INFO] WorldEdit: korvallis (in "kevlar"): /set 0 - Region: (151.0, 63.0, 581.0) - (169.0, 63.0, 590.0)
+[INFO] WorldEdit: korvallis (in "kevlar"): /copy
+[INFO] WorldEdit: korvallis (in "kevlar"): /set 0 - Region: (167.0, 74.0, 583.0) - (169.0, 77.0, 591.0)
+[INFO] WorldEdit: korvallis (in "kevlar"): /paste - Position: (167.0, 80.0, 591.0)
+[INFO] WorldEdit: korvallis (in "kevlar"): /undo
+[INFO] WorldEdit: korvallis (in "kevlar"): /paste - Position: (167.0, 79.0, 591.0)
+[INFO] WorldEdit: korvallis (in "kevlar"): /copy
+[INFO] WorldEdit: korvallis (in "kevlar"): /paste - Position: (180.0, 78.0, 575.0)
+[INFO] WorldEdit: korvallis (in "kevlar"): /paste - Position: (180.0, 78.0, 577.0)
+[INFO] WorldEdit: korvallis (in "kevlar"): /paste - Position: (180.0, 78.0, 579.0)
+[INFO] WorldEdit: korvallis (in "kevlar"): /copy
+[INFO] WorldEdit: korvallis (in "kevlar"): /paste - Position: (180.0, 78.0, 581.0)
+[INFO] WorldEdit: korvallis (in "kevlar"): /paste - Position: (180.0, 78.0, 587.0)
+[INFO] WorldEdit: korvallis (in "kevlar"): /paste - Position: (180.0, 78.0, 593.0)
+[INFO] WorldEdit: korvallis (in "kevlar"): /set acacia - Region: (170.0, 79.0, 575.0) - (177.0, 79.0, 591.0)
+[INFO] WorldEdit: korvallis (in "kevlar"): /set stonebrick - Region: (170.0, 77.0, 575.0) - (177.0, 77.0, 599.0)
+[INFO] WorldEdit: korvallis (in "kevlar"): /copy
+[INFO] WorldEdit: korvallis (in "kevlar"): /copy
+[INFO] WorldEdit: korvallis (in "kevlar"): /paste - Position: (169.0, 80.0, 591.0)
+[INFO] WorldEdit: korvallis (in "kevlar"): /paste - Position: (169.0, 80.0, 599.0)
+[INFO] WorldEdit: korvallis (in "kevlar"): /set acacia - Region: (170.0, 79.0, 591.0) - (177.0, 79.0, 599.0)
+[INFO] WorldEdit: korvallis (in "kevlar"): /copy
+[INFO] WorldEdit: korvallis (in "kevlar"): /copy
+[INFO] WorldEdit: korvallis (in "kevlar"): /paste - Position: (210.0, 63.0, 571.0)
+[INFO] WorldEdit: korvallis (in "kevlar"): /undo
+[INFO] WorldEdit: korvallis (in "kevlar"): /paste - Position: (210.0, 80.0, 571.0)
+[INFO] WorldEdit: korvallis (in "kevlar"): /undo
+[INFO] WorldEdit: korvallis (in "kevlar"): /paste - Position: (202.0, 80.0, 571.0)
