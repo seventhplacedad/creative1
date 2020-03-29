@@ -1,0 +1,14 @@
+[18:09:16] [Server thread/INFO]: s_mitty[/127.0.0.1:54954] logged in with entity id 1978 at ([kevlar] -146.2558936402467, 145.39183298659293, 634.0876896498809)
+[18:09:40] [Server thread/INFO]: s_mitty lost connection: Disconnected
+[18:09:40] [Server thread/INFO]: s_mitty left the game.
+[18:14:18] [pool-5-thread-1/INFO]: GroupManager - INFO -  Data files refreshed.
+[18:33:08] [Server thread/INFO]: Kevlar[/192.168.0.100:53538] logged in with entity id 3532 at ([kevlar] 294.5306639291926, 52.0, 589.8536307098403)
+[18:33:17] [Server thread/INFO]: Kevlar issued server command: /warp citycenter
+[18:33:32] [Server thread/INFO]: Kevlar issued server command: /
+[18:33:32] [Server thread/INFO]: [WorldEdit] Using external NmsBlock for this version: CBXNmsBlock_175_5xcompat
+[18:33:32] [Server thread/INFO]: WorldEdit: Kevlar (in "kevlar"): /
+[18:33:34] [Server thread/INFO]: Kevlar issued server command: /j
+[18:33:34] [Server thread/INFO]: WorldEdit: Kevlar (in "kevlar"): jumpto
+[18:33:54] [Server thread/INFO]: Kevlar lost connection: Disconnected
+[18:33:54] [Server thread/INFO]: Kevlar left the game.
+[18:34:02] [Thread-4/INFO]: Stopping server
