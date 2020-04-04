@@ -1,14 +1,10 @@
-[18:09:16] [Server thread/INFO]: s_mitty[/127.0.0.1:54954] logged in with entity id 1978 at ([kevlar] -146.2558936402467, 145.39183298659293, 634.0876896498809)
-[18:09:40] [Server thread/INFO]: s_mitty lost connection: Disconnected
-[18:09:40] [Server thread/INFO]: s_mitty left the game.
-[18:14:18] [pool-5-thread-1/INFO]: GroupManager - INFO -  Data files refreshed.
-[18:33:08] [Server thread/INFO]: Kevlar[/192.168.0.100:53538] logged in with entity id 3532 at ([kevlar] 294.5306639291926, 52.0, 589.8536307098403)
-[18:33:17] [Server thread/INFO]: Kevlar issued server command: /warp citycenter
-[18:33:32] [Server thread/INFO]: Kevlar issued server command: /
-[18:33:32] [Server thread/INFO]: [WorldEdit] Using external NmsBlock for this version: CBXNmsBlock_175_5xcompat
-[18:33:32] [Server thread/INFO]: WorldEdit: Kevlar (in "kevlar"): /
-[18:33:34] [Server thread/INFO]: Kevlar issued server command: /j
-[18:33:34] [Server thread/INFO]: WorldEdit: Kevlar (in "kevlar"): jumpto
-[18:33:54] [Server thread/INFO]: Kevlar lost connection: Disconnected
-[18:33:54] [Server thread/INFO]: Kevlar left the game.
-[18:34:02] [Thread-4/INFO]: Stopping server
+[03:03:14] [Server thread/INFO]: s_mitty[/127.0.0.1:34714] logged in with entity id 894688 at ([kevlar] -222.06259024341912, 150.4525935557454, 226.93249378308025)
+[03:04:21] [Server thread/INFO]: CommandBlock at -68,65,322 issued server command: /warp dropper s_mitty
+[03:04:27] [Server thread/INFO]: @: Set s_mitty's spawnpoint to -70.5315934964991, 250.0, 322.68147909311796
+[03:04:29] [Server thread/INFO]: CommandBlock at -71,251,327 issued server command: /gamemode survival s_mitty
+[03:06:06] [Server thread/INFO]: s_mitty issued server command: /gamemode creative
+[03:06:13] [Server thread/INFO]: s_mitty issued server command: /time set day
+[03:15:26] [Server thread/INFO]: s_mitty issued server command: /warp airport
+[03:21:47] [Server thread/INFO]: s_mitty lost connection: Disconnected
+[03:21:47] [Server thread/INFO]: s_mitty left the game.
+[16:49:11] [Thread-4/INFO]: Stopping server
