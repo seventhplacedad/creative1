@@ -1,10 +1,78 @@
-[03:03:14] [Server thread/INFO]: s_mitty[/127.0.0.1:34714] logged in with entity id 894688 at ([kevlar] -222.06259024341912, 150.4525935557454, 226.93249378308025)
-[03:04:21] [Server thread/INFO]: CommandBlock at -68,65,322 issued server command: /warp dropper s_mitty
-[03:04:27] [Server thread/INFO]: @: Set s_mitty's spawnpoint to -70.5315934964991, 250.0, 322.68147909311796
-[03:04:29] [Server thread/INFO]: CommandBlock at -71,251,327 issued server command: /gamemode survival s_mitty
-[03:06:06] [Server thread/INFO]: s_mitty issued server command: /gamemode creative
-[03:06:13] [Server thread/INFO]: s_mitty issued server command: /time set day
-[03:15:26] [Server thread/INFO]: s_mitty issued server command: /warp airport
-[03:21:47] [Server thread/INFO]: s_mitty lost connection: Disconnected
-[03:21:47] [Server thread/INFO]: s_mitty left the game.
-[16:49:11] [Thread-4/INFO]: Stopping server
+[00:44:11] [Server thread/INFO]: s_mitty[/127.0.0.1:44614] logged in with entity id 386342 at ([kevlar] -154.12235027975206, 64.52936759557846, 526.582792747271)
+[00:49:04] [Server thread/INFO]: s_mitty issued server command: /set 35:15
+[00:49:04] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /set 35:15 - Region: (-169.0, 62.0, 523.0) - (-156.0, 62.0, 529.0)
+[00:49:33] [Server thread/INFO]: s_mitty issued server command: /set quartz
+[00:49:33] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /set quartz - Region: (-169.0, 62.0, 523.0) - (-137.0, 62.0, 523.0)
+[00:49:44] [Server thread/INFO]: s_mitty issued server command: /set 35:15
+[00:49:44] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /set 35:15 - Region: (-158.0, 62.0, 524.0) - (-137.0, 62.0, 529.0)
+[00:52:26] [Server thread/INFO]: s_mitty issued server command: /set air
+[00:52:26] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /set air - Region: (-170.0, 62.0, 524.0) - (-137.0, 62.0, 529.0)
+[00:52:38] [Server thread/INFO]: s_mitty issued server command: /set 35:15
+[00:52:38] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /set 35:15 - Region: (-170.0, 61.0, 524.0) - (-137.0, 61.0, 529.0)
+[00:59:36] [Server thread/INFO]: s_mitty issued server command: /kilall mobs
+[00:59:49] [Server thread/INFO]: s_mitty issued server command: /killall mobs
+[01:01:26] [Server thread/INFO]: s_mitty issued server command: /set 95:7
+[01:01:26] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /set 95:7 - Region: (-157.0, 62.0, 524.0) - (-137.0, 62.0, 529.0)
+[01:15:07] [Server thread/INFO]: s_mitty issued server command: /set grass
+[01:15:07] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /set grass - Region: (-181.0, 69.0, 536.0) - (-175.0, 70.0, 550.0)
+[01:16:09] [Server thread/INFO]: s_mitty issued server command: /replace air water
+[01:16:09] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /replace air water - Region: (-180.0, 71.0, 537.0) - (-175.0, 71.0, 549.0)
+[01:16:28] [Server thread/INFO]: s_mitty issued server command: /time set day
+[01:17:37] [Server thread/INFO]: s_mitty issued server command: /set grass
+[01:17:37] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /set grass - Region: (-192.0, 69.0, 565.0) - (-187.0, 69.0, 578.0)
+[01:19:42] [Server thread/INFO]: s_mitty issued server command: /set grass
+[01:19:42] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /set grass - Region: (-191.0, 71.0, 536.0) - (-180.0, 71.0, 549.0)
+[01:22:01] [Server thread/INFO]: s_mitty issued server command: /set slab
+[01:22:01] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /set slab - Region: (-191.0, 78.0, 523.0) - (-183.0, 78.0, 530.0)
+[01:24:45] [Server thread/INFO]: s_mitty issued server command: /set water
+[01:24:45] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /set water - Region: (-181.0, 71.0, 538.0) - (-176.0, 71.0, 545.0)
+[01:29:49] [Server thread/INFO]: s_mitty issued server command: /set air
+[01:29:49] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /set air - Region: (-168.0, 63.0, 507.0) - (-164.0, 68.0, 516.0)
+[01:30:17] [Server thread/INFO]: s_mitty issued server command: /set quartz
+[01:30:17] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /set quartz - Region: (-166.0, 62.0, 507.0) - (-164.0, 62.0, 516.0)
+[01:30:27] [Server thread/INFO]: s_mitty issued server command: /set quartz
+[01:30:27] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /set quartz - Region: (-163.0, 63.0, 508.0) - (-163.0, 68.0, 516.0)
+[01:30:46] [Server thread/INFO]: s_mitty issued server command: /set quartz
+[01:30:46] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /set quartz - Region: (-167.0, 63.0, 506.0) - (-164.0, 68.0, 506.0)
+[01:36:19] [Server thread/INFO]: s_mitty issued server command: /cut
+[01:36:19] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /cut - Region: (-181.0, 63.0, 505.0) - (-169.0, 64.0, 512.0)
+[01:36:23] [Server thread/INFO]: s_mitty issued server command: /paste
+[01:36:23] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /paste - Position: (-170.0, 63.0, 513.0)
+[02:01:03] [Server thread/INFO]: s_mitty issued server command: /set water
+[02:01:03] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /set water - Region: (429.0, 68.0, 534.0) - (435.0, 71.0, 536.0)
+[02:01:16] [Server thread/INFO]: s_mitty issued server command: /set water
+[02:01:16] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /set water - Region: (424.0, 67.0, 546.0) - (435.0, 67.0, 547.0)
+[02:01:23] [Server thread/INFO]: s_mitty issued server command: /set water
+[02:01:23] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /set water - Region: (424.0, 67.0, 538.0) - (436.0, 69.0, 547.0)
+[02:01:35] [Server thread/INFO]: s_mitty issued server command: /undo
+[02:01:35] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /undo
+[02:02:03] [Server thread/INFO]: s_mitty issued server command: /set air
+[02:02:03] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /set air - Region: (424.0, 67.0, 538.0) - (436.0, 69.0, 547.0)
+[02:03:21] [Server thread/INFO]: s_mitty issued server command: /set grass
+[02:03:21] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /set grass - Region: (424.0, 67.0, 536.0) - (435.0, 68.0, 547.0)
+[02:29:28] [Server thread/INFO]: s_mitty issued server command: /time set day
+[02:29:48] [Server thread/INFO]: s_mitty issued server command: /weather clear
+[02:31:24] [Server thread/INFO]: CommandBlock at -43,72,689 issued server command: /warp dildo s_mitty
+[02:41:22] [Server thread/INFO]: s_mitty issued server command: /time set day
+[02:41:57] [Server thread/INFO]: s_mitty issued server command: /naturalize
+[02:41:57] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /naturalize - Region: (-92.0, 67.0, 875.0) - (-41.0, 68.0, 912.0)
+[02:42:07] [Server thread/INFO]: s_mitty issued server command: //regen
+[02:42:07] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /regen - Region: (-92.0, 67.0, 875.0) - (-41.0, 68.0, 912.0)
+[02:42:10] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2472ms behind, skipping 49 tick(s)
+[02:42:18] [Server thread/INFO]: s_mitty issued server command: /undo
+[02:42:18] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /undo
+[02:42:32] [Server thread/INFO]: s_mitty issued server command: /undo
+[02:42:32] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /undo
+[02:42:38] [Server thread/INFO]: s_mitty issued server command: /redo
+[02:42:38] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /redo
+[02:42:49] [Server thread/INFO]: s_mitty issued server command: /cleartrees
+[02:42:57] [Server thread/INFO]: s_mitty issued server command: /clear
+[02:43:07] [Server thread/INFO]: s_mitty issued server command: /cut tree
+[02:43:07] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /cut tree - Region: (-92.0, 67.0, 875.0) - (-41.0, 68.0, 912.0)
+[02:43:16] [Server thread/INFO]: s_mitty issued server command: /undo
+[02:43:16] [Server thread/INFO]: WorldEdit: s_mitty (in "kevlar"): /undo
+[02:52:20] [Server thread/INFO]: s_mitty issued server command: /time set day
+[03:02:39] [Server thread/INFO]: s_mitty issued server command: /time set day\
+[03:09:25] [Server thread/INFO]: s_mitty issued server command: /time set night
+[03:10:58] [Server thread/INFO]: s_mitty lost connection: Disconnected
+[03:10:58] [Server thread/INFO]: s_mitty left the game.
