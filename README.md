@@ -1,3 +1,3 @@
 # OUTDATED
 
-use current server github.com/sevethplacedad/creative2
+use current server https://github.com/sevethplacedad/creative2
