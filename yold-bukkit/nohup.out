@@ -15248,3 +15248,36 @@ java.io.IOException: Bad file descriptor
 [03:09:25 INFO]: s_mitty issued server command: /time set night
 [03:10:58 INFO]: s_mitty lost connection: Disconnected
 [03:10:58 INFO]: s_mitty left the game.
+Loading libraries, please wait...
+Warning: remote port forwarding failed for listen port 5000
+[16:40:36 INFO]: Starting minecraft server version 1.7.9
+[16:40:36 INFO]: Loading properties
+[16:40:36 ERROR]: Exception handling console input
+java.io.IOException: Bad file descriptor
+	at java.io.FileInputStream.readBytes(Native Method) ~[?:1.8.0_242]
+	at java.io.FileInputStream.read(FileInputStream.java:255) ~[?:1.8.0_242]
+	at java.io.BufferedInputStream.fill(BufferedInputStream.java:246) ~[?:1.8.0_242]
+	at java.io.BufferedInputStream.read(BufferedInputStream.java:265) ~[?:1.8.0_242]
+	at java.io.FilterInputStream.read(FilterInputStream.java:83) ~[?:1.8.0_242]
+	at org.bukkit.craftbukkit.libs.jline.console.ConsoleReader$1.read(ConsoleReader.java:167) ~[craftbukkit.jar:git-Bukkit-1.7.9-R0.1-10-g8688bd4-b3092jnks]
+	at org.bukkit.craftbukkit.libs.jline.internal.InputStreamReader.read(InputStreamReader.java:267) ~[craftbukkit.jar:git-Bukkit-1.7.9-R0.1-10-g8688bd4-b3092jnks]
+	at org.bukkit.craftbukkit.libs.jline.internal.InputStreamReader.read(InputStreamReader.java:204) ~[craftbukkit.jar:git-Bukkit-1.7.9-R0.1-10-g8688bd4-b3092jnks]
+	at org.bukkit.craftbukkit.libs.jline.console.ConsoleReader.readCharacter(ConsoleReader.java:995) ~[craftbukkit.jar:git-Bukkit-1.7.9-R0.1-10-g8688bd4-b3092jnks]
+	at org.bukkit.craftbukkit.libs.jline.console.ConsoleReader.readLineSimple(ConsoleReader.java:1506) ~[craftbukkit.jar:git-Bukkit-1.7.9-R0.1-10-g8688bd4-b3092jnks]
+	at org.bukkit.craftbukkit.libs.jline.console.ConsoleReader.readLine(ConsoleReader.java:1153) ~[craftbukkit.jar:git-Bukkit-1.7.9-R0.1-10-g8688bd4-b3092jnks]
+	at org.bukkit.craftbukkit.libs.jline.console.ConsoleReader.readLine(ConsoleReader.java:1117) ~[craftbukkit.jar:git-Bukkit-1.7.9-R0.1-10-g8688bd4-b3092jnks]
+	at org.bukkit.craftbukkit.libs.jline.console.ConsoleReader.readLine(ConsoleReader.java:1105) ~[craftbukkit.jar:git-Bukkit-1.7.9-R0.1-10-g8688bd4-b3092jnks]
+	at net.minecraft.server.v1_7_R3.ThreadCommandReader.run(ThreadCommandReader.java:34) [craftbukkit.jar:git-Bukkit-1.7.9-R0.1-10-g8688bd4-b3092jnks]
+[16:40:36 INFO]: Default game type: CREATIVE
+[16:40:36 INFO]: Generating keypair
+[16:40:36 INFO]: Starting Minecraft server on *:5000
+[16:40:36 WARN]: **** FAILED TO BIND TO PORT!
+[16:40:36 WARN]: The exception was: java.net.BindException: Address already in use
+[16:40:36 WARN]: Perhaps a server is already running on that port?
+[16:47:58 INFO]: Stopping server
+[16:47:58 INFO]: GroupManager version 2.1.11 (Phoenix) is disabled!
+[16:47:58 INFO]: Saving players
+[16:47:58 INFO]: Saving worlds
+[16:47:58 INFO]: Saving chunks for level 'kevlar'/Overworld
+[16:47:58 INFO]: Saving chunks for level 'kevlar_nether'/Nether
+[16:47:58 INFO]: Saving chunks for level 'kevlar_the_end'/The End
